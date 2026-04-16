@@ -1,0 +1,24 @@
+cacheUrl: https://basicsix.github.io/multirss/cache.json
+cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
+siteConfig:
+  title: "RSS-情报矩阵 | 视频"
+  description: "视觉：创意素材与导演灵感"
+cacheConfig:
+  expireInDays: 7
+sources:  # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
+  - href: https://basicsix-my-rsshub-hq.hf.space/bilibili/user/video/1358758877
+    title: "[视频] 程序员哈利 (B站)"
+  - href: https://basicsix-my-rsshub-hq.hf.space/bilibili/user/video/3031494
+    title: "[视频] 刘悦的技术博客 (B站)"
+  - href: https://basicsix-my-rsshub-hq.hf.space/bilibili/user/video/1954415159
+    title: "[视频] TED官方 (B站)"
+  - href: https://basicsix-my-rsshub-hq.hf.space/bilibili/user/video/488141422
+    title: "[视频] TED英语官方 (B站)"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvijahEyGtvMpmMHBu4FS2w
+    title: "[视频] 零度解说 (YT)"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCo2eY8Nk3lPOh6sef1sQx_Q
+    title: "[视频] 七七行銷筆記 (YT)"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCefuY8ao6vYFRqbTNcuj3aA
+    title: "[视频] 科技梦星云 (YT)"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCo0LN_BATQbaz8GfazzScvA
+    title: "[视频] 小琳解说 (YT)"

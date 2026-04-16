@@ -1,0 +1,21 @@
+cacheUrl: https://basicsix.github.io/multirss/cache.json
+siteConfig:
+  title: "RSS-情报矩阵 | 资讯"
+  description: "深度阅读与技术前沿"
+cacheConfig:
+  expireInDays: 7
+sources:
+  - href: http://feeds.feedburner.com/ruanyifeng
+    title: "[资讯] 阮一峰的网络日志"
+  - href: https://basicsix-my-rsshub-hq.hf.space/zaobao/realtime/world
+    title: "[资讯] 联合早报-国际"
+  - href: https://ducorn.com/feed.xml
+    title: "[资讯] 讀角獸"
+  - href: https://basicsix-my-rsshub-hq.hf.space/github/trending/daily/any
+    title: "[开发] GitHub 今日趋势"
+  - href: https://basicsix-my-rsshub-hq.hf.space/1x
+    title: "[视觉] 1x.com 摄影精选"
+  - href: https://haikuoshijie.cn/rss.xml
+    title: "[生活] 小棉袄的百味人生"
+  - href: https://basicsix-my-rsshub-hq.hf.space/telegram/channel/wxbyg
+    title: "[记录] 微信搬运工 (TG)"

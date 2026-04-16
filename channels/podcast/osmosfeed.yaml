@@ -1,0 +1,19 @@
+cacheUrl: https://basicsix.github.io/multirss/cache.json
+siteConfig:
+  title: "RSS-情报矩阵 | 播客"
+  description: "听觉：播客与深度对话"
+cacheConfig:
+  expireInDays: 7
+sources:
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e74b52c418a84a046ecaceb
+    title: "[播客] 科技早知道"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62694abdb221dd5908417d1e
+    title: "[播客] 纵横四海"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/61358d971c5d56efe5bcb5d2
+    title: "[播客] 乱翻书"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/640ee2438be5d40013fe4a87
+    title: "[播客] 硬地骇客"
+  - href: https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62382c1103bea1ebfffa1c00
+    title: "[播客] 半拿铁"
+  - href: https://feeds.acast.com/public/shows/67587e77c705e441797aff96
+    title: "[播客] TED Talks Daily"
