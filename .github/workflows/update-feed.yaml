@@ -1,45 +1,28 @@
-name: Build site on main branch update
+name: Build site on scheulde or main branch update
 
 on:
   push:
     branches:
       - main
-  # 允许手动触发，方便调试
-  workflow_dispatch: 
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 升级到 v4，速度更快更稳定
-      - uses: actions/checkout@v4 
-
+      - uses: actions/checkout@v2
       - name: Setup Node.js environment
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v2.1.4
         with:
-          node-version: "20" # 建议使用目前的 LTS 版本
-          cache: 'npm'      # 开启缓存，加速后续构建
-
+          node-version: "16"
       - name: Install dependencies
         run: npm i
-
-      - name: Build channels
-        # 这将触发你根目录 package.json 中定义的 build 脚本
+      - name: Build examples
         run: npm run build
-
       - name: Copy output
-        # 触发 copy.mjs，将各频道产物汇总到 dist 目录
         run: npm run copy
-
       - name: Deploy
-        # 升级部署脚本到 v4
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          branch: gh-pages
-          folder: dist
-          # 部署前不删除 gh-pages 分支的旧文件，如果你想保留 cache.json 请开启
-          clean: false
+          branch: gh-pages # The branch the action should deploy to.
+          folder: dist # The folder the action should deploy.
