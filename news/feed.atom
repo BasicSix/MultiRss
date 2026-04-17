@@ -2,198 +2,422 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T13:26:57.535Z</updated>
+    <updated>2026-04-17T19:06:50.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Romance]]></title>
-        <id>1x-3548206</id>
-        <link href="https://1x.com/photo/3548206"/>
-        <updated>2026-04-17T13:26:48.228Z</updated>
-        <summary type="html"><![CDATA[Romance by Carola Kayen-Mouthaan]]></summary>
+        <title type="html"><![CDATA[What I`m looking at]]></title>
+        <id>1x-3547086</id>
+        <link href="https://1x.com/photo/3547086"/>
+        <updated>2026-04-17T19:06:45.948Z</updated>
+        <summary type="html"><![CDATA[What I`m looking at by Wanjae Choi]]></summary>
         <author>
-            <name>Carola Kayen-Mouthaan</name>
+            <name>Wanjae Choi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the hanger 7R55505]]></title>
-        <id>1x-3548158</id>
-        <link href="https://1x.com/photo/3548158"/>
-        <updated>2026-04-17T13:26:48.064Z</updated>
-        <summary type="html"><![CDATA[On the hanger 7R55505 by joanaduenas]]></summary>
+        <title type="html"><![CDATA[Life]]></title>
+        <id>1x-3546729</id>
+        <link href="https://1x.com/photo/3546729"/>
+        <updated>2026-04-17T19:06:45.942Z</updated>
+        <summary type="html"><![CDATA[Life by Jürgen Wöhrle]]></summary>
         <author>
-            <name>joanaduenas</name>
+            <name>Jürgen Wöhrle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Punta Baja - Cabo de Gata]]></title>
-        <id>1x-3548112</id>
-        <link href="https://1x.com/photo/3548112"/>
-        <updated>2026-04-17T13:26:48.060Z</updated>
-        <summary type="html"><![CDATA[Punta Baja - Cabo de Gata by Manuel Jose Guillen Abad]]></summary>
+        <title type="html"><![CDATA[Brambling quarrel]]></title>
+        <id>1x-3548150</id>
+        <link href="https://1x.com/photo/3548150"/>
+        <updated>2026-04-17T19:06:45.937Z</updated>
+        <summary type="html"><![CDATA[Brambling quarrel by Tore Johansson]]></summary>
         <author>
-            <name>Manuel Jose Guillen Abad</name>
+            <name>Tore Johansson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Girls Girls.]]></title>
-        <id>1x-3548135</id>
-        <link href="https://1x.com/photo/3548135"/>
-        <updated>2026-04-17T13:26:48.053Z</updated>
-        <summary type="html"><![CDATA[Girls Girls. by Daniel Springgay]]></summary>
+        <title type="html"><![CDATA[Living in a box]]></title>
+        <id>1x-3548153</id>
+        <link href="https://1x.com/photo/3548153"/>
+        <updated>2026-04-17T19:06:45.933Z</updated>
+        <summary type="html"><![CDATA[Living in a box by Karin Kilb]]></summary>
         <author>
-            <name>Daniel Springgay</name>
+            <name>Karin Kilb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The arrival of spring.]]></title>
-        <id>1x-3546560</id>
-        <link href="https://1x.com/photo/3546560"/>
-        <updated>2026-04-17T13:26:48.048Z</updated>
-        <summary type="html"><![CDATA[The arrival of spring. by Tetsuya Ueda]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3526386</id>
+        <link href="https://1x.com/photo/3526386"/>
+        <updated>2026-04-17T19:06:45.924Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
         <author>
-            <name>Tetsuya Ueda</name>
+            <name>Dan Gdalevitz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring Sonata, the Palouse]]></title>
-        <id>1x-3547752</id>
-        <link href="https://1x.com/photo/3547752"/>
-        <updated>2026-04-17T13:26:48.040Z</updated>
-        <summary type="html"><![CDATA[Spring Sonata, the Palouse by Liping Wang]]></summary>
+        <title type="html"><![CDATA[Flamingos]]></title>
+        <id>1x-3545015</id>
+        <link href="https://1x.com/photo/3545015"/>
+        <updated>2026-04-17T19:06:45.921Z</updated>
+        <summary type="html"><![CDATA[Flamingos by Cong Lin]]></summary>
         <author>
-            <name>Liping Wang</name>
+            <name>Cong Lin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guitar]]></title>
-        <id>1x-3548188</id>
-        <link href="https://1x.com/photo/3548188"/>
-        <updated>2026-04-17T13:26:47.989Z</updated>
-        <summary type="html"><![CDATA[Guitar by Teodora Codreanu]]></summary>
+        <title type="html"><![CDATA[Valencia Compact]]></title>
+        <id>1x-3545720</id>
+        <link href="https://1x.com/photo/3545720"/>
+        <updated>2026-04-17T19:06:45.916Z</updated>
+        <summary type="html"><![CDATA[Valencia Compact by Hans-Wolfgang Hawerkamp]]></summary>
         <author>
-            <name>Teodora Codreanu</name>
+            <name>Hans-Wolfgang Hawerkamp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freedom in the Ordinary I]]></title>
-        <id>1x-3547941</id>
-        <link href="https://1x.com/photo/3547941"/>
-        <updated>2026-04-17T13:26:47.983Z</updated>
-        <summary type="html"><![CDATA[Freedom in the Ordinary I by Barbora]]></summary>
+        <title type="html"><![CDATA[Gone With The Ice Shards]]></title>
+        <id>1x-3547711</id>
+        <link href="https://1x.com/photo/3547711"/>
+        <updated>2026-04-17T19:06:45.911Z</updated>
+        <summary type="html"><![CDATA[Gone With The Ice Shards by Ben.C.L]]></summary>
         <author>
-            <name>Barbora</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Black-winged Stilt (Himantopus himantopus)]]></title>
-        <id>1x-3547355</id>
-        <link href="https://1x.com/photo/3547355"/>
-        <updated>2026-04-17T13:26:47.976Z</updated>
-        <summary type="html"><![CDATA[The Black-winged Stilt (Himantopus himantopus) by Selim Kaya]]></summary>
+        <title type="html"><![CDATA[Research run]]></title>
+        <id>1x-3548155</id>
+        <link href="https://1x.com/photo/3548155"/>
+        <updated>2026-04-17T19:06:45.903Z</updated>
+        <summary type="html"><![CDATA[Research run by Ruzhdi Ibrahimi]]></summary>
         <author>
-            <name>Selim Kaya</name>
+            <name>Ruzhdi Ibrahimi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yellow hammer]]></title>
-        <id>1x-3548127</id>
-        <link href="https://1x.com/photo/3548127"/>
-        <updated>2026-04-17T13:26:47.970Z</updated>
-        <summary type="html"><![CDATA[Yellow hammer by Michel Romaggi]]></summary>
+        <title type="html"><![CDATA[一瞬の狩人]]></title>
+        <id>1x-3537206</id>
+        <link href="https://1x.com/photo/3537206"/>
+        <updated>2026-04-17T19:06:45.891Z</updated>
+        <summary type="html"><![CDATA[一瞬の狩人 by Tsuboya Seiichi]]></summary>
         <author>
-            <name>Michel Romaggi</name>
+            <name>Tsuboya Seiichi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noble and elegance - Tanya]]></title>
-        <id>1x-3548177</id>
-        <link href="https://1x.com/photo/3548177"/>
-        <updated>2026-04-17T13:26:47.963Z</updated>
-        <summary type="html"><![CDATA[Noble and elegance - Tanya by Songlin Xu]]></summary>
+        <title type="html"><![CDATA[A Quiet Glance]]></title>
+        <id>1x-3546515</id>
+        <link href="https://1x.com/photo/3546515"/>
+        <updated>2026-04-17T19:06:45.883Z</updated>
+        <summary type="html"><![CDATA[A Quiet Glance by Jacob (Jian) Xu]]></summary>
         <author>
-            <name>Songlin Xu</name>
+            <name>Jacob (Jian) Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At sunset 1]]></title>
-        <id>1x-3547890</id>
-        <link href="https://1x.com/photo/3547890"/>
-        <updated>2026-04-17T13:26:47.913Z</updated>
-        <summary type="html"><![CDATA[At sunset 1 by Xiao Xiao]]></summary>
+        <title type="html"><![CDATA[Sydney]]></title>
+        <id>1x-3548397</id>
+        <link href="https://1x.com/photo/3548397"/>
+        <updated>2026-04-17T19:06:45.873Z</updated>
+        <summary type="html"><![CDATA[Sydney by Gundo Brauch]]></summary>
         <author>
-            <name>Xiao Xiao</name>
+            <name>Gundo Brauch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One summer day...]]></title>
-        <id>1x-3546849</id>
-        <link href="https://1x.com/photo/3546849"/>
-        <updated>2026-04-17T13:26:47.807Z</updated>
-        <summary type="html"><![CDATA[One summer day... by Tetsuya Ueda]]></summary>
+        <title type="html"><![CDATA[***]]></title>
+        <id>1x-3548167</id>
+        <link href="https://1x.com/photo/3548167"/>
+        <updated>2026-04-17T19:06:45.860Z</updated>
+        <summary type="html"><![CDATA[*** by Eleonora Fridman]]></summary>
         <author>
-            <name>Tetsuya Ueda</name>
+            <name>Eleonora Fridman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brighton Pier]]></title>
-        <id>1x-3546975</id>
-        <link href="https://1x.com/photo/3546975"/>
-        <updated>2026-04-17T13:26:47.803Z</updated>
-        <summary type="html"><![CDATA[Brighton Pier by Martin Splitt]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3548377</id>
+        <link href="https://1x.com/photo/3548377"/>
+        <updated>2026-04-17T19:06:45.851Z</updated>
+        <summary type="html"><![CDATA[Untitled by KIMIO KOBAYASHI]]></summary>
         <author>
-            <name>Martin Splitt</name>
+            <name>KIMIO KOBAYASHI</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superb Starling]]></title>
-        <id>1x-3548210</id>
-        <link href="https://1x.com/photo/3548210"/>
-        <updated>2026-04-17T13:26:47.799Z</updated>
-        <summary type="html"><![CDATA[Superb Starling by Adventure Photo]]></summary>
+        <title type="html"><![CDATA[Suurrel]]></title>
+        <id>1x-3546529</id>
+        <link href="https://1x.com/photo/3546529"/>
+        <updated>2026-04-17T19:06:45.841Z</updated>
+        <summary type="html"><![CDATA[Suurrel by Leeli Higgins]]></summary>
         <author>
-            <name>Adventure Photo</name>
+            <name>Leeli Higgins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azadi Tower]]></title>
-        <id>1x-3547405</id>
-        <link href="https://1x.com/photo/3547405"/>
-        <updated>2026-04-17T13:26:47.785Z</updated>
-        <summary type="html"><![CDATA[Azadi Tower by Eileen Yan]]></summary>
+        <title type="html"><![CDATA[Golden Eagle]]></title>
+        <id>1x-3536356</id>
+        <link href="https://1x.com/photo/3536356"/>
+        <updated>2026-04-17T19:06:45.831Z</updated>
+        <summary type="html"><![CDATA[Golden Eagle by Erik Engström]]></summary>
         <author>
-            <name>Eileen Yan</name>
+            <name>Erik Engström</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curlew Sandpiper (Calidris ferruginea)]]></title>
-        <id>1x-3545448</id>
-        <link href="https://1x.com/photo/3545448"/>
-        <updated>2026-04-17T13:26:47.777Z</updated>
-        <summary type="html"><![CDATA[Curlew Sandpiper  (Calidris ferruginea) by Selim Kaya]]></summary>
+        <title type="html"><![CDATA[Red Billed Leothrix]]></title>
+        <id>1x-3548375</id>
+        <link href="https://1x.com/photo/3548375"/>
+        <updated>2026-04-17T19:06:45.820Z</updated>
+        <summary type="html"><![CDATA[Red Billed Leothrix by Rahul Wedpathak]]></summary>
         <author>
-            <name>Selim Kaya</name>
+            <name>Rahul Wedpathak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perched Pike]]></title>
-        <id>1x-3544113</id>
-        <link href="https://1x.com/photo/3544113"/>
-        <updated>2026-04-17T13:26:47.766Z</updated>
-        <summary type="html"><![CDATA[Perched Pike by Martin Splitt]]></summary>
+        <title type="html"><![CDATA[In Search of Flowers]]></title>
+        <id>1x-3532233</id>
+        <link href="https://1x.com/photo/3532233"/>
+        <updated>2026-04-17T19:06:45.654Z</updated>
+        <summary type="html"><![CDATA[In Search of Flowers by Takahiro Sano]]></summary>
         <author>
-            <name>Martin Splitt</name>
+            <name>Takahiro Sano</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magic moment]]></title>
-        <id>1x-3546807</id>
-        <link href="https://1x.com/photo/3546807"/>
-        <updated>2026-04-17T13:26:47.741Z</updated>
-        <summary type="html"><![CDATA[Magic moment by Daniela Luca]]></summary>
+        <title type="html"><![CDATA[Stare]]></title>
+        <id>1x-3547132</id>
+        <link href="https://1x.com/photo/3547132"/>
+        <updated>2026-04-17T19:06:45.628Z</updated>
+        <summary type="html"><![CDATA[Stare by Shawn Thomas]]></summary>
         <author>
-            <name>Daniela Luca</name>
+            <name>Shawn Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Claude Design 发布！网友：将摧毁设计行业…… | 原文]]></title>
+        <id>https://t.me/wxbyg/7131</id>
+        <link href="https://t.me/wxbyg/7131"/>
+        <updated>2026-04-17T17:02:29.000Z</updated>
+        <summary type="html"><![CDATA[刚刚，Claude Design 发布！网友：将摧毁设计行业…… | 原文
+Telegraph
+刚刚，Claude Design 发布！网友：将摧毁设计行业……
+昨天凌晨，Anthropic 才刚发了 Claude Opus 4.7：Claude Opus 4.7 发布！留给人类的时间，不多了。 一觉醒来，又更新了。 这次发的是 Claude Design。Anthropic Labs 的新产品，一句话能做出 prototype、slides、one-pager 这些「设计活儿」。 而在内部驱动它的，就是昨天刚发的 Claude Opus 4.7，Anthropic 目前最强的视觉模型。]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗允许商船通行霍尔木兹海峡 特朗普随即贴文道谢]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8912248</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8912248"/>
+        <updated>2026-04-17T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国和伊朗之间的和谈出现重大进展。伊朗星期五宣布，在以黎停火期间，完全开放霍尔木兹海峡让商船通行。美国总统特朗普接着宣称，伊朗已同意永不再关闭海峡。消息一出，国际原油价格瞬间大跌至90美元以下。 
+伊朗外长阿拉格齐星期五（4月17日）在社媒X贴文宣布：“配合黎巴嫩停火，在剩余的停火期间，霍尔木兹海峡将完全向商船开放。” 
+特朗普随即在自家社媒贴文，向伊朗道谢。他过后再贴文说：“美国海军针对伊朗的封锁会全面维持，直到我们与伊朗的协议百分百完成。这个过程应可快速推进，因为多数条件都已谈妥。”
+他还说：“伊朗已同意不再关闭霍尔木兹海峡，它不会再被当成对付全世界的武器。”
+伊朗国家电视台则引述军方报道，军事船舰将不许穿越霍尔木兹海峡。伊朗一高级官员则告诉路透社，所有船只均可通过霍尔木兹海峡，但必须与伊朗伊斯兰革命卫队事先协调。
+霍尔木兹海峡这条重要航道得以复航，各方为之振奋。布伦特和西得克萨斯中质原油（WTI）双双大幅下跌。截至新加坡时间星期五晚间11时，布伦特油价每桶报86美元，盘中跌逾13%；WTI油价则跌逾14%，每桶约81美元。
+华尔街三大股市星期五开盘也全线跳涨。当中，道琼斯工商指数涨幅最大，截至新加坡晚间11时涨幅约2.1%。欧洲股市也全线收高。
+
+特朗普拒绝欧洲盟友协助维持海峡通行
+
+另一方面，英国首相斯塔默同日与法国总统马克龙共同主持了一个讨论霍尔木兹海峡航行问题的会议。 
+斯塔默会后透露，一旦条件允许，英法将牵头组建一支多国部队，确保霍尔木兹海峡的航行自由。“这将是一次完全和平的防御性行动，旨在保障商业航运安全并支持扫雷工作。”
+斯塔默同法国、德国和意大利领导人一同出席记者会。他说，已有十几个国家表示愿意提供资源，下周将在伦敦开会，届时将公布更多相关信息。
+不过，特朗普对此似乎并不领情。他贴文说：“霍尔木兹海峡的问题已经解决，我接到北约的电话问我需不需要一些帮助 。我叫他们站一边去，除非他们只是要来给自己的船装油。他们在需要他们的时候毫无用处，完全是纸老虎！”
+对于巴基斯坦和波斯湾盟友如沙特、阿联酋和卡塔尔，特朗普则接连发文一一道谢。 
+
+特朗普：伊朗愿做战前不愿的让步
+
+特朗普前一天出发到拉斯维加斯出席活动前，连连释放美伊谈判“前景大好”的信息。他告诉记者：“我们拭目以待，我想我们已非常接近与伊朗达成协议......如果我们在伊斯兰堡签约，我可能会出席。他们要我去。”
+对于美伊停火两周的协议即将在下星期一（20日）到期后是否延长，他说也许不需要了，因为伊朗希望达成协议，“两个月前不愿做出的让步，如今愿意了”。
+特朗普还这样说：“我们现在跟伊朗的关系好得让人难以置信，我想这是四个星期轰炸结合强力封堵的结果。”
+到拉斯维加斯后，他又说：“战争应该快要结束了。”　　 
+
+伊朗考虑移交部分浓缩铀
+
+特朗普早前提到，伊朗“已同意交出核尘埃”（指浓缩铀），后来声称伊朗同意无限期暂停核计划，而且不会从美国获得任何被冻结的资金。　　 
+路透社同日也引述伊朗消息报道，德黑兰在浓缩铀库存问题上有妥协迹象，考虑将部分库存转移国外。
+不过，伊朗国营新闻网站（Mizan）星期五引述消息报道，双方并未已就浓缩铀问题进行谈判，“自然也没有达成什么协议”。
+为美伊谈判剧中斡旋的巴基斯坦武装部队首长穆尼尔，星期四在德黑兰与伊朗国会议长卡利巴夫会谈。　
+路透社隔天引述巴国消息源报道，美伊的幕后谈判取得进展，双方接下来会面时，可能签署一份谅解备忘录，先取得原则性共识，过后才进入技术细节，寻求在60天内达成全面协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗允许所有商船通航霍尔木兹海峡 金价大涨]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913243</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913243"/>
+        <updated>2026-04-17T16:07:25.000Z</updated>
+        <summary type="html"><![CDATA[在伊朗宣布霍尔木兹海峡已对商业航运“完全开放”之后，金价大涨。这标志着结束与美国和以色列战争的进程迈出重要一步。战争已推动能源价格大涨。 
+彭博社报道，金价一度上涨2.1%，随后回吐部分涨幅。美元和美债收益率下跌通常利好黄金，因为黄金以美元计价且不产生利息。
+中东冲突曾引发担忧，认为油气价格飙升将推高通胀，迫使各国央行推迟降息甚至加息，这对黄金等无息资产不利。
+纽约时间星期五（4月17日）上午9时37分（新加坡时间晚上9时37分），现货黄金上涨1.6%，至每盎司4864.51美元（6191.07新元）。白银上涨5%，铂金和钯金也同步走高。彭博美元即期指数下跌0.5%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗官员：船只过霍尔木兹海峡需与革命卫队协调]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913216</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913216"/>
+        <updated>2026-04-17T16:02:38.000Z</updated>
+        <summary type="html"><![CDATA[一名伊朗高级官员告诉路透社，所有船只均可通过霍尔木兹海峡，但这需要与伊朗伊斯兰革命卫队（IRGC）协调。他还补充说，把伊朗资金解冻是协议的一部分。
+伊朗外交部长阿拉格齐星期五（4月17日）在社交媒体X网站上撰文称，在黎巴嫩达成停火协议后，霍尔木兹海峡已经开放。
+美国总统特朗普说，他相信结束伊朗战争的协议“很快”就会达成，具体时间仍不明朗。
+这名伊朗官员说，船只通行将仅限于伊朗认为安全的航道，并补充说，军舰仍然禁止通过霍尔木兹海峡。
+目前尚不清楚这是否包括或不包括自20世纪70年代以来国际航运使用的、用于进出波斯湾的既定交通分离方案（TSS）航道。
+他说：“即使是美国船只也可以通行，但军舰除外。”
+官员补充说，途经霍尔木兹海峡的某些航线将继续开放，但这些航线的安全状况需要由伊朗方面来认定。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东局势动荡牵动 日本考虑加强太平洋防御]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912649</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912649"/>
+        <updated>2026-04-17T15:57:52.000Z</updated>
+        <summary type="html"><![CDATA[中东冲突导致霍尔木兹海峡遭封锁，坚定了日本强化海防的决心。日本政府计划以此为契机，在本月成立专家小组，探讨加强包括太平洋海上航道在内的防御机制。
+日本未直接卷入中东冲突，但霍尔木兹海峡被封锁也冲击日本。
+日本99.5%的贸易依赖海上运输。在资源方面，所有石油、煤炭和液化天然气（LNG）都依赖海上运输进口。其中约四成的天然气来自澳大利亚，15%来自马来西亚；煤炭有超过七成依赖澳洲，13%来自印度尼西亚。
+此外，日本62%的农产品和海产品依赖进口；约九成饲料谷物同样需仰赖海外供应，因此一旦供应严重受阻，海上运输出现中断，肉类产量将骤减。
+《日经新闻》报道，日本政府最早将于本月启动旨在修订国家安全保障战略的专家会议，并于年底汇总包括有关战略在内的“安保三文件”。作为保障国民生活与经济安全的支柱，将把加强防卫太平洋一侧的海上交通线写入文件中。
+报道指出，海域航道是日本的生命线，守护商船的航行安全，日本责无旁贷。除了连接日本和澳洲的南太平洋航道至关重要外，日本当局当前最大的担忧仍是周边地区局势。
+报道说：“一旦发生台海冲突，第二岛链（从伊豆群岛经小笠原群岛，延伸至关岛的岛链）以西的西太平洋的航行风险将会上升。”
+报道也说，中国在太平洋地区的扩张显著。有鉴于此，日本政府内部正在考虑加强对太平洋的监控能力，要在岛屿地区部署巡逻机和侦察雷达。在海巡方面，除加强自卫队舰艇的巡逻机制外，也将深化与沿海国家的合作。
+此前，日本政府已通过“政府安全能力增强援助（OSA）”计划，向东南亚国家和其他国家提供巡逻艇和救援船。此举是为了提升这些国家的能力，以便共同维护地区海洋安全，有效应对突发事件。
+曾在安倍晋三政府中担任副内阁秘书长的兼原信克告诉日经，海上航道是大动脉，政府本应在海上咽喉要道投入更多资源。他建议政府通过外交手段，深化与海上航道沿线国家的关系。　
+另外，日本将参加4月20日到5月8日，在菲律宾举行的“肩并肩26”（Balikatan 26）多边联合演习。
+自2012年起，日本一直以观察员身份观摩此项军演，这次是首次派出1400多名军人参加实弹演习。这项军演由美国和菲律宾联合主办，参与国有澳洲、加拿大、法国等七个国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：禁以色列轰炸黎巴嫩 内坦亚胡：军事任务尚未结束]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913199</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913199"/>
+        <updated>2026-04-17T15:48:17.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，美国已禁止以色列轰炸黎巴嫩。
+特朗普星期五（4月17日）在社交媒体“真相社交”发文说，美国将单独与黎巴嫩合作，并以适当方式处理黎巴嫩真主党相关局势。他说：“以色列将不再轰炸黎巴嫩。美国已禁止以色列这样做。适可而止！”
+另据新华社引述美国媒体的报道，两名美国官员和两名了解谈判情况的消息人士说，美国和伊朗正就一份旨在结束战争的计划进行沟通。其中一个重要议题是美国把伊朗200亿美元（254.54亿新元）资金解冻，以换取伊朗放弃它的浓缩铀库存。
+但是，特朗普否认，任何与伊朗就核计划达成的协议都将涉及金钱。他针对美国新闻网站Axios的报道指出，美国将获得伊朗所有核“尘埃”，不会支付任何款项。
+多家西方媒体解读特朗普所说的核“尘埃”是指伊朗的浓缩铀库存。他说：“不会以任何方式、任何形式进行金钱交易。”
+以总理：军事任务“尚未结束”
+
+以色列总理内坦亚胡发表声明称，以方同意与黎巴嫩实施临时停火，但相关军事任务“尚未结束”。
+新华社引述他说，这一决定是应美国总统特朗普的要求作出的，但以方“还没有完成任务”，仍在制定针对黎巴嫩真主党火箭弹和无人机威胁的后续行动计划。
+他还说，以色列将给黎巴嫩一个寻求全面政治和军事解决方案的机会。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：美国助伊朗在霍尔木兹海峡扫雷 但封锁仍持续]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913129</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913129"/>
+        <updated>2026-04-17T15:31:23.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，伊朗在美国的帮助下开始清除霍尔木兹海峡的水雷，但美国对伊朗港口的封锁仍将继续。 
+特朗普星期五（4月17日）在社交媒体“真相社交”发文说，在德黑兰宣布霍尔木兹海峡这一重要航道重新开放后，伊朗正在美国的帮助下清除海峡中的水雷。
+他说：“伊朗在美国的帮助下，已经清除或正在清除所有水雷！”
+他说，伊朗已同意永不再封锁霍尔木兹海峡。然而，特朗普也说，尽管伊朗当局声称已重新开放霍尔木兹海峡，但美国对伊朗港口的封锁仍将继续。他说：“针对伊朗的封锁将继续全力以赴，直至我们与伊朗的交易100%完成。”
+他还补充说，“这一进程应该很快完成。”
+特朗普也否认，任何与伊朗就核计划达成的协议都将涉及金钱。此前，美国新闻网站Axios报道，华盛顿正在考虑以200亿美元（254.54亿新元）的现金换取铀。
+特朗普说，美国将获得伊朗所有核“尘埃”，不会支付任何款项。他说：“不会以任何方式、任何形式进行金钱交易。” 
+特朗普告诉路透社，美国将与伊朗合作回收其浓缩铀并将其运回美国。他说：“我们会把它运回来。我们会和伊朗合作，以一种稳妥的节奏，深入伊朗，用大型机械开始挖掘……我们会把它运回美国。”
+特朗普在电话采访中提到了“核尘埃”，并补充说，这些核尘埃“很快”就会收回来。
+特朗普提到的“核尘埃”指的是他认为去年6月美国和以色列轰炸伊朗核设施后残留的物质。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力 | 原文]]></title>
+        <id>https://t.me/wxbyg/7130</id>
+        <link href="https://t.me/wxbyg/7130"/>
+        <updated>2026-04-17T15:29:50.000Z</updated>
+        <summary type="html"><![CDATA[全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力 | 原文
+Telegraph
+全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力
+今天大清早突然发布的 Claude Opus 4.7，还没上线多久，网上就已经骂声一片。 最扎眼的槽点，是 token 先「通货膨胀」了。新版引入了全新的 tokenizer（分词器），同样一段文字，拆出的 token 数量比以前多出 1.0 到 1.35 倍。不少用户反映，还没聊几句，额度就见了底。 后续，Claude Code 之父 Boris Cherny 也表示将提高额度来抵消这部分的影响。 但 token 膨胀还算小事。更让人哭笑不得的，是 Opus 4.7 那张嘴。它动不动「我就在这里，不躲…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以黎停火生效 内坦亚胡：解除真主党武装仍是达成和平协议前提]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8912021</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8912021"/>
+        <updated>2026-04-17T15:09:16.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／贝鲁特／耶路撒冷综合电）以色列和黎巴嫩为期10天的停火于新加坡时间星期五（4月17日）凌晨5时生效，但黎巴嫩军方指控以方违反停火规定，停火生效后仍爆发多起以军袭击事件，黎巴嫩部分村庄遭遇间歇性炮击。
+美国总统特朗普星期四在自家社媒平台Truth Social发文说，他是在同以色列总理内坦亚胡和黎巴嫩总统奥恩进行了非常好的通话后达成停火协议，预料两名领导人将在四五天内到白宫举行会谈。 
+“这两位领导人已同意，为实现两国之间的和平，双方将于美国东部时间下午5时整正式开始履行为期10天的停火协议。”
+
+停火谈判料将真主党排除在外
+
+特朗普随后说，他希望真主党在10天的停火期间“好好表现”，停止杀戮，实现和平。
+尽管特朗普称这次停火也包括真主党，但据美国国务院的说法，以黎停火协议要求黎巴嫩政府自行解散这个背后由伊朗撑腰的武装组织。
+奥恩星期五通过总统府发表声明重申，黎巴嫩的目标是“巩固停火，确保以军从被占领的南部领土撤出，解救战俘，并解决悬而未决的边界争端”。
+内坦亚胡同天说：“应美国总统特朗普的要求，我们同意在黎巴嫩暂时停火。”
+他前一天在电视讲话中说，此次停火为与黎巴嫩达成历史性和平协议提供了机会，但他坚持，解除真主党武装仍是先决条件。 
+以色列防长卡茨星期五在停火生效数小时后说，对真主党的军事行动尚未结束，并警告，如果再次爆发战斗，返回黎巴嫩南部安全区的居民将不得不再次撤离。
+真主党星期五发声明警告，已“把手指扣在扳机上”，对敌军违反停火的行为时刻保持警惕。
+星期四早些时候，真主党议员穆萨维告诉法新社，真主党会遵守停火协议，前提是以色列必须全面停止对真主党发动攻势，也不得在停火期间展开任何暗杀行动。
+他也感谢伊朗为黎巴嫩着想而施压。“要不是伊朗将以黎停火看得跟封锁霍尔木兹海峡同样重要，停火就不会发生。”
+
+各国欢迎以黎停火 黎巴嫩民间喜疑参半
+
+联合国秘书长古特雷斯对以黎停火表示欢迎，并促所有各方尊重停火协议。沙特阿拉伯和欧洲国家也乐见以黎达成停火。
+德国外长瓦德富尔说，希望此次停火能为以色列和黎巴嫩“未来成为好邻居”铺平道路。法国总统马克龙则担心，停火可能已被正在进行的军事行动破坏。
+在贝鲁特，有人对停火感到高兴，也有人表示质疑。
+61岁的家庭主妇谢哈布告诉法新社：“非常高兴黎巴嫩达成了停火协议，我们厌倦了战争，我们渴望安全与和平。”
+律师哈利勒则认为，不能轻信特朗普和内坦亚胡所做的保证。“但我们知道，伊朗战争造成的压力，以及内坦亚胡和敌军在黎巴嫩南部犯下的错误，最终迫使他们停火。”
+这一个半月以来，以军对黎南的空袭已导致逾2000人丧命，百万人流离失所。
+黎巴嫩军方星期五清晨报告，黎南部分村庄仍遭遇间歇性炮击，呼吁民众暂时不要返回南部。但法新社记者看到，当天上午有数千名平民在黎南利塔尼河（Litani River）被炸毁的卡西米耶大桥一则等候，迫不及待地想返回南部的家园。
+以色列在真主党卷入美以伊冲突之际空袭了这座大桥，以阻止真主党向黎南运送人员和武器。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应对霍尔木兹海峡封锁 欧洲国家主导部署多国防御部队]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913083</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913083"/>
+        <updated>2026-04-17T15:04:54.000Z</updated>
+        <summary type="html"><![CDATA[法国、英国、德国与意大利领导人星期五（4月17日）在巴黎召开会议，商讨组建一支多国防御部队，旨在冲突结束后恢复霍尔木兹海峡的航行自由。
+据路透社和法新社报道，目前已有超过12个国家表示愿意提供军事资源参与这项任务。
+英国首相斯塔默在会后的记者会上宣布，下周将在伦敦召开军事计划会议，进一步落实多国部队的组成细节。
+他强调：“重新开放海峡是全球的必然需要，也是全球的责任。”
+这项由欧洲主导的会议被视为欧盟展现其战略自主能力的重要契机。会议由斯塔默与法国总统马克龙共同主持，共有49个国家的代表参与，其中包括亲临巴黎的德国总理默茨和意大利总理梅洛尼。
+值得注意的是，这次会议仅邀请“非参战国”参加，美国、以色列与伊朗均被排除在外。
+默茨星期四说，虽然德国原则上愿意参与，但谨慎提醒称，目前距离正式部署仍有相当长的一段路要走。
+官员强调，拟议中的多国军事任务具有严格的防御性质，核心任务包括开展扫雷行动和反勒索行动。
+除了能源安全，会议还讨论了人道主义危机。目前有数百艘船因封锁被困波斯湾，船上约两万名船员的安危引发国际社会高度关注。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黎巴嫩总统：与以色列谈判“敏感且具有关键意义”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260417-8913021</id>
+        <link href="https://www.zaobao.com/news/world/story20260417-8913021"/>
+        <updated>2026-04-17T14:47:54.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩总统奥恩说，与以色列进行直接谈判至关重要。此前，美国总统特朗普宣布两国停火，并说两国领导人即将举行会晤。 
+法新社引述黎巴嫩总统府星期五（4月17日）发布的声明说，奥恩指出：“谈判敏感且具有关键意义……停火是推进谈判的前提。”
+他重申，贝鲁特的目标是“巩固停火，确保以色列军队从黎巴嫩南部撤出，解救被俘人员，并解决悬而未决的边界争端”。
+他指出，停火是推进后续谈判的重要前提，相关进程获得国内外支持。
+美国国务院公布的停火协议细节并未提及以色列军队从黎巴嫩撤军。
+新华社引述奥恩说，黎巴嫩军队将在以军撤离后发挥关键作用，维护黎南部安全秩序并推进解除武装进程，确保除国家军队及合法安全机构外不再存在其他武装力量，以保障居民安全返回家园。
+谈判代表团成员说，停火进程为黎巴嫩带来关键转折点，有助于推动国家迈向更加稳定的阶段。
+美国总统特朗普星期四在社交媒体发文，宣布黎巴嫩和以色列将于黎以当地时间17日零时、（新加坡时间17日5时）正式开始停火，为期10天。 
+特朗普称，以色列总理内坦亚胡和奥恩很可能会在“未来一两周内”在白宫会晤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -210,11 +434,17 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗：停火协议期限内 霍尔木兹海峡开放让商船通行]]></title>
+        <title type="html"><![CDATA[伊朗宣布霍尔木兹海峡开放让商船通行 油价随即大跌]]></title>
         <id>https://www.zaobao.com/news/world/story20260417-8912643</id>
         <link href="https://www.zaobao.com/news/world/story20260417-8912643"/>
         <updated>2026-04-17T13:13:39.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐说，根据黎巴嫩停火协议，霍尔木兹海峡对所有商船的通行在停火协议剩余期限内完全开放。]]></summary>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐星期五（4月17日）说，根据黎巴嫩停火协议，霍尔木兹海峡对所有商船的通行在停火协议剩余期限内完全开放。
+路透社引述阿拉格齐在社交媒体X网站上的贴文说，船舶将按照伊朗港口和海事组织此前公布的协调航线通过海峡。
+美国总统特朗普随后在交媒体上感谢伊朗开放霍尔木兹海峡。他说：“伊朗海峡已完全开放，可全面通行。谢谢！” 
+阿拉格齐宣布消息后，油价暴跌逾10%，延续了此前的跌势。
+格林尼治标准时间17日13时11分（新加坡时间21时11分），布伦特原油期货下跌11.12美元（14.12新元），跌幅11.2%，至每桶88.27美元（112.06新元）。美国西得克萨斯中质原油期货下跌11.40美元，跌幅12%，至每桶83.29美元。
+瑞银分析师斯陶诺沃说：“伊朗外长的讲话表明，只要停火协议有效，局势就会缓和。现在，我们还需要观察通过霍尔木兹海峡的油轮数量是否会大幅增加。”
+由于美国和伊朗周末可能举行进一步会谈，以及黎巴嫩和以色列之间达成为期10天的停火协议，提振了投资者对中东战争可能接近结束的希望，因此，早盘价格已经下跌。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -529,98 +759,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[以媒：从媒体上得知与黎停火 以色列高官又惊又怒]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8909190</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8909190"/>
-        <updated>2026-04-17T05:13:21.000Z</updated>
-        <summary type="html"><![CDATA[以色列媒体称，以安全内阁一些成员因从媒体报道上得知以色列与黎巴嫩达成停火协议而感到震惊，并对停火不是由以内阁正式批准而表达愤怒。
-新华社报道，一些以色列希伯来语媒体称，以总理内坦亚胡星期四（4月16日）晚紧急召集安全内阁成员举行电话会议，参会部长们在会议开始5分钟前才接到通知。这些安全内阁成员从媒体报道得知，美国总统特朗普刚刚宣布以色列和黎巴嫩将停火10天。
-报道说，内坦亚胡告诉安全内阁成员，他是在特朗普请求下同意与黎巴嫩停火的，并强调，“最重要的盟友”美国与以色列密切协调的情况下，以方选择予以配合。
-内坦亚胡拒绝就停火决定在安全内阁进行正式表决，但他说，安全内阁将后续讨论相关议题。
-以色列媒体说，停火将持续10天，其间以军将继续驻守当前控制的“战略要点”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄外交部：美国封锁伊朗应被视为“犯罪和侵略”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8909315</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8909315"/>
-        <updated>2026-04-17T05:09:30.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯外交部说，美国使用武力封锁伊朗港口或海岸，应被视为“犯罪和侵略”，只会加剧冲突并带来经济方面的后果。
-新华社报道，俄外交部网站消息，俄外交部发言人扎哈罗娃在星期四（4月16日）的例行记者会说，美国实施的海上封锁，无论是拦截船只还是封锁伊朗港口，不仅违背联合国宪章，也违反国际海洋法。
-扎哈罗娃指美国和以色列对伊朗的无端侵略，导致波斯湾地区的航运几乎完全停滞，破坏全球能源市场，对许多国家的农业和工业造成损害。
-美伊首轮谈判无果而终后，美国总统特朗普13日宣布，美国已于美东时间13日上午10时起，对所有进出伊朗港口的船只实施封锁。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宣布扩大西半球签证限制]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8908991</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8908991"/>
-        <updated>2026-04-17T03:53:45.000Z</updated>
-        <summary type="html"><![CDATA[美国扩大在西半球地区的签证限制政策，并已对26人实施签证限制。
-路透社报道，美国国务院星期四（4月16日）发表声明说，这项政策针对的是那些为美国敌对方效力、破坏美国利益的人员。
-声明说：“这项扩大后的政策使我们能够限制向西半球国家公民发放美国签证。这些公民若身处西半球国家境内，并蓄意代表敌对国家、其代理人或企业行事，明知故犯地指导、授权、资助或提供重大支持，或实施与美国在西半球的利益相敌对并破坏利益的活动，将被禁止入境美国。这些人及直系亲属通常将被禁止入境美国”。
-声明称：“我们已采取措施，对西半球参与此类活动的26人实施签证限制。”
-国务院声明并未列出26人详细名单，也未提及哪些国家属于“敌对国家”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎巴嫩军方：停火后仍有以军袭击发生]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8908801</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8908801"/>
-        <updated>2026-04-17T03:30:21.000Z</updated>
-        <summary type="html"><![CDATA[黎巴嫩军方称，当前停火存在违规情况，已记录多起以军袭击事件，且部分村庄仍遭遇间歇性炮击。
-新华社报道，黎巴嫩军方星期五（4月17日）早上发表声明，呼吁民众暂缓返回黎南部地区。
-声明称，为保障人身安全，民众须严格遵守军方指示，特别是在夜间时段，并避免靠近危险区域。
-黎巴嫩军方说，军方将持续跟进局势进展，并采取必要措施确保民众安全。
-美国总统特朗普16日在社交媒体发文，宣布黎巴嫩和以色列将在黎巴嫩时间17日零时（新加坡时间17日凌晨5时）开始停火，为期10天。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G7：为遏制全球经济损失 中东实现持久和平刻不容缓]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8908394</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8908394"/>
-        <updated>2026-04-17T03:14:02.000Z</updated>
-        <summary type="html"><![CDATA[七国集团财政部长一致认为，限制美以伊战争给全球经济带来的沉重代价现已刻不容缓，并重申中东“迫切需要迈向持久和平”。
-路透社报道，这份声明由担任本年度G7轮值主席国的法国财政部发表。
-法国财政部在星期四（4月16日）发表的声明中说：“我们的一致结论是，必须尽快限制旷日持久的这场冲突对全球经济造成的损失。G7成员国重申，迫切需要一个持久的和平方案。
-“G7成员国之间的协调比以往任何时候都更加重要，这对于应对危机带来的经济和能源影响至关重要。G7成员国尤其关注这场危机对最脆弱国家的直接和间接影响。”
-法国财长勒斯库尔（Roland Lescure）在华盛顿举行的两天G7财长和央行行长会议结束后说：“我们需要确保了解未来几周的风险平衡走向。”
-他说：“一个月后，我们将在巴黎再次开会，希望确保大家密切关注局势，评估影响，并在必要时采取行动，就像数周前释放战略石油储备那样。”
-他指确保船只自由通过霍尔木兹海峡至关重要。G7财长一致认为，船只不应为通过这条国际航道而向伊朗支付任何费用。
-16日早前，勒斯库尔告诉记者，G7国家必须做好准备采取行动，以减轻因美以伊战争带来的能源和供应冲击而造成的经济和通胀风险。 
-在华盛顿举行的国际货币基金组织（IMF）和世界银行春季会议期间，美以伊战争是G7财长和央行行长讨论的三大关键议题之一；另外两个议题为继续支持乌克兰以及开发稀土和关键矿物的替代中国供应链。
-七国集团成员国包括美国、加拿大、英国、法国、德国、意大利、日本。欧盟作为非正式成员，通常也会参加G7各级会议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗革命卫队：抵抗轴心向曼德海峡船只发出警告]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8908111</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8908111"/>
-        <updated>2026-04-17T01:51:43.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰革命卫队星期五（4月17日）凌晨在社交媒体平台发布消息称，一名抵抗轴心指挥官透露，已向曼德海峡所有商船与军舰发出严厉且前所未有的警告。
-新华社报道，伊朗革命卫队警告说：“从明天（18日）正午起，任何意图通过曼德海峡的人，都需要比任何时候都更加警惕。”
-消息称，曼德海峡局势正进入新一轮军事紧张阶段。
-伊朗法尔斯通讯星期四（16日）报道，伊朗武装部队哈塔姆安比亚中央总部司令阿卜杜拉希，在会见巴基斯坦陆军参谋长穆尼尔时说，敌人对伊朗发动侵略，源于对伊朗人民抵抗意志以及伊朗武装部队防御能力的“误判”。
-阿卜杜拉希对巴基斯坦政府和人民在冲突期间对伊朗的支持表示感谢，并强调伊朗武装部队已作好全面防御准备。
-穆尼尔介绍了巴方为缓和地区局势所作努力，并表示将继续推动相关谈判。
-另据法新社报道，美国总统特朗普星期四说，美国和伊朗周末可能恢复举行面对面会谈，称双方“非常接近”达成一项和平协议，还说伊朗已同意交出浓缩铀。他没有透露任何转移细节，伊朗并未公开表示会交出浓缩铀库存。 
-特朗普说，如果美伊和平协议在巴基斯坦首都伊斯兰堡签署，他可能会前往伊斯兰堡。
-多年来，伊朗通过支持周边地区的武装团体，建立起覆盖范围广泛的民兵组织和政治联盟网络，从黎巴嫩、加沙延伸至伊拉克和也门，都有代理人，统称为“抵抗轴心”（Axis of resistance），在针对西方和以色列目标的袭击中扮演核心角色。这些区域代理人包括：加沙的哈马斯、黎巴嫩真主党、也门胡塞武装，以及伊拉克的民兵组织。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[被動投資悖論：當所有人都不用想，誰在幫你的股價定價？]]></title>
         <id>https://ducorn.com/passive-investing-paradox</id>
         <link href="https://ducorn.com/passive-investing-paradox"/>
@@ -631,19 +769,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从韩国主题公园逃跑10天 公狼被安全抓回]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8908019</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8908019"/>
-        <updated>2026-04-17T01:26:32.000Z</updated>
-        <summary type="html"><![CDATA[韩国大田市政府星期五（4月17日）消息，日前从大田市中区O-World主题公园逃跑的一只狼，已被安全捕获。
-韩联社报道，这只公狼8日上午9时许从O-World主题公园逃了出去，10天后才被安全捕获。
-搜救部门16日晚11时45分许在大田市中区安永洞的大田南环高速公路附近发现这只狼，经过约30分钟的搜捕行动，于17日零时44分许在兽医的协助下使用麻醉针成功将它抓捕。
-报道称，公狼已被送回O-World主题公园。兽医说，公狼仍处于麻醉状态，脉搏和体温等一切正常。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年4月推荐]]></title>
         <id>/archives/2026nian-4yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
@@ -651,35 +776,6 @@ Telegraph
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月17日 网络收音机 Free Magazines 国外PDF免费下载 4月16日 bilimusic 基于B站的音乐APP，需要扫码登录，来源GitHub，下载需要特殊网络 土拨鼠大屏助手 巧用手机接管大屏，终结套娃收费 4月15日 随身FM]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国务院：以黎停火期限可延长 以色列保留“自卫权利”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8907858</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8907858"/>
-        <updated>2026-04-17T00:35:50.000Z</updated>
-        <summary type="html"><![CDATA[美国国务院说，以色列和黎巴嫩10天停火期限可以延长，以色列保留在停火期间“采取一切必要自卫措施”的权利。
-以色列和黎巴嫩的10天停火协议于黎巴嫩时间星期五（4月17日）零时（新加坡时间17日凌晨5时）生效。
-美国国务院16日发表声明说，以黎表示，两国目前并非处于战争状态，承诺在美国协助下，本着诚意开展直接谈判，以解决包括陆地边界划定在内的悬而未决问题，旨在达成一项全面协议，从而确保两国之间实现持久的安全、稳定与和平。若谈判取得实质性进展，且黎巴嫩能有效展现行使国家主权的能力，经双方共同协商一致，10天停火期限可予以延长。
-声明同时说，以色列有权随时采取一切必要措施进行自卫，以应对计划发动、迫在眉睫或正在发生的袭击。停止敌对行动并不妨碍以色列行使这项权利。除此之外，以色列将不会在黎巴嫩境内通过陆海空对黎巴嫩目标，包括民用、军事及其他国家目标，实施任何进攻性军事行动。
-美国媒体引述白宫消息报道，此次以黎停火是在美国、以色列、黎巴嫩领导人进行一系列密集通话之后达成。4月15日晚，美国总统特朗普与以色列总理内坦亚胡通话；随后，美国国务卿鲁比奥致电黎巴嫩总统奥恩，争取他对协议的支持。16日，特朗普又两次与内坦亚胡通话，并与奥恩通话一次，最终敲定停火10天协议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息：受伊朗战争影响 美国告知欧洲可能延迟武器交付]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8907804</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8907804"/>
-        <updated>2026-04-17T00:06:59.000Z</updated>
-        <summary type="html"><![CDATA[路透社星期四（4月16日）引述三名知情人士称，美国官员已告知欧洲方面，由于伊朗战争持续消耗美国武器库存，一些此前签订的武器交付合同可能会被推迟。 
-要求不具名的这些消息人士透露，包括波罗的海地区和斯堪的纳维亚半岛在内的多个欧洲国家将受此影响。
-消息人士说，部分武器是欧洲国家根据“对外军售计划”（FMS）购买的，但尚未交付。这些武器的交付很可能会被推迟。
-白宫、五角大楼和国务院没有立即回应置评请求。
-《华尔街日报》15日引述知情者报道，特朗普政府希望美国汽车制造商和其他制造业者在武器生产中发挥更大作用，类似于二战期间的做法。五角大楼高层已跟通用和福特汽车等公司高管，就武器和其他军用物资的生产举行会谈。
-由于俄乌和中东战争不断消耗美国武器库存，五角大楼有意动员这些企业的人力和产能提高军火配备的产量，充当传统国防企业的后盾，探讨集中于制造业者可多快速将生产转移到国防用途。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -885,32 +981,6 @@ Telegraph
 Telegraph
 林黛玉和薛宝钗究竟谁更得人心？看香菱的状态就知道了！
 《红楼梦》第二十三回，黛玉刚听完梨香院墙内传来的《牡丹亭》唱词。那几句“原来姹紫嫣红开遍，似这般都付与断井颓垣”、“良辰美景奈何天，赏心乐事谁家院”让黛玉“不觉心痛神痴，眼中落泪”。 就在黛玉沉浸于这种无边的伤感，几乎无法自拔的时候，一个温暖而充满活力的身影出现了： “忽有人从背后击了一掌，说道：‘你作什么一个人在这里？’林黛玉倒唬了一跳，回头看时，不是别人，却是香菱。”。香菱的出现，带着一种天然的、未被雕琢的纯真。她嘻嘻地笑着，解释说自己是出来找薛宝钗的，也顺便告诉黛玉，紫鹃正在找她，因为凤姐送了上好的新茶来。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我以为在 Vibe Coding，其实一直在被 YC 面试 | 原文]]></title>
-        <id>https://t.me/wxbyg/7111</id>
-        <link href="https://t.me/wxbyg/7111"/>
-        <updated>2026-04-15T23:24:18.000Z</updated>
-        <summary type="html"><![CDATA[我以为在 Vibe Coding，其实一直在被 YC 面试 | 原文
-Telegraph
-我以为在 Vibe Coding，其实一直在被 YC 面试
-事情是这样的。 这几天我一直在用 gstack 跑 /office-hours，讨论 LobCard 的产品方向。 gstack 是 YC 掌门人 Garry Tan 开源的 AI 开发工具，配合 Claude Code 一起用，GitHub 上已经 6.5 万颗星了。 /office-hours 是里面一个模拟 YC 创始人访谈的技能，会逼你回答六个很难受的问题，用户是谁，真实需求是什么，有没有人愿意付钱，最窄的切入点在哪里。 挺费脑子的，但过完一遍对产品方向的清晰度会有很明显的提升。 讨论结束，gstack…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号 | 原文]]></title>
-        <id>https://t.me/wxbyg/7110</id>
-        <link href="https://t.me/wxbyg/7110"/>
-        <updated>2026-04-15T16:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号 | 原文
-Telegraph
-Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号
-新智元报道 编辑：KingHZ 【新智元导读】炸裂！GitHub狂揽8.5万Star的Hermes Agent竟是抄袭？硅谷知名AI实验室Nous Research的明星项目，被指控整套自进化架构照搬自中国团队EvoMap的开源引擎Evolver。10步主循环一模一样，术语全换了但架构纹丝不动，7份公开材料对原作只字未提。被锤后对方回应更离谱：「Delete your account。」 AI圈又炸了！这次不是什么新模型发布，而是一桩教科书级的开源抄袭事件。 开源世界最丑陋的一幕！ GitHub狂揽8.5万Star的Hermes…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
         </author>
