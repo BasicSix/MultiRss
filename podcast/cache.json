@@ -910,24 +910,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69baf3c16cb58679e8f88ff6",
-          "author": null,
-          "description": "What are you wearing, and why? This is the question that writer and TED Fellow Mitchell S. Jackson asks as he unpacks the six eras of NBA style. Tracing an arc from Bill Russell to Lebron James and beyond, he explores how players use fashion on and off the court to challenge the limits placed upon them — revealing a deeper story about culture, identity and power.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/mitchellsjackson",
-          "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The 6 eras of NBA fashion — from restrained to radical | Mitchell S. Jackson",
-          "itunes": {
-            "duration": "11:43"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69baf3c16cb58679e8f88ff6/media.mp3",
-            "length": "11362031",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

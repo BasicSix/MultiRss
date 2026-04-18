@@ -2,198 +2,337 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T02:43:59.527Z</updated>
+    <updated>2026-04-18T07:14:23.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Other times, other lives]]></title>
-        <id>1x-3548361</id>
-        <link href="https://1x.com/photo/3548361"/>
-        <updated>2026-04-18T02:43:59.441Z</updated>
-        <summary type="html"><![CDATA[Other times, other lives by Jose C. Lobato]]></summary>
+        <title type="html"><![CDATA["Kaktus Towers", Copenhagen (Denmark)]]></title>
+        <id>1x-3549004</id>
+        <link href="https://1x.com/photo/3549004"/>
+        <updated>2026-04-18T07:14:19.515Z</updated>
+        <summary type="html"><![CDATA["Kaktus Towers", Copenhagen (Denmark) by Eric Chatelain Photography]]></summary>
         <author>
-            <name>Jose C. Lobato</name>
+            <name>Eric Chatelain Photography</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smile from Hoi An]]></title>
-        <id>1x-3548347</id>
-        <link href="https://1x.com/photo/3548347"/>
-        <updated>2026-04-18T02:43:59.438Z</updated>
-        <summary type="html"><![CDATA[Smile from Hoi An by Nevra Topalismailoglu]]></summary>
+        <title type="html"><![CDATA[Life on the Ranch]]></title>
+        <id>1x-3548963</id>
+        <link href="https://1x.com/photo/3548963"/>
+        <updated>2026-04-18T07:14:19.510Z</updated>
+        <summary type="html"><![CDATA[Life on the Ranch by Nancy Xu]]></summary>
         <author>
-            <name>Nevra Topalismailoglu</name>
+            <name>Nancy Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[City above the Clouds]]></title>
-        <id>1x-3511220</id>
-        <link href="https://1x.com/photo/3511220"/>
-        <updated>2026-04-18T02:43:59.436Z</updated>
-        <summary type="html"><![CDATA[City above the Clouds by Tomoaki Katsuba]]></summary>
+        <title type="html"><![CDATA[Fitz Roy’s Golden Awakening]]></title>
+        <id>1x-3549039</id>
+        <link href="https://1x.com/photo/3549039"/>
+        <updated>2026-04-18T07:14:19.505Z</updated>
+        <summary type="html"><![CDATA[Fitz Roy’s Golden Awakening by John Cheng]]></summary>
         <author>
-            <name>Tomoaki Katsuba</name>
+            <name>John Cheng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“The Way Back”]]></title>
-        <id>1x-3547384</id>
-        <link href="https://1x.com/photo/3547384"/>
-        <updated>2026-04-18T02:43:59.434Z</updated>
-        <summary type="html"><![CDATA[“The Way Back” by Cristina Navarro]]></summary>
+        <title type="html"><![CDATA[Popping up]]></title>
+        <id>1x-3549110</id>
+        <link href="https://1x.com/photo/3549110"/>
+        <updated>2026-04-18T07:14:19.495Z</updated>
+        <summary type="html"><![CDATA[Popping up by Kazutoshi Ono]]></summary>
         <author>
-            <name>Cristina Navarro</name>
+            <name>Kazutoshi Ono</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great Egret with Lizard]]></title>
-        <id>1x-3546149</id>
-        <link href="https://1x.com/photo/3546149"/>
-        <updated>2026-04-18T02:43:59.431Z</updated>
-        <summary type="html"><![CDATA[Great Egret with Lizard by John Glaser]]></summary>
+        <title type="html"><![CDATA[ペルセポネ]]></title>
+        <id>1x-3549014</id>
+        <link href="https://1x.com/photo/3549014"/>
+        <updated>2026-04-18T07:14:19.491Z</updated>
+        <summary type="html"><![CDATA[ペルセポネ by Taka]]></summary>
         <author>
-            <name>John Glaser</name>
+            <name>Taka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gracia]]></title>
-        <id>1x-3548795</id>
-        <link href="https://1x.com/photo/3548795"/>
-        <updated>2026-04-18T02:43:59.429Z</updated>
-        <summary type="html"><![CDATA[Gracia by Erik Jäderholm]]></summary>
+        <title type="html"><![CDATA[The Surviving Game]]></title>
+        <id>1x-3549057</id>
+        <link href="https://1x.com/photo/3549057"/>
+        <updated>2026-04-18T07:14:19.486Z</updated>
+        <summary type="html"><![CDATA[The Surviving Game by Kenneth-Wei Zeng]]></summary>
         <author>
-            <name>Erik Jäderholm</name>
+            <name>Kenneth-Wei Zeng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sweeping at Dusk]]></title>
-        <id>1x-3548470</id>
-        <link href="https://1x.com/photo/3548470"/>
-        <updated>2026-04-18T02:43:59.421Z</updated>
-        <summary type="html"><![CDATA[Sweeping at Dusk by Joanna W]]></summary>
+        <title type="html"><![CDATA[Roller]]></title>
+        <id>1x-3549034</id>
+        <link href="https://1x.com/photo/3549034"/>
+        <updated>2026-04-18T07:14:19.481Z</updated>
+        <summary type="html"><![CDATA[Roller by Andreea Selagea]]></summary>
         <author>
-            <name>Joanna W</name>
+            <name>Andreea Selagea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pandion haliaetus A]]></title>
-        <id>1x-3533647</id>
-        <link href="https://1x.com/photo/3533647"/>
-        <updated>2026-04-18T02:43:59.419Z</updated>
-        <summary type="html"><![CDATA[Pandion haliaetus A by Eldad Levin]]></summary>
+        <title type="html"><![CDATA[The Quiet Descent]]></title>
+        <id>1x-3549125</id>
+        <link href="https://1x.com/photo/3549125"/>
+        <updated>2026-04-18T07:14:19.476Z</updated>
+        <summary type="html"><![CDATA[The Quiet Descent by Mik Dominguez]]></summary>
         <author>
-            <name>Eldad Levin</name>
+            <name>Mik Dominguez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pale Emergence]]></title>
-        <id>1x-3547967</id>
-        <link href="https://1x.com/photo/3547967"/>
-        <updated>2026-04-18T02:43:59.415Z</updated>
-        <summary type="html"><![CDATA[Pale Emergence by GoNagai]]></summary>
+        <title type="html"><![CDATA[Double Sky]]></title>
+        <id>1x-3538801</id>
+        <link href="https://1x.com/photo/3538801"/>
+        <updated>2026-04-18T07:14:19.462Z</updated>
+        <summary type="html"><![CDATA[Double Sky by Þorsteinn H. Ingibergsson]]></summary>
         <author>
-            <name>GoNagai</name>
+            <name>Þorsteinn H. Ingibergsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great Cormorant]]></title>
-        <id>1x-3548851</id>
-        <link href="https://1x.com/photo/3548851"/>
-        <updated>2026-04-18T02:43:59.413Z</updated>
-        <summary type="html"><![CDATA[Great Cormorant by Ahmed Elkahlawi]]></summary>
+        <title type="html"><![CDATA[Flying Lazuli Bunting"]]></title>
+        <id>1x-3546238</id>
+        <link href="https://1x.com/photo/3546238"/>
+        <updated>2026-04-18T07:14:19.455Z</updated>
+        <summary type="html"><![CDATA[Flying Lazuli Bunting" by Johnson Huang]]></summary>
         <author>
-            <name>Ahmed Elkahlawi</name>
+            <name>Johnson Huang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Butterfly at rest]]></title>
-        <id>1x-3547929</id>
-        <link href="https://1x.com/photo/3547929"/>
-        <updated>2026-04-18T02:43:59.410Z</updated>
-        <summary type="html"><![CDATA[Butterfly at rest by Gila Koller]]></summary>
+        <title type="html"><![CDATA[Cobblestone]]></title>
+        <id>1x-3549154</id>
+        <link href="https://1x.com/photo/3549154"/>
+        <updated>2026-04-18T07:14:19.442Z</updated>
+        <summary type="html"><![CDATA[Cobblestone by konglingming]]></summary>
         <author>
-            <name>Gila Koller</name>
+            <name>konglingming</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3544979</id>
-        <link href="https://1x.com/photo/3544979"/>
-        <updated>2026-04-18T02:43:59.407Z</updated>
-        <summary type="html"><![CDATA[Untitled by Yasutaka Watanuki]]></summary>
+        <title type="html"><![CDATA[Bald Eagle Fight]]></title>
+        <id>1x-3549102</id>
+        <link href="https://1x.com/photo/3549102"/>
+        <updated>2026-04-18T07:14:19.430Z</updated>
+        <summary type="html"><![CDATA[Bald Eagle Fight by Jun Zuo]]></summary>
         <author>
-            <name>Yasutaka Watanuki</name>
+            <name>Jun Zuo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3526988</id>
-        <link href="https://1x.com/photo/3526988"/>
-        <updated>2026-04-18T02:43:59.405Z</updated>
-        <summary type="html"><![CDATA[Untitled by Wagdy]]></summary>
+        <title type="html"><![CDATA[White-tailed kites’s spring]]></title>
+        <id>1x-3546545</id>
+        <link href="https://1x.com/photo/3546545"/>
+        <updated>2026-04-18T07:14:19.422Z</updated>
+        <summary type="html"><![CDATA[White-tailed kites’s spring by Ling Zhang]]></summary>
         <author>
-            <name>Wagdy</name>
+            <name>Ling Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gravitational Glitch, Green Geometry]]></title>
-        <id>1x-3548288</id>
-        <link href="https://1x.com/photo/3548288"/>
-        <updated>2026-04-18T02:43:59.401Z</updated>
-        <summary type="html"><![CDATA[Gravitational Glitch, Green Geometry by Meiji Maruo]]></summary>
+        <title type="html"><![CDATA[In the spiral tower]]></title>
+        <id>1x-3546936</id>
+        <link href="https://1x.com/photo/3546936"/>
+        <updated>2026-04-18T07:14:19.414Z</updated>
+        <summary type="html"><![CDATA[In the spiral tower by Kazuhiro Komai]]></summary>
         <author>
-            <name>Meiji Maruo</name>
+            <name>Kazuhiro Komai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rainy day]]></title>
-        <id>1x-3548378</id>
-        <link href="https://1x.com/photo/3548378"/>
-        <updated>2026-04-18T02:43:59.390Z</updated>
-        <summary type="html"><![CDATA[Rainy day by Satoshi Sakai]]></summary>
+        <title type="html"><![CDATA[Ethereal Encounter]]></title>
+        <id>1x-3534225</id>
+        <link href="https://1x.com/photo/3534225"/>
+        <updated>2026-04-18T07:14:19.404Z</updated>
+        <summary type="html"><![CDATA[Ethereal Encounter by Mei Xu]]></summary>
         <author>
-            <name>Satoshi Sakai</name>
+            <name>Mei Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Threshold]]></title>
-        <id>1x-3547272</id>
-        <link href="https://1x.com/photo/3547272"/>
-        <updated>2026-04-18T02:43:59.388Z</updated>
-        <summary type="html"><![CDATA[The Threshold by Ichiro.t]]></summary>
+        <title type="html"><![CDATA[Offering at Dusk]]></title>
+        <id>1x-3546571</id>
+        <link href="https://1x.com/photo/3546571"/>
+        <updated>2026-04-18T07:14:19.392Z</updated>
+        <summary type="html"><![CDATA[Offering at Dusk by Joseph Ng]]></summary>
         <author>
-            <name>Ichiro.t</name>
+            <name>Joseph Ng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suspended Intent]]></title>
-        <id>1x-3547776</id>
-        <link href="https://1x.com/photo/3547776"/>
-        <updated>2026-04-18T02:43:59.385Z</updated>
-        <summary type="html"><![CDATA[Suspended Intent by Robert Zhang]]></summary>
+        <title type="html"><![CDATA[Perfect shape in the air]]></title>
+        <id>1x-3549152</id>
+        <link href="https://1x.com/photo/3549152"/>
+        <updated>2026-04-18T07:14:19.244Z</updated>
+        <summary type="html"><![CDATA[Perfect shape in the air by widiarto p.]]></summary>
         <author>
-            <name>Robert Zhang</name>
+            <name>widiarto p.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noir Panther]]></title>
-        <id>1x-3544005</id>
-        <link href="https://1x.com/photo/3544005"/>
-        <updated>2026-04-18T02:43:59.382Z</updated>
-        <summary type="html"><![CDATA[Noir Panther by Tomoki Ishikawa]]></summary>
+        <title type="html"><![CDATA[A White Horse in Autumn]]></title>
+        <id>1x-3549120</id>
+        <link href="https://1x.com/photo/3549120"/>
+        <updated>2026-04-18T07:14:19.235Z</updated>
+        <summary type="html"><![CDATA[A White Horse in Autumn by Yi Ling]]></summary>
         <author>
-            <name>Tomoki Ishikawa</name>
+            <name>Yi Ling</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinnacles]]></title>
-        <id>1x-3547319</id>
-        <link href="https://1x.com/photo/3547319"/>
-        <updated>2026-04-18T02:43:59.369Z</updated>
-        <summary type="html"><![CDATA[Pinnacles by R Suguri]]></summary>
+        <title type="html"><![CDATA[Seattle]]></title>
+        <id>1x-3549121</id>
+        <link href="https://1x.com/photo/3549121"/>
+        <updated>2026-04-18T07:14:19.218Z</updated>
+        <summary type="html"><![CDATA[Seattle by John Martinotti]]></summary>
         <author>
-            <name>R Suguri</name>
+            <name>John Martinotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普发文“禁止”轰炸黎巴嫩 内坦亚胡震惊促澄清]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914510</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914510"/>
+        <updated>2026-04-18T07:04:37.000Z</updated>
+        <summary type="html"><![CDATA[知情人士称，以色列总理内坦亚胡对美国总统特朗普“禁止”以色列轰炸黎巴嫩的贴文感到“震惊”，并要求白宫作出澄清。 
+美国新闻网站Axios星期五（4月17日）引述知情人士说，内坦亚胡和他的团队通过媒体得知特朗普的涉黎言论后感到措手不及。包括以色列驻美大使在内的官员随后向美方了解是否立场有变，并认为相关说法与以黎停火协议内容存在矛盾。 
+报道写道：“特朗普贴文的含义是——他正在发布一道以色列别无选择只能服从的命令——这在其他美国政府下将是不可想象的。消息人士说，内坦亚胡本人在得知贴文内容后深感震惊和不安。”
+一名美国官员随后澄清，称“以色列不会对黎巴嫩目标进行任何进攻性军事行动，但保留对有计划、迫在眉睫或正在进行的袭击进行自卫的权利”。
+报道称，特朗普贴文发布后，一架以色列无人机袭击了黎巴嫩南部目标。以方消息人士指责黎巴嫩真主党违反停火协议袭击以军，“我方部队采取自卫行动以消除威胁，这符合与美国和黎巴嫩达成的停火协议”。
+特朗普此前宣布以黎停火10天，并在社媒发文称“以色列将不再轰炸黎巴嫩，美国已作出限制”。他随后接受Axios采访时重申，希望以色列停止对黎巴嫩的袭击。
+他说：“以色列必须停止。他们不能继续炸毁房屋建筑。我不会允许这种事情发生。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本长野县发生5级地震]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914547</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914547"/>
+        <updated>2026-04-18T06:07:30.000Z</updated>
+        <summary type="html"><![CDATA[日本中部长野县星期六（4月18日）发生地震，初步震级为5级。
+日本放送协会（NHK）报道，地震发生在星期六（4月18日）下午1时20分左右（新加坡时间下午12时20分），震中位于长野县北部的大町市。
+目前尚不清楚地震是否造成任何损失。
+日本是世界上地震活动最频繁的地区之一，在全球6级及以上的地震，约五分之一发生在日本。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秘鲁政府拟推迟购买美国战机 遭美外交官威胁]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914425</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914425"/>
+        <updated>2026-04-18T05:33:47.000Z</updated>
+        <summary type="html"><![CDATA[秘鲁总统巴尔卡萨尔说，秘鲁政府考虑推迟与美国洛克希德-马丁公司签署购买F-16战斗机的合同。美国驻秘鲁大使对此作出威胁表态。
+新华社报道，巴尔卡萨尔星期五（4月17日）接受秘鲁媒体采访时说，这项军购金额巨大，将给国家带来“非常沉重”的债务负担。鉴于本届政府为过渡政府，建议由下届政府处理。
+美国驻秘鲁大使纳瓦罗（Bernie Navarro）随后在社交平台发文说，如果秘鲁政府与美国谈判时缺乏诚意，并损害美国利益，他作为特朗普政府的代表，“必将动用一切可用手段”维护并促进美国和秘鲁的繁荣与安全。 
+今年2月，秘鲁时任总统赫里被国会弹劾，国会主席巴尔卡萨尔接任总统，领导过渡政府直至新总统于今年7月就职。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以军披露作战细节 称摧毁伊朗“六成”导弹发射装置]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914033</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914033"/>
+        <updated>2026-04-18T05:01:35.000Z</updated>
+        <summary type="html"><![CDATA[以色列国防军披露对伊朗作战行动细节，称以军在对伊朗军事行动中“系统性”打击了伊朗目标，摧毁了伊朗60%的弹道导弹发射装置。
+新华社报道，以色列国防军发言人德弗林星期五（4月17日）晚说，以军在首轮袭击中打击了伊朗首都德黑兰的伊朗最高领袖办公室、国防委员会、情报部门高级领导会议地点。伊朗前任最高领袖哈梅内伊在内的约40名高级官员，在以军首轮袭击中身亡。
+与此同时，200架以军战机对伊朗500个目标发动袭击。以军在首轮袭击中还打击了伊朗战略防御系统，并建立了对伊朗的“空中优势”，在最初的24小时内夺取了德黑兰上空的“制空权”。
+德弗林说，以军目前已摧毁伊朗60%的弹道导弹发射装置及其他武器存储设施。以军情报部门还“定位”了伊朗“数百家”武器生产工厂，包括大量涉及弹道导弹各环节的工厂和设施，并对这些目标发动打击。对伊朗工业系统的袭击造成的损失达到“数百亿美元”。
+根据以军公布的作战示意图，以军打击的伊朗防御系统、弹道导弹系统及指挥控制目标，多集中在伊朗西部地区。
+以军在后续打击中还袭击了伊朗伊斯兰革命卫队、民兵“动员穷人组织”、伊朗情报部及内部安全部队等目标。
+同时，以军摧毁了八个伊朗核计划“关键研发中心”，使铀浓缩等能力受损，并打击了伊朗“太空和人工智能（AI）计划”目标。
+德弗林还透露，以美两军在对伊朗军事行动中进行了“广泛和前所未有的合作”，以军总参谋长曾在行动前秘密访问华盛顿，两军成立了“联合打击小组”。
+他称，目前总结行动还“为时尚早”。以军总参谋长已将伊朗定为“主要战备区域”，以军做好了防御和进攻准备，并更新了作战计划，以备在“必要时”恢复战斗。以军将“继续在任何需要的地方开展行动”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿富汗兴都库什地区发生5级地震]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914226</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914226"/>
+        <updated>2026-04-18T03:54:49.000Z</updated>
+        <summary type="html"><![CDATA[阿富汗兴都库什地区星期六（4月18日）发生5级地震。
+欧洲地中海地震中心说，此次震源深度为190公里。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称接到关于伊朗“相当好”的消息]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914133</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914133"/>
+        <updated>2026-04-18T03:25:22.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期五（4月17日）晚说，他刚得到关于伊朗的“一些相当好的消息”，但他拒绝说明更多。
+路透社报道，特朗普17日晚结束内华达州和亚利桑那州的行程后，在空军一号上向媒体发表讲话。
+特朗普说：“20分钟前我们接到一些相当好的消息，中东和伊朗的情况好像进展非常顺利。”
+记者问是什么好消息，特朗普说：“你们会接到消息。我认为这是应有的结果。这是理所当然的结果。我有信心。让我们拭目以待。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕 | 原文]]></title>
+        <id>https://t.me/wxbyg/7137</id>
+        <link href="https://t.me/wxbyg/7137"/>
+        <updated>2026-04-18T03:25:15.000Z</updated>
+        <summary type="html"><![CDATA[一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕 | 原文
+Telegraph
+一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕
+我相信作为程序员，我们大概率都经历过这种时刻，毕竟写代码是一个特别容易进入心流的工作情境： 比如，下午三四点，你盯着屏幕上一段并不复杂的逻辑，反复读了三遍，脑子里就是串不起来。你觉得是自己状态差，去接了杯咖啡，回来继续看，还是一样。你开始怀疑自己是不是老了，注意力怎么这么差。 或者是晚上加班到九十点，眼睛又干又涩，I 和 l 和 1 都已经分不清了，你得把脸凑近屏幕才能确认一个变量名到底写的是什么。你揉揉眼睛，心想“要不今天就到这吧”，但其实任务还没做完。 又或者你在帮同事检查代码，改动前后的对比页面上…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：习近平对霍尔木兹海峡重新开放“非常高兴”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8914037</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8914037"/>
+        <updated>2026-04-18T03:22:10.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在社媒平台贴文说，中国国家主席习近平对霍尔木兹海峡开放“非常高兴”，还说期待与习近平会面。 
+特朗普星期五（4月17日）晚在社媒平台Truth Social写道：“习近平主席对霍尔木兹海峡开放或快速开放感到非常高兴。我们在中国的会晤将是特别的，甚至可以说是历史性的。我期待与习近平主席会面——我们必将取得丰硕成果！”
+特朗普上月说，他将在5月14日至15日访问中国。白宫之前说，特朗普将在3月31日至4月2日访问中国。美以伊战争爆发后，特朗普向媒体透露，他已要求中方把美中元首会晤推迟约一个月，让他集中精力处理中东战事。 
+特朗普17日称美国和伊朗已接近达成协议。伊朗外长阿拉格齐同日宣布，在以色列和黎巴嫩停火期间，完全开放霍尔木兹海峡让商船通行。特朗普接着宣称，伊朗已同意永不再关闭霍尔木兹海峡，并将继续对伊朗实施海上封锁，“直至我们与伊朗的交易百分之百完成”。 
+伊朗议会议长卡利巴夫18日凌晨警告，如果美国继续封锁伊朗港口，伊朗将再次关闭这条具有战略意义的海峡。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！ | 原文]]></title>
+        <id>https://t.me/wxbyg/7136</id>
+        <link href="https://t.me/wxbyg/7136"/>
+        <updated>2026-04-18T03:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Opus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！ | 原文
+Telegraph
+Opus 4.7 深扒：一边封神，一边翻车，官方亲自下场劝退！
+这两天的 Claude 用户，应该说是体验极差。 模型被偷偷降智，Opus 4.6 默认改成 adaptive thinking。 服务稳定性就更别提了，从 3 月开始到现在的 4 月，频繁宕机，错误率飙升。 然后又发公告，说要强实名制认证，好在目前还只是 Max 用户。 而就在这个节骨眼上，Opus 4.7 来了。 官方给出的本次升级的关键词：复杂任务、更强视觉、更稳的长链路执行，以及更少需要人工参与。 听着挺漂亮的对吧？ 我一开始也是这么觉得的，毕竟从 4.0 一路用到 4.6，每一代我都是那种第一时间冲上去试的人。…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国延长俄油制裁豁免一个月]]></title>
+        <id>https://www.zaobao.com/news/world/story20260418-8913904</id>
+        <link href="https://www.zaobao.com/news/world/story20260418-8913904"/>
+        <updated>2026-04-18T02:54:25.000Z</updated>
+        <summary type="html"><![CDATA[美国政府延长一项豁免，允许各国从海上购买受制裁的俄罗斯石油和石油产品，有效期约一个月。两天前，特朗普政府曾表明无意延长这项临时豁免。
+路透社报道，美国财政部网站星期五（4月17日）晚发布这项临时许可，允许各国在4月17日至5月16日购买装载在船上的俄罗斯石油。
+美国和以色列对伊朗的战争导致全球能源价格飙升，这项豁免是美国政府为控制全球能源价格而采取的措施之一。
+新宣布的豁免取代了4月11日到期的30天临时制裁豁免，允许各国购买目前滞留海上的俄罗斯原油及石油产品。伊朗、古巴、朝鲜被排除在豁免之外。 
+美国财政部3月20日宣布暂免伊朗石油制裁，美国财长贝森特说，允许约1亿4000万桶石油进入全球市场，有助于缓解美以伊战争造成的能源供应压力。4月15日，他称不会延长对俄罗斯石油和伊朗石油的临时制裁豁免。
+一些美国两党议员猛烈抨击政府，指这些制裁豁免将帮助伊朗和俄罗斯经济。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -579,42 +718,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[应对霍尔木兹海峡封锁 欧洲国家主导部署多国防御部队]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8913083</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8913083"/>
-        <updated>2026-04-17T15:04:54.000Z</updated>
-        <summary type="html"><![CDATA[法国、英国、德国与意大利领导人星期五（4月17日）在巴黎召开会议，商讨组建一支多国防御部队，旨在冲突结束后恢复霍尔木兹海峡的航行自由。
-据路透社和法新社报道，目前已有超过12个国家表示愿意提供军事资源参与这项任务。
-英国首相斯塔默在会后的记者会上宣布，下周将在伦敦召开军事计划会议，进一步落实多国部队的组成细节。
-他强调：“重新开放海峡是全球的必然需要，也是全球的责任。”
-这项由欧洲主导的会议被视为欧盟展现其战略自主能力的重要契机。会议由斯塔默与法国总统马克龙共同主持，共有49个国家的代表参与，其中包括亲临巴黎的德国总理默茨和意大利总理梅洛尼。
-值得注意的是，这次会议仅邀请“非参战国”参加，美国、以色列与伊朗均被排除在外。
-默茨星期四说，虽然德国原则上愿意参与，但谨慎提醒称，目前距离正式部署仍有相当长的一段路要走。
-官员强调，拟议中的多国军事任务具有严格的防御性质，核心任务包括开展扫雷行动和反勒索行动。
-除了能源安全，会议还讨论了人道主义危机。目前有数百艘船因封锁被困波斯湾，船上约两万名船员的安危引发国际社会高度关注。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎巴嫩总统：与以色列谈判“敏感且具有关键意义”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8913021</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8913021"/>
-        <updated>2026-04-17T14:47:54.000Z</updated>
-        <summary type="html"><![CDATA[黎巴嫩总统奥恩说，与以色列进行直接谈判至关重要。此前，美国总统特朗普宣布两国停火，并说两国领导人即将举行会晤。 
-法新社引述黎巴嫩总统府星期五（4月17日）发布的声明说，奥恩指出：“谈判敏感且具有关键意义……停火是推进谈判的前提。”
-他重申，贝鲁特的目标是“巩固停火，确保以色列军队从黎巴嫩南部撤出，解救被俘人员，并解决悬而未决的边界争端”。
-他指出，停火是推进后续谈判的重要前提，相关进程获得国内外支持。
-美国国务院公布的停火协议细节并未提及以色列军队从黎巴嫩撤军。
-新华社引述奥恩说，黎巴嫩军队将在以军撤离后发挥关键作用，维护黎南部安全秩序并推进解除武装进程，确保除国家军队及合法安全机构外不再存在其他武装力量，以保障居民安全返回家园。
-谈判代表团成员说，停火进程为黎巴嫩带来关键转折点，有助于推动国家迈向更加稳定的阶段。
-美国总统特朗普星期四在社交媒体发文，宣布黎巴嫩和以色列将于黎以当地时间17日零时、（新加坡时间17日5时）正式开始停火，为期10天。 
-特朗普称，以色列总理内坦亚胡和奥恩很可能会在“未来一两周内”在白宫会晤。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[油菜花不是黄色的吗？这些彩色油菜花是怎么来的？ | 原文]]></title>
         <id>https://t.me/wxbyg/7129</id>
         <link href="https://t.me/wxbyg/7129"/>
@@ -625,107 +728,6 @@ Telegraph
 每到三四月份，各地油菜花盛开，吸引了不少游客前往拍照打卡。但如果走进一些油菜花景区，你可能会看到一幅打翻调色盘的景象：雪白、粉红、橘红，甚至深紫色的油菜花同时盛开。 彩色油菜花｜周抖抖 等等，油菜花不是黄色的吗？这些彩色油菜花是怎么来的？ 油菜花为什么会出现不同颜色？ 花朵颜色主要由类胡萝卜素（carotenoids）和花青素（anthocyanins）两类色素决定。当这两类色素的比例变化时，就会形成从黄色到紫红色的各种色调。 类胡萝卜素通常呈现黄色或橙色，胡萝卜、南瓜、玉米等植物的颜色大多来自它们，它…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗宣布霍尔木兹海峡开放让商船通行 油价随即大跌]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8912643</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8912643"/>
-        <updated>2026-04-17T13:13:39.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐星期五（4月17日）说，根据黎巴嫩停火协议，霍尔木兹海峡对所有商船的通行在停火协议剩余期限内完全开放。
-路透社引述阿拉格齐在社交媒体X网站上的贴文说，船舶将按照伊朗港口和海事组织此前公布的协调航线通过海峡。
-美国总统特朗普随后在交媒体上感谢伊朗开放霍尔木兹海峡。他说：“伊朗海峡已完全开放，可全面通行。谢谢！” 
-阿拉格齐宣布消息后，油价暴跌逾10%，延续了此前的跌势。
-格林尼治标准时间17日13时11分（新加坡时间21时11分），布伦特原油期货下跌11.12美元（14.12新元），跌幅11.2%，至每桶88.27美元（112.06新元）。美国西得克萨斯中质原油期货下跌11.40美元，跌幅12%，至每桶83.29美元。
-瑞银分析师斯陶诺沃说：“伊朗外长的讲话表明，只要停火协议有效，局势就会缓和。现在，我们还需要观察通过霍尔木兹海峡的油轮数量是否会大幅增加。”
-由于美国和伊朗周末可能举行进一步会谈，以及黎巴嫩和以色列之间达成为期10天的停火协议，提振了投资者对中东战争可能接近结束的希望，因此，早盘价格已经下跌。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霍尔木兹海峡航运受阻 巴拿马运河“插队费”飙升]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8912535</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8912535"/>
-        <updated>2026-04-17T12:44:49.000Z</updated>
-        <summary type="html"><![CDATA[（巴拿马城综合电）伊朗战争使霍尔木兹海峡航运受阻，船只纷纷转向巴拿马运河，导致运河通航船只数量大增，目前要进入运河平均得等上三天半。
-知情人士透露，最近一艘液化石油气运输船为了优先通行，甚至支付高达400万美元（约500万新元）的“插队费”，远高于3月初伊朗冲突爆发初期的不到100万美元。
-不过，巴拿马运河管理局受询时试图淡化有关报道，称液化石油气船通过拍卖获得优先通行权，反映的是短期市场变化，而非运河设定的收费。
-运河管理局有时会在交通拥堵时，拍卖插队权，出价最高的船只可优先通行。当局指出，拍卖价格由多重因素决定，包括客户的紧迫性、商业优先事项、全球供需状况，以及运费和燃料价格等。
-“插队费”是运河通行费以外的收费，通行费则是根据船舶类型、尺寸及载货量计算，一般高达数十万美元。
-能源分析公司Vortexa的数据显示，由中国万华化学公司控制、悬挂新加坡国旗的Gas Virgo货船，从美国得克萨斯州运载液化石油气于星期三（4月15日）通过运河。针对这艘船是否就是400万美元“插队费”的支付者，万华化学公司位于烟台的总部发言人拒绝评论。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普政府游说盟友 支持“以贸易取代援助”倡议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8910662</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8910662"/>
-        <updated>2026-04-17T12:18:47.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿路透电）美国特朗普政府推动外交政策调整，计划在联合国推动“以贸易代替援助”宣言，并要求各国表态支持。
-据路透社查阅的美国国务院外交电报，国务卿鲁比奥星期三（4月15日）指示驻全球各地的美国外交官游说所在国高层，在联合国支持宣言，并争取各国在4月20日前签字支持。
-电报称，这项倡议旨在借助联合国体系推广“美国优先”理念，同时为美企创造更多商业机会。
-特朗普重回白宫后就冻结并削减大量援助项目，称原有体系存在浪费与滥用、制造了依赖关系，并未促进美国利益。
-国务院副发言人皮戈特强调，美国仍是最慷慨的国家，“那些主张‘援助而非贸易’的人，实际上是在为腐败的非政府组织谋取私利”。
-但慈善机构洛克菲勒基金会副总裁佩洛夫斯基指出，美国人历来都是冲向火场施以援手，而不是向受难者兜售消防水管，这种做法背离了美国的传统、价值观和国家安全利益。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚将签署巨额合同 向日本采购护卫舰]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8912309</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8912309"/>
-        <updated>2026-04-17T11:51:16.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚即将签署一份价值数十亿美元的合同，从日本购买先进的海军护卫舰。这项交易将有助于澳洲海军现代化，提升东京成为全球防务市场主要参与者的雄心，并深化两国之间的安全联系。
-彭博社引述澳洲政府发言人称，澳洲国防部长马尔斯以及日本国防部长小泉进次郎星期六（4月18日）将在墨尔本参加签字仪式。
-发言人说，这项合同将涵盖11艘护卫舰中的前三艘，预算为150亿澳元至200亿澳元（约137亿新元至183亿新元）。三菱重工是“最上”级护卫舰项目的首席承包商，护卫舰针对水下作战和防空进行优化，将取代澳洲的Anzac级军舰。
-按照计划，前三艘舰船将在日本建造，其余船只将在西澳大利亚州建造。首艘船预计2029年交付，并于2030年投入使用。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方军情：伊朗战前规划最大限度提升了军事反击能力]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8910646</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8910646"/>
-        <updated>2026-04-17T11:44:30.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）西方军事情报评估显示，伊朗在战前制定的规划，显著降低了美国和以色列联合军事打击对伊朗武器库和领导层的冲击。
-评估还指出，如果美伊停火谈判最终失败，伊朗仍有能力进行反击，甚至可能利用停火期重整军备，为冲突重启做准备。
-彭博社星期五（4月17日）引述匿名的消息人士报道，虽然伊朗的基础设施严重受损，多名高层领导人被杀，但伊朗为应对冲突而制定的作战计划，有效防止了导弹和无人机能力受到的破坏，并最大限度地提升了军事反击的能力。
-这些信息与美国总统特朗普和政府高层官员对伊朗战事的评估相差堪远。
-特朗普星期一在自家社媒发文称：“伊朗已被彻底摧毁，无论在军事上还是其他方面。”
-特朗普4月7日宣布停火时还说，美国已“超额”完成所有军事目标。 
-但知情者说，伊朗为高级军事领导人被杀后进行替换而制定的计划，意味着伊朗可最大限度地减少对指挥结构的干扰。
-评估也显示，伊朗似乎仍拥有大量远程导弹储备和数千架无人机。
-在4月8日的新闻发布会上，美国战争部长赫格塞斯宣称：“无论从哪个角度看，‘史诗怒火’行动都重创了伊朗军队，使其在未来数年内丧失了作战能力。”
-一些西方官员则私下认为，美国须再进行两到三周的打击才能完全削弱伊朗的能力，但也有人说美方需更长时间，而且伊朗的工业和核能力可能仍未被摧毁。
-据了解，伊朗已将它的导弹发射器和无人机基础设施分散部署在全国各地，并且还会将发射器转移到不同的地点，这使得美国更难以迅速将它们摧毁。
-美国中央司令部拒绝就这份评估报告置评。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[燃油短缺与价格飙升 航空业“停飞潮”蔓延]]></title>
-        <id>https://www.zaobao.com/news/world/story20260417-8911973</id>
-        <link href="https://www.zaobao.com/news/world/story20260417-8911973"/>
-        <updated>2026-04-17T11:16:31.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦/法兰克福/拉各斯综合电）伊朗战争引发的航空燃油供应短缺和价格飙升，正在导致航空业“停飞潮”蔓延。 
-德国汉莎航空星期四（4月16日）宣布，旗下汉莎城际航空（Lufthansa CityLine）将停飞27架飞机，另有四架较老旧的汉莎客机也将停飞。汉莎是首个作出停飞举动的主要航空公司。
-据报道，韩亚航空（Asiana）因燃油成本高涨，于4月至7月削减22趟航班。
-尼日利亚的航空公司警告，最快可能于下周一就开始停飞。
-代表国内多家航空公司的尼日利亚航空运营商协会说，目前航空公司的收益已不足以负担燃油费，因为国内燃油供应商趁机将燃油价格抬高300%，高于国际燃油价格涨幅。
-自2月28日美以伊开战以来，各航空公司已上调机票价格、征收燃油附加费并削减部分航线，以增加收入和削减成本。航空公司警告，燃料短缺可能在数周内出现，这将扰乱北半球夏季出行高峰，加剧航空业近年来最严重的危机。
-分析人士说，航空公司未来可能会进一步削减运力、停飞航班以及征收附加费。
-英国廉航易捷航空（EasyJet）总裁贾维斯说，为了将不确定因素减到最低，旅客现在临近出行日期才预订机票，而且开始转向国内旅游。易捷航空先前已警告，中东战争冲击机票预订量，并会在夏季末进一步推高机票价格。
-自美以伊开战以来，亚洲航空燃油价格已飙涨77%，欧洲面临燃油供应短缺，美国则因较少依赖经由波斯湾运输的燃油供应，国内大部分地区的燃油价格涨幅相对较小。不过为应对成本上升，美国一些航空公司已上调行李托运费以及削减航班。
-飞美国航线的挪威廉航挪威大西洋航空（Norse Atlantic）也作出调整，宣布取消美国洛杉矶国际机场往返伦敦、罗马和巴黎的航班，其他航线包括飞往美国纽约和奥兰多的航班则维持不变。
-中东冲突在国际上掀起燃油的热潮。欧盟多达75%航空燃油供应来自中东，目前欧盟正在制定紧急计划，希望最大限度地提高炼油厂产量，与此同时欧盟从美国进口的航空燃油创下新高。 
-澳大利亚总理阿尔巴尼斯本周展开东南亚之行，星期四宣布从文莱和韩国争取到1亿公升或57万桶柴油供应。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -912,32 +914,6 @@ Telegraph
 Telegraph
 一桩熟人社会里的少年杀人案
 在刚刚过去的全国两会上，2025年的《最高人民法院工作报告》里，关于未成年人犯罪预防治理，专门提到了一句话——“对杀害女同学的某14岁学生，依法顶格判处无期徒刑”。 这句话背后，是一个惨痛的案件。一年前，4月的深圳，一个14岁的女孩，在自家楼下被杀害。施害者是她的同班男同学。三年里，他们每天一起坐车上下学。 这个案件，因案情的残酷程度，以及施害人与受害人的同学、邻居关系，让社会尤为震动。我们想知道，孩子们之间到底发生了什么，于是去到了深圳，和受害者家属，这个班级的同学、老师，以及熟悉未成年人案件的律师交谈。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对着蘑菇撒尿，会被全村的蘑菇在背后议论吗？丨自然小喇叭 | 原文]]></title>
-        <id>https://t.me/wxbyg/7117</id>
-        <link href="https://t.me/wxbyg/7117"/>
-        <updated>2026-04-16T11:11:18.000Z</updated>
-        <summary type="html"><![CDATA[对着蘑菇撒尿，会被全村的蘑菇在背后议论吗？丨自然小喇叭 | 原文
-Telegraph
-对着蘑菇撒尿，会被全村的蘑菇在背后议论吗？丨自然小喇叭
-欢迎收看自然小喇叭栏目的第105期，在过去的半个月里，我们搜罗了以下值得一看的自然新闻和研究： 1）蘑菇的地下网络可以传信 2）把孩子背在背上的蛙蛙 3）章鱼茎化腕能闻到异性 4）猫吃两口就走是因为闻腻了 5）雏鸡喜欢被人类摸摸 6）蚂蚁组成拉链来装修巢穴 蘑菇网络 一株蘑菇发生了什么事，它的七大姑八大姨全都能知道。 我们能看到的地表上那些伞状的蘑菇，其实只是真菌身体的一小部分。在地表之下，无数比头发还细的菌丝交织形成网络，在土壤里绵延，把同一片林子里的蘑菇连在一起。通过这套地下网络，真菌可以传递信息。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约20位中国学者在西雅图机场遭无理盘查并被拒绝入境！外交部紧急提醒→ | 原文]]></title>
-        <id>https://t.me/wxbyg/7116</id>
-        <link href="https://t.me/wxbyg/7116"/>
-        <updated>2026-04-16T09:44:15.000Z</updated>
-        <summary type="html"><![CDATA[约20位中国学者在西雅图机场遭无理盘查并被拒绝入境！外交部紧急提醒→ | 原文
-Telegraph
-约20位中国学者在西雅图机场遭无理盘查并被拒绝入境！外交部紧急提醒→
-外交部领事司“领事直通车”4月16日消息，近日，约20位中国学者持有效合法签证赴美国参加学术会议，在美国西雅图机场遭海关与边境保护局（CBP）执法人员无理盘查并被拒绝入境。 鉴于西雅图塔科马国际机场连续发生针对中国学者恶意盘查滋扰情况，外交部和中国驻美国使领馆提醒近期拟赴美人员增强安全防范意识，避免从该机场入境，同时请提前详细了解美国入境规定，做好各项准备。如遇美方执法人员盘查，冷静理性应对。 联系方式 外交部全球领事保护与服务应急热线（24小时）： +86-10-12308 +86-10-65612308…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
         </author>

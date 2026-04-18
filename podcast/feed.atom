@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T02:43:58.644Z</updated>
+    <updated>2026-04-18T07:14:20.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1454,19 +1454,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <link href="http://go.ted.com/davidlarbi"/>
         <updated>2026-03-20T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Author David Larbi recites a poem about the journey toward joy, reminding us of all the ways it can be found: having a conversation with a stranger, tasting the perfect bite of food or enjoying a good stretch. Joy is all around us — you just need to know where to look.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 6 eras of NBA fashion — from restrained to radical | Mitchell S. Jackson]]></title>
-        <id>69baf3c16cb58679e8f88ff6</id>
-        <link href="http://go.ted.com/mitchellsjackson"/>
-        <updated>2026-03-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What are you wearing, and why? This is the question that writer and TED Fellow Mitchell S. Jackson asks as he unpacks the six eras of NBA style. Tracing an arc from Bill Russell to Lebron James and beyond, he explores how players use fashion on and off the court to challenge the limits placed upon them — revealing a deeper story about culture, identity and power.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
