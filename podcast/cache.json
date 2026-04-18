@@ -228,6 +228,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69e064cf501ebe6715dd4fa7",
+          "author": null,
+          "description": "OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, create and build. \"The lobster is loose, and it's not going back into the tank,\" he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/petersteinberger",
+          "publishedOn": "2026-04-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How I created OpenClaw, the viral AI agent | Peter Steinberger",
+          "itunes": {
+            "duration": "18:48"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69e064cf501ebe6715dd4fa7/media.mp3",
+            "length": "18148847",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69e02a0a6f0d582d7adba74b",
           "author": null,
           "description": "The United States is on track to win the AI race — and hollow itself out in the process, says Gina Raimondo, former Governor of Rhode Island and US Secretary of Commerce. In this unflinching look at the threat of AI-induced economic disruption and social unrest, she offers a concrete blueprint to prepare workers for what’s coming next. \"AI is a 100-year technology and needs a 100-year response,\" she says. Is America up to the challenge?\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
