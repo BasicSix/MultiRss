@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T18:57:33.148Z</updated>
+    <updated>2026-04-19T03:18:29.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1456,19 +1456,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <link href="http://go.ted.com/rhondaross"/>
         <updated>2026-03-21T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[To calm the storm inside your mind, you must first understand it. Singer and actress Rhonda Ross shares her theory of "emotional sovereignty" — the idea that your feelings aren't shaped just by your circumstances, but by the thoughts running on loop in your head. In conversation with scholar and TED Fellow Daniel Alexander Jones, Ross introduces the unexpected, music-rooted practice for taking control of your narrative.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy will find you — if you let it | David Larbi]]></title>
-        <id>69bc483d62f6c66afe5c40a0</id>
-        <link href="http://go.ted.com/davidlarbi"/>
-        <updated>2026-03-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author David Larbi recites a poem about the journey toward joy, reminding us of all the ways it can be found: having a conversation with a stranger, tasting the perfect bite of food or enjoying a good stretch. Joy is all around us — you just need to know where to look.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

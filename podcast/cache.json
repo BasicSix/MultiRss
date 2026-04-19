@@ -910,24 +910,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69bc483d62f6c66afe5c40a0",
-          "author": null,
-          "description": "Author David Larbi recites a poem about the journey toward joy, reminding us of all the ways it can be found: having a conversation with a stranger, tasting the perfect bite of food or enjoying a good stretch. Joy is all around us — you just need to know where to look.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/davidlarbi",
-          "publishedOn": "2026-03-20T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Joy will find you — if you let it | David Larbi",
-          "itunes": {
-            "duration": "7:13"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bc483d62f6c66afe5c40a0/media.mp3",
-            "length": "7031279",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
