@@ -1,320 +1,6 @@
 {
   "sources": [
     {
-      "title": "零度解说",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvijahEyGtvMpmMHBu4FS2w",
-      "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=77dNa9uscTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77dNa9uscTM",
-          "publishedOn": "2026-04-18T12:15:01.000Z",
-          "wordCount": null,
-          "title": "Google 把 AI 搜索塞进 Windows！完全免费，比传统搜索强太多了（实测体验）| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vsm1oVl_pzE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vsm1oVl_pzE",
-          "publishedOn": "2026-04-17T12:15:09.000Z",
-          "wordCount": null,
-          "title": "5分钟搭建AI助手！自动接单+自动回复，小白也能用（无需代码）｜Hostinger｜零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0dztupxdseE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0dztupxdseE",
-          "publishedOn": "2026-04-15T12:36:56.000Z",
-          "wordCount": null,
-          "title": "太爽了！Hermes Agent 发布UI了，本地对接最强开源 Gemma 4 模型+ 微信（免费无需Token）| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oW6DOhGaVTs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oW6DOhGaVTs",
-          "publishedOn": "2026-04-13T12:55:26.000Z",
-          "wordCount": null,
-          "title": "Gemma 4 被越狱了！谷歌最强开源模型，这才是普通人真正需要的本地AI！| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gi7HV2WHxBs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gi7HV2WHxBs",
-          "publishedOn": "2026-04-11T13:03:46.000Z",
-          "wordCount": null,
-          "title": "删掉 OpenClaw！Hermes Agent 才是真王炸，一键本地部署 + TG接入全教程（避坑指南） | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S5CF--dRwws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S5CF--dRwws",
-          "publishedOn": "2026-04-09T12:00:54.000Z",
-          "wordCount": null,
-          "title": "别再傻傻订阅一堆AI了！这个工具1个顶5个，帮你省下$1000月 | Skywork实测 | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZVdx9VmpE7g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZVdx9VmpE7g",
-          "publishedOn": "2026-04-08T12:45:18.000Z",
-          "wordCount": null,
-          "title": "Qwen3.6-Plus 太猛了！免费 + 百万上下文 + Agent + 视觉多模态AI能力拉满！| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
-          "publishedOn": "2026-04-06T12:15:10.000Z",
-          "wordCount": null,
-          "title": "零成本跑最强AI！Gemma 4手机本地部署（支持离线+多模态）安卓+iPhone全搞定 | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y_mz59nDC0g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y_mz59nDC0g",
-          "publishedOn": "2026-04-05T12:18:58.000Z",
-          "wordCount": null,
-          "title": "人类54年后再奔月！阿尔忒弥斯2号飞向深空，宇航员首次实时连线地球！ | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jTVKagbUA68",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jTVKagbUA68",
-          "publishedOn": "2026-04-04T12:16:52.000Z",
-          "wordCount": null,
-          "title": "Gemma 4 太猛了！谷歌最强开源模型，本地就能跑多模态（实测） | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=chcFg878840",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=chcFg878840",
-          "publishedOn": "2026-04-02T11:56:57.000Z",
-          "wordCount": null,
-          "title": "2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IYmMyPfKvM8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IYmMyPfKvM8",
-          "publishedOn": "2026-03-31T12:02:12.000Z",
-          "wordCount": null,
-          "title": "OpenClaw 装进手机！即装即用，旧手机秒变随身AI（无需服务器）省电又便捷！| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tM-mf3skkaA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tM-mf3skkaA",
-          "publishedOn": "2026-03-29T11:38:47.000Z",
-          "wordCount": null,
-          "title": "OpenClaw 装进U盘！即插即用，电脑秒变随身AI（3套免费方案）｜龙虾盘｜零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vt-yMk3cie4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vt-yMk3cie4",
-          "publishedOn": "2026-03-27T11:15:00.000Z",
-          "wordCount": null,
-          "title": "OpenClaw 爆了！黄仁勋一句话点破关键，英伟达紧急发布 NemoClaw｜零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vccu7RsPgfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vccu7RsPgfY",
-          "publishedOn": "2026-03-25T12:09:18.000Z",
-          "wordCount": null,
-          "title": "NAS 部署 OpenClaw 太简单了！一篇搞定所有配置，实测100%成功（保姆级教程）| 零度解说",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "七七行銷筆記",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo2eY8Nk3lPOh6sef1sQx_Q",
-      "siteUrl": "https://www.youtube.com/channel/UCo2eY8Nk3lPOh6sef1sQx_Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=r1hgW9MqK3Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r1hgW9MqK3Y",
-          "publishedOn": "2026-04-16T04:58:58.000Z",
-          "wordCount": null,
-          "title": "【保姆級教學】複製AI智慧老人頻道，月轉1萬美金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KxzHN8nAnMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KxzHN8nAnMs",
-          "publishedOn": "2026-04-04T04:00:15.000Z",
-          "wordCount": null,
-          "title": "【保姆級】長輩AI教學！一部手機讓中老年學會買機票、辨詐騙、修老照片，Gemini完整教學，免費好用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WZcNLBtFsMA",
-          "publishedOn": "2026-04-02T06:53:03.000Z",
-          "wordCount": null,
-          "title": "Nano banana2 15種神級玩法實測，電商產品圖、遊戲場景擴充、漫畫生成、知識圖解，解決中文亂碼問題，免費使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vQPr1tKHE7Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vQPr1tKHE7Y",
-          "publishedOn": "2026-03-20T12:12:51.000Z",
-          "wordCount": null,
-          "title": "我用了上百個AI工具，只有這17個值得每天打開，很多還免費，日常寫作、圖像創作、語音轉文字、效率提升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZFmGyBa2yq4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZFmGyBa2yq4",
-          "publishedOn": "2026-03-18T08:44:35.000Z",
-          "wordCount": null,
-          "title": "從零開始月賺2萬美金，23歲Connor用AI打破編程神話",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cpcOmKzaOnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cpcOmKzaOnE",
-          "publishedOn": "2026-03-05T12:27:26.000Z",
-          "wordCount": null,
-          "title": "這5個ChatGPT隱藏技巧，讓你贏過90%的人，12分鐘上手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wEjdQtaTlW0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wEjdQtaTlW0",
-          "publishedOn": "2026-03-04T04:27:18.000Z",
-          "wordCount": null,
-          "title": "【保姆級】零基礎小白必看，2026年普通人必備的6 個AI使用技能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jfMcQRotgEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jfMcQRotgEQ",
-          "publishedOn": "2026-02-27T14:48:27.000Z",
-          "wordCount": null,
-          "title": "90%的人都用錯了Gemini：打造Gem AI團隊，告別重複勞動，工作賺錢效率翻十倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6uP7bbvZOKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6uP7bbvZOKs",
-          "publishedOn": "2026-02-20T12:13:50.000Z",
-          "wordCount": null,
-          "title": "挑戰全網最完整AI+YouTube 新手教學攻略，定位、變現、內容製作、AI應用，一次性講清楚！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=clyNHTWJ07M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=clyNHTWJ07M",
-          "publishedOn": "2026-02-18T11:42:22.000Z",
-          "wordCount": null,
-          "title": "90%的人都用錯Gemini！用Opal打造專屬AI員工，數字人口播、廣告視頻、品牌網頁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JEaJK74Gk08",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JEaJK74Gk08",
-          "publishedOn": "2026-02-13T12:00:37.000Z",
-          "wordCount": null,
-          "title": "即夢Seedance2.0太強了，16個瘋狂案例，無限運鏡，精準動作控制，電商產品圖、短劇，廣告片，口播...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oNr7wWGjxqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oNr7wWGjxqE",
-          "publishedOn": "2026-02-09T08:57:29.000Z",
-          "wordCount": null,
-          "title": "Genspark太強了！Gemini3.0Pro /Claude/GPT-5.2頂級模型全年無限免費用，3分鐘生成專業簡報，語音轉文字超絲滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KisIJN0fGCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KisIJN0fGCk",
-          "publishedOn": "2026-02-08T09:13:45.000Z",
-          "wordCount": null,
-          "title": "【保姆級教程】AI做動物救援影片，一個月10萬訂閱，免費工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lK7mOQ5DwtY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lK7mOQ5DwtY",
-          "publishedOn": "2026-02-04T09:28:21.000Z",
-          "wordCount": null,
-          "title": "【Claude Skill 完整教學】90%的人都不知道的隱藏功能，讓AI變成你的專屬員工，12分鐘打造X推文自動化系統",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e4sWeyeSWj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e4sWeyeSWj8",
-          "publishedOn": "2026-02-02T07:12:31.000Z",
-          "wordCount": null,
-          "title": "【保姆級教程】AI做可愛貓咪跳舞影片，免費工具，動作精準控制",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "科技梦星云",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCefuY8ao6vYFRqbTNcuj3aA",
       "siteUrl": "https://www.youtube.com/channel/UCefuY8ao6vYFRqbTNcuj3aA",
@@ -325,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2148,
+          "wordCount": 2185,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -345,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 2109,
+          "wordCount": 2123,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -375,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxRMXySGRwA",
           "publishedOn": "2026-04-10T22:00:22.000Z",
-          "wordCount": 2124,
+          "wordCount": 2158,
           "title": "【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨",
           "imageUrl": null
         },
@@ -395,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2110,
+          "wordCount": 2144,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         },
@@ -435,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f7NzWy30ZyY",
           "publishedOn": "2026-04-03T04:00:41.000Z",
-          "wordCount": 2115,
+          "wordCount": 2119,
           "title": "【AI音乐】AIVA+Stable Audio 2分钟免费实现自主版权乐曲自由 | Cook Royalty‑Free Bangers in 2 Mins—AIVA+Stable Audio stl✨",
           "imageUrl": null
         },
@@ -465,55 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ev_Jx8Q65_k",
           "publishedOn": "2026-03-30T06:04:44.000Z",
-          "wordCount": 2103,
+          "wordCount": 2102,
           "title": "【AI音乐】妙哉！音痴2分钟aiva轻松音乐编辑 | Zero Music Theory? Edit Hits Instantly with AIVA in 2Mins✨",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "小琳解说",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo0LN_BATQbaz8GfazzScvA",
-      "siteUrl": "https://www.youtube.com/channel/UCo0LN_BATQbaz8GfazzScvA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZeIz0U21_Qc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZeIz0U21_Qc",
-          "publishedOn": "2026-04-01T11:30:16.000Z",
-          "wordCount": null,
-          "title": "免费eu.cc域名 喂饭教程  6分钟搞定 注册只需一个邮箱 支持托管Cloudflare  搭建代理节点等项目  #cloudflare |小琳解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sH8KCLGnIOk",
-          "publishedOn": "2026-03-25T10:01:16.000Z",
-          "wordCount": null,
-          "title": "cloudflare代理节点优选IP扫描测速软件 安卓版发布 程序小巧 使用简单 |小琳解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fw2W4B77bts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fw2W4B77bts",
-          "publishedOn": "2026-02-02T10:00:18.000Z",
-          "wordCount": null,
-          "title": "CloudFlare 优选IP扫描测速软件升级2.0  支持修改端口 支持一键导出结果 | 小琳解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x9NTDJqV2uk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x9NTDJqV2uk",
-          "publishedOn": "2026-01-22T10:01:32.000Z",
-          "wordCount": null,
-          "title": "全新cloudflare优选IP扫描测速软件 指定地区 ipv4 ipv6双模式  | 小琳解说",
           "imageUrl": null
         }
       ]

@@ -2,198 +2,431 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T18:57:27.917Z</updated>
+    <updated>2026-04-20T03:20:46.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Handwork]]></title>
-        <id>1x-3550761</id>
-        <link href="https://1x.com/photo/3550761"/>
-        <updated>2026-04-19T18:57:25.188Z</updated>
-        <summary type="html"><![CDATA[Handwork by Bashar Alsofey]]></summary>
+        <title type="html"><![CDATA[The Geometry of Silence]]></title>
+        <id>1x-3545286</id>
+        <link href="https://1x.com/photo/3545286"/>
+        <updated>2026-04-20T03:20:46.112Z</updated>
+        <summary type="html"><![CDATA[The Geometry of Silence by X-FlyingKN]]></summary>
         <author>
-            <name>Bashar Alsofey</name>
+            <name>X-FlyingKN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flux of Time]]></title>
-        <id>1x-3549170</id>
-        <link href="https://1x.com/photo/3549170"/>
-        <updated>2026-04-19T18:57:24.858Z</updated>
-        <summary type="html"><![CDATA[Flux of Time by Tomoaki Katsuba]]></summary>
+        <title type="html"><![CDATA[Above the sky]]></title>
+        <id>1x-3551580</id>
+        <link href="https://1x.com/photo/3551580"/>
+        <updated>2026-04-20T03:20:46.110Z</updated>
+        <summary type="html"><![CDATA[Above the sky by Bing Li]]></summary>
         <author>
-            <name>Tomoaki Katsuba</name>
+            <name>Bing Li</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刹那の軌道]]></title>
-        <id>1x-3548019</id>
-        <link href="https://1x.com/photo/3548019"/>
-        <updated>2026-04-19T18:57:24.379Z</updated>
-        <summary type="html"><![CDATA[刹那の軌道 by Tsuboya Seiichi]]></summary>
+        <title type="html"><![CDATA[Reflections Beneath Silent Peaks]]></title>
+        <id>1x-3551629</id>
+        <link href="https://1x.com/photo/3551629"/>
+        <updated>2026-04-20T03:20:46.107Z</updated>
+        <summary type="html"><![CDATA[Reflections Beneath Silent Peaks by Gregor Kobilica]]></summary>
         <author>
-            <name>Tsuboya Seiichi</name>
+            <name>Gregor Kobilica</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So Comfortable]]></title>
-        <id>1x-3551404</id>
-        <link href="https://1x.com/photo/3551404"/>
-        <updated>2026-04-19T18:57:24.376Z</updated>
-        <summary type="html"><![CDATA[So Comfortable by Phillip Chang]]></summary>
+        <title type="html"><![CDATA[Chasing]]></title>
+        <id>1x-3537920</id>
+        <link href="https://1x.com/photo/3537920"/>
+        <updated>2026-04-20T03:20:46.098Z</updated>
+        <summary type="html"><![CDATA[Chasing by Rob Li]]></summary>
         <author>
-            <name>Phillip Chang</name>
+            <name>Rob Li</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Royal Penguins]]></title>
-        <id>1x-3547745</id>
-        <link href="https://1x.com/photo/3547745"/>
-        <updated>2026-04-19T18:57:24.373Z</updated>
-        <summary type="html"><![CDATA[Royal Penguins by Siyu_Wei APA]]></summary>
+        <title type="html"><![CDATA[Generations]]></title>
+        <id>1x-3551632</id>
+        <link href="https://1x.com/photo/3551632"/>
+        <updated>2026-04-20T03:20:46.095Z</updated>
+        <summary type="html"><![CDATA[Generations by Kieran O Mahony AIPF]]></summary>
         <author>
-            <name>Siyu_Wei APA</name>
+            <name>Kieran O Mahony AIPF</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Framed by Light]]></title>
-        <id>1x-3548694</id>
-        <link href="https://1x.com/photo/3548694"/>
-        <updated>2026-04-19T18:57:24.364Z</updated>
-        <summary type="html"><![CDATA[Framed by Light by Hamza Qarooni]]></summary>
+        <title type="html"><![CDATA[An Athenian]]></title>
+        <id>1x-3551409</id>
+        <link href="https://1x.com/photo/3551409"/>
+        <updated>2026-04-20T03:20:46.090Z</updated>
+        <summary type="html"><![CDATA[An Athenian by Leonid Yermoshkin]]></summary>
         <author>
-            <name>Hamza Qarooni</name>
+            <name>Leonid Yermoshkin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3549990</id>
-        <link href="https://1x.com/photo/3549990"/>
-        <updated>2026-04-19T18:57:24.358Z</updated>
-        <summary type="html"><![CDATA[Untitled by Andy Bauer]]></summary>
+        <title type="html"><![CDATA[Chelsey]]></title>
+        <id>1x-3551106</id>
+        <link href="https://1x.com/photo/3551106"/>
+        <updated>2026-04-20T03:20:46.086Z</updated>
+        <summary type="html"><![CDATA[Chelsey by Leonard Teo]]></summary>
         <author>
-            <name>Andy Bauer</name>
+            <name>Leonard Teo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stray Dog]]></title>
-        <id>1x-3549793</id>
-        <link href="https://1x.com/photo/3549793"/>
-        <updated>2026-04-19T18:57:24.354Z</updated>
-        <summary type="html"><![CDATA[Stray Dog by Tatsuhiro Takayama]]></summary>
+        <title type="html"><![CDATA[Grandes Jorasses]]></title>
+        <id>1x-3551579</id>
+        <link href="https://1x.com/photo/3551579"/>
+        <updated>2026-04-20T03:20:46.083Z</updated>
+        <summary type="html"><![CDATA[Grandes Jorasses by Paco Jimenez]]></summary>
         <author>
-            <name>Tatsuhiro Takayama</name>
+            <name>Paco Jimenez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Against the Grain]]></title>
-        <id>1x-3485326</id>
-        <link href="https://1x.com/photo/3485326"/>
-        <updated>2026-04-19T18:57:24.350Z</updated>
-        <summary type="html"><![CDATA[Against the Grain by Jacob (Jian) Xu]]></summary>
+        <title type="html"><![CDATA[Oceanside Pier]]></title>
+        <id>1x-3551634</id>
+        <link href="https://1x.com/photo/3551634"/>
+        <updated>2026-04-20T03:20:46.080Z</updated>
+        <summary type="html"><![CDATA[Oceanside Pier by Rong Shu]]></summary>
         <author>
-            <name>Jacob (Jian) Xu</name>
+            <name>Rong Shu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pulsatilla]]></title>
-        <id>1x-3550401</id>
-        <link href="https://1x.com/photo/3550401"/>
-        <updated>2026-04-19T18:57:24.337Z</updated>
-        <summary type="html"><![CDATA[Pulsatilla by Catherine Wang]]></summary>
+        <title type="html"><![CDATA[Hadera’s Golden Bee-eaters]]></title>
+        <id>1x-3550792</id>
+        <link href="https://1x.com/photo/3550792"/>
+        <updated>2026-04-20T03:20:46.077Z</updated>
+        <summary type="html"><![CDATA[Hadera’s Golden Bee-eaters by Farid Kazamil]]></summary>
         <author>
-            <name>Catherine Wang</name>
+            <name>Farid Kazamil</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alpine Autumn]]></title>
-        <id>1x-3550833</id>
-        <link href="https://1x.com/photo/3550833"/>
-        <updated>2026-04-19T18:57:24.329Z</updated>
-        <summary type="html"><![CDATA[Alpine Autumn by LINGLING GUAN]]></summary>
+        <title type="html"><![CDATA[Yellow House]]></title>
+        <id>1x-3551589</id>
+        <link href="https://1x.com/photo/3551589"/>
+        <updated>2026-04-20T03:20:46.073Z</updated>
+        <summary type="html"><![CDATA[Yellow House by Karin Kilb]]></summary>
         <author>
-            <name>LINGLING GUAN</name>
+            <name>Karin Kilb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Memory of Petals]]></title>
-        <id>1x-3539130</id>
-        <link href="https://1x.com/photo/3539130"/>
-        <updated>2026-04-19T18:57:24.323Z</updated>
-        <summary type="html"><![CDATA[The Memory of Petals by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[Olesya]]></title>
+        <id>1x-3536438</id>
+        <link href="https://1x.com/photo/3536438"/>
+        <updated>2026-04-20T03:20:46.070Z</updated>
+        <summary type="html"><![CDATA[Olesya by Zachar Rise]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>Zachar Rise</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[W264740]]></title>
-        <id>1x-3538975</id>
-        <link href="https://1x.com/photo/3538975"/>
-        <updated>2026-04-19T18:57:24.312Z</updated>
-        <summary type="html"><![CDATA[W264740 by Allen SDCA]]></summary>
+        <title type="html"><![CDATA[Komorebi in Transit]]></title>
+        <id>1x-3551550</id>
+        <link href="https://1x.com/photo/3551550"/>
+        <updated>2026-04-20T03:20:46.059Z</updated>
+        <summary type="html"><![CDATA[Komorebi in Transit by 大山　儀高]]></summary>
         <author>
-            <name>Allen SDCA</name>
+            <name>大山 儀高</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red-winged Blackbird]]></title>
-        <id>1x-3519457</id>
-        <link href="https://1x.com/photo/3519457"/>
-        <updated>2026-04-19T18:57:24.306Z</updated>
-        <summary type="html"><![CDATA[Red-winged Blackbird by Amy Marques]]></summary>
+        <title type="html"><![CDATA[Hi, Mom!]]></title>
+        <id>1x-3550233</id>
+        <link href="https://1x.com/photo/3550233"/>
+        <updated>2026-04-20T03:20:46.056Z</updated>
+        <summary type="html"><![CDATA[Hi, Mom! by Qing Zhao]]></summary>
         <author>
-            <name>Amy Marques</name>
+            <name>Qing Zhao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Confidences]]></title>
-        <id>1x-3520783</id>
-        <link href="https://1x.com/photo/3520783"/>
-        <updated>2026-04-19T18:57:24.295Z</updated>
-        <summary type="html"><![CDATA[Confidences by Jean-Luc BILLET]]></summary>
+        <title type="html"><![CDATA[Lara]]></title>
+        <id>1x-3527410</id>
+        <link href="https://1x.com/photo/3527410"/>
+        <updated>2026-04-20T03:20:46.053Z</updated>
+        <summary type="html"><![CDATA[Lara by Christian Kieffer]]></summary>
         <author>
-            <name>Jean-Luc BILLET</name>
+            <name>Christian Kieffer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3541015</id>
-        <link href="https://1x.com/photo/3541015"/>
-        <updated>2026-04-19T18:57:24.279Z</updated>
-        <summary type="html"><![CDATA[Untitled by Kobayashi Tetsurou]]></summary>
+        <title type="html"><![CDATA[Golden Awakening]]></title>
+        <id>1x-3551036</id>
+        <link href="https://1x.com/photo/3551036"/>
+        <updated>2026-04-20T03:20:46.051Z</updated>
+        <summary type="html"><![CDATA[Golden Awakening by Leechee Z]]></summary>
         <author>
-            <name>Kobayashi Tetsurou</name>
+            <name>Leechee Z</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sky Dancer]]></title>
-        <id>1x-3550449</id>
-        <link href="https://1x.com/photo/3550449"/>
-        <updated>2026-04-19T18:57:24.045Z</updated>
-        <summary type="html"><![CDATA[Sky Dancer by Max Wang]]></summary>
+        <title type="html"><![CDATA[I see You]]></title>
+        <id>1x-3550790</id>
+        <link href="https://1x.com/photo/3550790"/>
+        <updated>2026-04-20T03:20:46.048Z</updated>
+        <summary type="html"><![CDATA[I see You by Puneet Sikand]]></summary>
         <author>
-            <name>Max Wang</name>
+            <name>Puneet Sikand</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Their days]]></title>
-        <id>1x-3539722</id>
-        <link href="https://1x.com/photo/3539722"/>
-        <updated>2026-04-19T18:57:24.023Z</updated>
-        <summary type="html"><![CDATA[Their days by Jie Jin]]></summary>
+        <title type="html"><![CDATA[Four Stories, One Frame]]></title>
+        <id>1x-3551327</id>
+        <link href="https://1x.com/photo/3551327"/>
+        <updated>2026-04-20T03:20:46.045Z</updated>
+        <summary type="html"><![CDATA[Four Stories, One Frame by Piotr Maczka]]></summary>
         <author>
-            <name>Jie Jin</name>
+            <name>Piotr Maczka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Arc of Grace]]></title>
-        <id>1x-3539370</id>
-        <link href="https://1x.com/photo/3539370"/>
-        <updated>2026-04-19T18:57:23.993Z</updated>
-        <summary type="html"><![CDATA[The Arc of Grace by Shlomi]]></summary>
+        <title type="html"><![CDATA[Blue hour in Lofoten]]></title>
+        <id>1x-3551458</id>
+        <link href="https://1x.com/photo/3551458"/>
+        <updated>2026-04-20T03:20:45.731Z</updated>
+        <summary type="html"><![CDATA[Blue hour in Lofoten by Martin Morávek]]></summary>
         <author>
-            <name>Shlomi</name>
+            <name>Martin Morávek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英海事分析：过去36小时 35艘船驶出霍尔木兹海峡途中掉头]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920726</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920726"/>
+        <updated>2026-04-20T03:16:57.000Z</updated>
+        <summary type="html"><![CDATA[英国海事分析公司说，伊朗短暂重开霍尔木兹海峡后再次关闭，过去36小时内，有35艘船在驶出海峡途中掉头折返。 
+新华社报道，总部位于英国的海事分析公司温沃德星期天（4月19日）发布报告说，伊朗17日宣布重开海峡后，当天船只反应较为谨慎。 
+18日，海峡通行起初稀疏，随后迅速增多，船只争相在形势恶化前通过。当天共有35艘船只通过海峡，其中驶入八艘，包括四艘油轮、两艘散货船、两艘其他货船；驶出27艘，包括八艘油轮、三艘散货船、15艘其他货船、一艘客船。
+报告说，伊朗18日宣布再次关闭海峡后，温沃德公司随即确认13艘船折返，其中包括四艘已通过海峡后折返的集装箱船。同日还记录了三起袭船事件，使美以伊战事爆发以来遇袭船只总数增至29艘。这些袭击进一步加剧了船只折返潮。 
+报告还说，船只持续试图突破美国对伊朗港口的封锁。17日至19日，温沃德公司评估认为，有20艘船疑似突破美国封锁。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4月24日起 韩国电子烟与香烟面对同等监管]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920977</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920977"/>
+        <updated>2026-04-20T02:59:50.000Z</updated>
+        <summary type="html"><![CDATA[从4月24日起，电子烟在韩国将与传统香烟面对同等监管。
+《韩国先驱报》报道，韩国2月份通过《烟草事业法》修订案，将烟草定义扩大到涵盖所有由烟草或尼古丁制成的产品，等同于将液态电子烟归类为香烟。
+在修订案通过前，韩国法律并没有把电子烟归类为烟草产品。《烟草事业法》将烟草产品定义为以烟草叶制成，适合吸烟、吮吸、吸入蒸汽、咀嚼、嗅闻的制品。
+根据扩大后的定义，所有尼古丁产品都将受到《国家健康促进法》的约束。这项法律要求在包装上标注健康警示，并对广告宣传施加严格限制。
+此次修订还加强了对自动售卖机的管控，对安装地点、距离要求、销售商是否持有零售许可证等进行规范。
+对于电子烟使用者来说，这项修订案意味着他们再也不能在禁烟区吸电子烟。在禁烟区抽烟会被罚款10万韩元（约86新元），但截至目前，接到罚单的人，在被发现他们抽的是电子烟后，他们的罚单往往被取消。
+电子烟通过无人商店和在线平台向未成年人销售的问题引发关注，当局为此对电子烟制定更严格的管控措施。
+韩国疾病管理厅的数据显示，2025年，韩国六年级至11年级女学生使用电子烟的比例为1.54%，高于抽传统香烟的比例（1.33%）和使用加热不燃烧烟草制品的比例（0.32%）。
+数据还显示，尽管成年人抽传统香烟的比例从2013年的23.2%下降到2024年的15.9%，但成年人电子烟的使用率从2016年的2%稳步上升至2024年的3.8%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗媒体消息：德黑兰无计划出席伊斯兰堡谈判]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920655</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920655"/>
+        <updated>2026-04-20T01:53:24.000Z</updated>
+        <summary type="html"><![CDATA[伊朗国家媒体报道，伊朗目前没有计划与美国进行新一轮谈判。美国总统特朗普此前预告，美国和伊朗本周将在巴基斯坦首都伊斯兰堡举行新一轮谈判。 
+法新社报道，伊朗国家广播电视台（IRIB）星期天（4月19日）引述伊朗消息人士说，伊朗“目前没有参加下一轮伊美谈判的计划”。
+法尔斯通讯社和塔斯尼姆通讯社早前引述匿名消息人士说，“整体气氛并不乐观”，称美国解除对伊朗港口的封锁是双方谈判的先决条件。
+另据伊朗官方通讯社伊通社报道，由于美国封锁伊朗港口，加上华盛顿提出的“不合理、不切实际的要求”，“在这种情况下，双方谈判无望取得成果。” 
+特朗普19日早前在社媒平台宣布，美国谈判代表将于20日晚抵达巴基斯坦首都伊斯兰堡，定21日就结束美伊战争的协议展开进一步谈判。
+但在19日下午，特朗普在Truth Social说，美军在阿曼湾武力拦截并控制了一艘试图突破美军海上封锁的伊朗货船。美国海军陆战队员随后登上这艘船。这一消息恐令局势进一步复杂化。 
+伊朗光明通讯社20日凌晨报道，伊朗武装部队哈塔姆安比亚中央总部（Khatam al-Anbiya）发言人说，美军19日在阿曼湾海域袭击一艘伊朗集装箱货船，伊朗武装部队随后发射多架无人机，打击数艘美方军舰。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月薪六百，我在非洲雇人打游戏 | 原文]]></title>
+        <id>https://t.me/wxbyg/7146</id>
+        <link href="https://t.me/wxbyg/7146"/>
+        <updated>2026-04-20T01:43:58.000Z</updated>
+        <summary type="html"><![CDATA[月薪六百，我在非洲雇人打游戏 | 原文
+Telegraph
+月薪六百，我在非洲雇人打游戏
+只需要600元人民币，就能买下非洲年轻人一个月时间，让他在一款国产游戏中，为中国玩家持续赚取游戏币——这是最近在社交媒体上走红的新生意，一位中国商人说它，“百分百正确”。 而这门生意成功的关键，是培训和管理。或者说，是一种“同化”能力。 这群中国老板要教会非洲年轻人学会玩这款游戏，并且通过长时间重复的操作，高效、稳定地产出物资。就像一个再普通不过的中国工人。 文丨周航 编辑丨王一然 剪辑丨王婉霖 从冒出想法，到招揽国内同学飞来非洲合伙，再到订购第一批电脑，20岁的陈文涛只花了一周。 2025年11月，他…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年4月推荐]]></title>
+        <id>/archives/2026nian-4yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
+        <updated>2026-04-20T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月20日 OmniGet 一款免费开源的桌面下载器，原生支持 50+ 平台，包括 Bilibili、Douyin（抖音）、小红书等 MioSub 一个全自动AI字幕生成翻译工具，支持视频下载、字幕生成、翻译润色、压制导出全流程，桌面版和开源地址 4月17日 网络收音机]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霍尔木兹海峡仍受阻 国际油价大幅走高]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920540</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920540"/>
+        <updated>2026-04-20T01:12:15.000Z</updated>
+        <summary type="html"><![CDATA[由于霍尔木兹海峡航运依然受阻，加上美国与伊朗第二轮谈判前景不明，市场避险需求再次升高，国际油价星期天（4月19日）晚些时候在新一周交易开始时大幅上涨。 
+新华社报道，截至美东时间星期天晚上7时15分，纽约商品交易所5月交货的轻质原油期货价格为每桶89.85美元（约114新元），比前一交易日收盘价上涨7.16%。同时，6月交货的伦敦布伦特原油期货价格升至每桶95.68美元，比前一交易日收盘价上涨5.86%。
+由于市场乐观预期受挫，纽约股市三大股指期货在19日新一周交易开始时均显著下跌超0.5%。同时，国际黄金、白银期货价格分别下跌约1.7%和2.7%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中央司令部确认向伊朗货船开火 指货船无视停船指令]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920463</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920463"/>
+        <updated>2026-04-20T01:00:40.000Z</updated>
+        <summary type="html"><![CDATA[美国中央司令部确认，美军星期天（4月19日）向一艘驶往伊朗阿巴斯港的伊朗货船开炮，使货船失去推进动力，美海军陆战队员随后登上并控制这艘船。 
+彭博社报道，负责中东军事行动指挥的美国中央司令部19日在社交媒体发表声明说，悬挂伊朗国旗的图斯卡号（TOUSKA）货船当天穿过阿拉伯海北部，未遵守美军指令。
+美军导弹驱逐舰斯普鲁恩斯号（USS Spruance）用舰炮向这艘货船的机舱发射数枚炮弹，摧毁它的推进系统。随后，美军第31海军陆战队远征队士兵登上货轮。目前，这艘船仍处于美方扣押下。
+美国中央司令部在声明中说，这艘货船持续六小时无视停船警告。美国海军命令货船疏散机舱人员后，使用一门5英寸MK45舰炮向货船机舱发射数发炮弹，使它失去推进能力。
+美国中央司令部在社媒一同发布的视频显示，美舰向一艘集装箱货船发出警告，随后数次开炮。
+根据这份声明，自美军4月13日开始对波斯湾和阿曼湾所有伊朗港口实施海上封锁以来，已迫使25艘商船掉头或返回伊朗港口。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[选择非婚生育的她们，成为妈妈后怎么样了？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7145</id>
+        <link href="https://t.me/wxbyg/7145"/>
+        <updated>2026-04-20T00:56:29.000Z</updated>
+        <summary type="html"><![CDATA[选择非婚生育的她们，成为妈妈后怎么样了？ | 原文
+Telegraph
+选择非婚生育的她们，成为妈妈后怎么样了？
+*本文为「三联生活周刊」原创内容 随着婚育观念变化，一些女性开始将生育与婚姻分开思考。有人在26岁时选择把孩子留下，此后独自承担养育中的琐碎与压力；有人经历失败婚姻后，在36岁再次成为母亲，只为弥补曾错过的陪伴；也有人在29岁面对伴侣退场时，坚持生下意外到来的女儿，把人生从自由独行切换到育儿轨道。但孩子出生之后，问题并不会因为一句“想当妈妈”而自动消失：收入、住房、教育、照料、职业中断、身份解释，样样都要独自面对。 本刊采访了几位非婚生育的单身妈妈，以下是她们的讲述。 记者｜栾若曦 编辑｜王珊 01 杨余婧｜26岁生育…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗在霍尔木兹海峡划定新航线 未经许可不得通行]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920379</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920379"/>
+        <updated>2026-04-20T00:04:03.000Z</updated>
+        <summary type="html"><![CDATA[伊朗伊斯兰革命卫队海军已划定一条从霍尔木兹岛以南至拉腊克岛以南水域的新航线。
+新华社引述伊朗伊斯兰共和国广播电视台星期天（4月19日）报道，伊朗伊斯兰革命卫队海军划定的新航线，被命名为“拉腊克走廊”（The Larak Corridor），未经伊朗伊斯兰革命卫队海军许可，不得通行。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗指美军向伊货船开火 伊军发射无人机还击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920362</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920362"/>
+        <updated>2026-04-19T23:44:15.000Z</updated>
+        <summary type="html"><![CDATA[伊朗最高军事指挥部说，美国军舰武力拦截并控制一艘伊朗货船后，伊朗也用无人机袭击了一些美国军舰。
+伊朗光明通讯社星期一（4月20日）凌晨报道，伊朗武装部队哈塔姆安比亚中央总部（Khatam al-Anbiya）发言人说，美军19日在阿曼湾海域袭击一艘伊朗集装箱货船，伊朗武装部队随后发射多架无人机，打击数艘美方军舰。
+美国总统特朗普19日下午在社媒平台Truth Social贴文说，一艘悬挂伊朗国旗的货船图斯卡号（TOUSKA）试图突破美国海上封锁，美军导弹驱逐舰斯普鲁恩斯号（USS Spruance）在阿曼湾拦截这艘货船，要求停船，但货船船员拒绝服从美军指令。美舰“把货船机舱炸出一个洞”，迫使它停止前进。目前美海军陆战队已控制这艘船。 
+特朗普在Truth Social写道：“图斯卡号因有非法活动记录，正受到美国财政部制裁。我们已完全控制这艘船，并正在检查船上有些什么！”
+《华盛顿邮报》称，此次行动标志着美国自4月13日对伊朗实施海上封锁以来，美军首次登上伊朗船只。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万物周报｜常见止痛药致印度50万人死亡，吊诡的是，他们其实并没有使用这种药 | 原文]]></title>
+        <id>https://t.me/wxbyg/7144</id>
+        <link href="https://t.me/wxbyg/7144"/>
+        <updated>2026-04-19T23:28:05.000Z</updated>
+        <summary type="html"><![CDATA[万物周报｜常见止痛药致印度50万人死亡，吊诡的是，他们其实并没有使用这种药 | 原文
+Telegraph
+万物周报｜常见止痛药致印度50万人死亡，吊诡的是，他们其实并没有使用这种药
+每周一，【把科学带回家】的编辑们将为你带来一些有趣的本周新闻，帮你轻松地开启这一周！ 大开眼界 🦍 500年一遇的大规模黑猩猩内战爆发了 谜底揭晓 💊 常见止痛药致印度50万人死亡，但他们并没用这种药]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗总统：美方在谈判及停火阶段持续背信弃义]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920328</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920328"/>
+        <updated>2026-04-19T23:25:16.000Z</updated>
+        <summary type="html"><![CDATA[伊朗总统佩泽希齐扬指责美国在谈判及停火阶段持续表现出背信弃义行为，凸显美方企图放弃外交手段的真面目。  
+新华社引述伊朗迈赫尔通讯社报道，佩泽希齐扬星期天（4月19日）与巴基斯坦总理谢里夫通电话，双方就地区最新局势、伊斯兰堡谈判、停火相关事宜交换意见。他对巴方为实现和平所作坚定努力表示赞赏，并特别感谢谢里夫及巴陆军参谋长穆尼尔所作贡献。
+佩泽希齐扬说，美国在谈判及停火阶段持续表现出背信弃义、霸凌且不合理的行为。
+他强调，美方继续实施所谓海上封锁等挑衅性、非法举动，不仅公然违反停火协议，也违背联合国宪章宗旨原则。此类行径连同美方官员对伊朗的威胁性言论，只会加深外界对美方谈判诚意的怀疑，并进一步揭露美方企图重蹈覆辙、放弃外交手段的真面目。 
+佩泽希齐扬强调，伊朗致力于在睦邻友好和相互尊重基础上，维护并提升与包括波斯湾南岸国家在内所有邻国的关系。他说，希望这些国家能吸取近期经验，在集体合作基础上，加强地区和平与安全，并远离域外国家特别是美国的破坏性干预。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军武力拦截并控制伊朗货船 伊军：将很快回应并报复]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8920280</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8920280"/>
+        <updated>2026-04-19T23:06:17.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在社媒平台说，美军在阿曼湾武力拦截并控制了一艘试图突破美军海上封锁的伊朗货船。伊朗军方随后称，将很快对此作出回应并报复。 
+特朗普星期天（4月19日）下午在社媒平台Truth Social贴文说：“今天，一艘悬挂伊朗国旗的货船图斯卡号（TOUSKA）试图突破美国海上封锁。这艘船长近900英尺（约274米），载重吨几乎与一艘航空母舰相当。他们的尝试失败了。”
+特朗普说，美国海军导弹驱逐舰斯普鲁恩斯号（USS Spruance）在阿曼湾拦截这艘货船，要求停船，但货船船员拒绝服从美军指令。美舰“把货船机舱炸出一个洞”，迫使它停止前进。目前美海军陆战队已控制这艘船。
+特朗普说：“图斯卡号因有非法活动记录，正受到美国财政部制裁。我们已完全控制这艘船，并正在检查船上有些什么！”
+《华盛顿邮报》报道，此次行动标志着美国自4月13日对伊朗实施海上封锁以来，美军首次登上伊朗船只。　　 
+另据《纽约时报》报道，特朗普没有透露是否有人员伤亡。伊朗半官方迈赫尔通讯社（Mehr）报道，美军向一艘伊朗货船开火，但伊朗伊斯兰革命卫队的海军部队迫使美军撤退。
+伊朗武装部队哈塔姆安比亚中央总部20日凌晨发表声明说，美国公然违反停火协议，在阿曼海海域向一艘伊朗货船开火，并派美海军陆战队员登船。伊朗武装部队将很快对美军这一武装海盗行径作出回应并报复。
+在此事件发生的数小时前，美伊双方就本周在巴基斯坦的潜在谈判进行了一番拉锯战。特朗普说看到了达成协议的机会，但伊朗方面称谈判没有“明确前景”。美伊停火21日到期。 
+一名白宫官员此前说，副总统万斯、特朗普特使威特科夫和特朗普女婿库什纳拟于20日晚启程前往伊斯兰堡，21日再次与伊方代表团进行谈判。但伊朗国家媒体称，德黑兰目前没有参与谈判的计划。 
+彭博社报道，围绕霍尔木兹海峡的僵局可能加剧全球能源危机，并削弱特朗普关于这场战争将迅速结束的预测。霍尔木兹海峡只是众多悬而未决的问题之一，其他问题还包括伊朗的核能力以及以色列持续入侵黎巴嫩。特朗普早前说伊朗已同意终止核计划，但伊朗对此予以否认。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic暴力封杀！60人Claude一夜断供，网友：千万别豪赌一个AI | 原文]]></title>
+        <id>https://t.me/wxbyg/7143</id>
+        <link href="https://t.me/wxbyg/7143"/>
+        <updated>2026-04-19T22:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic暴力封杀！60人Claude一夜断供，网友：千万别豪赌一个AI | 原文
+Telegraph
+Anthropic暴力封杀！60人Claude一夜断供，网友：千万别豪赌一个AI
+新智元报道 编辑：桃子 【新智元导读】60多个Claude账号一夜之间被集体「拔插头」！没有预警，申诉无门，整个公司业务瞬间瘫痪。这场席卷开发者圈的「封号风暴」，撕开了Anthropic傲慢的底裤。 心态彻底崩了！ 一家服务数百万用户的金融科技公司CTO，早上打开电脑，准备用Claude处理积压的工作—— 突然发现：公司60多个人的账号，一夜之间全部被封。 没有任何预警，只有一封冰冷的邮件： 「检测到违反使用政策的自动化信号，您的账号已被暂停」。 想要申诉？必须填写谷歌表单。 从工程师到产品经理到运营，…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江同志为啥不焦虑 | 原文]]></title>
+        <id>https://t.me/wxbyg/7142</id>
+        <link href="https://t.me/wxbyg/7142"/>
+        <updated>2026-04-19T22:03:27.000Z</updated>
+        <summary type="html"><![CDATA[江同志为啥不焦虑 | 原文
+Telegraph
+江同志为啥不焦虑
+01 1947年的中国，战火纷飞，物价飞涨。 而就在这一年的7月，江同志就要毕业了，他也面临着找工作的压力。 在那个战争年代要找一份工作，压力要大上百倍。 那时候，各行各业都是经营惨淡，一片萧瑟。大部分企业没关门就不错了，更别奢望还有招人指标了。 毕业前夕，江同志并没有像大家想的一样为工作急得团团转。 他积极地参加了一场又一场声势浩大的学生运动，有全国性的反饥饿、反内战罢课大游行，还有在交通大学内部的声势浩大的护校运动。 当时军警还在到处抓人，在白色恐怖的高压情况下，江同志还热情地组织同学们参加了7月2号的毕业大联欢。…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[符祝慧：石油危机让日本成“节能优等生”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260420-8916656</id>
+        <link href="https://www.zaobao.com/news/world/story20260420-8916656"/>
+        <updated>2026-04-19T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[中东2月底爆发冲突导致霍尔木兹海峡封锁后，全球多国开始实施节能措施，例如居家办公减少开车出行、调整用电时间，以及呼吁公共部门节约能源、避免不必要的出国公干等。
+日本有九成以上石油来自中东，但日本政府至今未实施任何节能措施，主要是担心在5月黄金周长假来临前，突然宣布约束消费的措施会阻碍旅游经济活动。
+日本经济产业部长赤泽亮正日前在日本放送协会（NHK）节目中回答相关问题时指出，日本人非常听话，是很重视政府指示的民族。因此，政府在传递“现在处于危机中”或“情况很危险”的信息时稍有不慎，很容易引起民众恐慌。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dario Amodei：开源模型和中国开发者将在6到12个月内复现Mythos的能力 | 原文]]></title>
+        <id>https://t.me/wxbyg/7141</id>
+        <link href="https://t.me/wxbyg/7141"/>
+        <updated>2026-04-19T20:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Dario Amodei：开源模型和中国开发者将在6到12个月内复现Mythos的能力 | 原文
+Telegraph
+Dario Amodei：开源模型和中国开发者将在6到12个月内复现Mythos的能力
+↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic CEO Dario Amodei最新采访，预计开源模型和中国开发者将在6到12个月内复现Mythos的能力 达里奥·阿莫迪（Dario Amodei）是个颇具争议的人物。 著名科技分析师本·汤普森批评他，说他把AI风险当成营销工具，借助末日叙事来推广产品。尽管如此，汤普森最近还是把Anthropic评为当前AI竞赛的领跑者，理由是其编程工具大受欢迎，加上刚刚发布的强大模型Claude Mythos。 目前，Anthropi…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -302,7 +535,8 @@ Telegraph
         <link href="https://www.zaobao.com/news/world/story20260419-8918684"/>
         <updated>2026-04-19T13:27:44.000Z</updated>
         <summary type="html"><![CDATA[美国亿万富翁贝索斯旗下太空公司蓝色起源的“新格伦”（New Glenn）重型运载火箭星期天（4月19日）首次使用回收助推器升空。这有望提升蓝色起源未来发射火箭的频率，并加大与太空探索科技公司（SpaceX）的竞争。
-蓝色起源此前曾两次发射新格伦火箭，但都使用全新的助推器，这次则使用了回收助推器。这枚高约100米的“新格伦”火箭于当天美东时间早上7时25分（新加坡时间晚上7时25分）许，搭载一颗通信卫星，从佛罗里达州卡纳维拉尔角发射升空（主图）。火箭升空后，两个级段完成分离，上级继续执行任务，将卫星送入太空。助推器在发射约9分30秒后，成功降落在大西洋的一座海上浮动平台上（图二）。（法新社）]]></summary>
+蓝色起源此前曾两次发射新格伦火箭，但都使用全新的助推器，这次则使用了回收助推器。这枚高约100米的“新格伦”火箭于当天美东时间早上7时25分（新加坡时间晚上7时25分）许，搭载一颗通信卫星，从佛罗里达州卡纳维拉尔角发射升空（上图）。
+火箭升空后，两个级段完成分离，上级继续执行任务，将卫星送入太空。助推器在发射约9分30秒后，成功降落在大西洋的一座海上浮动平台上（下图）。（法新社）]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -392,8 +626,8 @@ Telegraph
 特朗普星期天（19日）在社交媒体上透露了这项外交动向。尽管他确认美方代表团即将启程，但目前尚不清楚具体的官员名单，以及他们计划与哪些方面展开会谈。
 在宣布谈判安排的同时，特朗普继续对伊朗发出强硬警告。
 他指责伊朗据报向行驶在霍尔木兹海峡的国际船只开火，并点名受影响的包括一艘法国船只与一艘英国货船。
-特朗普在帖文中写道：“伊朗昨天在霍尔木兹海峡开枪了——这完全违反了我们的停火协议！其中许多子弹是朝一艘法国船和一艘英国货船射去的。这可不太友好，对吧？”
-他并表示，美方提出的是一项“非常公平、合理”的协议。
+特朗普在贴文中写道：“伊朗昨天在霍尔木兹海峡开枪——这完全违反了我们的停火协议！其中许多子弹是朝一艘法国船和一艘英国货船射去的。这可不太友好，对吧？”
+他说，美方提出的是一项“非常公平、合理”的协议。
 “如果他们不接受协议，美国将摧毁伊朗的每一座发电厂和每一座桥梁。不再当好好先生了！他们会很快屈服，而且会很轻松地屈服。”
 特朗普甚至宣称，如果伊朗拒绝接受协议，采取必要行动将是他的“荣幸”。他形容，这是过去47年来历任美国总统早就应该对伊朗采取的行动。
 
@@ -464,210 +698,6 @@ Telegraph
 泽连斯基指出，目前，俄罗斯的影子舰队有超过110艘油轮在海上，运输着逾1200万吨俄产石油。若这些石油得以无制裁销售，将为莫斯科预算增加100亿美元（约127亿新元），而这笔资金“将直接转化为对乌克兰的新一轮袭击”。
 泽连斯基透露，仅本周，俄罗斯就向乌克兰的城市和社区发射了超过2360架攻击无人机、1320多枚制导航空炸弹和近60枚各种类型的导弹。
 他同时称，乌军已袭击了俄罗斯的两家炼油厂和其他几处设施，并将继续尝试扰乱俄石油工业。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真主党领袖要求共同遵守以黎停火协议 以军在黎南设加沙式“黄线”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918341</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918341"/>
-        <updated>2026-04-19T11:45:27.000Z</updated>
-        <summary type="html"><![CDATA[（耶路撒冷/贝鲁特综合电）黎巴嫩真主党领导人卡西姆指责美国强行制定以黎停火协议条款，并强调与以色列的10天停火必须由双方共同遵守，真主党随时准备回应违反协议的行为。 
-以色列与黎巴嫩的10天停火已从周五生效，卡西姆周六（4月18日）发表电视讲话，首次对美国国务院公布的停火协议条款发表评论。他称美方“强行制定文本并代表黎巴嫩政府发言”，这是“对我们祖国黎巴嫩的侮辱”。
-卡西姆还表明：“停火意味着完全停止一切敌对行动。由于我们不信任这个敌人，抵抗战士会留在前线，手指紧扣扳机，并且会对任何违反停火的行为作出相应回应。”
-他也强调，停火不能仅靠真主党维持，必须是双方共同遵守。
-以黎达成停火几天前，两国驻美大使在美国华盛顿会晤，为计划中的两国元首直接会谈做准备。
-卡西姆则形容华盛顿的会晤是“可耻的闹剧”，并敦促停止“与以色列敌人直接谈判”。
-受德黑兰支持的真主党3月2日向以色列发动袭击，加入伊朗战局，持续已久的以黎冲突再次升级。美伊停火后，以军加大力度轰炸黎巴嫩境内真主党目标，还在黎南地区部署地面部队。
-
-以军打击“黄线” 附近恐怖团伙
-
-现在以黎同意暂停交火，黎南前线紧张氛围却仍未散去。以军周六说，已在黎南设立一条“黄线”，并打击一个在这条分界线附近活动的“恐怖主义团伙”。 
-这是以军首次在涉黎行动中使用“黄线”一词，以军此前仅用它代指加沙地带的停火线，并多次射杀越线的巴勒斯坦人。
-
-              
-黎南边境城镇纳巴泰居民哈姆扎一家在以军空袭中幸存，随后举家逃到首都贝鲁特，在以黎停火生效后才终于返乡。从照片可以看到她家在空袭中受到的破坏。（路透社）
-            
-以媒称，以军在黎南的新“黄线”，指的是沿以黎临时边界向黎巴嫩一侧延伸约10公里，由以军控制的“防御区域”。
-以军周六发声明说，驻扎在黎南的部队“发现有恐怖分子违反停火协议，从‘黄线’以北靠近我军，构成直接威胁”。因此，“以军在多个区域打击恐怖分子”。
-声明强调，虽然近日以黎达成停火协议，但以军有权对迫在眉睫的威胁采取行动。
-以军同日晚些时候在另一份声明中说，以空军歼灭一个“在黎南前线防卫线（黄线）附近、以军活动区域内运作的恐怖主义团伙”；还攻打“黄线”以南区域的一条地下通道，以及被发现进入通道的真主党人员。
-
-              
-以黎停火协议生效第二天，黎巴嫩首都贝鲁特南郊的一名店主回到店里，清理遭空袭后的店铺。（法新社）
-            
-以军拆除黎南边城建筑清除威胁
-
-另据以色列《新消息报》网站报道，以军正在黎南实行“加沙模式”管控，在新划定的“黄线缓冲区”内设置障碍，阻止居民返回家园，清除当地黎真主党基础设施，同时加强延伸至黎南利塔尼河沿岸的“多层防线”。
-与此同时，黎官媒报道，以军周六在黎南边境城镇朱拜勒等地爆破建筑。朱拜勒距以色列边境仅约5公里，以黎停火前，以军和真主党曾在当地激烈交火。
-以色列国防部长卡茨早前表明，根据以军在黎南建立安全区的计划，会实施房屋拆除行动，彻底消除边境附近的威胁。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[称谈判期间遭美欺骗 伊朗议长：寻求持久和平但已做好开战准备]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918822</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918822"/>
-        <updated>2026-04-19T10:37:01.000Z</updated>
-        <summary type="html"><![CDATA[伊朗议长卡利巴夫表明，德黑兰一方面积极开展外交活动，另一方面也做好了军事对抗的准备。他强调，伊朗不信任对手，并已做好应对任何战争的准备。
-综合美国有线电视新闻网（CNN）和新华社报道，卡利巴夫于星期六（4月18日）晚间向全国发表电视讲话时指出，本轮冲突是“由于谈判期间美国欺骗而爆发的”。
-他承认美国拥有更优越的资源，伊朗没有声称拥有比美国更强大的整体军事力量，但伊朗认为凭借自身表现已在冲突中取得了胜利。
-卡利巴夫声称，伊朗在战略层面占据上风。“我们并没有摧毁敌人——他们仍拥有资金和武器——但从战略上看，他们已经在我们面前遭到失败。”
-卡利巴夫透露，在上一次于巴基斯坦举行的谈判期间，他曾向美国副总统万斯表明，伊朗对美国“不抱信任”。他说，华盛顿必须“赢得伊朗人民的信任”。
-他重申谈判仍在进行中，伊朗希望达成一项有保障且持久的解决方案，以防止再次陷入战争、停火和冲突重燃的循环。然而，他也强调，伊朗已为采取必要行动做好了充分准备。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥地利喜宝婴儿辅食验出鼠药 1500家超市紧急召回]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918375</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918375"/>
-        <updated>2026-04-19T10:14:12.000Z</updated>
-        <summary type="html"><![CDATA[德国知名婴儿食品品牌喜宝（HiPP）一款婴儿辅食在奥地利疑遭人为污染。
-路透社报道，奥地利警方星期六（4月18日）证实，在一瓶被退回的婴儿辅食中检测出鼠药成分。连锁超市SPAR已在奥地利约1500家门店召回相关产品。
-此次受影响的产品为喜宝旗下的“胡萝卜土豆泥”（Carrots and Potatoes）190克罐装辅食。奥地利布尔根兰州警方在声明中说，在接到顾客举报后，实验室对送检的样本进行了化验，结果呈鼠药阳性反应。
-喜宝周六表明，按目前掌握的情况，这是一起影响奥地利SPAR分销渠道的“外部刑事干扰”事件，不能排除有危险物质被混入产品，误食罐内食物可能危及生命。
-警方提醒公众，受影响的瓶身具有明显特征：瓶底贴有红色圆圈贴纸；瓶盖已被开启、损坏或缺失安全密封圈；内容物散发异味。
-警方也披露，根据在德国进行的调查，当局已就此风险向奥地利发布警告。初步实验结果也显示，警方在捷克和斯洛伐克查获的类似罐装产品中发现了有毒物质。
-警方建议，凡接触过相关罐装产品的人应彻底洗手。
-SPAR超市发言人说，此次召回属于预防性措施，涉及奥地利境内1500家门店，其他地区门店不受影响。
-喜宝与SPAR已呼吁顾客切勿食用从奥地利SPAR购买的该款辅食，并承诺为退货顾客提供全额退款。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不满韩官员公开朝鲜核机密 美国限制涉朝卫星情报]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918482</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918482"/>
-        <updated>2026-04-19T09:23:51.000Z</updated>
-        <summary type="html"><![CDATA[韩国统一部长官郑东泳因在公开场合提及朝鲜龟城设有核设施，引发美国政府不满。美方随后向韩方提出抗议，并限制了部分与韩国共享的涉朝卫星情报。
-韩联社报道，郑东泳上月6日出席国会外交统一委员会全体会议时声称，根据国际原子能机构（IAEA）总干事格罗西（Rafael Grossi）的报告，朝鲜除已知的宁边和降仙外，在平安北道龟城也设有核设施。
-不过，格罗西的原始报告实际上仅提及了宁边与降仙两处。这是韩政府高官首次在公开场合提及龟城设有铀浓缩设施，因此备受关注。
-
-美方减少情报共享范围
-
-消息人士透露，在郑东泳发表上述言论后，美国已向韩国多个外交、安全及情报部门表达不满。作为回应，美方已决定减少对韩共享的部分涉朝卫星情报。
-长期以来，美国通过卫星、监听和侦察等多种手段搜集朝鲜相关情报，并与韩方共享其中一部分。
-面对风波，韩国统一部近日澄清，美国驻韩大使馆曾就此事进行询问。统一部解释称，郑东泳的言论是依据国际研究机构报告等已公开信息作出。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查：美国人对以色列好感大幅下滑]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918212</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918212"/>
-        <updated>2026-04-19T09:09:02.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合讯）美国媒体报道，随着伊朗战事危机外溢，以色列总理内坦亚胡严重损害了以色列在美国的形象与地位，导致以色列在美国民众，尤其是年轻群体中的支持率大幅下滑，这一趋势也延伸到美国国会。
-美国新闻网站Axios星期六（4月18日）报道指，原本坚定支持以色列的议员，如今愈发公开地提出批评。科罗拉多州民主党众议员克劳说：“我们必须讨论如何让两国关系回归正常，以及需要做出哪些改变，这一点毋庸置疑。”
-早前，有意参与2028年美国总统竞选的所有参议院民主党议员均投票反对对以色列的军售。共有40名参议院民主党议员投票支持一项阻止对以军售的决议；去年4月一次类似投票中，仅15人投出相同立场。
-亚利桑那州民主党参议员加列戈说，内坦亚胡正在“摧毁支持以色列的两党共识”。
-在众议院，部分民主党议员也开始反对为以色列提供防御性支持，包括为以色列“铁穹”防御系统提供资金。
-皮尤研究中心4月7日公布的民调显示，在美国成年人中，约六成对以色列持有非常或多少负面的看法，同比去年上升7个百分点，较2022年上升18个百分点。
-民调显示，多数年长共和党人、美国犹太人与白人福音派目前仍对以色列持正面看法的群体。然而，自2022年以来，美国其他群体对以色列的好感度已大幅下滑。例如，50岁及以上的年长民主党人对以色列的好感度下降了31个百分点。
-此外，59%受访者对内坦亚胡在国际事务中做出正确决策几乎或完全不抱信心，高于去年的52%。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中东战争推高全球滞涨风险 预计欧洲数据将显示情况恶化]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918163</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918163"/>
-        <updated>2026-04-19T09:05:18.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿彭博电）中东战争引发全球经济将陷入滞涨的担忧，多个国家接下来一周将发布自战争开打以来的第二轮月度商业调查数据，届时将可一窥已进入第八周的战争对全球经济的影响程度。
-战争爆发首月，采购经理指数（PMI）已显示出增长与通货膨胀双双承压；进入第二个月，这种压力是否加剧将成为关注焦点。
-从澳大利亚到美国等多个经济体将于周四（4月23日）发布4月份的初步数据。根据彭博社的预测，德国、法国、欧元区和英国的指数都将普遍恶化，美国的指标则预计变化不大。
-这些数据最终可能揭示“滞胀”（stagflation）风险的程度，即物价飙升与经济增长停滞并存的困境。标普全球（S&P Global）首席商业经济师威廉姆森（Chris Williamson）在总结3月份全球综合指标所凸显的风险时，便提到了这一可能性。
-
-IMF警告全球可能接近衰退
-
-国际货币基金组织（IMF）上周在华盛顿警告各国财长，全球经济可能面临多种前景，其中包括接近衰退的情景。尽管目前美国和伊朗处于停火状态，但战争对增长和通胀造成的损害难以迅速逆转。
-IMF总裁格奥尔基耶娃在接受彭博电视台采访时说：“即使战争明天就结束，经济复苏也需要相当一段时间才能启动。它的影响已经注定。”
-尽管前景黯淡，许多政策制定者对如何应对仍持谨慎态度。
-欧洲央行将在本月晚些时候决定利率政策，首席经济师莱恩（Philip Lane）在华盛顿受访时，谈到他和同僚将如何对待PMI等报告数据。他说：“我们将获得一套丰富的调查数据。当然，填写这些调查的人所看到的世界，和我们看到的是一样的。”他也说，目前很少有人能对未来的走势有明确判断。
-欧洲央行官员还将在周四获得法国商业信心数据，并于周五迎来备受关注的德国商业景气指数。与此同时，美国联邦储备局官员将在周末看到密歇根大学消费者信心指数。
-
-分析：即使敌对行动结束 和平也难持久
-
-正如格奥尔基耶娃所警示的那样，即便政策制定者对全球经济进行最全面的分析，眼下也存在局限性。格奥尔基耶娃说：“我们都必须学会在一个高度且持久不确定的环境中运作。”
-对于战争结束的前景，彭博经济研究的韦尔奇（Jennifer Welch）和法拉尔（Adam Farrar）说：“尽管美伊之间似乎有望达成协议，结束敌对行动，并缓解能源市场压力，但这不太可能带来全面或持久和平。以色列似乎并未参与谈判，并继续视伊朗为威胁。美伊之间的信任度依然很低，而且双方对一些关键事项如霍尔木兹海峡的解读似乎存在分歧，所有这些都表明紧张局势将持续存在。”
-与全球能源冲击相关的通胀风险将成为未来一周亚洲经济的焦点，价格数据和商业调查将检验成本上涨的传导速度。
-预计中国周一（20日）的贷款市场报价利率（LPR）决议将维持不变，决策者需要在支持经济增长和应对汇率压力之间寻求平衡。日本、新西兰、泰国和马来西亚的贸易数据将反映外部需求状况。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学费高涨与AI冲击 美国升学选择趋向务实]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8918337</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8918337"/>
-        <updated>2026-04-19T08:54:34.000Z</updated>
-        <summary type="html"><![CDATA[每年的5月1日是美国大学的“决定日”，多数高中毕业生须在此之前确定最终入读的大学。不过，在大学学费持续上涨与人工智能（AI）技术改变就业前景的背景下，美国家长与学生开始重新审视高等教育的投资回报率，一些升学选择开始往“防AI”的实用主义倾斜。
-美国有线电视新闻网（CNN）报道，南达科他州苏福尔斯一名家长阿克曼已陪孩子参观30多所大学校园。她原本尤其希望孩子攻读能通往好工作的学位，但在AI迅速改变就业市场的当下，连“什么才算有价值”都变得难以判断。
-过去被视为通往高薪阶层“金票”的专业，如计算机科学，如今在AI的冲击下，是否还具备同样价值，开始被家长重新审视。与此同时，美国大学学费仍在上涨。根据美国大学理事会数据，2025至2026学年，公立四年制大学州外学杂费平均升至3万1880美元（约4万新元），私立非营利大学则升至4万5000美元。
-纽约一名家长希尔根伯格说，过去一代人上大学还能更自由地选择热爱的专业，但如今就业环境已不同，“我现在不会让孩子去读插画，因为AI正在接管这个领域。”
-在AI带来的不确定性下，一些家长的态度明显转向务实。
-有些家长更支持孩子选择较不易被AI替代的STEM（科学、技术、工程、数学）领域；也有人更直白地强调，所学专业要能转化为收入。此外，债务压力正让家庭对大学投入更为谨慎。
-数据显示，美国毕业生平均贷款债务已升至3万9457美元，一些家长也因此为自己愿意承担的学费设下明确上限。
-北卡罗来纳州一名母亲休斯直言：“如果学生想去当老师，我会说不，我不会为这个埋单……尽管我自己也当过老师。”
-阿克曼指出，两年制学位、职业培训项目以及从军等路径，如今在一些家长看来反而更“防AI”，而且成本通常低于传统四年制大学。
-不过，教育专家仍提醒家长不必只盯着眼前变化。
-孟菲斯大学教授科利尔指出，尽管AI的长期影响仍不明朗，但大学学位在终身收入和经济衰退期的就业韧性方面，依然保有持续价值。根据美国大学理事会数据，四年制大学毕业生的收入平均比高中毕业生高约60%。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国毕业生求职难 父母砸重金让孩子接受职业辅导]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8893744</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8893744"/>
-        <updated>2026-04-19T08:25:31.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿彭博电）美国大学毕业生求职难，催生了职业辅导市场。有经济能力的父母在孩子正式步入职场前几年，就开始花费大笔金额配备职业教练，提升孩子求职所需的能力。
-这类针对学生的职业辅导，现已成为美国一个新兴且利润丰厚的细分市场。该行业过去主要帮助中年职场人士寻找职业意义。
-根据国际职业教练协会数据，2019年仅约5%的职业教练主要服务大学生或应届毕业生，但最新调查显示，这一比例已超过四分之一。
-尽管聘请职业教练的费用相当高，但对家长而言，送孩子上私立四年制大学，每年就得花费超过6万5000美元（约8万2600新元），相较之下这类职业辅导似乎是一项“值得的投资”。一些教练也指出，这比孩子毕业后留在家中“啃老”要划算。
-一般上，这类职业辅导涵盖面试演练和申请策略指导，每小时收费几百美元；更全面的配套介于3000美元至1万美元之间。
-总部位于纽约的Priority Candidates公司指出，一些家长为了帮孩子获得金融等竞争激烈的工作，愿意支付高达3万美元的费用，聘请相关领域的专家提供强化辅导。有些求职咨询机构甚至收取更高的费用。
-在职业教练帮助下获得工作的史密斯说，教练协助她应对“单向视频”这种令人感到疏离的面试，加上每周的小组会议、练习册和一对一辅导帮助，让原本令人畏惧的面试变得可控。
-史密斯也说，持续不断的鼓励和个性化的反馈也帮助她保持自信。
-不过，纽约职业辅导公司Gradvantage创始人特雷特勒说，她经常需要提醒家长：真正的“客户”是孩子，即使付钱的是父母，尤其是家长不顾孩子的意愿，一心想为孩子规划特定的职业道路的时候。
-她说，这是一种微妙的平衡。“我希望这些年轻人保持心态开放，也希望家长同样如此。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI助力全球二手服装销售 市场规模今年可达3700亿元]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8837412</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8837412"/>
-        <updated>2026-04-19T06:55:43.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦讯）全球二手服装市场在人工智能（AI）和社交媒体推动下持续扩张。2026年销售额预计将增长12%至2890亿美元（约3700亿新元）。
-英国《卫报》报道，二手服装网站崛起，预计将在未来五年推动二手服装市场以年均9%的速度增长，达到3930亿美元，增速为整体服装市场的两倍。
-这一预测来自二手服装网站ThredUp的报告，报告采用市场分析公司GlobalData的研究数据。2021年，二手服装市场规模仅1410亿美元，不到今年预期总额的一半。
-业内人士指出，二手市场也在直接争夺传统服装市场份额，目前已占全球服装销售约一成。Zara、Mulberry等品牌已开始销售二手商品或提供修补旧衣服务。
-平台方面，ThredUp去年销售额增长约20%，达到3亿1080万美元；Depop销售额增长42%，达到1亿英镑（约1亿7000万新元）；Vinted在2024年的销售额增长36%，达到8亿欧元（约12亿新元）。
-不过，二手服装网站似乎难以从这波热潮中获利，ThredUp录得2000万美元税前亏损，Depop亏损4200万英镑。
-分析认为，若伊朗局势推高了能源和运输成本，服装价格将上升，更多消费者可能转向购买价格较低的二手商品。 
-平台也在借助AI快速整理海量商品信息并进行分类，让买家更容易找到目标商品。这缩短了买家从社交媒体发现商品到完成购买的过程。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年已有17人在美国移民拘留期间死亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260419-8917847</id>
-        <link href="https://www.zaobao.com/news/world/story20260419-8917847"/>
-        <updated>2026-04-19T06:50:47.000Z</updated>
-        <summary type="html"><![CDATA[根据美国移民及海关执法局发布的被拘留者死亡报告，今年已有17人在美国移民拘留期间死亡。
-据美国全国广播公司（NBC）新闻报道，移民及海关执法局（ICE）报告称，2025年有33名被拘留者死亡，这是20多年来的最高数字；2024年则有11名被拘留者死亡。
-截至今年4月初，ICE已拘留超过6万名移民。尽管近几个月来这一数字有所下降，但仍远高于美国总统特朗普去年上任之前的水平。
-4月12日，一名27岁的古巴公民在迈阿密一处联邦拘留中心的牢房内被发现失去知觉，经抢救无效死亡，官方死因仍在调查中。
-美国移民及海关执法局的严厉执法行动引发争议，今年初在明尼苏达州明尼阿波利斯的一次行动中造成两名美国公民死亡，更激起公众愤怒。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -852,19 +882,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当500万个AI Agent涌入Telegram | 原文]]></title>
-        <id>https://t.me/wxbyg/7126</id>
-        <link href="https://t.me/wxbyg/7126"/>
-        <updated>2026-04-17T06:23:10.000Z</updated>
-        <summary type="html"><![CDATA[当500万个AI Agent涌入Telegram | 原文
-Telegraph
-当500万个AI Agent涌入Telegram
-文 | Sleepy.md、Kenny（TON Foundation） 刚刚过去的 2026 年头几个月，身处 AI 浪潮中的人们，目光几乎都被两条陡峭的曲线牵引着。 一条曲线关于开源的狂热。OpenClaw 在 GitHub 上以前所未有的速度揽下逾 35 万颗星，刷新了开源项目的增长纪录。「小龙虾」的破圈有目共睹。 另一条曲线则关乎商业的颠覆。Anthropic 靠着 Claude 在代码场景里展现出的强势，锋利地撕开了市场的口子。其年度经常性收入（ARR）一举冲破 300 亿美元大关，将昔日王者 OpenAI…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[被動投資悖論：當所有人都不用想，誰在幫你的股價定價？]]></title>
         <id>https://ducorn.com/passive-investing-paradox</id>
         <link href="https://ducorn.com/passive-investing-paradox"/>
@@ -872,16 +889,6 @@ Telegraph
         <summary type="html"><![CDATA[0050 台積電佔比 62%，S&P 500 前七大佔 33%。被動投資發明者 Bogle 死前警告權力集中，Green 說定價的人消失了，Asness 說效率下降主因是社群媒體。三方量的是不同的東西，你的退休金正走在路上，要算的是你離退休還有幾年。]]></summary>
         <author>
             <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年4月推荐]]></title>
-        <id>/archives/2026nian-4yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
-        <updated>2026-04-17T01:19:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月17日 网络收音机 Free Magazines 国外PDF免费下载 4月16日 bilimusic 基于B站的音乐APP，需要扫码登录，来源GitHub，下载需要特殊网络 土拨鼠大屏助手 巧用手机接管大屏，终结套娃收费 4月15日 随身FM]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
@@ -907,71 +914,6 @@ Telegraph
 应对之策也许就是反过来，将学习和思考拆解成一系列短问题。比如，以后的学习不再是一厚本教材，而是几十个的系列短视频，每个用两三分钟解释一个知识点。只有这个时…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圈内大佬3天遭袭2次，“反AI”的美国00后这次捅出大乱子 | 原文]]></title>
-        <id>https://t.me/wxbyg/7125</id>
-        <link href="https://t.me/wxbyg/7125"/>
-        <updated>2026-04-16T22:38:54.000Z</updated>
-        <summary type="html"><![CDATA[圈内大佬3天遭袭2次，“反AI”的美国00后这次捅出大乱子 | 原文
-Telegraph
-圈内大佬3天遭袭2次，“反AI”的美国00后这次捅出大乱子
-要想赢得普通人尤其是“Z世代”普通人对于人工智能的信任，关键在于证明，人工智能要做的是增强并辅助人类的才能，而非取代。 文｜刘瀚琳 三天内，世界上最著名的AI大佬、OpenAI创始人奥尔特曼的家遭遇了两次袭击。袭击均发生在凌晨，人最不设防的时候。 最近一次是在4月12日凌晨1点40分，两名嫌疑人开着一辆本田轿车，途经时向其住宅开枪。 这次枪击事件发生前，他的住宅还曾遭遇燃烧弹袭击。 4月10日，一个20岁的年轻人通过燃烧弹引燃了奥尔特曼住宅的外门。一个多小时后，天蒙蒙亮，警方又接到报警称，该名男子已前往…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）(2) | 原文]]></title>
-        <id>https://t.me/wxbyg/7124</id>
-        <link href="https://t.me/wxbyg/7124"/>
-        <updated>2026-04-16T16:10:12.000Z</updated>
-        <summary type="html"><![CDATA[推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）(2) | 原文
-Telegraph
-推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）
-我们可以从多方面提出质疑：“心智对象” 未能充分解释外化思维（如书写计算）的作用，也无法阐明同构异态现象（即不同可复现心智对象之间的意外关联）。可复现性存在程度差异；音乐、诗歌等活动也具有强可复现特征。我们不能忘记，可复现心智对象的构成受巨大文化影响 —— 想想为让大脑适应数学所依赖的字母与数字，需要付出多么惊人的努力。 但戴维斯–赫尔希论题有两个本质特征，使其特别适配本文目的：它将数学定位为人类活动（心智对象）与社会活动（可复现性质）。这为理解数学在人类文化中的角色提供了便利框架。 可复现心智结构提供…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）(1) | 原文]]></title>
-        <id>https://t.me/wxbyg/7123</id>
-        <link href="https://t.me/wxbyg/7123"/>
-        <updated>2026-04-16T16:10:12.000Z</updated>
-        <summary type="html"><![CDATA[推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）(1) | 原文
-Telegraph
-推理机器时代的人类数学——菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）
-★置顶zzllrr小乐公众号《小乐数学科普》新鲜送到！ 菲尔兹奖得主阿克沙伊・文卡特什（Akshay Venkatesh）对AI时代的数学重塑的哲学思考。 作者：阿克沙伊・文卡特什（Akshay Venkatesh，普林斯顿高等研究院，2025-12-31）即将发表于2026年《M×Φ 数学与哲学年鉴》第1期译者：zzllrr小乐（数学科普公众号）2026-4-17 摘要 本文将对当代数学实践的反思与自动化如何重塑数学的讨论相结合。我推测数学的概念语言可能经历剧烈重构，并以历史案例为参照展开分析。 关键…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个曾经的高考状元，在40岁确诊成人ADHD（1） | 原文]]></title>
-        <id>https://t.me/wxbyg/7122</id>
-        <link href="https://t.me/wxbyg/7122"/>
-        <updated>2026-04-16T15:58:49.000Z</updated>
-        <summary type="html"><![CDATA[一个曾经的高考状元，在40岁确诊成人ADHD（1） | 原文
-Telegraph
-一个曾经的高考状元，在40岁确诊成人ADHD（1）
-前言 上周，我去一位研究ADHD的心理学专家朋友那里，做了一次25分钟的注意力评估。 结果很直接—— 提示：存在明显的ADHD相关特征。 看到结果的第一时间，我那位做ADHD研究的朋友愣了一下，问我： “你这个状元，是怎么考出来的？” 其实，这个答案，并不是完全突然。 早在2023年，我就已经隐约察觉：自己的注意力，好像一直有问题。 那时候，我看了青杉的公众号，才知道武汉可以做成人ADHD诊断，甚至已经说服了妈妈，准备一起去武汉精神卫生中心看看（对，就是大家熟知的“六角亭”，不过是另一个院区）。 但最后，我还是被劝退了。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Opus 4.7突然发布：逐字级精准执行指令，软件工程和视觉能力大幅领先opus 4.6 | 原文]]></title>
-        <id>https://t.me/wxbyg/7121</id>
-        <link href="https://t.me/wxbyg/7121"/>
-        <updated>2026-04-16T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Claude Opus 4.7突然发布：逐字级精准执行指令，软件工程和视觉能力大幅领先opus 4.6 | 原文
-Telegraph
-Claude Opus 4.7突然发布：逐字级精准执行指令，软件工程和视觉能力大幅领先opus 4.6
-↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic突然发布Claude Opus 4.7。 这次更新的重点落在软件工程能力上。Opus 4.7在最难的编程任务上提升明显，用户反馈可以把以前需要盯着看的复杂代码工作直接交给它，不用再寸步不离。它能处理复杂的长时间任务，严格遵守指令，并在汇报结果前自行验证输出。 Opus 4.7即日起在所有Claude产品及API、Amazon Bedrock、Google Cloud Vertex AI和Microsoft Foundry上线。定价与Opus…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -1278,39 +1220,6 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
 这五个大模型的平均答题正确率仅为3.8%，即100道题可以答对3.8道。相比之下，它们处理 Python 问题的正确率可以达到90%。
 更尴尬的是，仅有的那几道答对的题目，都是入门级。更难的级别（初级、中级、高级），所有五个大模型的正确率都为0。
 这个实验充分说明了，大模型的表现（智能程度）首先由训练材料决定：训练的语料越多，表现越好，比如 Python 的语料遍地都是，大模型因此极其擅长解决 Python 问…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html"/>
-        <updated>2026-03-21T10:19:11.000Z</updated>
-        <summary type="html"><![CDATA[1、
-本周末，有一条最热闹的 AI 新闻，震动了太平洋两岸，连马斯克都关注了。
-昨天，AI 编程工具 Cursor 推出了"自己的"模型 Composer 2。
-
-上图是官网截图，现在点进去还写着"自有模型"。
-自从2024年10月，Composer 1 发布以来，外界就一直怀疑，它是套壳的中国模型，因为行为很类似，但苦于找不到证据。
-现在 Composer 2 来了，很多人就开始研究，它的背后到底是什么模型，真的是 Cursor 自家的吗？
-Cursor 为了防止破解，做了很多限制，但是百密一疏。国外推友 @fynnso 发现，有一个地方在上一个版本是禁止的，但是这个版本却可以执行。
-首先，你自己架设一台服务器，充当 AI 模型的调用接口，有没有模型无所谓，只要能收到客户端请求就行。
-然后，你在本地的 Cursor 里面，设置使用的模型为 Composer 2，模型网址就是你刚架设的服务器。这样一来，Cursor 就会向你的服务器发出请求，从而可以看到它到底在请求什么模型。
-真相就暴露了，它请求的模型 ID 居然是 kimi-k2p5-rl-0317-s515-fast（下图）。
-
-2、
-这位国外推友就把上面的截图，发布到网上。这下炸锅了，明眼人都看出来，这是铁证，Composer 2 实际上是套壳的 Kimi K2.5。
-
-可笑的是，事情一爆发，Cursor 第一时间就把漏洞堵上，现在已经没法复现这个请求（下图）。
-
-但是为时已晚，网上传遍了，就连马斯克也发推："它就是 Kimi K2.5"。
-
-这下好了，变成了公开的秘密，再也无法掩盖了。
-3、
-大家的关注点，很快就转移到 Cursor 是否侵权。因为 Kimi K2.5 虽然是开源模型，但是采用的是修改的 MIT 许可证（下图）。
-
-许可证这样说：你可以任意使用这个模型，唯一的条件是如果你的商业产品月活用户超过1亿，…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
