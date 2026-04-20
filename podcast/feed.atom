@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T08:15:17.565Z</updated>
+    <updated>2026-04-20T13:50:06.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -35,7 +35,7 @@ Learn more about our flagship conference happening this April at attend.ted.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I created OpenClaw, the viral AI agent | Peter Steinberger]]></title>
+        <title type="html"><![CDATA[How I created OpenClaw, the breakthrough AI agent | Peter Steinberger]]></title>
         <id>69e064cf501ebe6715dd4fa7</id>
         <link href="http://go.ted.com/petersteinberger"/>
         <updated>2026-04-17T15:00:00.000Z</updated>
