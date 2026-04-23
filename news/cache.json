@@ -53,44 +53,94 @@
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
         {
+          "id": "https://www.zaobao.com/news/world/story20260423-8940574",
+          "author": null,
+          "description": "丹麦两列火车周四发生相撞事故，造成至少17人受伤，其中四人伤势严重。\n综合路透社和法新社报道，这起事故发生在星期四（4月23日），地点在哥本哈根以北的希勒勒（Hillerod）附近。\n警方声明形容这是一起“严重事故”。据当地媒体报道，事故造成至少17人受伤，四人情况危急。\n大哥本哈根消防部门发言人说：“两列火车迎头相撞，有乘客受伤。所有乘客都已安全撤离车厢，没有人受困……大批救援人员已赶赴现场。”\n目前还不清楚事故发生原因。",
+          "link": "https://www.zaobao.com/news/world/story20260423-8940574",
+          "publishedOn": "2026-04-23T06:55:03.000Z",
+          "wordCount": 489,
+          "title": "丹麦两列火车相撞 至少17人受伤",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4ed9f60d810beca9a74712027da09ea71b54aceca9a02a45c6ee1bbf571a2d61"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260423-8940302",
+          "author": null,
+          "description": "美国参议院周三再次否决一项限制总统特朗普战争权力的议案。 \n这是自2月28日，美国对伊朗发起军事行动以来，参议院第五次否决旨在限制特朗普在伊朗问题上动武权力的议案。\n这项由民主党人发起的议案星期三（4月22日）在参议院以46票赞成、51票反对、三弃权未获通过。\n参议院民主党领袖舒默在投票前发表讲话说：“特朗普越是迟迟不让美国摆脱这场战争，美国深陷泥潭的程度就越深，他自己也会越难脱身。”\n据《纽约时报》周三报道，特朗普未来几周将面临一个关键的宪法期限，必须在平息战事或寻求国会批准持续战事之间做选择。第一个限期是5月1日，即特朗普3月2日正式通知国会开战算起的第60天。若特朗普到时不获国会批准，就须撤出美军。\n根据宪法，特朗普之后还可延长30天，理由是需要时间让美军安全撤出，但无权继续发动攻击。",
+          "link": "https://www.zaobao.com/news/world/story20260423-8940302",
+          "publishedOn": "2026-04-23T06:23:43.000Z",
+          "wordCount": 628,
+          "title": "美参院再次否决限特朗普战争权力议案",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/51a94d8add109706bdc9113455c8c324e5f1340c337822f46d526a38d27548f6"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260423-8939915",
+          "author": null,
+          "description": "欧美官员透露，美国白宫制定了一份国家名单，把北约成员国分类成“好盟友和坏盟友”两个类别，特朗普政府正寻求对在伊朗战争问题上拒绝提供支持的盟国进行惩罚。 \n美国新闻网站Politico星期三（4月22日）引述三名欧洲外交官和一名美国战争部官员报道，这份名单是在北约秘书长吕特本月访美前指定的，名单包括各成员国对北约的贡献概况，并据此将这些国家划分为不同等级。\n据这些知情人士透露，特朗普政府正在研究各项选项，但尚未公开任何细节。《华尔街日报》4月8日引述知情官员报道，特朗普政府正考虑通过撤军，惩罚未在伊朗战争中支持美国和以色列的北约成员国。\n一名欧洲官员说：“在惩罚坏盟国方面，他们似乎并没有非常具体的想法。调动军队是一个选项，但这主要惩罚的是美国自己，不是吗？”\n北约未回应置评请求。\n目前尚不清楚哪些国家属于哪一类别，也不清楚吕特是否知晓这项计划。但罗马尼亚和波兰可能成为最大的受益者，因为这两个国家仍深受特朗普青睐，且会欢迎更多美军进驻。\n波兰政府是北约国防开支最高的国家之一，目前已承担驻当地的1万名美军的几乎所有费用。而罗马尼亚近期扩建的米哈伊尔·科格尔尼恰努空军基地还有空间容纳更多美军。",
+          "link": "https://www.zaobao.com/news/world/story20260423-8939915",
+          "publishedOn": "2026-04-23T05:02:02.000Z",
+          "wordCount": 637,
+          "title": "消息：特朗普已制定名单 拟惩罚“不听话”北约盟友",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/712066ef0b0a05eb627e91e94e7189016908ab3029666cb73bef55f2d1e010e2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260423-8939427",
+          "author": null,
+          "description": "韩国空军周四就2021年两架战斗机空中擦撞事故道歉。此前一天，审计人员指出，飞行员在飞行过程中自拍和拍摄视频，并认为他们应对事故负责。\n一名空军发言人星期四（4月23日）在新闻发布会上说：“我们对2021年发生的这起事故给公众带来的担忧深表歉意。”\n他补充说，其中一名涉事飞行员已被停飞，受到严厉的纪律处分，并已退役。\n根据韩国国家审计监察委员会周三发布的报告，2021年12月在韩国大邱市附近进行编队飞行时，两架F-15K战斗机相撞，原因是飞行员未经许可擅自进行个人拍摄操作。随后，相关部门发表了道歉声明。\n审计人员指出，一名僚机飞行员（wingman pilot，主要指在战斗机编队中跟随长机执行任务的飞行员）试图录制影像以纪念他与该部队的最后一次飞行，在没有获得许可的情况下猛烈爬升和倾斜飞机以改善拍摄角度，另一名飞行员则从领头飞机上拍摄视频。\n两机接近时，双方机组人员都试图采取规避措施，但僚机的尾翼撞到了领头飞机的机翼，造成约8.8亿韩元（约76万5990新元）的损失。这次事件没有造成人员伤亡。\n审计委员会认定僚机飞行员负有主要责任，但也批评空军当时对飞行中拍摄的管控松懈，并责令该飞行员偿还约十分之一的维修费用。\n空军说，正在采取措施加强飞行安全规章，防止此类事件再次发生。",
+          "link": "https://www.zaobao.com/news/world/story20260423-8939427",
+          "publishedOn": "2026-04-23T03:42:56.000Z",
+          "wordCount": 573,
+          "title": "两战机飞行员自拍酿意外 韩国空军道歉",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/5dc7cd6feb304357cf90f65df552e57b957d266bd4c192611572d5d8fe97b9ba"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260423-8939226",
+          "author": null,
+          "description": "美国国务院周三说，鉴于伊朗已宣布分阶段重开领空，在伊朗的美国公民应立即离境。\n美国国务院领事事务局星期三（4月22日）建议美国公民关注当地媒体关于局势的最新发布，同时可向商业航空公司咨询飞离伊朗航班的信息。\n根据美国国务院的旅行警示，美国公民还可通过陆路前往亚美尼亚、阿塞拜疆、土耳其和土库曼斯坦，但应避免前往阿富汗、伊拉克或巴基斯坦与伊朗接壤地区。\n据伊朗媒体报道，伊朗民航组织副主席19日发表声明说，伊朗领空将分四个阶段重新开放。第一阶段恢复过境中转航班；第二阶段恢复伊朗东部机场航班；第三阶段恢复梅赫拉巴德机场和霍梅尼国际机场航班；第四阶段恢复伊朗西部机场航班。",
+          "link": "https://www.zaobao.com/news/world/story20260423-8939226",
+          "publishedOn": "2026-04-23T03:12:09.000Z",
+          "wordCount": 616,
+          "title": "美国务院促在伊朗美国公民立即离境",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/41f1b9afc8fa04499e9b8bf4a83003567e2ee5468fba92aa86e03423f3674767"
+        },
+        {
           "id": "https://www.zaobao.com/news/world/story20260423-8938742",
           "author": null,
-          "description": "美伊战争爆发八周以来，国会共和党人多次阻挡民主党要求停止军事行动的努力。但随着法定的关键期限逼近，部分共和党人开始释放信号，要求特朗普总统在未经国会授权的情况下，应于未来数周内收束战事或正式寻求国会批准。\n《纽约时报》和《华盛顿邮报》星期三（4月22日）报道，根据1973年《战争权力法》（War Powers Resolution），总统在未经国会授权下动武设有时间限制。特朗普于2月28日联手以色列对伊朗发动袭击，并于3月2日正式通知国会，这意味着为期60天的法定时限将于5月1日到期。到时，特朗普若未获得授权，理论上必须撤回美军。\n综合香港《星岛日报》报道，尽管共和党目前在国会保持团结以阻拦民主党的停火提案，但对于5月1日后的立场已出现松动。犹他州共和党参议员柯蒂斯（John Curtis）明确表示，若无国会批准，他不会支持超过60天的军事行动。众议院外交委员会主席马斯特（Brian Mast）也警告，一旦战争拖至5月，总统可能会失去显著支持，到时的票数分布将大不相同。\n根据法律，若60天期限届满，特朗普仅剩三种选择：一、寻求国会授权；二、开始撤军；三、行使一次性的30天延期。然而，该延期仅限于为“确保部队安全撤离”所需的情况，并不赋予总统继续发动攻势的权力。",
+          "description": "美伊战争爆发八周以来，国会共和党人多次阻挡民主党要求停止军事行动的努力。但随着法定的关键期限逼近，部分共和党人开始释放信号，要求特朗普总统在未经国会授权的情况下，应于未来数周内收束战事或正式寻求国会批准。 \n《纽约时报》和《华盛顿邮报》星期三（4月22日）报道，根据1973年《战争权力法》（War Powers Resolution），总统在未经国会授权下动武设有时间限制。\n特朗普于2月28日联手以色列对伊朗发动袭击，并于3月2日正式通知国会，这意味着为期60天的法定时限将于5月1日到期。到时，特朗普若未获得授权，理论上必须撤回美军。\n综合香港《星岛日报》报道，尽管共和党目前在国会保持团结以阻拦民主党的停火提案，但对于5月1日后的立场已出现松动。\n犹他州共和党参议员柯蒂斯（John Curtis）表明，若无国会批准，他不会支持超过60天的军事行动。众议院外交委员会主席马斯特（Brian Mast）也警告，一旦战争拖至5月，总统可能会失去显著支持，到时的票数分布将大不相同。\n根据法律，若60天期限届满，特朗普仅剩三种选择：一、寻求国会授权；二、开始撤军；三、行使一次性的30天延期。然而，延期仅限于为“确保部队安全撤离”所需的情况，并不赋予总统继续发动攻势的权力。",
           "link": "https://www.zaobao.com/news/world/story20260423-8938742",
           "publishedOn": "2026-04-23T02:08:44.000Z",
-          "wordCount": 622,
+          "wordCount": 646,
           "title": "60天期限将至 特朗普面临结束伊朗战争压力",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/7458bf4bcf8745ffe78e2b151903281ce70b941410b277629795aea1bbdbc4a8"
         },
         {
           "id": "https://www.zaobao.com/news/world/story20260423-8938619",
           "author": null,
-          "description": "美国五角大楼周三证实，美国海军部长费伦（John Phelan）将立即离职，但没有解释他突然离职的原因。据知情人士透露，费伦是被五角大楼开除的。\n此次人事变动正值美国对伊朗实施海上封锁之际。美国媒体报道称，这将是特朗普总统第二任期内首位离任的军种部长。\n美国战争部发言人帕内尔星期三（4月22日）发布声明说：“我们代表战争部长及战争部副部长，感谢费伦部长为国防部与美国海军作出的贡献。我们祝愿他未来一切顺利。”\n帕内尔说，美国海军副部长洪曹（Hung Cao）将出任代理海军部长。\n据了解，费伦在上任前并无军旅服役经历，他于2024年获得特朗普提名，2025年3月宣誓就任美国海军部长。",
+          "description": "美国五角大楼证实，美国海军部长费伦（John Phelan）将立即离职，但没有解释他突然离职的原因。据知情人士透露，费伦是被五角大楼开除的。\n此次人事变动正值美国对伊朗实施海上封锁之际。美国媒体报道称，这将是特朗普总统第二任期内首位离任的军种部长。\n美国战争部发言人帕内尔星期三（4月22日）发布声明说：“我们代表战争部长及战争部副部长，感谢费伦部长为国防部与美国海军作出的贡献。我们祝愿他未来一切顺利。”\n帕内尔说，美国海军副部长洪曹（Hung Cao）将出任代理海军部长。\n据了解，费伦在上任前并无军旅服役经历，他于2024年获得特朗普提名，2025年3月宣誓就任美国海军部长。",
           "link": "https://www.zaobao.com/news/world/story20260423-8938619",
           "publishedOn": "2026-04-23T01:39:58.000Z",
-          "wordCount": 487,
+          "wordCount": 615,
           "title": "五角大楼证实美国海军部长离职",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/724cb19b6f6134174581197260d68e24693c0955604018e7d8845fcad8ed0fb1"
         },
         {
           "id": "https://www.zaobao.com/news/world/story20260423-8938477",
           "author": null,
-          "description": "墨西哥特奥蒂瓦坎（Teotihuacan）金字塔景区周三重新开放，安保措施森严，游客数量也比往常少。\n位于墨西哥城附近的特奥蒂瓦坎金字塔景区（又称日月金字塔景区）是墨西哥最受欢迎的旅游景点之一，去年接待游客180万人次。\n4月20日，一名袭击者在月亮金字塔向游客开枪，造成一名加拿大女子死亡、13名外国游客受伤，枪手行凶后自杀。\n周一发生的这起枪击事件引发了人们对墨西哥文化遗址安保措施的密切关注，而此时墨西哥正准备与美国和加拿大联办世界杯。\n金字塔景区周三在严密的安保措施下重新开放，40名国民警卫队成员被部署到现场加强安保，与市警察和墨西哥城警察共同执勤。\n景区五个入口处均实施了基本的行李和背包检查。这些加强的安保措施减缓了游客进入景区的速度。\n墨西哥负责管理文物的联邦机构国家人类学与历史研究所说，一些游客在烈日下等候了超过三个半小时，作为延误的补偿，他们获得免费入场。\n案发地点月亮金字塔目前仍暂停对游客开放，恢复时间另行通知。",
+          "description": "墨西哥特奥蒂瓦坎（Teotihuacan）金字塔景区星期三（4月22日）重新开放，安保措施森严，游客数量也比往常少。\n位于墨西哥城附近的特奥蒂瓦坎金字塔景区（又称日月金字塔景区）是墨西哥最受欢迎的旅游景点之一，去年接待游客180万人次。\n4月20日，一名袭击者在月亮金字塔向游客开枪，造成一名加拿大女子死亡、13名外国游客受伤，枪手行凶后自杀。 \n这起枪击事件引发了人们对墨西哥文化遗址安保措施的密切关注，而此时墨西哥正准备与美国和加拿大联办世界杯。 \n\n              \n特奥蒂瓦坎金字塔景区在严密的安保措施下重新开放，游客在烈日下排队等着进入景区。（路透社）\n            \n金字塔景区星期三在严密的安保措施下重新开放，40名国民警卫队成员被部署到现场加强安保，与市警察和墨西哥城警察共同执勤。\n景区五个入口处均实施基本的行李和背包检查。这些加强的安保措施减缓游客进入景区的速度。\n墨西哥负责管理文物的联邦机构国家人类学与历史研究所说，一些游客在烈日下等候超过三个半小时，作为延误的补偿，他们获得免费入场。\n案发地点月亮金字塔目前仍暂停对游客开放，恢复时间另行通知。",
           "link": "https://www.zaobao.com/news/world/story20260423-8938477",
           "publishedOn": "2026-04-23T01:07:28.000Z",
-          "wordCount": 738,
+          "wordCount": 821,
           "title": "墨西哥金字塔景区加强安保后重新开放",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/1244ea8f5b2f882323c76fd9eab5d82bf370374e279cf8003a7b29a1492a9051"
         },
         {
           "id": "https://www.zaobao.com/news/world/story20260423-8938394",
           "author": null,
-          "description": "俄罗斯总统新闻秘书佩斯科夫周三说，总统普京愿与乌克兰总统泽连斯基会面，但只有在俄乌和平协议最终敲定阶段，这样的会面才能富有成效。\n佩斯科夫星期三（4月22日）接受媒体访问时说，上述会面必须有明确的目的，但俄方没有看到乌克兰解决冲突的政治意愿。\n佩斯科夫发表上述言论前，乌克兰外长瑟比加说，基辅已请求土耳其主持两国领导人会晤，以重启陷入僵局的和平谈判。\n俄罗斯新闻机构周三引述佩斯科夫的话说：“关键在于此次会晤的目标。他们为什么要会面？普京曾表示，他随时准备在莫斯科举行会晤。”\n佩斯科夫强调，会面必须有理由，且必须富有成效，目的只能是为了最终达成协议。\n泽连斯基则说，乌克兰和美国谈判代表周二举行了会谈。尽管美国谈判代表正忙于处理伊朗战争，基辅仍寻求重启与俄罗斯的三方和平谈判。\n泽连斯基周三对记者说：“我们非常希望三方会谈能够恢复，并重回结束战争的道路。”\n据土耳其总统府发表的声明，总统埃尔多安周三与北约秘书长吕特会晤时表明，安卡拉正努力重启俄乌谈判，以促成交战双方领导人会面。",
+          "description": "俄罗斯总统新闻秘书佩斯科夫说，总统普京愿与乌克兰总统泽连斯基会面，但只有在俄乌和平协议最终敲定阶段，这样的会面才能富有成效。\n佩斯科夫星期三（4月22日）接受媒体访问时说，上述会面必须有明确的目的，但俄方没有看到乌克兰解决冲突的政治意愿。\n佩斯科夫发表上述言论前，乌克兰外长瑟比加说，基辅已请求土耳其主持两国领导人会晤，以重启陷入僵局的和平谈判。\n俄罗斯新闻机构星期三引述佩斯科夫的话说：“关键在于此次会晤的目标。他们为什么要会面？普京曾说，他随时准备在莫斯科举行会晤。”\n佩斯科夫强调，会面必须有理由，且富有成效，目的只能是为了最终达成协议。\n泽连斯基则说，乌克兰和美国谈判代表星期二举行了会谈。尽管美国谈判代表正忙于处理伊朗战争，基辅仍寻求重启与俄罗斯的三方和平谈判。 \n泽连斯基星期三对记者说：“我们非常希望三方会谈能够恢复，并重回结束战争的道路。”\n据土耳其总统府发表的声明，总统埃尔多安星期三与北约秘书长吕特会晤时表明，安卡拉正努力重启俄乌谈判，以促成交战双方领导人会面。\n\n              \n4月22日，土耳其总统埃尔多安（右）在安卡拉接见北约秘书长吕特。据土耳其总统府声明，埃尔多安与吕特会晤时表明，安卡拉正努力重启俄乌谈判，以促成交战双方领导人会面。（路透社）",
           "link": "https://www.zaobao.com/news/world/story20260423-8938394",
           "publishedOn": "2026-04-23T00:36:19.000Z",
-          "wordCount": 624,
+          "wordCount": 811,
           "title": "克宫：普京只有在协议最终敲定阶段与泽连斯基会面",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a9bf99aa593198124674e77f43e2f47dbd43a6f8eb3be424061ab68be8844633"
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/62c8f055bccc623f67be44485beb8a798d7c418e72aafe4ba767eb2626eaa4c7"
         },
         {
           "id": "https://www.zaobao.com/news/world/story20260423-8938315",
@@ -241,56 +291,6 @@
           "wordCount": 633,
           "title": "以外长促黎政府共同对抗真主党",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/5271893ad42eac9207d8a8fc7dc43ec72e5685b3c361b44faa84e2956b0c9a3b"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260422-8935884",
-          "author": null,
-          "description": "（华盛顿综合电）美军导弹储备亮起红灯。最新评估显示，美军短期内仍有足够弹药维持对伊行动，但部分核心导弹库存已大幅下滑，在西太平洋形成“脆弱窗口”。\n专家警告，目前剩余关键弹药已不足以支撑与中国等近乎同等实力对手爆发大规模冲突，且补充缺口或需数年时间。\n根据美国智库战略与国际研究中心（CSIS）的最新分析，在过去七周的美伊交战中，美军至少消耗45%的精确打击导弹、至少一半的萨德拦截导弹，以及近50%的爱国者防空导弹。三名熟悉五角大楼机密库存评估的人士说，这些数字与军方掌握的情况基本吻合。\nCSIS专家指出，五角大楼今年初已签署一系列扩大导弹产能的合同，但即便产能提升，补回这些系统的交付时间仍需三至五年。\n从短期看，即便美伊停火协议破裂，美军剩余弹药仍足以支撑对伊朗的后续行动。但评估警告，目前剩余的关键弹药已不足以应对像中国这样的“近乎同等实力”对手；同时，高强度消耗也在西太平洋形成了更脆弱的防卫窗口。\n军方高层早有预警\n\n早在战争爆发前，美国军方便曾提醒总统特朗普，持续军事行动可能冲击美国武器库存，尤其是原本用于支援以色列和乌克兰的弹药与武器储备。\n相比之下，伊朗仍有能力大量生产“见证者”（Shahed）无人机和中短程弹道导弹，而且现有库存规模庞大。\n五角大楼发言人帕内尔回应称，美军拥有在总统选定的时间与地点执行任务所需的一切能力，并强调自特朗普上任以来，美军在多个战区展示了强大的实战与战备韧性。\n五角大楼预算文件显示，美国海军预计明年将采购约785枚战斧巡航导弹，远高于今年的55枚；同时，美国陆军针对爱国者PAC-3 MSE导弹的大规模采购计划预计将持续至2031年，甚至更长时间。\n\n“爱国者”首次上舰 强化舰艇防空层级\n\n另一方面，美国海军正推进把陆军使用的爱国者导弹整合进海军“宙斯盾”作战系统。\n美国国防巨头洛克希德·马丁星期二（4月21日）宣布，已获得相关整合项目首阶段合同。这标志着爱国者导弹将首次部署到海上，可望增强美军舰艇拦截无人机和导弹攻击能力，并提升舰队整体拦截弹储备深度。",
-          "link": "https://www.zaobao.com/news/world/story20260422-8935884",
-          "publishedOn": "2026-04-22T10:24:25.000Z",
-          "wordCount": 644,
-          "title": "美军核心弹药七周耗半：对伊行动虽足 应对同级别大国难",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/abf9c58569a42ed68a035dc41492e46f36e9a867307e1920f4f8210995853464"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260422-8935355",
-          "author": null,
-          "description": "（德黑兰／纽约综合电）美国总统特朗普宣布无限期延长与伊朗的停火协议，不过将战略重点转向打击伊朗经济，扬言继续封锁霍尔木兹海峡可切断德黑兰的石油收入，让伊朗财政崩溃。\n然而，美军的封锁线似乎面对局限。卫星图像显示，本周至少有两艘伊朗油轮突破美军封锁线，驶入阿拉伯海。 \n特朗普星期二（4月21日）深夜在自家社媒贴文说：“伊朗的财政正在崩溃！他们要霍尔木兹海峡立即开放，他们很缺钱！每天损失5亿美元。他们的军警都在抗议收不到薪水。情况紧急！”\n当天早前，美国财长贝森特在社媒X贴文重申特朗普的命令，称美国海军会继续封锁伊朗港口，财政部也会继续对伊朗经济“极限施压”。\n\n              \n美国持续对进出伊朗港口的海上交通实时封锁，图为美国空军一架KC-135同温层加油机，上周五（4月17日）在美国中央司令部责任区上空，为一架海军P-8飞机加油。（美国中央司令部脸书）\n            \n贝森特说：“过不了几天，哈尔克岛的石油储存设施将被填满，伊朗脆弱的油井将必须关闭。封禁伊朗的海运直接打击伊朗政府的主要收入命脉。” \n美国财政部同日还宣布，对帮助伊朗获取武器的14名来自伊朗、土耳其和阿联酋的个人和公司实施新制裁。\n声明称，伊朗政权正试图重建导弹生产能力，并越来越依赖“沙赫德”（也称“见证者”）无人机来攻击美国和盟友，包括中东地区的能源基础设施。\n\n至少两艘伊朗油轮载400万桶原油突破美军封锁\n\n彭博社星期三（22日）引用货运分析公司Vortexa的数据报道，本周至少有两艘满载约400万桶石油的伊朗油轮驶出波斯湾，突破美军的封锁线。\n卫星图像显示，英雄2号（The Hero II）和海蒂号（Hedy）两艘悬挂伊朗国旗的超大型油轮在星期一（20日）越过美国确认的封锁线，驶入阿拉伯海域。\n两艘油轮的最终目的地并不明确。伊朗绝大多数原油都出口到中国，几周前，印度在美国豁免令截止前接收了两艘船的伊朗原油。 \n为了躲避美军，这些船只一般都关闭应答器，因此Vortexa使用卫星图像追踪。英雄2号上一回传送信号已是一个多月前往北驶向马六甲海峡，海蒂号最后一次发出信号则是在2月底行经阿联酋豪尔费坎（Khor Fakkan）附近海域。\nVortexa的数据也显示，上周至今，有至少34艘与伊朗有关联的油轮和天然气船突破美军的封锁线，当中19艘驶出波斯湾，有17艘是货船。\n\n伊朗促联合国责令美国释放伊朗油船人员\n\n伊朗外长阿拉格齐星期二在社媒贴文称，美军封锁伊朗港口是“战争行为，形同违反停火协议”。他也说：“伊朗知道如何化解封禁，捍卫自身权益及抵抗欺压。”\n伊朗常驻联合国代表伊拉瓦尼同日致信联合国秘书长古特雷斯和联合国安全理事会，指责美国扣押图斯卡号（Touska）是海盗行为，敦促联合国谴责美国并责令释放船只及人员。这是伊拉瓦尼一周内第二次致函联合国。\n\n英国召集30多国规划保护海峡航运\n\n另一方面，英国星期三召开两天的会议，与30多国的军事策划人员探讨，在霍尔木兹海峡具备条件重开后，如何保护航道海运进行的“细节规划”。",
-          "link": "https://www.zaobao.com/news/world/story20260422-8935355",
-          "publishedOn": "2026-04-22T09:53:26.000Z",
-          "wordCount": 836,
-          "title": "特朗普扬言封锁原油输出 让伊朗财政崩溃",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/9b225f1032fdaa8b8e03923ba81cde4894fb2ae1690a1caf3a856ebcf866ff1a"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260422-8935539",
-          "author": null,
-          "description": "（新德里法新电）印度发布新指令，要求所有学校定时鸣钟提醒学生喝水，以应对即将到来的热浪天气。\n印度教育部周二（4月21日）发布指引，要求学校每45至60分钟响起“喝水铃”，并推行同伴制，让学生互相照顾。同时，学校应减少户外活动，避免在露天场所进行集会或上课，并加强补水的意识教育。\n印度气象局对新德里本周可能出现热浪发布“黄色预警”。预计，新德里周三气温将升至41至43摄氏度，本周晚些时候可能达42至44摄氏度。\n政府数据显示，2012年至2021年间，全国约1万1000人因中暑死亡。2024年5月，新德里气温曾升至49.2摄氏度，追平历史最高纪录。\n印度近年来高温天气频发，与全球极端气候趋势一致，对公共健康持续构成压力。",
-          "link": "https://www.zaobao.com/news/world/story20260422-8935539",
-          "publishedOn": "2026-04-22T09:39:55.000Z",
-          "wordCount": 628,
-          "title": "印度学校设“喝水铃” 提醒学生喝水 防高温热浪",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/b678fbc8cf7b37cec2fdcacdd0c8772020e9d208dd3a7ace6dc5dfd9fe1a29b4"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260422-8935244",
-          "author": null,
-          "description": "（伦敦综合电）英国政府对社媒平台Telegram展开调查，有证据显示儿童性虐待内容在Telegram上传播，而且有色魔利用青少年聊天平台向孩童伸出触角。\n除了Telegram，英国政府也着手调查在线聊天室Teen Chat和Chat Avenue，查看它们是否履行职责，防止儿童使用者成为性侵犯者的诱骗对象。\n英国通信管理局执法总监凯特周二（4月21日）说，与这些公司沟通过后，认为它们并未为儿童提供足够的保护。“这些公司必须采取更多措施保护儿童，否则将根据网络安全法面临严重后果。”\n英国政府先前已发布声明警告，如果社媒平台不配合通信管理局的命令，撤下未经当事人同意而发布到平台上的私密影像，该平台所属科技公司的高管可能被追究责任，面临监禁。\n工党政府已针对犯罪与警务法案提出修正案，并将这项惩罚措施列入其中，希望借此保护民众免受低俗的网络色情内容之害。\n今年2月，英国政府表示修正案将要求科技公司在48小时内删除未经同意传播的私密影像，否则将面临最高相当于其全球收入10%的罚款，严重情况下甚至可能在英国被禁止提供服务。\n根据修正案，违法的科技公司高管面临监禁或罚款，或两者兼施；持有或发布描绘乱伦或成年人假扮儿童的色情影像属于刑事犯罪，最高可判处五年监禁。\n此前，马斯克旗下社交平台X的人工智能（AI）助手Grok，因能够生成色情深度伪造图像而引发国际谴责。\n英国网络安全事务部长纳拉扬说，太多女性的私密影像被他人擅自发布到网上，导致她们的生活支离破碎。",
-          "link": "https://www.zaobao.com/news/world/story20260422-8935244",
-          "publishedOn": "2026-04-22T09:35:01.000Z",
-          "wordCount": 645,
-          "title": "涉传播儿童性虐待内容 英国对Telegram展开调查",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/7bd78c2d8a36d06beeb2033f0338c1258fa1ce573c576eda10114757e85cb106"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260422-8935765",
-          "author": null,
-          "description": "海事安全消息人士及英国海事贸易行动中心称，一天内已有三艘集装箱船在霍尔木兹海峡遭枪击。\n路透社报道，英国海事贸易行动中心星期三（4月22日）报告两起集装箱船遭袭事件。\n其中一艘船悬挂利比亚国旗，在阿曼东北部海域遭枪击和火箭推进榴弹袭击，船只驾驶台受损，但船员未受伤。它在受袭前曾报告，有一艘伊朗伊斯兰革命卫队炮艇靠近。\n海事安全消息人士称，这艘炮艇上共有三人，而遭袭船只最初被告知获准通过霍尔木兹海峡。\n另一艘船悬挂巴拿马国旗，在伊朗以西约八海里处遭到射击，船只未受损，船员也都安全。\n此外，第三艘船在驶离霍尔木兹海峡时，于伊朗以西约八海里处遭枪击。它同样悬挂利比亚国旗，没有受损，已在水面上停下，船员安全。\n德黑兰表明，在美方解除对前往伊朗港口船只实施的海上封锁前，伊朗会持续控制霍尔木兹海峡。\n彭博社报道称，上述枪击事件说明，当前试图穿越霍尔木兹海峡的船只，面临着更高风险。",
-          "link": "https://www.zaobao.com/news/world/story20260422-8935765",
-          "publishedOn": "2026-04-22T09:27:25.000Z",
-          "wordCount": 629,
-          "title": "霍尔木兹海峡一天内三艘集装箱船遭枪击",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ea441b4236abf4390a0d845571c014e4488cbe73c6054a2cba8a379def05471e"
         }
       ]
     },
@@ -315,7 +315,7 @@
           "description": "0050 台積電佔比 62%，S&P 500 前七大佔 33%。被動投資發明者 Bogle 死前警告權力集中，Green 說定價的人消失了，Asness 說效率下降主因是社群媒體。三方量的是不同的東西，你的退休金正走在路上，要算的是你離退休還有幾年。",
           "link": "https://ducorn.com/passive-investing-paradox",
           "publishedOn": "2026-04-17T01:35:35.000Z",
-          "wordCount": 1003,
+          "wordCount": 1008,
           "title": "被動投資悖論：當所有人都不用想，誰在幫你的股價定價？",
           "imageUrl": "https://ducorn.com/images/og/passive-investing-paradox.webp"
         },
@@ -325,7 +325,7 @@
           "description": "股板說 TQQQ 定期定額七年勝率 100%。但那個七年的起點是 2012，換成 1999 起點做模擬，TQQQ 年化 5.62% 輸 QQQ 的 9.37%，最大回撤 99.91%。同一個工具差 13 年結論相反。這是起點的遊戲，進場日期你選不了。",
           "link": "https://ducorn.com/tqqq-leverage",
           "publishedOn": "2026-04-15T01:53:09.000Z",
-          "wordCount": 1710,
+          "wordCount": 1715,
           "title": "TQQQ 三倍槓桿放大了什麼？進場日期決定結論的遊戲",
           "imageUrl": "https://ducorn.com/images/og/tqqq-leverage.webp"
         },
@@ -335,7 +335,7 @@
           "description": "NMN 唯一的人體試驗：60 人、12 週、沒測壽命。Rapamycin 讓老鼠多活 38%，但花兩百萬美元做實驗的 Bryan Johnson 停藥了。三種抗老化分子的證據等級，跟廣告暗示的差了好幾個量級。三個互相看不順眼的專家，唯一共識是運動。",
           "link": "https://ducorn.com/longevity-drugs",
           "publishedOn": "2026-04-11T01:54:01.000Z",
-          "wordCount": 951,
+          "wordCount": 953,
           "title": "你花三千塊買的 NMN，有多少科學根據？",
           "imageUrl": "https://ducorn.com/images/og/longevity-drugs.webp"
         },
@@ -355,7 +355,7 @@
           "description": "Cochrane 說168斷食跟節食一樣，Fung 說傳統節食幾乎必定失敗。91% 心臟病風險研究有致命缺陷。兩邊在量不同的東西，跟誰對誰錯無關。",
           "link": "https://ducorn.com/intermittent-fasting",
           "publishedOn": "2026-04-09T13:16:18.000Z",
-          "wordCount": 936,
+          "wordCount": 941,
           "title": "168斷食：六本書和五個研究吵了十年，我站這邊",
           "imageUrl": "https://ducorn.com/images/og/intermittent-fasting.webp"
         },
@@ -365,7 +365,7 @@
           "description": "RDA 0.8g 維持 70 年，美國新版指南改成 1.2-1.6，Attia 喊 2.2，Phillips 說胡說八道。差三倍。畫出 1.6 截線的關鍵論文 p 值 0.079，Attia 和 Huberman 持有蛋白棒股份。四種人該吃多少，答案不一樣。",
           "link": "https://ducorn.com/protein-war",
           "publishedOn": "2026-04-08T15:17:42.000Z",
-          "wordCount": 1178,
+          "wordCount": 1191,
           "title": "蛋白質一天要吃多少？0.8、1.6、2.2，三個數字，三派專家，沒有人幫你判斷信誰",
           "imageUrl": "https://ducorn.com/images/og/protein-war.webp"
         },
@@ -375,7 +375,7 @@
           "description": "Die With Zero 說把錢花掉，Psychology of Money 說存下來就是自由。但 Housel 在新書裡改口了。三本書加上 2026 退休研究揭示一個悖論：大多數退休者只花了安全範圍的一半，同時 58% 的人擔心不夠用。你的退休規劃方向可能從頭就錯了。",
           "link": "https://ducorn.com/die-with-zero",
           "publishedOn": "2026-04-06T16:49:26.000Z",
-          "wordCount": 1038,
+          "wordCount": 1040,
           "title": "退休金存到死，還是花到零？連 Morgan Housel 都跟自己矛盾了。",
           "imageUrl": "https://ducorn.com/images/og/die-with-zero.webp"
         },
@@ -385,7 +385,7 @@
           "description": "Cleveland Clinic 8,000 人真實數據：停打瘦瘦筆後平均只復胖 0.5%。但 STEP 1 臨床試驗說三分之二會回來。差了 130 倍的原因不在誰說謊。是「停藥」的定義完全不同。加上 WashU 33 萬人研究發現，停藥後心臟保護在六個月內就開始消退。",
           "link": "https://ducorn.com/glp1-after-stopping",
           "publishedOn": "2026-04-02T16:09:21.000Z",
-          "wordCount": 1044,
+          "wordCount": 1039,
           "title": "瘦瘦筆停藥會復胖嗎？臨床 66% vs 真實 0.5% 的 130 倍落差",
           "imageUrl": "https://ducorn.com/images/og/glp1-after-stopping.webp"
         },
@@ -395,7 +395,7 @@
           "description": "Peter Attia 說運動，David Sinclair 說 NMN，但 Sinclair 自己 2025 年辭掉長壽學會會長、縮減補充劑清單。PEARL 試驗主要終點失敗，Blue Zones 發明人棄守沖繩。台灣人花 NT$2,500-10,000 買的 NMN，食藥署連合法食品原料都不算。按證據強度排序，你該做的和不該花錢的。",
           "link": "https://ducorn.com/longevity-science",
           "publishedOn": "2026-04-01T15:31:58.000Z",
-          "wordCount": 1305,
+          "wordCount": 1308,
           "title": "NMN 有用嗎？四個長壽專家互相打臉的 2026 證據排行",
           "imageUrl": "https://ducorn.com/images/og/longevity-science.webp"
         },
@@ -415,7 +415,7 @@
           "description": "哈佛教授說創新力 38 歲開始衰退，但 50 歲創業者成功率是 30 歲的兩倍。兩組數據都對，但量的是不同的東西。七本書對「你 38 歲到底怎麼了」給了五個互相矛盾的答案。「35 歲天花板」的出處不在你的大腦。環境在用錯的指標評估你。",
           "link": "https://ducorn.com/midlife-pivot",
           "publishedOn": "2026-03-31T09:52:05.000Z",
-          "wordCount": 1150,
+          "wordCount": 1145,
           "title": "你的大腦 38 歲開始轉型——這是衰退還是重組？",
           "imageUrl": "https://ducorn.com/images/og/midlife-pivot.webp"
         },
@@ -425,7 +425,7 @@
           "description": "GPT-5 的 AGI 分數 57%，記憶力 0 分。黃仁勳說 AGI 已到，OpenAI 合約秘密定義 AGI 為能賺 1000 億美元利潤的技術。三把尺，三個相反結論，你老闆用哪把決定你該擔心什麼。",
           "link": "https://ducorn.com/agi-definition-war",
           "publishedOn": "2026-03-31T05:47:54.000Z",
-          "wordCount": 1371,
+          "wordCount": 1369,
           "title": "AGI 到了嗎？GPT-5 考 57 分，記憶力那題交白卷",
           "imageUrl": "https://ducorn.com/images/og/agi-definition-war.webp"
         },
@@ -435,7 +435,7 @@
           "description": "《原子習慣》教你先決定身份，Ibarra 叫你別想了先去做，兩個方向完全相反。五本暢銷書的處方互相矛盾：先做再想、先想再做、先放下、像科學家測試。因為「卡住」有四種不同形態，你要先診斷自己是哪一種，才知道該聽誰的。問題不在方法。你拿胃藥去治頭痛。",
           "link": "https://ducorn.com/identity-lag",
           "publishedOn": "2026-03-30T17:05:12.000Z",
-          "wordCount": 945,
+          "wordCount": 946,
           "title": "你讀了《原子習慣》為什麼還是沒改變",
           "imageUrl": "https://ducorn.com/images/og/identity-lag.webp"
         },
@@ -445,7 +445,7 @@
           "description": "SpaceX 以 1.75 兆美元估值啟動史上最大 IPO，破例把 30% 配給散戶投資人。Starlink 用戶天花板是 3200 萬還是 12 億？散戶配額是讓你參與還是讓你接盤？xAI 合併是願景還是燒錢？三個判斷幫你決定要不要搶那 30%。",
           "link": "https://ducorn.com/spacex-ipo-valuation",
           "publishedOn": "2026-03-30T10:06:30.000Z",
-          "wordCount": 1259,
+          "wordCount": 1261,
           "title": "SpaceX $1.75 兆 IPO：你要搶那 30% 嗎？",
           "imageUrl": "https://ducorn.com/images/og/spacex-ipo-valuation.webp"
         },
@@ -455,7 +455,7 @@
           "description": "90% 的企業說 AI 有價值，但只有 2% 真的因為 AI 夠強而裁人——剩下 58% 是 HBR 說的 posturing（作秀）。Suleyman 和 Anthropic 的預測為什麼互相矛盾？因為他們問的根本是不同的問題。五本書加七篇報告放在一起看，你最該擔心的不是 AI 太強，是你老闆以為 AI 很強。",
           "link": "https://ducorn.com/ai-replace-jobs",
           "publishedOn": "2026-03-30T04:00:52.000Z",
-          "wordCount": 1500,
+          "wordCount": 1496,
           "title": "AI 會取代你的工作嗎？真正威脅是老闆以為 AI 很強",
           "imageUrl": "https://ducorn.com/images/og/ai-replace-jobs.webp"
         },
@@ -465,7 +465,7 @@
           "description": "Klotz 追蹤二十年離職數據：一半的人不是慢慢想通的，是被一個事件拍醒的。Duckworth 說樂觀者業績好 20-40%，但 Duke 引用的 Moore 實驗說樂觀者堅持更久、表現沒更好。恆毅力害死了 Ali，低谷和死路痛苦一模一樣。七本書對「什麼時候該走」給了互相矛盾的答案。",
           "link": "https://ducorn.com/when-to-quit",
           "publishedOn": "2026-03-29T11:14:42.000Z",
-          "wordCount": 894,
+          "wordCount": 893,
           "title": "離開的勇氣：什麼時候堅持是毅力，什麼時候堅持是被綁架",
           "imageUrl": "https://ducorn.com/images/og/when-to-quit.webp"
         },
@@ -475,7 +475,7 @@
           "description": "Medallion 三十年年均 66%，Simons 卻叫散戶買指數基金。2026 年 Polystrat AI 單筆賺 376%，但 63% 的 AI 在虧錢。量化投資六十年的失敗史告訴你：AI 會不會取代你的投資判斷，取決於你能不能答出這三個問題。",
           "link": "https://ducorn.com/ai-investment",
           "publishedOn": "2026-03-28T15:38:43.000Z",
-          "wordCount": 1283,
+          "wordCount": 1288,
           "title": "大家都用 AI，誰輸錢？Simons 三十年 66% 卻叫散戶買指數",
           "imageUrl": "https://ducorn.com/images/og/ai-investment.webp"
         },
@@ -485,7 +485,7 @@
           "description": "專家都支持讓小孩用 AI 做遊戲，但在失敗的意義、螢幕時間、該不該學寫程式這些問題上互相矛盾。Papert 說好在 debug，Resnick 說好在自由探索，Gee 說自由探索是糟糕的學習理論。AI 讓不會程式的人也能做遊戲，問題是：小孩在這個過程裡到底學到什麼？",
           "link": "https://ducorn.com/kids-ai-games",
           "publishedOn": "2026-03-28T09:36:55.000Z",
-          "wordCount": 1197,
+          "wordCount": 1194,
           "title": "讓小孩用 AI 做遊戲，七個專家都說好。但他們連「為什麼好」都吵不完。",
           "imageUrl": "https://ducorn.com/images/og/kids-ai-games.webp"
         },
@@ -495,7 +495,7 @@
           "description": "你每天用 ChatGPT 翻譯、查資料、寫 email，覺得自己已經跟上了。但 Wharton 教授的 BCG 實驗發現：菁英顧問加了 AI，正確率反而從 84% 掉到 60%。大多數人卡在 AI 高原期，把 AI 當搜尋引擎而不是思考夥伴。從「給我答案」到「幫我想」，差距在一句話。",
           "link": "https://ducorn.com/ai-learning-curve",
           "publishedOn": "2026-03-28T02:37:45.000Z",
-          "wordCount": 1095,
+          "wordCount": 1099,
           "title": "你以為你會用 AI 了，其實你只用了 1%",
           "imageUrl": "https://ducorn.com/images/og/ai-learning-curve.webp"
         },
@@ -505,7 +505,7 @@
           "description": "1995 年美國廠毛利率低 25 個百分點，2024 年 Arizona 追上台灣。同一家公司三十年的翻轉。巴菲特買了 40 億又幾個月全賣——台灣媒體只報了一半。護城河、關稅、集中度三筆帳，246 萬股東大多數只算過第一筆。「一張不賣，奇蹟自來」，你算過自己的曝險嗎？",
           "link": "https://ducorn.com/tsmc-tariff",
           "publishedOn": "2026-03-27T15:44:40.000Z",
-          "wordCount": 1156,
+          "wordCount": 1167,
           "title": "台積電關稅 15%：246 萬股東沒算的三筆帳",
           "imageUrl": "https://ducorn.com/images/og/tsmc-tariff.webp"
         },
@@ -515,7 +515,7 @@
           "description": "數百萬人把帳號密碼交給 AI Agent，但 OpenClaw 創造者自己承認 prompt injection「無解」、不敢推薦給家人用。CrowdStrike 說每一層都能被攻擊，Nature 研究說你越信任 AI 判斷力越差，而 Jensen Huang 說不用的代價更大。一個你今天就該做的事。",
           "link": "https://ducorn.com/ai-agent-security",
           "publishedOn": "2026-03-27T13:27:56.000Z",
-          "wordCount": 1277,
+          "wordCount": 1275,
           "title": "AI Agent 不安全。造出來的人親口說的。",
           "imageUrl": "https://ducorn.com/images/og/ai-agent-security.webp"
         },
@@ -525,7 +525,7 @@
           "description": "你花兩小時研究一檔股票、聽 podcast、問 AI——但你抄的答案來自一張不同的考卷。Crosby 說大腦有 bug、Hayes 說環境才是問題、Housel 說你是從眾。四組投資心理學矛盾，答案跟你想的不一樣。",
           "link": "https://ducorn.com/investment-psychology",
           "publishedOn": "2026-03-27T09:39:05.000Z",
-          "wordCount": 974,
+          "wordCount": 967,
           "title": "投資決策不是你的：四組心理學矛盾，你抄的答案來自不同的考卷",
           "imageUrl": "https://ducorn.com/images/og/investment-psychology.webp"
         }
@@ -537,270 +537,270 @@
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
         {
-          "id": "1x-3554828",
-          "author": "Jürgen Muß",
-          "description": "Red by Jürgen Muß",
-          "link": "https://1x.com/photo/3554828",
-          "publishedOn": "2026-04-23T02:55:47.442Z",
-          "wordCount": 361,
-          "title": "Red",
+          "id": "1x-3552322",
+          "author": "widiarto p.",
+          "description": "The Weight of the Win by widiarto p.",
+          "link": "https://1x.com/photo/3552322",
+          "publishedOn": "2026-04-23T08:01:38.976Z",
+          "wordCount": 373,
+          "title": "The Weight of the Win",
           "enclosure": {
-            "url": "https://1x.com/images/user/23d3e58a1ddd8fd4bf00793610c0a480-hd4.jpg",
+            "url": "https://1x.com/images/user/020c02e47550f0a4b21e5e12584b0c09-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/23d3e58a1ddd8fd4bf00793610c0a480-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/020c02e47550f0a4b21e5e12584b0c09-hd4.jpg"
         },
         {
-          "id": "1x-3550919",
-          "author": "HuongHoang",
-          "description": "Burst of Freedom by HuongHoang",
-          "link": "https://1x.com/photo/3550919",
-          "publishedOn": "2026-04-23T02:55:47.436Z",
-          "wordCount": 334,
-          "title": "Burst of Freedom",
-          "enclosure": {
-            "url": "https://1x.com/images/user/80498998fb68cae95fd7ed1955d7ce20-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/80498998fb68cae95fd7ed1955d7ce20-hd4.jpg"
-        },
-        {
-          "id": "1x-3554765",
-          "author": "Robert Buergisser",
-          "description": "Particle Accelerator by Robert Buergisser",
-          "link": "https://1x.com/photo/3554765",
-          "publishedOn": "2026-04-23T02:55:47.433Z",
-          "wordCount": 335,
-          "title": "Particle Accelerator",
-          "enclosure": {
-            "url": "https://1x.com/images/user/a882196ff51f184651a84cbe401db947-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/a882196ff51f184651a84cbe401db947-hd2.jpg"
-        },
-        {
-          "id": "1x-3554729",
-          "author": "Greetje van Son",
-          "description": "Urben quartet by Greetje van Son",
-          "link": "https://1x.com/photo/3554729",
-          "publishedOn": "2026-04-23T02:55:47.419Z",
-          "wordCount": 339,
-          "title": "Urben quartet",
-          "enclosure": {
-            "url": "https://1x.com/images/user/92f7efca703fbb1c71b74f5efbfb19b2-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/92f7efca703fbb1c71b74f5efbfb19b2-hd4.jpg"
-        },
-        {
-          "id": "1x-3554865",
-          "author": "Judith Kuhn",
-          "description": "aurora sancta by Judith Kuhn",
-          "link": "https://1x.com/photo/3554865",
-          "publishedOn": "2026-04-23T02:55:47.417Z",
-          "wordCount": 364,
-          "title": "aurora sancta",
-          "enclosure": {
-            "url": "https://1x.com/images/user/c88cdd1a0e8bebaad4a3f4ea51507833-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/c88cdd1a0e8bebaad4a3f4ea51507833-hd4.jpg"
-        },
-        {
-          "id": "1x-3546307",
-          "author": "Moses Wang",
-          "description": "California quail by Moses Wang",
-          "link": "https://1x.com/photo/3546307",
-          "publishedOn": "2026-04-23T02:55:47.414Z",
-          "wordCount": 364,
-          "title": "California quail",
-          "enclosure": {
-            "url": "https://1x.com/images/user/6cca8be21e049ef767ec98cce7192e03-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/6cca8be21e049ef767ec98cce7192e03-hd2.jpg"
-        },
-        {
-          "id": "1x-3554274",
-          "author": "Molly Fu APA",
-          "description": "The Lighthouse at Dawn by Molly Fu APA",
-          "link": "https://1x.com/photo/3554274",
-          "publishedOn": "2026-04-23T02:55:47.410Z",
+          "id": "1x-3553367",
+          "author": "Rucsandra Silvia Calin",
+          "description": "Picture in a picture by Rucsandra Silvia Calin",
+          "link": "https://1x.com/photo/3553367",
+          "publishedOn": "2026-04-23T08:01:38.925Z",
           "wordCount": 345,
-          "title": "The Lighthouse at Dawn",
+          "title": "Picture in a picture",
           "enclosure": {
-            "url": "https://1x.com/images/user/9a5149248c2816b6d70e25c5c400f0bb-hd4.jpg",
+            "url": "https://1x.com/images/user/595331a4ad7ad0b69c50eff908b175b6-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/9a5149248c2816b6d70e25c5c400f0bb-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/595331a4ad7ad0b69c50eff908b175b6-hd2.jpg"
         },
         {
-          "id": "1x-3554895",
-          "author": "Damijan Sedevcic",
-          "description": "Rushing by Damijan Sedevcic",
-          "link": "https://1x.com/photo/3554895",
-          "publishedOn": "2026-04-23T02:55:47.398Z",
-          "wordCount": 361,
-          "title": "Rushing",
+          "id": "1x-3548670",
+          "author": "Steven Haddix",
+          "description": "Eastern bluebird by Steven Haddix",
+          "link": "https://1x.com/photo/3548670",
+          "publishedOn": "2026-04-23T08:01:38.919Z",
+          "wordCount": 366,
+          "title": "Eastern bluebird",
           "enclosure": {
-            "url": "https://1x.com/images/user/1d662136031486f025ee35d666ec0e53-hd2.jpg",
+            "url": "https://1x.com/images/user/0acf29de1581414286057545271ef1d6-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/1d662136031486f025ee35d666ec0e53-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/0acf29de1581414286057545271ef1d6-hd2.jpg"
         },
         {
-          "id": "1x-3549429",
-          "author": "Olivier Schram",
-          "description": "Fixing up the old American by Olivier Schram",
-          "link": "https://1x.com/photo/3549429",
-          "publishedOn": "2026-04-23T02:55:47.395Z",
-          "wordCount": 344,
-          "title": "Fixing up the old American",
-          "enclosure": {
-            "url": "https://1x.com/images/user/fbee5f4b915a1f34fa3c14163c6290e9-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/fbee5f4b915a1f34fa3c14163c6290e9-hd2.jpg"
-        },
-        {
-          "id": "1x-3554886",
-          "author": "yingtao pan",
-          "description": "听 by yingtao pan",
-          "link": "https://1x.com/photo/3554886",
-          "publishedOn": "2026-04-23T02:55:47.381Z",
-          "wordCount": 361,
-          "title": "听",
-          "enclosure": {
-            "url": "https://1x.com/images/user/eb2d2aedbb11b79d05b4e40a854fb2da-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/eb2d2aedbb11b79d05b4e40a854fb2da-hd2.jpg"
-        },
-        {
-          "id": "1x-3554890",
-          "author": "Tessa Schack",
-          "description": "Sprinting along by Tessa Schack",
-          "link": "https://1x.com/photo/3554890",
-          "publishedOn": "2026-04-23T02:55:47.373Z",
-          "wordCount": 335,
-          "title": "Sprinting along",
-          "enclosure": {
-            "url": "https://1x.com/images/user/e0d9db7c7a288d2bb36f559cc9d40c59-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/e0d9db7c7a288d2bb36f559cc9d40c59-hd2.jpg"
-        },
-        {
-          "id": "1x-3551926",
-          "author": "katsuhide ota",
-          "description": "Home Sweet Home by katsuhide ota",
-          "link": "https://1x.com/photo/3551926",
-          "publishedOn": "2026-04-23T02:55:47.370Z",
-          "wordCount": 367,
-          "title": "Home Sweet Home",
-          "enclosure": {
-            "url": "https://1x.com/images/user/306955c9565b445d39d851ced07e0f9b-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/306955c9565b445d39d851ced07e0f9b-hd2.jpg"
-        },
-        {
-          "id": "1x-3554216",
-          "author": "YU LIN",
-          "description": "Between Blossoms by YU LIN",
-          "link": "https://1x.com/photo/3554216",
-          "publishedOn": "2026-04-23T02:55:47.360Z",
-          "wordCount": 364,
-          "title": "Between Blossoms",
-          "enclosure": {
-            "url": "https://1x.com/images/user/d5fd57cd1d45c8b3c7885390ab253744-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/d5fd57cd1d45c8b3c7885390ab253744-hd4.jpg"
-        },
-        {
-          "id": "1x-3553565",
-          "author": "GoNagai",
-          "description": "Eye to Eye by GoNagai",
-          "link": "https://1x.com/photo/3553565",
-          "publishedOn": "2026-04-23T02:55:47.347Z",
-          "wordCount": 334,
-          "title": "Eye to Eye",
-          "enclosure": {
-            "url": "https://1x.com/images/user/86ee898987ded0ae48465c37f683fa81-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/86ee898987ded0ae48465c37f683fa81-hd2.jpg"
-        },
-        {
-          "id": "1x-3553928",
-          "author": "Catherine Wang",
-          "description": "La Concha Visitors Center by Catherine Wang",
-          "link": "https://1x.com/photo/3553928",
-          "publishedOn": "2026-04-23T02:55:47.143Z",
+          "id": "1x-3554805",
+          "author": "Taka ß",
+          "description": "Close Enough to Feel by Taka ß",
+          "link": "https://1x.com/photo/3554805",
+          "publishedOn": "2026-04-23T08:01:38.912Z",
           "wordCount": 370,
-          "title": "La Concha Visitors Center",
+          "title": "Close Enough to Feel",
           "enclosure": {
-            "url": "https://1x.com/images/user/39bff60573fe3485bba3205fdb1a363c-hd4.jpg",
+            "url": "https://1x.com/images/user/cc42c55652d6220003561cb21978f264-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/39bff60573fe3485bba3205fdb1a363c-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/cc42c55652d6220003561cb21978f264-hd2.jpg"
         },
         {
-          "id": "1x-3554185",
-          "author": "Nancy Lee",
-          "description": "Floating Church by Nancy Lee",
-          "link": "https://1x.com/photo/3554185",
-          "publishedOn": "2026-04-23T02:55:47.137Z",
-          "wordCount": 335,
-          "title": "Floating Church",
-          "enclosure": {
-            "url": "https://1x.com/images/user/cf4e40e258c83b1793e17b19f52d09bb-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/cf4e40e258c83b1793e17b19f52d09bb-hd4.jpg"
-        },
-        {
-          "id": "1x-3552443",
-          "author": "Zipi Raviv",
-          "description": "The white flying guest by Zipi Raviv",
-          "link": "https://1x.com/photo/3552443",
-          "publishedOn": "2026-04-23T02:55:47.124Z",
+          "id": "1x-3552164",
+          "author": "Rucsandra Silvia Calin",
+          "description": "Sunset chords by Rucsandra Silvia Calin",
+          "link": "https://1x.com/photo/3552164",
+          "publishedOn": "2026-04-23T08:01:38.909Z",
           "wordCount": 341,
-          "title": "The white flying guest",
+          "title": "Sunset chords",
           "enclosure": {
-            "url": "https://1x.com/images/user/184f0149275f6c71f33b575b9683ae9a-hd4.jpg",
+            "url": "https://1x.com/images/user/fcadbea9f7b13a6e6602d76cdc3ba693-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/184f0149275f6c71f33b575b9683ae9a-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/fcadbea9f7b13a6e6602d76cdc3ba693-hd2.jpg"
         },
         {
-          "id": "1x-3554447",
-          "author": "Raad Btoush",
-          "description": "Untitled by Raad Btoush",
-          "link": "https://1x.com/photo/3554447",
-          "publishedOn": "2026-04-23T02:55:47.118Z",
+          "id": "1x-3553180",
+          "author": "Bruce H Wendler",
+          "description": "Convict Lake, California by Bruce H Wendler",
+          "link": "https://1x.com/photo/3553180",
+          "publishedOn": "2026-04-23T08:01:38.906Z",
+          "wordCount": 371,
+          "title": "Convict Lake, California",
+          "enclosure": {
+            "url": "https://1x.com/images/user/59f7d6c5314f89b3144b59c38d4248b5-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/59f7d6c5314f89b3144b59c38d4248b5-hd4.jpg"
+        },
+        {
+          "id": "1x-3554403",
+          "author": "kazuyasu kisaichi",
+          "description": "Pheasant-tailed Jacana by kazuyasu kisaichi",
+          "link": "https://1x.com/photo/3554403",
+          "publishedOn": "2026-04-23T08:01:38.903Z",
+          "wordCount": 364,
+          "title": "Pheasant-tailed Jacana",
+          "enclosure": {
+            "url": "https://1x.com/images/user/8ae5acf37c9e8032437befcd91bbfc63-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/8ae5acf37c9e8032437befcd91bbfc63-hd2.jpg"
+        },
+        {
+          "id": "1x-3552181",
+          "author": "Shanthi Sivananthan",
+          "description": "Keeper of the Terraces by Shanthi Sivananthan",
+          "link": "https://1x.com/photo/3552181",
+          "publishedOn": "2026-04-23T08:01:38.899Z",
+          "wordCount": 341,
+          "title": "Keeper of the Terraces",
+          "enclosure": {
+            "url": "https://1x.com/images/user/469276dc90f2bc67fc6ac4d6669f82a4-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/469276dc90f2bc67fc6ac4d6669f82a4-hd4.jpg"
+        },
+        {
+          "id": "1x-3554365",
+          "author": "Takiko Hirai",
+          "description": "Mona KAORU by Takiko Hirai",
+          "link": "https://1x.com/photo/3554365",
+          "publishedOn": "2026-04-23T08:01:38.897Z",
+          "wordCount": 335,
+          "title": "Mona KAORU",
+          "enclosure": {
+            "url": "https://1x.com/images/user/15774ba219038ee5bf90ab32ffaa5320-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/15774ba219038ee5bf90ab32ffaa5320-hd4.jpg"
+        },
+        {
+          "id": "1x-3554661",
+          "author": "Hilda van der Lee",
+          "description": "fragile by Hilda van der Lee",
+          "link": "https://1x.com/photo/3554661",
+          "publishedOn": "2026-04-23T08:01:38.894Z",
+          "wordCount": 369,
+          "title": "fragile",
+          "enclosure": {
+            "url": "https://1x.com/images/user/2661bb3bce0faad609a8f1a63bbf2ba0-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/2661bb3bce0faad609a8f1a63bbf2ba0-hd2.jpg"
+        },
+        {
+          "id": "1x-3554885",
+          "author": "Nico Pakvis",
+          "description": "Sanne by Nico Pakvis",
+          "link": "https://1x.com/photo/3554885",
+          "publishedOn": "2026-04-23T08:01:38.884Z",
           "wordCount": 332,
-          "title": "Untitled",
+          "title": "Sanne",
           "enclosure": {
-            "url": "https://1x.com/images/user/74ed68efbdc44756e346921915264a90-hd4.jpg",
+            "url": "https://1x.com/images/user/efa93172d3a662437cafe4df3e475222-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/74ed68efbdc44756e346921915264a90-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/efa93172d3a662437cafe4df3e475222-hd4.jpg"
         },
         {
-          "id": "1x-3554110",
-          "author": "Nyuki",
-          "description": "A Tiny Chorus by Nyuki",
-          "link": "https://1x.com/photo/3554110",
-          "publishedOn": "2026-04-23T02:55:47.100Z",
-          "wordCount": 334,
-          "title": "A Tiny Chorus",
+          "id": "1x-3552178",
+          "author": "noriiida",
+          "description": "Beyond Words by noriiida",
+          "link": "https://1x.com/photo/3552178",
+          "publishedOn": "2026-04-23T08:01:38.879Z",
+          "wordCount": 360,
+          "title": "Beyond Words",
           "enclosure": {
-            "url": "https://1x.com/images/user/21bd2d0fe79acb03ce4017d0d2f9bafb-hd2.jpg",
+            "url": "https://1x.com/images/user/dcf8a4ffdfdfe574f1d0c03611c905e0-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/21bd2d0fe79acb03ce4017d0d2f9bafb-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/dcf8a4ffdfdfe574f1d0c03611c905e0-hd2.jpg"
+        },
+        {
+          "id": "1x-3554698",
+          "author": "wooorry",
+          "description": "you need by wooorry",
+          "link": "https://1x.com/photo/3554698",
+          "publishedOn": "2026-04-23T08:01:38.876Z",
+          "wordCount": 331,
+          "title": "you need",
+          "enclosure": {
+            "url": "https://1x.com/images/user/22d080d5d7ad79b67746070ce802f4bc-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/22d080d5d7ad79b67746070ce802f4bc-hd2.jpg"
+        },
+        {
+          "id": "1x-3554997",
+          "author": "Serdar Bayram",
+          "description": "Herşeyim arabam.. by Serdar Bayram",
+          "link": "https://1x.com/photo/3554997",
+          "publishedOn": "2026-04-23T08:01:38.872Z",
+          "wordCount": 335,
+          "title": "Herşeyim arabam..",
+          "enclosure": {
+            "url": "https://1x.com/images/user/5927280582dbae4de1c6335f238b7f49-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/5927280582dbae4de1c6335f238b7f49-hd4.jpg"
+        },
+        {
+          "id": "1x-3554766",
+          "author": "Kristjan Vuk",
+          "description": "Roses by Kristjan Vuk",
+          "link": "https://1x.com/photo/3554766",
+          "publishedOn": "2026-04-23T08:01:38.858Z",
+          "wordCount": 332,
+          "title": "Roses",
+          "enclosure": {
+            "url": "https://1x.com/images/user/a714bd6a1ec0617e3fd7114e8d1c8a4a-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/a714bd6a1ec0617e3fd7114e8d1c8a4a-hd4.jpg"
+        },
+        {
+          "id": "1x-3552740",
+          "author": "Danilo Bausano",
+          "description": "Lily’s Reign by Danilo Bausano",
+          "link": "https://1x.com/photo/3552740",
+          "publishedOn": "2026-04-23T08:01:38.681Z",
+          "wordCount": 364,
+          "title": "Lily’s Reign",
+          "enclosure": {
+            "url": "https://1x.com/images/user/8ad6c0cee38396822d2e039b73261316-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/8ad6c0cee38396822d2e039b73261316-hd4.jpg"
+        },
+        {
+          "id": "1x-3553737",
+          "author": "Raimondo Restelli",
+          "description": "PARADISE BAY, BASE ALMIRANTE BROWN-41392 by Raimondo Restelli",
+          "link": "https://1x.com/photo/3553737",
+          "publishedOn": "2026-04-23T08:01:38.666Z",
+          "wordCount": 344,
+          "title": "PARADISE BAY, BASE ALMIRANTE BROWN-41392",
+          "enclosure": {
+            "url": "https://1x.com/images/user/0c664b11cae1ce0c84c17610f80dd00a-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/0c664b11cae1ce0c84c17610f80dd00a-hd4.jpg"
+        },
+        {
+          "id": "1x-3553801",
+          "author": "Albert Lim",
+          "description": "Traditional Charcoal Factory by Albert Lim",
+          "link": "https://1x.com/photo/3553801",
+          "publishedOn": "2026-04-23T08:01:38.663Z",
+          "wordCount": 367,
+          "title": "Traditional Charcoal Factory",
+          "enclosure": {
+            "url": "https://1x.com/images/user/ade6da01edf7ef12e342166ea874b974-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/ade6da01edf7ef12e342166ea874b974-hd4.jpg"
+        },
+        {
+          "id": "1x-3554283",
+          "author": "Jin Park",
+          "description": "Rebirth by Jin Park",
+          "link": "https://1x.com/photo/3554283",
+          "publishedOn": "2026-04-23T08:01:38.651Z",
+          "wordCount": 332,
+          "title": "Rebirth",
+          "enclosure": {
+            "url": "https://1x.com/images/user/cd1c089f5daa1da0c67f15d600dbcff2-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/cd1c089f5daa1da0c67f15d600dbcff2-hd4.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T02:55:45.190Z</updated>
+    <updated>2026-04-23T08:01:37.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1786,19 +1786,6 @@ GTC 开幕前两天完成技术突破，推理速度登上黄仁勋 Keynote 大�
 模型训练层高度…]]></summary>
         <author>
             <name>What's Next｜科技早知道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 ways to create a truly original design | Lope Gutierrez-Ruiz]]></title>
-        <id>69bdbfaf7878605e11a94a9c</id>
-        <link href="http://go.ted.com/lopegutierrezruiz"/>
-        <updated>2026-03-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a world where design trends are quietly converging — same color palettes, same typography, same illustration styles — how do you make work that actually looks different? Designer and TED Fellow Lope Gutierrez-Ruiz distills his answer into three sharp, counterintuitive ideas, ticking through his studio's own funky creations to show how you can make things that stand out.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>
