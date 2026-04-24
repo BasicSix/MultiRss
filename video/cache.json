@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FIBfRo-rHBo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FIBfRo-rHBo",
+          "publishedOn": "2026-04-24T12:30:29.000Z",
+          "wordCount": null,
+          "title": "终于来了！DeepSeek-V4 正式发布！免费开源，百万上下文，Agent能力直逼Claude！| 零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6jHvEa_aHtY",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-03-31T12:02:12.000Z",
           "wordCount": null,
           "title": "OpenClaw 装进手机！即装即用，旧手机秒变随身AI（无需服务器）省电又便捷！| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tM-mf3skkaA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tM-mf3skkaA",
-          "publishedOn": "2026-03-29T11:38:47.000Z",
-          "wordCount": null,
-          "title": "OpenClaw 装进U盘！即插即用，电脑秒变随身AI（3套免费方案）｜龙虾盘｜零度解说",
           "imageUrl": null
         }
       ]
@@ -325,7 +325,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "publishedOn": "2026-04-23T12:10:03.000Z",
-          "wordCount": 2374,
+          "wordCount": 2131,
           "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
           "imageUrl": null
         },
@@ -335,7 +335,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2156,
+          "wordCount": 2140,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -355,7 +355,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 2148,
+          "wordCount": 2123,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -385,7 +385,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxRMXySGRwA",
           "publishedOn": "2026-04-10T22:00:22.000Z",
-          "wordCount": 2278,
+          "wordCount": 2170,
           "title": "【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨",
           "imageUrl": null
         },
@@ -405,7 +405,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2142,
+          "wordCount": 2152,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f7NzWy30ZyY",
           "publishedOn": "2026-04-03T04:00:41.000Z",
-          "wordCount": 2188,
+          "wordCount": 2142,
           "title": "【AI音乐】AIVA+Stable Audio 2分钟免费实现自主版权乐曲自由 | Cook Royalty‑Free Bangers in 2 Mins—AIVA+Stable Audio stl✨",
           "imageUrl": null
         },

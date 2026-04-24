@@ -2,214 +2,390 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T08:11:17.019Z</updated>
+    <updated>2026-04-24T13:44:18.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The Last Dream: Lycaenidae in Autumn]]></title>
-        <id>1x-3556184</id>
-        <link href="https://1x.com/photo/3556184"/>
-        <updated>2026-04-24T08:10:30.485Z</updated>
-        <summary type="html"><![CDATA[The Last Dream: Lycaenidae in Autumn by Danilo Bausano]]></summary>
+        <title type="html"><![CDATA[Chameleon]]></title>
+        <id>1x-3556609</id>
+        <link href="https://1x.com/photo/3556609"/>
+        <updated>2026-04-24T13:43:34.744Z</updated>
+        <summary type="html"><![CDATA[Chameleon by Miron Karlinsky]]></summary>
         <author>
-            <name>Danilo Bausano</name>
+            <name>Miron Karlinsky</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowy Owl on Patrol]]></title>
-        <id>1x-3556312</id>
-        <link href="https://1x.com/photo/3556312"/>
-        <updated>2026-04-24T08:10:30.482Z</updated>
-        <summary type="html"><![CDATA[Snowy Owl on Patrol by tianhuayu]]></summary>
+        <title type="html"><![CDATA[Just before despair]]></title>
+        <id>1x-3554441</id>
+        <link href="https://1x.com/photo/3554441"/>
+        <updated>2026-04-24T13:43:34.742Z</updated>
+        <summary type="html"><![CDATA[Just before despair by Yohei Tabuchi]]></summary>
         <author>
-            <name>tianhuayu</name>
+            <name>Yohei Tabuchi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Way Out]]></title>
-        <id>1x-3541572</id>
-        <link href="https://1x.com/photo/3541572"/>
-        <updated>2026-04-24T08:10:30.479Z</updated>
-        <summary type="html"><![CDATA[No Way Out by Steven Zhou]]></summary>
+        <title type="html"><![CDATA[Elegance in the Light]]></title>
+        <id>1x-3556412</id>
+        <link href="https://1x.com/photo/3556412"/>
+        <updated>2026-04-24T13:43:34.737Z</updated>
+        <summary type="html"><![CDATA[Elegance in the Light by DonnaHom APA]]></summary>
         <author>
-            <name>Steven Zhou</name>
+            <name>DonnaHom APA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Between Softness and Thorn]]></title>
-        <id>1x-3556348</id>
-        <link href="https://1x.com/photo/3556348"/>
-        <updated>2026-04-24T08:10:30.477Z</updated>
-        <summary type="html"><![CDATA[Between Softness and Thorn by ZY Zhang]]></summary>
+        <title type="html"><![CDATA[Trichrome Study]]></title>
+        <id>1x-3556596</id>
+        <link href="https://1x.com/photo/3556596"/>
+        <updated>2026-04-24T13:43:34.730Z</updated>
+        <summary type="html"><![CDATA[Trichrome Study by Ash Camas]]></summary>
         <author>
-            <name>ZY Zhang</name>
+            <name>Ash Camas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Waltz in Light and Shadow]]></title>
-        <id>1x-3552663</id>
-        <link href="https://1x.com/photo/3552663"/>
-        <updated>2026-04-24T08:10:30.472Z</updated>
-        <summary type="html"><![CDATA[A Waltz in Light and Shadow by Jaga]]></summary>
+        <title type="html"><![CDATA[Convergence]]></title>
+        <id>1x-3556512</id>
+        <link href="https://1x.com/photo/3556512"/>
+        <updated>2026-04-24T13:43:34.723Z</updated>
+        <summary type="html"><![CDATA[Convergence by Sindbad_slp]]></summary>
         <author>
-            <name>Jaga</name>
+            <name>Sindbad_slp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cardinals]]></title>
-        <id>1x-3556190</id>
-        <link href="https://1x.com/photo/3556190"/>
-        <updated>2026-04-24T08:10:30.462Z</updated>
-        <summary type="html"><![CDATA[cardinals by Leeli Higgins]]></summary>
+        <title type="html"><![CDATA[Montrose Harbour, Chicago]]></title>
+        <id>1x-3556326</id>
+        <link href="https://1x.com/photo/3556326"/>
+        <updated>2026-04-24T13:43:34.719Z</updated>
+        <summary type="html"><![CDATA[Montrose Harbour, Chicago by Chong Q. Wu]]></summary>
         <author>
-            <name>Leeli Higgins</name>
+            <name>Chong Q. Wu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evening with stars II.]]></title>
-        <id>1x-3541325</id>
-        <link href="https://1x.com/photo/3541325"/>
-        <updated>2026-04-24T08:10:30.459Z</updated>
-        <summary type="html"><![CDATA[Evening with stars II. by Stefan Condik]]></summary>
+        <title type="html"><![CDATA[Spring Is Here]]></title>
+        <id>1x-3556487</id>
+        <link href="https://1x.com/photo/3556487"/>
+        <updated>2026-04-24T13:43:34.716Z</updated>
+        <summary type="html"><![CDATA[Spring Is Here by Qing Zhao]]></summary>
         <author>
-            <name>Stefan Condik</name>
+            <name>Qing Zhao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[溺]]></title>
-        <id>1x-3551835</id>
-        <link href="https://1x.com/photo/3551835"/>
-        <updated>2026-04-24T08:10:30.455Z</updated>
-        <summary type="html"><![CDATA[溺 by Kurosaki Sangan]]></summary>
+        <title type="html"><![CDATA[Architecture_BNW_8]]></title>
+        <id>1x-3556369</id>
+        <link href="https://1x.com/photo/3556369"/>
+        <updated>2026-04-24T13:43:34.709Z</updated>
+        <summary type="html"><![CDATA[Architecture_BNW_8 by Jürgen Muß]]></summary>
         <author>
-            <name>Kurosaki Sangan</name>
+            <name>Jürgen Muß</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuristani girl]]></title>
-        <id>1x-3538666</id>
-        <link href="https://1x.com/photo/3538666"/>
-        <updated>2026-04-24T08:10:30.448Z</updated>
-        <summary type="html"><![CDATA[Nuristani girl by Trevor Cole]]></summary>
+        <title type="html"><![CDATA[Monochrome Majesty: The Crown of Architectural Depth]]></title>
+        <id>1x-3556598</id>
+        <link href="https://1x.com/photo/3556598"/>
+        <updated>2026-04-24T13:43:34.706Z</updated>
+        <summary type="html"><![CDATA[Monochrome Majesty: The Crown of Architectural Depth by Yuri Revalino]]></summary>
         <author>
-            <name>Trevor Cole</name>
+            <name>Yuri Revalino</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where the Cold Breathes]]></title>
-        <id>1x-3549100</id>
-        <link href="https://1x.com/photo/3549100"/>
-        <updated>2026-04-24T08:10:30.429Z</updated>
-        <summary type="html"><![CDATA[Where the Cold Breathes by Ling Jiang]]></summary>
+        <title type="html"><![CDATA[scoot]]></title>
+        <id>1x-3556500</id>
+        <link href="https://1x.com/photo/3556500"/>
+        <updated>2026-04-24T13:43:34.704Z</updated>
+        <summary type="html"><![CDATA[scoot by Puneet Sikand]]></summary>
         <author>
-            <name>Ling Jiang</name>
+            <name>Puneet Sikand</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blooming at the Edge of Dreams]]></title>
-        <id>1x-3544585</id>
-        <link href="https://1x.com/photo/3544585"/>
-        <updated>2026-04-24T08:10:30.420Z</updated>
-        <summary type="html"><![CDATA[Blooming at the Edge of Dreams by Kaoru Suzuki]]></summary>
+        <title type="html"><![CDATA[iLook]]></title>
+        <id>1x-3556620</id>
+        <link href="https://1x.com/photo/3556620"/>
+        <updated>2026-04-24T13:43:34.699Z</updated>
+        <summary type="html"><![CDATA[iLook by verdon]]></summary>
         <author>
-            <name>Kaoru Suzuki</name>
+            <name>verdon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In the Fishing Nets]]></title>
-        <id>1x-3548000</id>
-        <link href="https://1x.com/photo/3548000"/>
-        <updated>2026-04-24T08:10:30.415Z</updated>
-        <summary type="html"><![CDATA[In the Fishing Nets by Kieron Long]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3550131</id>
+        <link href="https://1x.com/photo/3550131"/>
+        <updated>2026-04-24T13:43:34.686Z</updated>
+        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
         <author>
-            <name>Kieron Long</name>
+            <name>Atsuyuki Watanabe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Justice Venezia]]></title>
-        <id>1x-3553624</id>
-        <link href="https://1x.com/photo/3553624"/>
-        <updated>2026-04-24T08:10:30.408Z</updated>
-        <summary type="html"><![CDATA[Justice Venezia by Robin Yong]]></summary>
+        <title type="html"><![CDATA[Lara]]></title>
+        <id>1x-3527412</id>
+        <link href="https://1x.com/photo/3527412"/>
+        <updated>2026-04-24T13:43:34.509Z</updated>
+        <summary type="html"><![CDATA[Lara by Christian Kieffer]]></summary>
         <author>
-            <name>Robin Yong</name>
+            <name>Christian Kieffer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[her in memory]]></title>
-        <id>1x-3554905</id>
-        <link href="https://1x.com/photo/3554905"/>
-        <updated>2026-04-24T08:10:30.397Z</updated>
-        <summary type="html"><![CDATA[her in memory by Kou Suga]]></summary>
+        <title type="html"><![CDATA[A Great Blue Heron with a fresh catch]]></title>
+        <id>1x-3544485</id>
+        <link href="https://1x.com/photo/3544485"/>
+        <updated>2026-04-24T13:43:34.505Z</updated>
+        <summary type="html"><![CDATA[A Great Blue Heron with a fresh catch by John Glaser]]></summary>
         <author>
-            <name>Kou Suga</name>
+            <name>John Glaser</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old men in Varanasi]]></title>
-        <id>1x-3551528</id>
-        <link href="https://1x.com/photo/3551528"/>
-        <updated>2026-04-24T08:10:30.390Z</updated>
-        <summary type="html"><![CDATA[Old men in Varanasi by Giovanni Cavalli]]></summary>
+        <title type="html"><![CDATA[The Blue Viper]]></title>
+        <id>1x-3556508</id>
+        <link href="https://1x.com/photo/3556508"/>
+        <updated>2026-04-24T13:43:34.495Z</updated>
+        <summary type="html"><![CDATA[The Blue Viper by Lius Siong]]></summary>
         <author>
-            <name>Giovanni Cavalli</name>
+            <name>Lius Siong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urban textures - Orlando, Florida]]></title>
-        <id>1x-3555431</id>
-        <link href="https://1x.com/photo/3555431"/>
-        <updated>2026-04-24T08:10:30.378Z</updated>
-        <summary type="html"><![CDATA[Urban textures - Orlando, Florida by Arnon Orbach]]></summary>
+        <title type="html"><![CDATA[Cloud]]></title>
+        <id>1x-3556164</id>
+        <link href="https://1x.com/photo/3556164"/>
+        <updated>2026-04-24T13:43:34.486Z</updated>
+        <summary type="html"><![CDATA[Cloud by Fan Lin (APA)]]></summary>
         <author>
-            <name>Arnon Orbach</name>
+            <name>Fan Lin (APA)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaitlin]]></title>
-        <id>1x-3554100</id>
-        <link href="https://1x.com/photo/3554100"/>
-        <updated>2026-04-24T08:10:30.369Z</updated>
-        <summary type="html"><![CDATA[Kaitlin by Lee Kershaw]]></summary>
+        <title type="html"><![CDATA[Vestige]]></title>
+        <id>1x-3552530</id>
+        <link href="https://1x.com/photo/3552530"/>
+        <updated>2026-04-24T13:43:34.484Z</updated>
+        <summary type="html"><![CDATA[Vestige by Swen MUN]]></summary>
         <author>
-            <name>Lee Kershaw</name>
+            <name>Swen MUN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Il passo del tempo - The Pace of Time]]></title>
-        <id>1x-3555532</id>
-        <link href="https://1x.com/photo/3555532"/>
-        <updated>2026-04-24T08:10:30.146Z</updated>
-        <summary type="html"><![CDATA[Il passo del tempo - The Pace of Time by Roberto Corinaldesi]]></summary>
+        <title type="html"><![CDATA[Flying]]></title>
+        <id>1x-3554194</id>
+        <link href="https://1x.com/photo/3554194"/>
+        <updated>2026-04-24T13:43:34.481Z</updated>
+        <summary type="html"><![CDATA[Flying by Mike He]]></summary>
         <author>
-            <name>Roberto Corinaldesi</name>
+            <name>Mike He</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ran Himemiya]]></title>
-        <id>1x-3553213</id>
-        <link href="https://1x.com/photo/3553213"/>
-        <updated>2026-04-24T08:10:30.099Z</updated>
-        <summary type="html"><![CDATA[Ran Himemiya by KOIKI]]></summary>
+        <title type="html"><![CDATA[Song in Gold]]></title>
+        <id>1x-3555141</id>
+        <link href="https://1x.com/photo/3555141"/>
+        <updated>2026-04-24T13:43:34.469Z</updated>
+        <summary type="html"><![CDATA[Song in Gold by Robert Zhang]]></summary>
         <author>
-            <name>KOIKI</name>
+            <name>Robert Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰国最高法院受理44名反对派议员案 涉修冒犯君主法]]></title>
-        <id>https://www.zaobao.com/news/world/story20260424-8946864</id>
-        <link href="https://www.zaobao.com/news/world/story20260424-8946864"/>
-        <updated>2026-04-24T07:56:11.000Z</updated>
-        <summary type="html"><![CDATA[泰国最高法院已受理一起指控44名现任和前任反对党议员2021年试图修改冒犯君主法，涉嫌违反道德规范，凸显泰国进步派政治人物持续面临的挑战。
-路透社报道，泰国最高法院星期五（4月24日）说，案件于6月30日开审。涉案者包括人民党及其已解散前身前进党的现任和前任成员，人民党党魁那他蓬和副党魁西里甘亚也被列入其中。
-如果罪名成立，他们将面临的最高刑罚为终身禁止担任公职。
-这起案件由泰国反腐机构在2月8日大选后提起，指控44名涉案者2021年提交的修改泰国刑法第112条的请愿书中违反了道德准则。
-那他蓬否认指控，并誓言反对党议员将全力抗争到底，因为这关系到泰国民主。
-泰国最高法院在一份声明中说，已决定不下令44名涉案者中的10名现任议员暂时停职。
-泰国的冒犯君主法是全球最严厉的王室保护法律之一，违法者最高可被判处15年监禁。前进党寻求修改这项立法，认为此法已被滥用，目的是为压制反对派。
-近年来已有数以百计的人因为触犯冒犯君主法而遭到起诉。
-尽管人民党在民调中大幅领先其他政党，但在2月大选中仅排在第二位，败给了首相阿努廷领导的泰自豪党。]]></summary>
+        <title type="html"><![CDATA[赫格塞斯：美国在“全球”对伊朗进行封锁]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8949381</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8949381"/>
+        <updated>2026-04-24T13:29:19.000Z</updated>
+        <summary type="html"><![CDATA[美国战争部长赫格塞斯说，美国对伊朗的封锁正在走向全球；他也说，德黑兰有机会与华盛顿达成一项“好协议”。 
+赫格塞斯星期五（4月24日）对记者讲话时说：“我们的封锁正在扩大，并走向全球。”
+路透社引述他说：“未经美国海军许可，任何人不得从霍尔木兹海峡航行到世界任何地方。”
+他说，迄今为止，美国海军已在霍尔木兹海峡拦截了34艘船只。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以黎停火延长三周 特朗普邀两国首脑赴美会晤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8947541</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8947541"/>
+        <updated>2026-04-24T12:59:49.000Z</updated>
+        <summary type="html"><![CDATA[（迪拜／华盛顿综合电）在美伊谈判陷入僵局之际，美国总统特朗普试图稳住以黎形势。他宣布，原定本星期天到期的以黎停火协议将延长三周，并已邀请两国首脑近期赴美会谈。 
+特朗普星期四（4月23日）在白宫接见以色列和黎巴嫩特使后，在社交媒体宣布停火延长的决定。他称，期待不久可在白宫接待以色列总理内坦亚胡与黎巴嫩总统奥恩。
+对于以黎谈判的前景，他表示乐观，还说他并不急于看到达成和平协议，而是希望协议能够“永久有效”。
+以黎就是在华盛顿举行谈判后达成目前的暂时停火协议。根据安排，双方4月17日进入为期10天的停火期，到本星期天（26日）期满。 
+然而，这项停火安排的基础薄弱，既没要求以色列军队撤离黎巴嫩，也未要求黎巴嫩真主党解除武装。
+这一纸协议重点在于将黎巴嫩政府和以色列重新拉回谈判桌，可是却把导致黎巴嫩卷入战事的真主党武装排除在对话框架之外。
+以色列驻华盛顿大使莱特说，以方希望与黎巴嫩政府达成和平协议，并认为在以色列打击伊朗后，真主党的实力已被削弱。他说，以黎两国政府都希望清除真主党这一“恶劣影响”。
+黎巴嫩则寻求更长期的停火保障。奥恩说，停火应包括停止摧毁房屋、停止袭击平民、宗教场所、记者、医疗和教育机构。
+黎巴嫩当局称，以军上月对黎巴嫩发动大规模攻击以来，已造成超过2450人死亡，100万人流离失所。
+
+停火延长 边境局势仍紧张
+
+以黎虽达成暂时停火，可是黎巴嫩南部仍未平静。以军没有停止打击真主党武装的目标；由伊朗支持的真主党武装也在以军每次发动袭击后发射火箭弹回击。
+真主党称，它星期三在黎南发动四次攻击，回应以方来袭。
+以黎两国长期处于战争状态，至今没有正式外交关系。一般认为，此次以黎停火谈判可为两国展开永久和平协议谈判创造空间，特朗普更希望借力推动结束美国、以色列与伊朗之间更广泛的战争。
+伊朗一直坚持，与美国达成的停战协议必须包括以色列停止袭击黎巴嫩。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊媒证实伊朗外长将访问伊斯兰堡 消息：可能与美国举行和谈]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8949237</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8949237"/>
+        <updated>2026-04-24T12:50:05.000Z</updated>
+        <summary type="html"><![CDATA[据伊朗伊斯兰共和国通讯社星期五（4月24日）报道，伊朗外长阿拉格齐将赴巴基斯坦首都伊斯兰堡、阿曼首都马斯喀特和俄罗斯首都莫斯科进行访问。　
+另据巴基斯坦政府消息人士称，阿拉格齐预计将于星期五晚间率领一个小型代表团抵达伊斯兰堡，并可能与美国举行和平谈判。
+路透社引述消息人士说，美国后勤和安全团队已抵达伊斯兰堡，准备参与谈判。在伊朗代表团同巴方进行讨论后，伊朗与美国预计将举行第二轮谈判。
+巴基斯坦副总理兼外交部长达尔说，为尽快推进地区和平与稳定，美伊双方必须持续开展对话与接触，以解决悬而未决的问题。
+新华社引述巴基斯坦外交部的声明说，达尔是当天与伊朗外长阿拉格齐通电话时作出上述表态。双方就中东地区事态发展、美伊停火以及巴方外交努力等交换了意见。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国建议设“信任俱乐部” 共享关键矿产信息]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8948913</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8948913"/>
+        <updated>2026-04-24T12:08:23.000Z</updated>
+        <summary type="html"><![CDATA[（悉尼讯）法国建议设立“信任俱乐部”，让志同道合的国家共享有关稀土和其他关键矿产的信息，以提高供应链的可预测性。
+《日经亚洲》报道，在澳大利亚访问的法国对外贸易部长级代表弗里西耶星期四（4月23日）对媒体说，稀土不应被当成武器使用，因为这会引发剧烈冲击。“我们提议成立一个类似‘信任俱乐部’的组织，按矿物种类或类别划分，以便共享信息，甚至可能建立一些储备。”
+法国今年是七国集团（G7）轮值主席，关键矿产是G7议程上的主要议题之一。
+控制着全球70%稀土产量的中国正加强对稀土供应的控制。弗里西耶说：“所有志同道合的国家，未来都不应再像过去两年那样受制于人。”
+法国拥有众多依赖关键矿产资源的重要工业如汽车、可再生能源和国防。为了确保关键矿产资源供应稳定，法国正积极扩大与其他国家在这方面的合作。
+法国西南部目前在建造一座重稀土回收厂，这将是欧洲首个大型稀土回收设施。回收厂属于法日一个合作项目的一部分，每年将生产重稀土镝（dysprosium）和铽（terbium）共600公吨，占全球年产量的15%。
+法国私募基金InfraVia上月宣布，向澳洲北领地一个锂矿项目注资5000万美元（约6388万新元），这个项目由澳洲矿业公司Core Lithium牵头。
+法国已将“纠正失衡”列为G7议程的关键优先事项，其中包括对中国贸易顺差和工业产能过剩的担忧。
+弗里西耶称中国电动车获得中国政府补贴，破坏市场公平竞争。他说：“我们不应再对中国经济产能过剩抱有天真的想法。”
+他也呼吁对国际电商平台实施更严格管控。
+法国和澳洲上月签署自由贸易协定，弗里西耶形容这是个双赢的协议。他说：“澳洲志在实现多元化，与法国等志同道合的国家建立更紧密的伙伴关系。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战事冲击亚洲聚酯供应链 或推高全球快时尚成本]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8947249</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8947249"/>
+        <updated>2026-04-24T11:12:28.000Z</updated>
+        <summary type="html"><![CDATA[（苏拉特路透电）自伊朗战争爆发以来，飙升的化石燃料价格不断挤压印度和孟加拉国的聚酯纤维（polyester）供应和服装制造业，可能推高Zara和H&M等快时尚零售商的成本。 
+亚洲是服装供应链领的主导力量，但近来受中东战事冲击，印度、孟加拉和中国的聚酯纤维价格都在上涨，给生产商带来压力。
+印度聚酯纱线生产巨头菲拉泰克斯（Filatex）的董事总经理巴格里亚说，由于中国供应商提价且中东供应中断，公司用于生产纱线的石油衍生原料——精对苯二甲酸（PTA）和单乙二醇（MEG）的采购成本已上涨近30%。
+位于印度西部纺织业中心苏拉特的宾达尔丝绸厂（Bindal Silk Mills），向H&M、Zara母公司Inditex、塔吉特（Target）、沃尔玛和宜家等零售商提供染色和印花聚酯纤维面料，现在却难以满足全球订单需求。
+苏拉特纺织商协会联合会主席哈基姆说，由于成本上涨，苏拉特的纺织印染厂现在被迫每周停工两天，此前仅为一天。“如果这种情况持续下去，原材料会出现短缺，工厂就不得不停产。”
+由石油衍生品制成的聚酯纤维是纺织业的关键材料。霍尔木兹海峡封锁后，精炼石油产品供应紧缩，直接冲击供应链依赖聚酯纤维的零售商。
+Zara和H&M等零售商已转而主要使用由废弃塑料瓶制成的再生聚酯纤维。这或能缓解部分由油价上涨带来的成本压力，但全球范围内，再生聚酯纤维仅占聚酯总产量的12%。
+行业消息人士称，H&M预计，未来几周孟加拉供应商就会提价，不过目前还未发现生产出现重大中断或供应商因能源成本而要求调整订单的明显迹象。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融机构加大核武投资 反核组织：或推高核军备竞赛]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8946940</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8946940"/>
+        <updated>2026-04-24T11:02:04.000Z</updated>
+        <summary type="html"><![CDATA[（日内瓦综合电）反核团体指出，金融机构正加大对核武器生产的投资，并警告在全球冲突日益增多之际，这一趋势可能进一步推高本已飙升的军费开支，助推新核军备竞赛。
+美国和俄罗斯的《新削减战略武器条约》（New START）已在今年2月5日到期失效。专家一直警告，随着核武国家卷入欧洲、亚洲和中东冲突之际，而长期以来为裁军和防止核武器扩散所做的努力似乎正在瓦解，一场新的核军备竞赛正在酝酿之中。 
+在星期五（4月24日）发布的一份新报告中，诺贝尔和平奖得主“国际废除核武器运动”（ICAN）和另一个反核武组织PAX指出，越来越多金融机构正在对参与核武器生产的公司进行投资，帮助全球九个拥核国扩充和现代化它们的核武库。
+根据这份年度报告，截至2025年9月，共有301家银行、养老基金、保险公司和其他金融机构对参与核武器生产的公司进行融资或投资。与去年同期相比，这一数字增长15%，扭转多年来的下滑趋势。
+ICAN项目主管斯奈德在声明中指出：“多年来，试图从军备竞赛中获利的投资者数量首次出现上升趋势。”
+也是报告共同作者的斯奈德警告，这是一种短期且高风险的策略，只会加剧危险的局势升级，而“要从中获利，就不可能不助长军备竞赛”。
+
+拥核国对核武库进行现代化 推高核武器需求
+
+根据报告，俄罗斯、美国、中国、法国、英国、巴基斯坦、印度、以色列和朝鲜这九个拥核国目前正在对它们的核武库进行现代化改造，当中还有许多在扩充规模，“从而推动了对这些武器的需求”。
+报告列出25家参与核武器生产的公司，其中霍尼韦尔国际（Honeywell International）、通用动力（General Dynamics）和诺斯洛普·格鲁曼（Northrop Grumman）获利最多。其他主要生产商包括英国航空航天系统公司（BAE）、贝克特尔（Bechtel）和洛克希德·马丁（Lockheed Martin）。
+不过报告也强调，一些金融机构已证明，放弃与核武器相关的投资仍可获得可观利润。
+反核组织说，截至2025年底，明确避免投资核武公司的机构所管理的资产总规模已超过4万亿美元（约5.1万亿新元）。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本靖国神社春季大祭结束 高市未参拜]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8948550</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8948550"/>
+        <updated>2026-04-24T10:52:44.000Z</updated>
+        <summary type="html"><![CDATA[据日本媒体报道，日本首相高市早苗并未在靖国神社春季例行大祭期间前去参拜。 
+位于东京九段北的靖国神社春季例行大祭星期四（4月23日）晚间结束，高市早苗在此次大祭期间未参拜。高市在首日21日供奉了称为“真榊”的供品，22日自费献上“玉串料”（祭祀费）。
+日本共同社引述分析说，高市可能是顾及双边关系趋冷的中国和关系持续改善的韩国。此次例行大祭期间，高市内阁的阁僚中经济财政担当相城内实进行参拜。
+靖国神社内供奉着包括东条英机在内的14名二战甲级战犯。高市在担任阁僚期间也曾配合终战日和春秋例行大祭前往参拜，但在即将就任首相的去年10月秋季例行大祭时放弃了参拜。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气象组织：厄尔尼诺现象或将于2026年中来袭]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8948388</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8948388"/>
+        <updated>2026-04-24T10:19:50.000Z</updated>
+        <summary type="html"><![CDATA[联合国指出，上次导致全球气温创下历史新高的厄尔尼诺现象（El Nino）预计将于今年年中再次出现，最早可能在5月至7月这三个月内出现。
+总部位于日内瓦的世界气象组织（WMO）星期五（4月24日）发布的报告说，赤道太平洋地区的气候状况发生了明显变化。报告指出，海面温度正在迅速上升，“预示着厄尔尼诺现象最早可能在5月至7月再次出现”。
+报告指出，早期迹象表明，此次厄尔尼诺现象强度较大。
+厄尔尼诺是指赤道中东太平洋海水温度异常偏高从而影响大气环流的一种自然现象。厄尔尼诺往往引起太平洋周边多个地区气候异常，引起风、气压和降雨模式的变化。
+厄尔尼诺现象和拉尼娜现象（La Nina）交替出现，两种现象之间的气候则处于中性状态。
+厄尔尼诺现象通常每两年到七年发生一次，持续约九个月到12个月。
+气象组织此前发布的新闻公报显示，2025年是有记录以来最热的三个年份之一。上次厄尔尼诺现象导致2023年成为有记录以来第二热的年份，而2024年则是有记录以来最热的年份。 
+法新社引述气象组织气候预测主任奥基亚（Wilfran Moufouma Okia）说：“年初气候处于中性状态之后……我们高度确信厄尔尼诺现象即将到来，并会增强。
+“模型显示，这可能是一次强烈的厄尔尼诺事件……4月之后的预测将会更为可靠。”
+厄尔尼诺现象通常每两年到七年发生一次，持续约九个月到12个月。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美士兵涉利用美军攻打委内瑞拉信息 下注赢得数十万元]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8947583</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8947583"/>
+        <updated>2026-04-24T09:09:54.000Z</updated>
+        <summary type="html"><![CDATA[一名美军士兵被指控涉嫌利用机密信息下注赌美军将进入委内瑞拉，在Polymarket的预测市场上进行交易获利逾40万美元（51.08万新元）。 
+美国司法部星期四（4月24日）说，这名38岁的士兵范·戴克（Gannon Ken Van Dyke）驻扎在北卡罗来纳州费耶特维尔的布拉格堡（Fort Bragg）基地，他参与了“绝对决心”行动的策划与执行。
+相关行动旨在进入委内瑞拉，强行控制时任总统马杜罗，这使被告有机会接触到行动的敏感、非公开信息。
+检方称，12月26日左右，范·戴克在Polymarket平台注册了一个账户，充值后开始在与马杜罗和委内瑞拉有关的市场进行交易。
+从12月27日至1月2日晚，他总共押注约13笔，对交易平台提出的各种与马杜罗相关的问题，均押注“是”。这个平台允许用户对现实世界事件的结果进行投注。
+彭博社引述曼哈顿联邦检察官克莱顿（Jay Clayton）说：“被告涉嫌背弃美国政府对他的信任，利用敏感军事行动的机密信息，就行动的时间和结果进行投注，以此牟利。这显然属于内幕交易，违反了联邦法律。”
+这可能是司法部首起涉及赌博市场的内线交易案件。美国总统特朗普在白宫受询时告诉记者，他将调查这起事件。 
+美国检察官办公室的一名发言人说，他无法提供有关克莱顿律师的信息。
+Polymarket在社交平台X上发帖称，发现一名交易者利用机密信息进行交易，已将此事移交美国司法部，并配合政府展开调查。
+公司说：“内幕交易在Polymarket平台上绝不容许，今天的逮捕行动证明了这套系统行之有效。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟拟启动乌克兰入盟谈判 基辅：拒绝象征性身份]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8947079</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8947079"/>
+        <updated>2026-04-24T08:54:08.000Z</updated>
+        <summary type="html"><![CDATA[（阿依纳帕／华盛顿综合电）欧盟领导人星期四在塞浦路斯峰会上达成共识，计划在近期启动乌克兰加入欧盟的谈判。不过，乌克兰表明，不会接受速度更快但权利受限的替代方案。
+欧盟一名官员透露，各国领导人星期四（4月23日）同意，首轮入盟谈判可在未来数周或数月内启动。不过，乌克兰何时能够正式加入欧盟仍没有明确时间表。以欧盟最近一次扩员为例，克罗地亚从启动入盟进程到2013年正式加入，历时约10年。
+乌克兰入盟进程近期重新获得动力，主要与欧盟内部政治风向转变有关。
+此前，匈牙利撤回对900亿欧元（约1344亿新元）援助贷款的否决，并同意欧盟对俄罗斯实施新一轮制裁。这一立场转折很大程度上源于总理欧尔班的选举失利。 
+基辅和布鲁塞尔都期待，随着欧尔班政府此前对援乌及入盟评估的阻挠结束，乌克兰加入欧盟就可重回快车道。 
+然而，即便政治障碍减少，乌克兰入盟仍面临实质考验。部分成员国担心，乌克兰加入欧盟可能会冲击欧盟预算、农业和交通政策，因此对加速入盟持审慎态度。
+德国因此提出折衷方案，建议在推进入盟程序的同时，先赋予乌克兰“准成员资格”。据彭博社看到的文件，这一方案将允许乌克兰分阶段参与欧盟项目并出席欧盟会议，但暂不享有投票权。
+乌克兰总统泽连斯基表明，乌克兰理应获得全面的欧盟成员资格，并拒绝可快速入盟但权利受限的方案。
+他说：“乌克兰不需要欧盟那种象征性的成员资格……乌克兰正在自卫，而且毫无疑问，也同时在保卫着欧洲。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本3月核心消费者价格加速上涨 高油价恐加剧通胀]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8947222</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8947222"/>
+        <updated>2026-04-24T08:15:20.000Z</updated>
+        <summary type="html"><![CDATA[日本核心消费者价格五个月来首次加速上涨，表明即便在高油价影响尚未全面传导至经济之前，通货膨胀压力已在积聚。
+彭博社引述日本总务省星期五（4月24月）公布的数据说，3月剔除生鲜食品的核心消费者价格同比上涨1.8%。这一升幅高于经济学家预估中值1.7%，也高于前一个月的1.6%。汽油价格跌幅收窄对通胀指标形成支撑。
+3月份剔除生鲜食品和能源的消费者价格同比上涨2.4%，继续高于央行2%的目标。整体消费者价格涨幅则加快至1.5%。
+在最新通胀数据出炉之际，国际油价居高不下并且日元持续疲弱，推高了进口成本。不过，知情人士此前透露，由于中东冲突带来的不确定性，日本央行倾向于下周议息时维持基准利率不变。 
+目前原油价格较伊朗战争爆发前的水平高出约50%，令日本面临压力。日本几乎全部石油依赖进口，超过90%的原油通常经由霍尔木兹海峡运输。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -233,10 +409,10 @@
         <link href="https://www.zaobao.com/news/world/story20260424-8946409"/>
         <updated>2026-04-24T06:22:31.000Z</updated>
         <summary type="html"><![CDATA[共同社取得的一份草案显示，日本首相高市早苗和澳大利亚总理阿尔巴尼斯，正在协调制定一份关于经济安全合作的联合宣言，这份宣言将于5月初的峰会上发布。 
-报称，鉴于中国采取的经济胁迫措施，包括收紧出口管制，日澳草案的核心内容是加强在稀土等关键矿产、能源、食品等必需品供应链建设方面的合作。
+报道称，鉴于中国采取的经济胁迫措施，包括收紧出口管制，日澳草案的核心内容是加强在稀土等关键矿产、能源、食品等必需品供应链建设方面的合作。
 多方消息来源已证实上述消息。
 日澳两国政府2022年发表一份关于安全合作的联合宣言，拟于5月发布的日澳联合宣言将定位为一份“战略指导方针”，专门阐述经济安全领域的合作与危机管理。
-此外，鉴于美以伊战事已对原油等必需品的供应造成了影响，两国将寻求建立多层次的日澳关系。
+此外，鉴于美以伊战事已对原油等必需品的供应造成影响，日澳两国将寻求建立多层次的双边关系。 
 草案明确提出，日本和澳洲将共享信息以应对可能影响日澳双方安全利益的冲突、经济胁迫和突发事件。
 草案还对出口管制对关键矿产供应链造成负面影响表达“强烈关切”，且预计将强调遵守国际法和贸易规则的重要性。]]></summary>
         <author>
@@ -285,14 +461,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普：英国若不取消科技税将面临“高关税”]]></title>
+        <title type="html"><![CDATA[特朗普：英国若不取消科技税将面临“庞大关税”]]></title>
         <id>https://www.zaobao.com/news/world/story20260424-8945203</id>
         <link href="https://www.zaobao.com/news/world/story20260424-8945203"/>
         <updated>2026-04-24T03:07:58.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在英国国王查尔斯三世即将访问美国之际警告，如果英国继续对苹果公司、谷歌母公司Alphabet、脸书母公司Meta等美国公司征收科技税，美国将以“高关税”报复。
-英国于2020年推出了2%的数码服务税，此举遭到了特朗普及民主党籍的美国前任总统拜登的批评。
-路透社报道，特朗普星期四（4月23日）在白宫说：“如果他们不取消这项税收，我们可能会对英国征收高额关税。”
-查尔斯三世和王后卡米拉4月27日起对美国进行四天国事访问，将到白宫与特朗普会晤。
+        <summary type="html"><![CDATA[美国总统特朗普在英国国王查尔斯三世即将访问美国之际警告，如果英国继续对苹果公司、谷歌母公司Alphabet、脸书母公司Meta等美国公司征收科技税，美国将以“庞大关税”报复。 
+英国于2020年推出2%的数码服务税，此举遭到特朗普及民主党籍的美国前任总统拜登的批评。
+路透社报道，特朗普星期四（4月23日）在白宫说：“如果他们不取消这项税收，我们可能会对英国征收庞大关税。”
+查尔斯三世和王后卡米拉4月27日起对美国进行四天国事访问，将到白宫与特朗普会晤。 
 特朗普接受英国广播公司（BBC）电话采访时，被问及查尔斯三世访美是否有助于修复两国关系，特朗普说，那当然，他还称查尔斯三世是非常好的一个人，是一个勇敢和伟大的人。
 特朗普也谈到他与英国首相斯塔默的关系，除非斯塔默在移民问题上改变立场，两人才能“恢复”关系。]]></summary>
         <author>
@@ -320,15 +496,25 @@
         <id>https://www.zaobao.com/news/world/story20260424-8944942</id>
         <link href="https://www.zaobao.com/news/world/story20260424-8944942"/>
         <updated>2026-04-24T02:21:37.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部成立的打击诈骗中心工作组，针对在东南亚运作的诈骗中心和犯罪团伙展开一系列打击行动，包括起诉两名中国籍诈骗头目，以及查封500多个虚假投资网站。
-去年11月，美国司法部新成立“打击诈骗中心工作组”，重点打击缅甸、老挝和柬埔寨为据点的跨国犯罪团伙，以保护美国民众免受东南亚加密货币相关欺诈活动的侵害。
-美国联邦检察官皮罗（Jeanine Pirro）星期五（4月24日）召开线上记者会时说，打击诈骗中心工作组采取了多方面的执法行动，包括起诉两名中国籍诈骗头目。
-据司法部发布的声明，这两人涉嫌在缅甸经营一个加密货币投资诈骗中心，并试图在柬埔寨设立新的诈骗园区。
-皮罗说：“我们已提控在缅甸经营一个诈骗园区的中国籍头目，这个诈骗园区多年来贩卖、奴役和殴打了数以千计的人，并强迫他们窃取美国人的财物。” 
-她透露，这两名嫌犯目前在泰国面对移民相关指控，并重申打击小组将竭尽所能将这些人引渡至美国，并在美国对他们进行起诉。
-此外，打击诈骗中心工作组也查封一个用于招募人口贩运受害者的Telegram频道。这个拥有6000名追踪者的频道，被指诱骗人员前往柬埔寨的诈骗园区，从事冒充执法人员的诈骗活动；当局也查封了503个虚假投资网站。
+        <summary type="html"><![CDATA[美国司法部起诉两名中国籍诈骗头目，指控他们涉嫌在缅甸经营诈骗园区对美国人进行加密货币诈骗。当局也查封了500多个虚假投资网站，以及封禁一个用于招募人口贩运受害者的Telegram频道。
+司法部去年底成立的打击诈骗中心工作组，重点打击以缅甸、老挝和柬埔寨为据点的跨国犯罪团伙，以保护美国民众免受东南亚加密货币相关欺诈活动的侵害。
+美国联邦检察官皮罗（Jeanine Pirro）星期五（4月24日）在线上记者会时说，打击诈骗中心工作组成立至今取得了实质性成果，并将这些成果形容为“这场战斗中的重要里程碑”。
+她说，工作组已起诉两名中国籍诈骗头目黄兴山和蒋文杰（人名译音），指控他们涉嫌在缅甸经营加密货币投资诈骗中心，并试图在柬埔寨设立新的诈骗园区。
+皮罗说：“我们已提控在缅甸经营‘顺达园区’的中国籍头目，这个诈骗园区多年来贩卖、奴役和殴打数以千计的人，并强迫他们窃取美国人的财物。”
+她透露，这两名嫌犯因涉嫌违反移民法目前被泰国当局拘留，并重申打击小组将竭尽所能将他们引渡至美国，在美国起诉两人。
+据司法部发布的声明，打击诈骗中心工作组也查封一个用于招募人口贩运受害者的Telegram频道。这个拥有6000名追踪者的频道，被指诱骗人员前往柬埔寨的诈骗园区，从事冒充执法人员的诈骗活动；当局也查封了503个虚假投资网站。
+此外，一项名为“升级行动”（Operation Level Up）的计划，截至3月已向8935名加密货币投资诈骗受害人发出通知，其中77%受害者此前不晓得自己已受骗。据估计，这项行动为受害者挽回了5亿6000万美元的潜在损失。
 司法部说，打击诈骗中心工作组将持续追踪与诈骗中心洗钱活动相关的资金，并寻求冻结与没收相关资产。迄今，美国检察机关、司法部刑事司及其合作伙伴已冻结超过7亿美元（约8亿9400万新元）的加密货币，这些资金据称与加密货币诈骗洗钱活动有关。
-据美国政府估算，美国民众每年遭东南亚诈骗团伙骗走至少100亿美元。]]></summary>
+美国国务院也宣布，将对提供线索协助促成缉获或追回与缅甸泰昌（Tai Chang）诈骗中心相关欺诈及洗钱活动资金的线人，提供高达1000万美元的奖励。
+
+美财政部制裁柬埔寨参议员及相关人员企业
+
+另一方面，美国财政部星期四（23日）宣布制裁一名柬埔寨参议员、前首相洪森亲信符国安，以及另外28人及实体，指他们利用政治关系经营诈骗网络，设下爱情陷阱或以高回报吸引美国人将储蓄投入加密资产，继而把钱盗走。美国受害人的损失高达数百万美元。 
+美国财长贝森特在声明中强调：“消除诈骗是特朗普政府的首要任务。无论诈骗中心在哪里运作、背景有多深厚，财政部都将持续追击这些从美国劳动者手中窃取数十亿美元资金的诈骗犯和诈骗中心。”
+声明也指出，被列入制裁名单的包括符国安的皇冠度假集团（Crown Resorts）以及安科兄弟有限公司。
+美国财政部海外资产控制办公室（OFAC）指出，符国安通过皇冠度假集团，在波比、西哈努克市、巴域等地拥有多处赌场、度假村及其他建筑，这些场所被改造成诈骗园区，用于开展数码资产投资诈骗和其他诈骗活动。
+美方称，符国安还通过安科公司为相关园区提供服务与人员，并持有相关赌场的运营牌照。
+柬埔寨政府并未针对符国安被制裁一事作出回应。据《柬中时报》报道，柬埔寨政府发言人周五发声明说，首相洪马内已下达明确、严厉指令，要求彻底铲除网络诈骗犯罪，不仅针对个案，也要着力摧毁整个犯罪体系，包括切断资金链、关闭运作渠道。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -338,7 +524,7 @@
         <id>https://www.zaobao.com/news/world/story20260424-8944797</id>
         <link href="https://www.zaobao.com/news/world/story20260424-8944797"/>
         <updated>2026-04-24T02:09:52.000Z</updated>
-        <summary type="html"><![CDATA[《纽约时报》星期四（4月23日）引述数名匿名伊朗官员的话报道，在美国和以色列空袭中身受重伤的伊朗最高领袖穆杰塔巴，已“至少目前”将决策权下放给伊朗伊斯兰革命卫队指挥官。 
+        <summary type="html"><![CDATA[《纽约时报》星期四（4月23日）引述数名匿名伊朗官员的话报道，在美国和以色列空袭中身受重伤的伊朗最高领袖穆杰塔巴，“至少目前”已将决策权下放给伊朗伊斯兰革命卫队指挥官。 
 报道称，伊朗革命卫队目前还负责军事战略，包括霍尔木兹海峡的封锁。
 伊朗官员指穆杰塔巴依然头脑敏锐，并积极参与国家事务。
 一名官员说：“他的一条腿动了三次手术，正在等待装义肢。他的一只手也动了手术，功能正逐步恢复。他的脸部和嘴唇严重烧伤，导致他说话困难。”
@@ -394,12 +580,13 @@
         <id>https://www.zaobao.com/news/world/story20260424-8944438</id>
         <link href="https://www.zaobao.com/news/world/story20260424-8944438"/>
         <updated>2026-04-24T00:30:19.000Z</updated>
-        <summary type="html"><![CDATA[美国军方说，美国海军“尼米兹”级核动力航空母舰“布什号”已抵达中东，使在中东地区活动的美国大型军舰数量增至三艘。
+        <summary type="html"><![CDATA[美国军方说，美国海军“尼米兹”级核动力航空母舰布什号已抵达中东，使在中东地区活动的美国大型军舰数量增至三艘。
 法新社报道，负责中东、中亚及部分南亚地区军事行动的美国中央司令部，星期四（4月23日）在社交媒体发文配图，称布什号航母当天在印度洋海域航行。印度洋西北部与中东地区（西亚）紧密相邻。
-根据中央司令部发布的消息，第二艘航母“福特号”23日在红海执行任务，而第三艘航母“林肯号”也在中东。每艘航母都携带大量支援舰艇编队出航。 
+根据中央司令部发布的消息，第二艘航母福特号23日在红海执行任务，而第三艘航母林肯号也在中东。每艘航母都携带大量支援舰艇编队出航。 
 据美国军方介绍，中央司令部辖区覆盖波斯湾、红海、阿曼湾以及位于印度洋西北部的阿拉伯海。
 布什号航母打击群3月31日从美国东海岸的弗吉尼亚州诺福克海军基地出发，绕行非洲好望角，前往中东。据美国《军队时报》网站报道，布什号航母打击群包含数艘驱逐舰，总计有5000多名官兵。
-目前，林肯号和福特号两个航母打击群分别部署在红海和阿拉伯海北部。据美国媒体报道，布什号很可能将接替福特号。交接期间，预计美军将在中东地区形成布什号、福特号、林肯号三航母部署态势。
+目前，林肯号和福特号两个航母打击群分别部署在红海和阿拉伯海北部。
+据美国媒体报道，布什号很可能将接替福特号。交接期间，预计美军将在中东地区形成布什号、福特号、林肯号三航母部署态势。
 特朗普当天在社媒发文，再度否认他急于结束对伊朗战事，并称他有的是时间，“但伊朗没有——时间在倒计时！”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
@@ -465,196 +652,6 @@
 “他们的海军没了，他们的空军没了、防空系统也没了……也许他们在两周停火期间补充了一点点，但我们也可以在大约一天内摧毁它们。”
 特朗普强调，“我想要达成最好的协议。我现在就可以达成协议……但我不想那样做。我希望达成一项永久的协议。”
 特朗普23日早前在社交媒体发文，称时间在美国这边，说自己“或许是心理压力最小的那一个”，“我拥有全世界最充裕的时间，伊朗却没有”。接下来的形势只会对伊朗方面愈发不利，“时间并不站在他们那边”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：以色列黎巴嫩停火延长三周]]></title>
-        <id>https://www.zaobao.com/news/world/story20260424-8944256</id>
-        <link href="https://www.zaobao.com/news/world/story20260424-8944256"/>
-        <updated>2026-04-23T23:08:12.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在白宫会见以色列和黎巴嫩驻美国大使后，很快在社交媒体宣布以黎停火延长三周。
-真主党并未派代表参与以黎会谈，也没有立即对特朗普的声明发表评论。
-特朗普于美东时间星期四（4月23日）傍晚（新加坡时间24日凌晨5时许）在Truth Social贴文说，他在白宫椭圆形办公室会见了以色列驻美大使莱特和黎巴嫩驻美大使穆阿瓦德。“会晤非常成功”，并称之为“历史性会晤”。
-特朗普说，美国将与黎巴嫩合作，帮助黎巴嫩抵御真主党威胁，并表示以黎同意延长停火三周。
-特朗普还说，以色列总理内坦亚胡和黎巴嫩总统奥恩将在未来几周访问白宫。
-英国广播公司（BBC）报道，穆阿瓦德、莱特、美国驻以大使赫卡比都赞扬特朗普在以黎谈判中发挥的作用。
-莱特说，在特朗普的领导下，“伊朗的实力已大不如前，使削弱真主党、让黎巴嫩获得解放变为可能”。他还说，以色列和黎巴嫩的目标一致，就是让黎巴嫩摆脱“真主党这一邪恶势力”。
-赫卡比将真主党比作一个在社区里向每家每户窗口扔石头的孩子。他说，一旦制止了这个孩子，那么包括黎巴嫩和以色列在内的邻国就能够和平共处。
-美国副总统万斯、国务卿鲁比奥、美驻黎大使伊萨也出席了椭圆形办公室的会晤。当天早前，莱特和穆阿瓦德在国务院举行了第二轮大使级会谈。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流亡海外伊朗前王储访柏林 遭人泼洒红色液体]]></title>
-        <id>https://www.zaobao.com/news/world/story20260424-8944009</id>
-        <link href="https://www.zaobao.com/news/world/story20260424-8944009"/>
-        <updated>2026-04-23T16:06:14.000Z</updated>
-        <summary type="html"><![CDATA[流亡海外的伊朗前王储礼萨·巴列维在柏林访问期间遭人泼洒红色液体。
-社交媒体上的视频显示，这位伊朗末代国王之子在离开一场新闻吹风会时，一名身份不明的男子从他背后靠近，向他泼洒看似番茄酱的液体，溅到他的外套和颈部。
-彭博社报道，安保人员随即制服该男子，并护送巴列维登上一辆等候中的车辆。街对面有一群人高喊口号，挥舞伊朗和德国国旗。
-礼萨·巴列维（Reza Pahlavi）是一个颇具争议的人物。尽管他一直试图将自己塑造成可在战争结束后，领导伊朗过渡政府的人选，但这一努力几乎未获得多少支持。他此次访问柏林期间，也未获邀与任何政府官员会面。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧元区私营部门商业活动意外萎缩 服务业大幅下滑]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943981</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943981"/>
-        <updated>2026-04-23T15:57:26.000Z</updated>
-        <summary type="html"><![CDATA[欧元区商业活动2024年底以来首次意外萎缩，伊朗战争给消费者带来压力，导致服务业大幅下滑。
-标普全球编制的综合采购经理人指数（PMI）4月份降至48.6，跌破50的荣枯分界线。上月数据为50.7，分析师此前预测跌至50.1。
-这一趋势与德国类似，该国工业保持稳定，而服务业则大幅下滑。法国制造业表现超出预期，创下2022年以来最佳，但服务业也下滑。整个地区的物价压力持续上升。
-彭博社引述标普全球市场财智公司（S&P Global Market Intelligence）首席商业经济师克里斯·威廉姆森（Chris Williamson）星期四（4月23日）发布的声明说：“欧元区正面临中东战争带来的日益严重的经济困境，这给政策制定者带来了巨大难题，与此同时，日益普遍的供应短缺可能会进一步抑制经济增长，并在未来几周内给价格带来更大的上行压力。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霍尔木兹封锁战加剧 伊朗首次扣押商船 美国称完全控制海峡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943219</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943219"/>
-        <updated>2026-04-23T15:47:04.000Z</updated>
-        <summary type="html"><![CDATA[（德黑兰/华盛顿综合电）美国和伊朗在霍尔木兹海峡的封锁战中互不相让，伊朗军方周三在海峡向商船开火，首次扣押两艘船。美国则坚称完全控制霍尔木兹海峡，并警告将立即击沉任何在海峡布雷的船只。 
-伊朗伊斯兰革命卫队海军周三（4月22日）对外宣布，已扣押两艘未经授权通过霍尔木兹海峡的船只。革命卫队也声称这两艘船篡改导航系统，危及海上安全，并将之押回伊朗海岸接受检查。
-
-
-
-据伊朗媒体报道，被扣押的分别是悬挂巴拿马国旗的集装箱船MSC弗朗西斯卡号（MSC Francesca），以及悬挂利比里亚国旗、由希腊运营的埃帕米农达斯号（Epaminondas）。
-巴拿马外交部谴责伊朗扣押货船，称这是“对海上安全的严重攻击”，也不必要地让局势升级。
-白宫新闻秘书莱维特形容伊朗此举是海盗行径，但并不违反停火协议，因为被扣的不是美国或以色列船只。
-伊朗媒体周四也引述伊朗副议长哈吉-巴巴埃的话说，伊朗已收到首笔霍尔木兹海峡通行费。伊朗议会上个月批准在海峡征收通行费，美国当时狠批为违法且不可接受。
-2月底美伊战争爆发后，伊朗封锁了霍尔木兹海峡。美军随后也从4月13日起，对伊朗港口实施海上封锁。 
-上星期天（19日），美军在阿拉伯海扣押了一艘试图突破美方封锁的伊朗货船。半岛电视台分析认为，革命卫队如今扣押商船，除了是对美国早前扣船行为作出报复，也对外宣示它正在收紧对霍尔木兹海峡的掌控，并已做好应对局势升级的准备。
-
-美国对伊朗船只的封锁行动  扩大至全球海域
-
-伊朗扣押商船隔天，美国总统特朗普却坚称美军已完全控制霍尔木兹海峡。他在社交媒体上写道：“未经美国海军批准，任何船只都不得进出。海峡已被严密封锁，直到伊朗达成协议为止！”
-
-              
-特朗普在另一则帖文中说，他已下令美国海军，立即击沉任何在海峡布设水雷的船只。他也指示美国扫雷舰，继续并加强在海峡清除水雷。
-美国媒体此前引述消息报道，五角大楼评估认为，完成海峡扫雷需要至少六个月，且在战事结束前，相关行动恐难以展开。
-美国对伊朗相关船只的执法行动已扩大至全球海域。五角大楼周四较早发声明重申：“我们将继续开展全球海上执法行动，打击非法网络，拦截向伊朗提供物资支持的船只。”声明也指美军夜里在印度洋对受制裁的无国籍船只Majestic X号进行了海上拦截和登船检查。这是美军三天内第二次采取类似行动。 
-特朗普周三无限期延长对伊朗的停火期限，双方迄今在霍尔木兹海峡等核心问题上仍僵持不下。
-伊朗谈判代表、议长卡利巴夫周三称，美国实施海上封锁是公然违反停火协议，在这种情况下重新开放霍尔木兹海峡，根本不可能。
-
-美国封锁行动  成效迄今不明
-
-只是，美国封锁霍尔木兹海峡究竟对伊朗有多大威吓作用，目前仍不明朗。美国中央司令部周三说，自实施海上封锁以来，美军已指示31艘船只掉头或返航，其中多为油轮。 
-不过，能源与货运市场分析公司Vortexa的记录却显示，美国实施海上封锁一周内，有34艘受制裁且与伊朗有关的油轮进出波斯湾。
-海事分析公司Kpler说，美国的海上封锁似乎只是扰乱了伊朗的石油生产却无损伊朗装卸基础设施，伊朗油轮仍继续向中国运送原油。
-分析员预测，封锁行动一旦持续超过两三个月，对伊朗的冲击将更显著。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以军空袭加沙北部广场 五人死亡多人重伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943930</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943930"/>
-        <updated>2026-04-23T15:37:19.000Z</updated>
-        <summary type="html"><![CDATA[巴勒斯坦安全部门消息人士说，以军袭击加沙地带北部拜特拉希亚地区，造成包括三名儿童在内的五人死亡。
-消息人士说，一架以军无人机星期三（4月22日）晚间向加沙北部地区一处公共广场上的人群发射了一枚导弹，造成五人死亡，另有多人重伤。
-新华社引述以色列国防军23日发表的声明说，22日晚在加沙北部靠近黄线附近区域发现数名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装分子，以军发动空袭致他们身亡。
-哈马斯发言人哈齐姆·卡西姆23日发表声明说，以军直接针对平民和儿童的军事行为证明了以色列种族灭绝政策，严重违反国际法和人道主义原则；同时表明所谓的“和平委员会”在阻止以方侵犯人权行为和履行加沙地带第一阶段停火协议方面无法履行义务和职责。
-卡西姆呼吁停火协议调解国和担保国以及“和平委员会”参与国履行职责，阻止以方对加沙的种族灭绝。
-巴勒斯坦加沙地带卫生部门23日发布的数据显示，自2023年10月7日新一轮巴以冲突爆发以来，以军在加沙地带的军事行动已造成7万2000多人死亡，另有17万2000多人受伤。自2025年10月10日停火协议生效以来，已有972名巴勒斯坦人在以方军事行动中死亡、2235人受伤。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗消息：谈判准备工作“今晚或明天”或取得突破]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943771</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943771"/>
-        <updated>2026-04-23T14:37:12.000Z</updated>
-        <summary type="html"><![CDATA[一名伊朗外交消息人士告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。
-另据伊朗学生通讯社星期四（4月23日）报道，伊朗总统府副主任赛义德·阿巴斯·穆萨维对媒体说，与美国达成协议需要时间。
-新华社引述穆萨维说，不应忘记伊朗正处于战事之中，伊朗面对的不是贸易谈判，而是“和敌人的谈判”。伊朗要争取自己的权利，坚持自身立场，这一切都需要时间。
-他说，在谈判问题上“不应操之过急”，应理解伊朗需要在内部充分协调的基础上维护国家利益和安全。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国开发署：美伊战争影响深远 逾3000万人恐陷贫困]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943658</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943658"/>
-        <updated>2026-04-23T14:16:30.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦/曼谷综合电）美伊战争已持续近八周，联合国开发计划署署长德克罗星期四（4月23日）说，这场战争影响深远，预计将使全球超过3000万人陷入贫困。
-德克罗指出，目前正值播种季节，但霍尔木兹海峡无法通航，严重干扰燃油和化肥的运输。在这两大农耕物资短缺的情况下，农业生产力已经下降，今年下半年的作物产量将受影响，粮食不足问题会在几个月内达到最严重的地步。这场危机带来的冲击还包括能源短缺、汇款减少。
-德克罗说：“即使战争明天停止，这些影响已经显现，超过3000万人将陷入贫困。”
-
-伊朗部长：战争导致200万人失业
-
-伊朗国内的经济也受到巨大冲击。伊朗劳动与社会保障部副部长莫哈马迪说，战争已导致200万人失业。
-英国广播公司（BBC）报道，裁员范围不限于遭炮弹击中而被迫关闭的工厂，也波及其他制造商、零售商、进出口企业以及数码业。
-许多人开始减少消费，必需品以外的东西能不买就不买，这导致旅游业、餐饮业、食品杂货以外的零售业生意下滑。
-自战争爆发以来，伊朗当局就以预防敌方监控和网络袭击为由，实施网络封锁，这也对原本相对蓬勃发展的科技业与数码业造成冲击。
-今年1月，伊朗通信与信息技术部长哈希米曾指出，每封网一天，经济损失至少50万亿里亚尔（约4470万新元）。依此推算，自战争爆发以来累计54天的网络中断，已使伊朗经济损失近19亿美元（约24亿新元）。
-3月下旬至4月初，美以轰炸伊朗两大石化厂和两大钢铁制造厂，除了直接导致数万人失业，也波及向这些工厂供货或依赖它们供应原料的企业，影响数十万人的饭碗。
-以直接或间接雇用约100万人的伊朗汽车制造业为例，其供应链近期频传裁员消息。航运要道霍尔木兹海峡被封锁，也迫使部分工厂停工并裁减人力。
-中部库姆省一家制造企业的主管说，由于外国进口的原料短缺，公司不得不停产。另有伊朗网民称，其亲人任职的纺织公司因无法从澳洲进口原料，已裁撤600人，仅保留50名员工。除了裁员，也有公司要求员工休无薪假。
-伊朗政府已宣布为小型企业提供纾困贷款，每聘一名员工可贷款4亿4000万里亚尔，贷款须在六个月内偿还，利率介于18%至35%，视裁员规模而定。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼：俄罗斯将供应1.5亿桶石油]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943618</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943618"/>
-        <updated>2026-04-23T14:13:37.000Z</updated>
-        <summary type="html"><![CDATA[印度尼西亚能源与环境特使哈希姆宣布，在印尼总统普拉博沃近期访问莫斯科后，俄罗斯已同意向印尼供应至多1亿5000万桶石油。
-法新社引述印尼内阁秘书泰迪星期四（4月23日）发布的声明说，普拉博沃上周在克里姆林宫会见了俄罗斯总统普京，双方讨论了加强战略伙伴关系，包括能源领域的伙伴关系。
-与许多国家一样，由于中东战争导致全球油价飙升，印尼面临着巨大的压力，并一直在努力寻找替代石油供应来源。印尼约20%至25%的原油进口来自中东，并经由至关重要的霍尔木兹海峡运输。
-哈希姆也是普拉博沃的弟弟，安塔拉通讯社引述他说：“印尼已获得俄罗斯政府的承诺。我们可以在印尼储存1亿5000万桶石油，以应对经济波动问题。”
-他还说，俄罗斯已同意以优惠价格向印尼供应1亿桶石油，如有需要，未来还将额外供应5000万桶。
-印尼是东南亚最大的经济体，它虽然是石油生产国，但同时也是石油净进口国。政府为燃油提供巨额补贴。政府承诺今年不会提高补贴燃油的价格。
-据能源与矿产资源部长巴赫里尔称，这个群岛国家每天消耗约160万桶燃油，而日产量约为60万桶。
-印尼政府上个月宣布实行燃油配给制，并强制要求公务员每周居家办公一天，以节约能源储备。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：结束伊战不设时间表 中期选举不影响决策]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8941469</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8941469"/>
-        <updated>2026-04-23T14:05:33.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普说，没对何时结束伊朗战争设定时间表，相关决策也不受中期选举压力影响。白宫继续将谈判拖延归咎于德黑兰内部分裂，但分析普遍认为，伊朗高层十分团结。 
-特朗普曾声称对伊朗的战争只会持续四到六周，但现在已进入第七周。他星期三（4月22日）接受福克斯新闻采访时说，什么时候结束战争“没有时间表”，无须仓促行事。
-他也否认对伊朗的决策受国内中期选举影响。“人们说我因为中期选举而想尽快结束战争，这种说法不属实。” 
-特朗普星期二（21日）在最后关头延长与伊朗的停火期限，但没定下新的截止日期。他誓言继续封锁伊朗港口，并敦促德黑兰提交统一提案，以重启谈判。
-《华尔街日报》引述知情官员报道，为推动斡旋外交进程回归正轨，包括土耳其、巴基斯坦和埃及在内的调解方星期三紧急行动，包括争取美伊最快在星期五（24日）会谈。
-这些官员说，美伊这些日子来继续通过第三方交换信息，但进展甚微。
-伊朗一直坚持，不解除封锁就不谈判。调解方不断要求德黑兰对最新和平协议提案给出更明确的答复。其中一项提案要求伊朗暂停铀浓缩活动10年，之后可在至少10年内生产少量低浓缩铀。
-铀浓缩权、持续发展导弹以及支持代理势力，是伊朗前最高领袖哈梅内伊生前设下的一系列“红线”，也是目前美伊谈判的关键分歧所在。
-白宫新闻秘书莱维特星期三说，特朗普没限定伊朗必须最迟什么时候交出提案，但美国的要求包括伊朗必须同意将浓缩铀移交给美国。
-
-美指德黑兰内部分裂拖延谈判 专家：伊朗高层格外团结
-
-她也驳斥伊朗官方媒体对美国单方宣布延长停火的说法，称特朗普决定延长停火是因为伊朗领导层“内部存在很多分裂和分歧”。
-德黑兰矢口否认内部存在裂痕。伊朗总统发言人在X发文说：“所谓高层内部分裂的言论，是伊朗对手们老套的政治和宣传伎俩。当前（伊朗）在战场上、公众与外交官之间的团结和共识，堪称非凡，值得嘉许。”
-许多观察家认为，伊朗领导层其实比外界所说的更具凝聚力。乔治城大学卡塔尔分校政府学教授卡姆拉瓦告诉美国有线电视新闻网（CNN），说伊朗领导层分裂是严重误判。“他们一直相当团结，在战事和谈判中都有目共睹。”
-美国智库昆西国家事务研究所执行副总裁帕尔西也指出，与哈梅内伊执政时相比，如今伊朗领导层各派系在战争策略上更团结，虽然分歧难免，但不至于导致与美谈判破裂。
-不过，由于伊朗新任最高领袖穆杰塔巴继任至今仍隐身，伊朗现行领导体制的运作跟以前有所不同。德国国际与安全事务研究所客座研究员阿齐兹说：“接触最高领导的渠道已不如从前畅通，官员在决定战争或和平相关政策时，自然就有更大的空间。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：美军将摧毁在霍尔木兹海峡布雷的船只]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943450</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943450"/>
-        <updated>2026-04-23T13:33:02.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普声称，美国将摧毁任何在霍尔木兹海峡布雷的船只，同时加大对伊朗的压力，要求伊朗重新开放这条至关重要的海上通道。
-特朗普星期四（4月23日）在社交媒体上发文说：“我已经命令美国海军击沉任何在霍尔木兹海峡水域布雷的船只，无论大小。”
-他说：“必须毫不犹豫。此外，我们的扫雷舰目前正在清理海峡。”
-特朗普特也声称，美国“已完全控制了霍尔木兹海峡”。他说，在美国和伊朗达成协议之前，霍尔木兹海峡都会受“严密封锁”，任何船只未经美国批准都将无法通过霍尔木兹海峡。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
