@@ -2,198 +2,386 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T19:17:32.567Z</updated>
+    <updated>2026-04-24T02:57:40.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Resting at the Window]]></title>
-        <id>1x-3553990</id>
-        <link href="https://1x.com/photo/3553990"/>
-        <updated>2026-04-23T19:16:45.771Z</updated>
-        <summary type="html"><![CDATA[Resting at the Window by Gottfried Catania]]></summary>
+        <title type="html"><![CDATA[Moment of Paine Lake]]></title>
+        <id>1x-3552191</id>
+        <link href="https://1x.com/photo/3552191"/>
+        <updated>2026-04-24T02:56:56.022Z</updated>
+        <summary type="html"><![CDATA[Moment of Paine Lake by Yongnan Li （李永男）]]></summary>
         <author>
-            <name>Gottfried Catania</name>
+            <name>Yongnan Li （李永男）</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing Rummy at 0 degrees]]></title>
-        <id>1x-3552310</id>
-        <link href="https://1x.com/photo/3552310"/>
-        <updated>2026-04-23T19:16:45.768Z</updated>
-        <summary type="html"><![CDATA[Playing Rummy at 0 degrees by Rucsandra Silvia Calin]]></summary>
+        <title type="html"><![CDATA[红-2]]></title>
+        <id>1x-3554570</id>
+        <link href="https://1x.com/photo/3554570"/>
+        <updated>2026-04-24T02:56:56.020Z</updated>
+        <summary type="html"><![CDATA[红-2 by Chen Xiao]]></summary>
         <author>
-            <name>Rucsandra Silvia Calin</name>
+            <name>Chen Xiao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden hands, hard-working heart]]></title>
-        <id>1x-3554455</id>
-        <link href="https://1x.com/photo/3554455"/>
-        <updated>2026-04-23T19:16:45.764Z</updated>
-        <summary type="html"><![CDATA[Golden hands, hard-working heart by Dan Gavrila]]></summary>
+        <title type="html"><![CDATA[Majestic]]></title>
+        <id>1x-3555501</id>
+        <link href="https://1x.com/photo/3555501"/>
+        <updated>2026-04-24T02:56:56.017Z</updated>
+        <summary type="html"><![CDATA[Majestic by Heike Willers]]></summary>
         <author>
-            <name>Dan Gavrila</name>
+            <name>Heike Willers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vivie at a Wedding in Brooklyn]]></title>
-        <id>1x-3554023</id>
-        <link href="https://1x.com/photo/3554023"/>
-        <updated>2026-04-23T19:16:45.761Z</updated>
-        <summary type="html"><![CDATA[Vivie at a Wedding in Brooklyn by Jane Lyons]]></summary>
+        <title type="html"><![CDATA[Nap in the sun]]></title>
+        <id>1x-3554020</id>
+        <link href="https://1x.com/photo/3554020"/>
+        <updated>2026-04-24T02:56:55.983Z</updated>
+        <summary type="html"><![CDATA[Nap in the sun by Adolfo Urrutia]]></summary>
         <author>
-            <name>Jane Lyons</name>
+            <name>Adolfo Urrutia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comfortable]]></title>
-        <id>1x-3554758</id>
-        <link href="https://1x.com/photo/3554758"/>
-        <updated>2026-04-23T19:16:45.752Z</updated>
-        <summary type="html"><![CDATA[Comfortable by Gil Beer]]></summary>
+        <title type="html"><![CDATA[owls]]></title>
+        <id>1x-3555667</id>
+        <link href="https://1x.com/photo/3555667"/>
+        <updated>2026-04-24T02:56:55.976Z</updated>
+        <summary type="html"><![CDATA[owls by Łukasz Pietrzak]]></summary>
         <author>
-            <name>Gil Beer</name>
+            <name>Łukasz Pietrzak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Silence Holds the Sound]]></title>
-        <id>1x-3554520</id>
-        <link href="https://1x.com/photo/3554520"/>
-        <updated>2026-04-23T19:16:45.747Z</updated>
-        <summary type="html"><![CDATA[Where Silence Holds the Sound by Daijo Chino]]></summary>
+        <title type="html"><![CDATA[Robin 4]]></title>
+        <id>1x-3555484</id>
+        <link href="https://1x.com/photo/3555484"/>
+        <updated>2026-04-24T02:56:55.969Z</updated>
+        <summary type="html"><![CDATA[Robin 4 by Van Der Smissen Jurgen]]></summary>
         <author>
-            <name>Daijo Chino</name>
+            <name>Van Der Smissen Jurgen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red-faced Japanese macaque in winter]]></title>
-        <id>1x-3555295</id>
-        <link href="https://1x.com/photo/3555295"/>
-        <updated>2026-04-23T19:16:45.738Z</updated>
-        <summary type="html"><![CDATA[Red-faced Japanese macaque in winter by john r huang]]></summary>
+        <title type="html"><![CDATA[No Deal]]></title>
+        <id>1x-3527366</id>
+        <link href="https://1x.com/photo/3527366"/>
+        <updated>2026-04-24T02:56:55.967Z</updated>
+        <summary type="html"><![CDATA[No Deal by Angela Muliani Hartojo]]></summary>
         <author>
-            <name>john r huang</name>
+            <name>Angela Muliani Hartojo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue-gray Tanager]]></title>
-        <id>1x-3551743</id>
-        <link href="https://1x.com/photo/3551743"/>
-        <updated>2026-04-23T19:16:45.732Z</updated>
-        <summary type="html"><![CDATA[Blue-gray Tanager by Hai Lin 雪原]]></summary>
+        <title type="html"><![CDATA[Geometry in Stillness]]></title>
+        <id>1x-3555537</id>
+        <link href="https://1x.com/photo/3555537"/>
+        <updated>2026-04-24T02:56:55.964Z</updated>
+        <summary type="html"><![CDATA[Geometry in Stillness by Shungo]]></summary>
         <author>
-            <name>Hai Lin 雪原</name>
+            <name>Shungo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man inside the frame]]></title>
-        <id>1x-3555181</id>
-        <link href="https://1x.com/photo/3555181"/>
-        <updated>2026-04-23T19:16:45.727Z</updated>
-        <summary type="html"><![CDATA[Man inside the frame by Jurij Bizjak]]></summary>
+        <title type="html"><![CDATA[Beautiful profile]]></title>
+        <id>1x-3549626</id>
+        <link href="https://1x.com/photo/3549626"/>
+        <updated>2026-04-24T02:56:55.959Z</updated>
+        <summary type="html"><![CDATA[Beautiful profile by Eiji Yamamoto]]></summary>
         <author>
-            <name>Jurij Bizjak</name>
+            <name>Eiji Yamamoto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goðafoss]]></title>
-        <id>1x-3553997</id>
-        <link href="https://1x.com/photo/3553997"/>
-        <updated>2026-04-23T19:16:45.718Z</updated>
-        <summary type="html"><![CDATA[Goðafoss by Gonçalo Capitão]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3541616</id>
+        <link href="https://1x.com/photo/3541616"/>
+        <updated>2026-04-24T02:56:55.957Z</updated>
+        <summary type="html"><![CDATA[Untitled by Songhu Yan]]></summary>
         <author>
-            <name>Gonçalo Capitão</name>
+            <name>Songhu Yan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Round Tower]]></title>
-        <id>1x-3555016</id>
-        <link href="https://1x.com/photo/3555016"/>
-        <updated>2026-04-23T19:16:45.711Z</updated>
-        <summary type="html"><![CDATA[The Round Tower by Quoc Doan Nguyen]]></summary>
+        <title type="html"><![CDATA[Suspension]]></title>
+        <id>1x-3555708</id>
+        <link href="https://1x.com/photo/3555708"/>
+        <updated>2026-04-24T02:56:55.955Z</updated>
+        <summary type="html"><![CDATA[Suspension by Frank Bruynseraede]]></summary>
         <author>
-            <name>Quoc Doan Nguyen</name>
+            <name>Frank Bruynseraede</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wealder]]></title>
-        <id>1x-3555297</id>
-        <link href="https://1x.com/photo/3555297"/>
-        <updated>2026-04-23T19:16:45.695Z</updated>
-        <summary type="html"><![CDATA[Wealder by Doni Chandra]]></summary>
+        <title type="html"><![CDATA[What Remains]]></title>
+        <id>1x-3554284</id>
+        <link href="https://1x.com/photo/3554284"/>
+        <updated>2026-04-24T02:56:55.952Z</updated>
+        <summary type="html"><![CDATA[What Remains by Leszek Paradowski]]></summary>
         <author>
-            <name>Doni Chandra</name>
+            <name>Leszek Paradowski</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More fun...]]></title>
-        <id>1x-3554371</id>
-        <link href="https://1x.com/photo/3554371"/>
-        <updated>2026-04-23T19:16:45.561Z</updated>
-        <summary type="html"><![CDATA[More fun... by Peter Elling-Jordt]]></summary>
+        <title type="html"><![CDATA[PALAU DE LES ARTS REINA SOFIA #1]]></title>
+        <id>1x-3555896</id>
+        <link href="https://1x.com/photo/3555896"/>
+        <updated>2026-04-24T02:56:55.950Z</updated>
+        <summary type="html"><![CDATA[PALAU DE LES ARTS REINA SOFIA #1 by Bernd Gantert]]></summary>
         <author>
-            <name>Peter Elling-Jordt</name>
+            <name>Bernd Gantert</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring Solitude]]></title>
-        <id>1x-3554735</id>
-        <link href="https://1x.com/photo/3554735"/>
-        <updated>2026-04-23T19:16:45.552Z</updated>
-        <summary type="html"><![CDATA[Spring Solitude by Tatsuhiro Takayama]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3555731</id>
+        <link href="https://1x.com/photo/3555731"/>
+        <updated>2026-04-24T02:56:55.946Z</updated>
+        <summary type="html"><![CDATA[Untitled by Paulo Abrantes]]></summary>
         <author>
-            <name>Tatsuhiro Takayama</name>
+            <name>Paulo Abrantes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Life in the White Silence]]></title>
-        <id>1x-3554845</id>
-        <link href="https://1x.com/photo/3554845"/>
-        <updated>2026-04-23T19:16:45.543Z</updated>
-        <summary type="html"><![CDATA[Life in the White Silence by Mustafa Sahin]]></summary>
+        <title type="html"><![CDATA[the heart of the glacier]]></title>
+        <id>1x-3554874</id>
+        <link href="https://1x.com/photo/3554874"/>
+        <updated>2026-04-24T02:56:55.935Z</updated>
+        <summary type="html"><![CDATA[the heart of the glacier by Judith Kuhn]]></summary>
         <author>
-            <name>Mustafa Sahin</name>
+            <name>Judith Kuhn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Eagle]]></title>
-        <id>1x-3554566</id>
-        <link href="https://1x.com/photo/3554566"/>
-        <updated>2026-04-23T19:16:45.534Z</updated>
-        <summary type="html"><![CDATA[Golden Eagle by Erik Engström]]></summary>
+        <title type="html"><![CDATA[DOLOMİTES]]></title>
+        <id>1x-3555039</id>
+        <link href="https://1x.com/photo/3555039"/>
+        <updated>2026-04-24T02:56:55.902Z</updated>
+        <summary type="html"><![CDATA[DOLOMİTES by ilker çelik]]></summary>
         <author>
-            <name>Erik Engström</name>
+            <name>ilker çelik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire Dance]]></title>
-        <id>1x-3555072</id>
-        <link href="https://1x.com/photo/3555072"/>
-        <updated>2026-04-23T19:16:45.527Z</updated>
-        <summary type="html"><![CDATA[Fire Dance by Sameerah Abbas]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3554221</id>
+        <link href="https://1x.com/photo/3554221"/>
+        <updated>2026-04-24T02:56:55.791Z</updated>
+        <summary type="html"><![CDATA[Untitled by Yun Thwaits]]></summary>
         <author>
-            <name>Sameerah Abbas</name>
+            <name>Yun Thwaits</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Once in fall]]></title>
-        <id>1x-3555261</id>
-        <link href="https://1x.com/photo/3555261"/>
-        <updated>2026-04-23T19:16:45.517Z</updated>
-        <summary type="html"><![CDATA[Once in fall by Norbert Maier]]></summary>
+        <title type="html"><![CDATA[Stand together]]></title>
+        <id>1x-3554165</id>
+        <link href="https://1x.com/photo/3554165"/>
+        <updated>2026-04-24T02:56:55.789Z</updated>
+        <summary type="html"><![CDATA[Stand together by Sherry Huang]]></summary>
         <author>
-            <name>Norbert Maier</name>
+            <name>Sherry Huang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lakeside cherry blossoms]]></title>
-        <id>1x-3555267</id>
-        <link href="https://1x.com/photo/3555267"/>
-        <updated>2026-04-23T19:16:45.497Z</updated>
-        <summary type="html"><![CDATA[Lakeside cherry blossoms by Genki Uehara]]></summary>
+        <title type="html"><![CDATA[black and white]]></title>
+        <id>1x-3553873</id>
+        <link href="https://1x.com/photo/3553873"/>
+        <updated>2026-04-24T02:56:55.766Z</updated>
+        <summary type="html"><![CDATA[black and white by fotomarion]]></summary>
         <author>
-            <name>Genki Uehara</name>
+            <name>fotomarion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外交部：伊美谈判重心在于终战 而非核问题]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944952</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944952"/>
+        <updated>2026-04-24T02:32:36.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部说，本月早前在巴基斯坦首都伊斯兰堡举行的伊美谈判，与以往谈判有本质不同，其重心在于结束战争，而非伊朗核问题。
+新华社报道，伊朗伊斯兰共和国广播电视台引述伊朗外交部一名发言人星期四（4月23日）的话说，以往谈判均在和平状态下进行，重点聚焦伊核问题，而当前对话是在临时停火背景下展开，核问题已不再是重心，结束战争和保障伊朗国家利益成为首要任务。
+发言人说，战争赔偿、解决霍尔木兹海峡争端、全面解除制裁以及确保美国和以色列未来不再侵略等，也是当前伊美谈判的基本议题。他重申，伊朗与美国达成的任何协议，都必须以维护国家利益、消除威胁、防止未来再次发生侵略为前提。 
+这名发言人回答媒体提问时说，率团参加上轮谈判的伊朗伊斯兰议会议长卡利巴夫有两伊战争参战经验，曾在多个领域担任要职，受到伊朗不同政治派别信任。伊方认为，他与外交部长阿拉格齐搭档，能在外交和国家宏观管理层面发挥有效作用。这一安排“明智而恰当”。
+此前据伊朗媒体报道，美国官员和媒体发现伊朗谈判团队对美国种种无理要求展现出坚决抵制态度后，试图制造一种伊朗政府、伊斯兰革命卫队、卡利巴夫之间“存在内部分歧的假象”。
+23日晚，卡利巴夫和伊朗总统佩泽希齐扬等伊朗立法、行政、司法部门领导人以及伊斯兰革命卫队，均发表声明，强调伊朗内部不存在所谓“强硬派”“温和派”之分，“我们都是伊朗人，都是革命者”。
+美国总统特朗普当天早前声称伊朗领导层深陷派系斗争，他在Truth Social贴文说，“很难确定伊朗的领导人是谁”，声称伊朗国内“强硬派”和“温和派”之间存在“疯狂”内斗。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国执法小组打击东南亚诈骗 查封Telegram频道]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944942</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944942"/>
+        <updated>2026-04-24T02:21:37.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部成立的打击诈骗中心工作组，针对在东南亚运作的诈骗中心和犯罪团伙展开一系列打击行动，包括起诉两名中国籍诈骗头目，以及查封500多个虚假投资网站。
+去年11月，美国司法部新成立“打击诈骗中心工作组”，重点打击缅甸、老挝和柬埔寨为据点的跨国犯罪团伙，以保护美国民众免受东南亚加密货币相关欺诈活动的侵害。
+美国联邦检察官皮罗（Jeanine Pirro）星期五（4月24日）召开线上记者会时说，打击诈骗中心工作组采取了多方面的执法行动，包括起诉两名中国籍诈骗头目。
+据司法部发布的声明，这两人涉嫌在缅甸经营一个加密货币投资诈骗中心，并试图在柬埔寨设立新的诈骗园区。
+皮罗说：“我们已提控在缅甸经营一个诈骗园区的中国籍头目，这个诈骗园区多年来贩卖、奴役和殴打了数以千计的人，并强迫他们窃取美国人的财物。” 
+她透露，这两名嫌犯目前在泰国面对移民相关指控，并重申打击小组将竭尽所能将这些人引渡至美国，并在美国对他们进行起诉。
+此外，打击诈骗中心工作组也查封一个用于招募人口贩运受害者的Telegram频道。这个拥有6000名追踪者的频道，被指诱骗人员前往柬埔寨的诈骗园区，从事冒充执法人员的诈骗活动；当局也查封了503个虚假投资网站。
+司法部说，打击诈骗中心工作组将持续追踪与诈骗中心洗钱活动相关的资金，并寻求冻结与没收相关资产。迄今，美国检察机关、司法部刑事司及其合作伙伴已冻结超过7亿美元（约8亿9400万新元）的加密货币，这些资金据称与加密货币诈骗洗钱活动有关。
+据美国政府估算，美国民众每年遭东南亚诈骗团伙骗走至少100亿美元。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：伊朗最高领袖“目前”将决策权下放给革命卫队指挥官]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944797</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944797"/>
+        <updated>2026-04-24T02:09:52.000Z</updated>
+        <summary type="html"><![CDATA[《纽约时报》星期四（4月23日）引述数名匿名伊朗官员的话报道，在美国和以色列空袭中身受重伤的伊朗最高领袖穆杰塔巴，已“至少目前”将决策权下放给伊朗伊斯兰革命卫队指挥官。
+报道称，伊朗革命卫队目前还负责军事战略，包括霍尔木兹海峡的封锁。
+伊朗官员称穆杰塔巴依然头脑敏锐，并积极参与国家事务。
+一名官员说：“他的一条腿动了三次手术，目前正在等待装义肢。他的一只手也动了手术，功能正在逐步恢复。他的脸部和嘴唇严重烧伤，导致他说话困难。”
+这名官员说，穆杰塔巴“最终还是须要接受整形手术”。
+基于安全考量，与穆杰塔巴的接触受到极其严格的限制，他目前仍藏身在秘密地点，官员只能以手写方式向他传递消息。
+报道称，伊朗革命卫队指挥官不探望穆杰塔巴，但本身是心脏外科医生的伊朗总统佩泽希齐扬参与了他的治疗。
+报道还指，伊朗革命卫队指挥官认为美国和以色列发动的这场战争，对伊朗政权构成的生存威胁已得到遏制。
+另一方面，以色列国防部长卡茨23日说，以色列正在等待美国“开绿灯”，以便将伊朗“打回石器时代”。他说，以色列国防军已做好防御和进攻的准备，目标已经锁定。他还说，首先，也是最重要的，是彻底铲除哈梅内伊王朝。
+穆杰塔巴的父亲哈梅内伊在美以联军2月28日的大规模空袭中丧命，穆杰塔巴3月9日当选为新最高领袖，但他至今未公开露面，仅发表书面声明，引发外界对他的健康状况和是否已经死亡的猜测。
+路透社4月11日报道，穆杰塔巴核心圈的三名消息人士披露，穆杰塔巴在美伊袭击中遭毁容，一条腿或双腿重伤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年4月推荐]]></title>
+        <id>/archives/2026nian-4yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
+        <updated>2026-04-24T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月24日 小白羊网盘 支持阿里云盘、百度网盘、123网盘、115网盘等主流网盘服务，现已更新到v4.0.2-beta版本 4月23日 哔哩哔哩音频解析 musicDownload 一个聚合音悦下载器 4月21日 今日时事 一个新闻资讯聚合服务 <]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[買 MSTR 前先想清楚：你的對手盤是誰]]></title>
+        <id>https://ducorn.com/mstr-leverage-game</id>
+        <link href="https://ducorn.com/mstr-leverage-game"/>
+        <updated>2026-04-24T01:15:56.000Z</updated>
+        <summary type="html"><![CDATA[3 年 22 倍是真的，Saylor 的持股也是真的，Chanos 短 MSTR 賺 100% 也是真的。這些事實一起成立，挑一邊相信不夠用。把五方論述（Saylor / Damodaran / Chanos / 神魚 / Bier）擺在同一個問題上對照，你會看到自己買 MSTR 在賭什麼。]]></summary>
+        <author>
+            <name>讀角獸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以防长：等待美国开绿灯 以便将伊朗“打回石器时代”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944576</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944576"/>
+        <updated>2026-04-24T01:13:43.000Z</updated>
+        <summary type="html"><![CDATA[以色列国防部长卡茨说，以色列正等待美国“开绿灯”，以便将伊朗“打回石器时代”。
+法新社报道，卡茨星期四（4月23日）发表视频讲话说：“以色列国防军已做好防御和进攻的准备，目标已经锁定。”
+卡茨说：“我们正在等待美国开绿灯——首先，也是最重要的，是彻底铲除哈梅内伊王朝……除此以外，还要通过摧毁关键的能源和电力设施，并瓦解其国家经济基础设施，将伊朗打回到黑暗时代和石器时代。”
+他说：“这一次打击将截然不同，而且更加致命。在伊朗恐怖政权已遭受巨大重创之后，我们将对它最敏感之处施加毁灭性的打击，将动摇并摧毁它的根基。”
+2月28日，美以联军向伊朗发动大规模袭击的首日就夺取了伊朗时任最高领袖哈梅内伊的性命。哈梅内伊之子穆杰塔巴随后继承父职，但至今未公开露面。路透社4月11日引述穆杰塔巴核心圈的三名消息人士称，穆杰塔巴在袭击中遭毁容，一条腿或双腿重伤。 
+美国总统特朗普23日在白宫宣布以色列和黎巴嫩同意延长停火三周时说，他不会对伊朗动用核武器。曾威胁要彻底摧毁伊朗文明的特朗普说：“任何人都不应该被允许使用核武器。” 
+特朗普21日在美伊停火协议即将到期前宣布无限期延长停火，为美伊谈判创造空间。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国第三艘航母布什号已抵达中东]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944438</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944438"/>
+        <updated>2026-04-24T00:30:19.000Z</updated>
+        <summary type="html"><![CDATA[美国军方说，美国海军“尼米兹”级核动力航空母舰“布什号”已抵达中东，使在中东地区活动的美国大型军舰数量增至三艘。
+法新社报道，负责中东、中亚及部分南亚地区军事行动的美国中央司令部，星期四（4月23日）在社交媒体发文配图，称布什号航母当天在印度洋海域航行。印度洋西北部与中东地区（西亚）紧密相邻。
+根据中央司令部发布的消息，第二艘航母“福特号”23日在红海执行任务，而第三艘航母“林肯号”也在中东。每艘航母都携带大量支援舰艇编队出航。 
+据美国军方介绍，中央司令部辖区覆盖波斯湾、红海、阿曼湾以及位于印度洋西北部的阿拉伯海。
+布什号航母打击群3月31日从美国东海岸的弗吉尼亚州诺福克海军基地出发，绕行非洲好望角，前往中东。据美国《军队时报》网站报道，布什号航母打击群包含数艘驱逐舰，总计有5000多名官兵。
+目前，林肯号和福特号两个航母打击群分别部署在红海和阿拉伯海北部。据美国媒体报道，布什号很可能将接替福特号。交接期间，预计美军将在中东地区形成布什号、福特号、林肯号三航母部署态势。
+特朗普当天在社媒发文，再度否认他急于结束对伊朗战事，并称他有的是时间，“但伊朗没有——时间在倒计时！”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗最高领袖警告敌人发动媒体宣传 试图破坏伊朗团结]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944377</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944377"/>
+        <updated>2026-04-24T00:04:06.000Z</updated>
+        <summary type="html"><![CDATA[伊朗最高领袖穆杰塔巴指敌人发动媒体宣传，试图操纵伊朗民众思想，破坏伊朗团结与安全。 
+新华社报道，穆杰塔巴星期四（4月23日）晚在社交媒体发文说，当前伊朗同胞之间的惊人团结已使敌方阵营出现分裂，并警告说，绝不能因己方疏忽而让敌人这一险恶图谋得逞。
+此前数小时，美国总统特朗普声称伊朗领导层深陷派系斗争。特朗普在Truth Social贴文说，“很难确定伊朗的领导人是谁”，声称伊朗国内“强硬派”和“温和派”之间存在“疯狂”内斗。
+同日晚，伊朗总统佩泽希齐扬与伊斯兰议会议长卡利巴夫在社交媒体上发表联合声明，驳斥美方所谓伊朗内部分裂的言论。
+声明说，在伊朗，没有“强硬派”或“温和派”，“我们都是伊朗人，都是革命者”。凭借国家和民族“钢铁般的团结”以及对伊朗最高领袖的忠诚，伊朗将让侵略者付出代价。
+伊朗外交部长阿拉格齐也在社交媒体发文，强调伊朗人民比以往任何时候都更加团结一致。
+21日称，伊朗政府“内部已严重分裂”，应巴基斯坦请求，他将延长停火，直至伊朗方面拿出一份意见一致的提案。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html"/>
+        <updated>2026-04-23T23:43:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五一假期，周刊休息。）
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+我见过的最酷广告牌，只有一行命令，推广一个 AI 工具包。普通人看不懂也没关系，反正不是给他们用的。（via）
+第二次 API 开放浪潮
+如果你在互联网行业足够久，大概会记得，以前有过一次 API 开放的浪潮。
+那是15年前的2011年，云服务刚兴起不久，各种平台纷纷开放自己的 API。
+
+那时，Facebook 和 Twitter 都发布了自己的 API，开放了平台数据。GitHub 的 API 设计简直是艺术品，几乎可以获得任何想要的功能。
+平台的想法是，开放的 API 有助于用户和第三方加入，来开发各种插件和扩展程序，从而推动平台的增长，提高用户留存率和满意度。
+那时还有一个叫做 ProgrammableWeb 的网站（现已关闭），它的名字就代表了当时人们的信念：互联网可以通过 API 编程，把各种平台的数据连接在一起。
+
+但是，事情的发展跟预想完全相反。
+平台发现，API 很难盈利，因为无法插入广告，而且自家的数据会帮助其他公司的生意，造成用户流失。
+于是，它们纷纷改变做法，限制和关闭 API，不再分享数据，将用户留在自家的"围墙花园"。
+如今，Facebook 和 Twitter 的 API 已经形同虚设，第三方客户端遭到彻底禁用。GitHub 虽然还保持开放的 API，但也采取了管控，增加了身份验证和速率限制，要想构建全功能的第三方应用也很困难。
+正当人们觉得这将是常态，转变出现了。
+就在2025年的下半年，大模型达到了临界点，变得真正强大，可用于生产环境了。
+人们很快意识到，如果大模型只会思考，不能执行代码，用处就不大。AI 的最大价值不是内容…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普表明不对伊朗使用核武器]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944322</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944322"/>
+        <updated>2026-04-23T23:23:20.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，他不会在伊朗的战争中使用核武器。 
+综合路透社和《纽约时报》报道，特朗普星期四（4月23日）在白宫宣布以色列和黎巴嫩同意延长停火三周时，被问及是否会对伊朗动用核武器。
+他反问道：“我为什么要使用核武器？我们已经以常规手段彻底摧毁他们，根本不需要核武器。”
+曾威胁要彻底摧毁伊朗文明的特朗普，23日并未升级言辞，他说：“不，我不会使用。任何人都不应该被允许使用核武器。”
+特朗普称，他“完全没有压力”，真正承受压力的是伊朗方面，因为在美国海上封锁下“无法让石油恢复运输，他们的整个石油基础设施体系都将面临崩溃边缘”。 
+当被问及他愿意为与伊朗达成一项长期和平协议等待多久，特朗普说：“别催我。”
+特朗普说，伊朗可能在停火期间补充了“一点”武器，但美军大约一天就能摧毁这些武器。
+“他们的海军没了，他们的空军没了、防空系统也没了……也许他们在两周停火期间补充了一点点，但我们也可以在大约一天内摧毁它们。”
+特朗普强调，“我想要达成最好的协议。我现在就可以达成协议……但我不想那样做。我希望达成一项永久的协议。”
+特朗普23日早前在社交媒体发文，称时间在美国这边，说自己“或许是心理压力最小的那一个”，“我拥有全世界最充裕的时间，伊朗却没有”。接下来的形势只会对伊朗方面愈发不利，“时间并不站在他们那边”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：以色列黎巴嫩停火延长三周]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8944256</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8944256"/>
+        <updated>2026-04-23T23:08:12.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在白宫会见以色列和黎巴嫩驻美国大使后，很快在社交媒体宣布以黎停火延长三周。
+真主党并未派代表参与以黎会谈，也没有立即对特朗普的声明发表评论。
+特朗普于美东时间星期四（4月23日）傍晚（新加坡时间24日凌晨5时许）在Truth Social贴文说，他在白宫椭圆形办公室会见了以色列驻美大使莱特和黎巴嫩驻美大使穆阿瓦德。“会晤非常成功”，并称之为“历史性会晤”。
+特朗普说，美国将与黎巴嫩合作，帮助黎巴嫩抵御真主党威胁，并表示以黎同意延长停火三周。
+特朗普还说，以色列总理内坦亚胡和黎巴嫩总统奥恩将在未来几周访问白宫。
+英国广播公司（BBC）报道，穆阿瓦德、莱特、美国驻以大使赫卡比都赞扬特朗普在以黎谈判中发挥的作用。
+莱特说，在特朗普的领导下，“伊朗的实力已大不如前，使削弱真主党、让黎巴嫩获得解放变为可能”。他还说，以色列和黎巴嫩的目标一致，就是让黎巴嫩摆脱“真主党这一邪恶势力”。
+赫卡比将真主党比作一个在社区里向每家每户窗口扔石头的孩子。他说，一旦制止了这个孩子，那么包括黎巴嫩和以色列在内的邻国就能够和平共处。
+美国副总统万斯、国务卿鲁比奥、美驻黎大使伊萨也出席了椭圆形办公室的会晤。当天早前，莱特和穆阿瓦德在国务院举行了第二轮大使级会谈。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -223,7 +411,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[霍尔木兹海峡封锁战加剧 伊朗首次扣押商船 美称完全控制海峡]]></title>
+        <title type="html"><![CDATA[霍尔木兹封锁战加剧 伊朗首次扣押商船 美国称完全控制海峡]]></title>
         <id>https://www.zaobao.com/news/world/story20260423-8943219</id>
         <link href="https://www.zaobao.com/news/world/story20260423-8943219"/>
         <updated>2026-04-23T15:47:04.000Z</updated>
@@ -491,139 +679,6 @@ AI红利若不共享 社会将面临制度性“反噬”
 日本媒体近日也普遍指出，政府有必要充分说明强化情报职能的必要性，并正视其可能带来的严重影响。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽连斯基：中东战争若扩日持久 或影响乌军获取美反导系统]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8941418</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8941418"/>
-        <updated>2026-04-23T09:00:23.000Z</updated>
-        <summary type="html"><![CDATA[（基辅综合电）乌克兰总统泽连斯基警告，如果中东战争长时间持续下去，乌克兰可能会在获取美国反导弹防御系统方面面对更大风险。
-泽连斯基星期三（4月22日）接受美国有线电视新闻网（CNN）访问时说，由于美国产量有限，乌克兰至今只获得少量美国反导防御系统。
-截至目前，乌克兰的武器供应和情报供应未受到任何干扰，但泽连斯基警告：“如果战争继续或停火被推迟……这不是好事，我们可能会在（获取美国）反弹道导弹系统方面面对更多风险”。
-他指出，乌克兰通过由北约成员国资助的“乌克兰优先需求清单”（PURL）计划，获得美国爱国者导弹系统和其他重要武器，而基辅和欧洲邻国之间并没有这样的计划。
-泽连斯基说：“当然，由于中东战争和伊朗问题带来的巨大挑战，所有这些武器配套都面临着风险。”
-在美国聚焦于中东战争之际，美乌谈判人员周二（21日）举行了会谈。泽连斯基表明，乌克兰非常希望重启美俄乌三方会谈，回到结束战争的道路上。
-土耳其总统埃尔多安周三在安卡拉会见北约秘书长吕特时也说，他正试图重启俄乌谈判，并促成俄乌领导人会谈。
-乌克兰外长瑟比加周二说，乌克兰已要求土耳其主持泽连斯基与普京的会晤。他说：“我们特别向土耳其提出请求，但如果由其他国家首都安排这样的会晤，我们也会前往参加，莫斯科和白罗斯除外。”
-土耳其总统府的声明说，埃尔多安也告诉吕特，跨大西洋关系是不可或缺的，但安卡拉希望欧洲的北约盟友能为跨大西洋安全承担更多责任。
-克里姆林宫发言人佩斯科夫同日表明，俄罗斯总统普京只会在敲定停战协议的前提下与泽连斯基会面。
-他说，普京此前已表明，随时准备好在莫斯科会见泽连斯基，但目前基辅政权仍未展现促成这类会晤所需的政治意愿。
-佩斯科夫称：“最重要的是，双方必须有会面的理由，且会面必须富有成效。会面只能是为了最终达成协议。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗外长告诉韩国特使：战争后果应由“侵略者”承担]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8941500</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8941500"/>
-        <updated>2026-04-23T08:45:55.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部说，伊朗外交部长阿拉格齐告诉韩国特使，战争后果应由“侵略者”承担，他指的是美国和以色列。
-路透社引述伊朗外交部星期四（4月23日）发布的声明称，韩国外长特使郑昺河在德黑兰会见了阿拉格齐。阿拉格齐指出，霍尔木兹海峡动荡起源于美国和以色列对伊朗的军事攻击，由此产生的后果应由侵略方负责。
-据韩国联合通讯社报道，郑昺河星期三下午在德黑兰会见了阿拉格齐。郑昺河请求伊方就滞留在伊朗的40多名韩国公民、26艘韩国船舶以及船员的安全持续给予关注。他强调了保障在霍尔木兹海峡自由通航的必要性，并请求伊方为包括韩船在内的所有船舶的迅速、安全航行提供配合。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丹麦两列火车相撞 至少17人受伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8940574</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8940574"/>
-        <updated>2026-04-23T06:55:03.000Z</updated>
-        <summary type="html"><![CDATA[丹麦两列火车周四发生相撞事故，造成至少17人受伤，其中四人伤势严重。
-综合路透社和法新社报道，这起事故发生在星期四（4月23日），地点在哥本哈根以北的希勒勒（Hillerod）附近。
-警方声明形容这是一起“严重事故”。据当地媒体报道，事故造成至少17人受伤，四人情况危急。
-大哥本哈根消防部门发言人说：“两列火车迎头相撞，有乘客受伤。所有乘客都已安全撤离车厢，没有人受困……大批救援人员已赶赴现场。”
-目前还不清楚事故发生原因。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美参院再次否决限特朗普战争权力议案]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8940302</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8940302"/>
-        <updated>2026-04-23T06:23:43.000Z</updated>
-        <summary type="html"><![CDATA[美国参议院周三再次否决一项限制总统特朗普战争权力的议案。 
-这是自2月28日，美国对伊朗发起军事行动以来，参议院第五次否决旨在限制特朗普在伊朗问题上动武权力的议案。
-这项由民主党人发起的议案星期三（4月22日）在参议院以46票赞成、51票反对、三弃权未获通过。
-参议院民主党领袖舒默在投票前发表讲话说：“特朗普越是迟迟不让美国摆脱这场战争，美国深陷泥潭的程度就越深，他自己也会越难脱身。”
-据《纽约时报》周三报道，特朗普未来几周将面临一个关键的宪法期限，必须在平息战事或寻求国会批准持续战事之间做选择。第一个限期是5月1日，即特朗普3月2日正式通知国会开战算起的第60天。若特朗普到时不获国会批准，就须撤出美军。
-根据宪法，特朗普之后还可延长30天，理由是需要时间让美军安全撤出，但无权继续发动攻击。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息：特朗普已制定名单 拟惩罚“不听话”北约盟友]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8939915</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8939915"/>
-        <updated>2026-04-23T05:02:02.000Z</updated>
-        <summary type="html"><![CDATA[欧美官员透露，美国白宫制定了一份国家名单，把北约成员国分类成“好盟友和坏盟友”两个类别，特朗普政府正寻求对在伊朗战争问题上拒绝提供支持的盟国进行惩罚。 
-美国新闻网站Politico星期三（4月22日）引述三名欧洲外交官和一名美国战争部官员报道，这份名单是在北约秘书长吕特本月访美前指定的，名单包括各成员国对北约的贡献概况，并据此将这些国家划分为不同等级。
-据这些知情人士透露，特朗普政府正在研究各项选项，但尚未公开任何细节。《华尔街日报》4月8日引述知情官员报道，特朗普政府正考虑通过撤军，惩罚未在伊朗战争中支持美国和以色列的北约成员国。
-一名欧洲官员说：“在惩罚坏盟国方面，他们似乎并没有非常具体的想法。调动军队是一个选项，但这主要惩罚的是美国自己，不是吗？”
-北约未回应置评请求。
-目前尚不清楚哪些国家属于哪一类别，也不清楚吕特是否知晓这项计划。但罗马尼亚和波兰可能成为最大的受益者，因为这两个国家仍深受特朗普青睐，且会欢迎更多美军进驻。
-波兰政府是北约国防开支最高的国家之一，目前已承担驻当地的1万名美军的几乎所有费用。而罗马尼亚近期扩建的米哈伊尔·科格尔尼恰努空军基地还有空间容纳更多美军。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两战机飞行员自拍酿意外 韩国空军道歉]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8939427</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8939427"/>
-        <updated>2026-04-23T03:42:56.000Z</updated>
-        <summary type="html"><![CDATA[韩国空军周四就2021年两架战斗机空中擦撞事故道歉。此前一天，审计人员指出，飞行员在飞行过程中自拍和拍摄视频，并认为他们应对事故负责。
-一名空军发言人星期四（4月23日）在新闻发布会上说：“我们对2021年发生的这起事故给公众带来的担忧深表歉意。”
-他补充说，其中一名涉事飞行员已被停飞，受到严厉的纪律处分，并已退役。
-根据韩国国家审计监察委员会周三发布的报告，2021年12月在韩国大邱市附近进行编队飞行时，两架F-15K战斗机相撞，原因是飞行员未经许可擅自进行个人拍摄操作。随后，相关部门发表了道歉声明。
-审计人员指出，一名僚机飞行员（wingman pilot，主要指在战斗机编队中跟随长机执行任务的飞行员）试图录制影像以纪念他与该部队的最后一次飞行，在没有获得许可的情况下猛烈爬升和倾斜飞机以改善拍摄角度，另一名飞行员则从领头飞机上拍摄视频。
-两机接近时，双方机组人员都试图采取规避措施，但僚机的尾翼撞到了领头飞机的机翼，造成约8.8亿韩元（约76万5990新元）的损失。这次事件没有造成人员伤亡。
-审计委员会认定僚机飞行员负有主要责任，但也批评空军当时对飞行中拍摄的管控松懈，并责令该飞行员偿还约十分之一的维修费用。
-空军说，正在采取措施加强飞行安全规章，防止此类事件再次发生。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国务院促在伊朗美国公民立即离境]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8939226</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8939226"/>
-        <updated>2026-04-23T03:12:09.000Z</updated>
-        <summary type="html"><![CDATA[美国国务院周三说，鉴于伊朗已宣布分阶段重开领空，在伊朗的美国公民应立即离境。
-美国国务院领事事务局星期三（4月22日）建议美国公民关注当地媒体关于局势的最新发布，同时可向商业航空公司咨询飞离伊朗航班的信息。
-根据美国国务院的旅行警示，美国公民还可通过陆路前往亚美尼亚、阿塞拜疆、土耳其和土库曼斯坦，但应避免前往阿富汗、伊拉克或巴基斯坦与伊朗接壤地区。
-据伊朗媒体报道，伊朗民航组织副主席19日发表声明说，伊朗领空将分四个阶段重新开放。第一阶段恢复过境中转航班；第二阶段恢复伊朗东部机场航班；第三阶段恢复梅赫拉巴德机场和霍梅尼国际机场航班；第四阶段恢复伊朗西部机场航班。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60天期限将至 特朗普面临结束伊朗战争压力]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8938742</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8938742"/>
-        <updated>2026-04-23T02:08:44.000Z</updated>
-        <summary type="html"><![CDATA[美伊战争爆发八周以来，国会共和党人多次阻挡民主党要求停止军事行动的努力。但随着法定的关键期限逼近，部分共和党人开始释放信号，要求特朗普总统在未经国会授权的情况下，应于未来数周内收束战事或正式寻求国会批准。 
-《纽约时报》和《华盛顿邮报》星期三（4月22日）报道，根据1973年《战争权力法》（War Powers Resolution），总统在未经国会授权下动武设有时间限制。
-特朗普于2月28日联手以色列对伊朗发动袭击，并于3月2日正式通知国会，这意味着为期60天的法定时限将于5月1日到期。到时，特朗普若未获得授权，理论上必须撤回美军。
-综合香港《星岛日报》报道，尽管共和党目前在国会保持团结以阻拦民主党的停火提案，但对于5月1日后的立场已出现松动。
-犹他州共和党参议员柯蒂斯（John Curtis）表明，若无国会批准，他不会支持超过60天的军事行动。众议院外交委员会主席马斯特（Brian Mast）也警告，一旦战争拖至5月，总统可能会失去显著支持，到时的票数分布将大不相同。
-根据法律，若60天期限届满，特朗普仅剩三种选择：一、寻求国会授权；二、开始撤军；三、行使一次性的30天延期。然而，延期仅限于为“确保部队安全撤离”所需的情况，并不赋予总统继续发动攻势的权力。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年4月推荐]]></title>
-        <id>/archives/2026nian-4yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
-        <updated>2026-04-23T01:19:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月23日 哔哩哔哩音频解析 musicDownload 一个聚合音悦下载器 4月21日 今日时事 一个新闻资讯聚合服务 小云搜索 一个网盘聚合搜索引擎 4月20日 OmniGet<]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
@@ -945,7 +1000,7 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <id>https://ducorn.com/investment-psychology</id>
         <link href="https://ducorn.com/investment-psychology"/>
         <updated>2026-03-27T09:39:05.000Z</updated>
-        <summary type="html"><![CDATA[你花兩小時研究一檔股票、聽 podcast、問 AI——但你抄的答案來自一張不同的考卷。Crosby 說大腦有 bug、Hayes 說環境才是問題、Housel 說你是從眾。四組投資心理學矛盾，答案跟你想的不一樣。]]></summary>
+        <summary type="html"><![CDATA[你花兩小時研究一檔股票、聽 podcast、問 AI——但你抄的答案來自一張不同的考卷。Crosby 說大腦有 bug、Hayes 說環境才是問題、Housel 說你是從眾。四組投資心理學矛盾，答案跟你想的不一樣。FINRA 2024：18-34 歲投資人 60% 依社群網紅——你確定自己不在這數字裡嗎？]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
