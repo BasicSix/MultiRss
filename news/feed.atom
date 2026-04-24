@@ -2,198 +2,301 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T02:57:40.335Z</updated>
+    <updated>2026-04-24T08:11:17.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Moment of Paine Lake]]></title>
-        <id>1x-3552191</id>
-        <link href="https://1x.com/photo/3552191"/>
-        <updated>2026-04-24T02:56:56.022Z</updated>
-        <summary type="html"><![CDATA[Moment of Paine Lake by Yongnan Li （李永男）]]></summary>
+        <title type="html"><![CDATA[The Last Dream: Lycaenidae in Autumn]]></title>
+        <id>1x-3556184</id>
+        <link href="https://1x.com/photo/3556184"/>
+        <updated>2026-04-24T08:10:30.485Z</updated>
+        <summary type="html"><![CDATA[The Last Dream: Lycaenidae in Autumn by Danilo Bausano]]></summary>
         <author>
-            <name>Yongnan Li （李永男）</name>
+            <name>Danilo Bausano</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[红-2]]></title>
-        <id>1x-3554570</id>
-        <link href="https://1x.com/photo/3554570"/>
-        <updated>2026-04-24T02:56:56.020Z</updated>
-        <summary type="html"><![CDATA[红-2 by Chen Xiao]]></summary>
+        <title type="html"><![CDATA[Snowy Owl on Patrol]]></title>
+        <id>1x-3556312</id>
+        <link href="https://1x.com/photo/3556312"/>
+        <updated>2026-04-24T08:10:30.482Z</updated>
+        <summary type="html"><![CDATA[Snowy Owl on Patrol by tianhuayu]]></summary>
         <author>
-            <name>Chen Xiao</name>
+            <name>tianhuayu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Majestic]]></title>
-        <id>1x-3555501</id>
-        <link href="https://1x.com/photo/3555501"/>
-        <updated>2026-04-24T02:56:56.017Z</updated>
-        <summary type="html"><![CDATA[Majestic by Heike Willers]]></summary>
+        <title type="html"><![CDATA[No Way Out]]></title>
+        <id>1x-3541572</id>
+        <link href="https://1x.com/photo/3541572"/>
+        <updated>2026-04-24T08:10:30.479Z</updated>
+        <summary type="html"><![CDATA[No Way Out by Steven Zhou]]></summary>
         <author>
-            <name>Heike Willers</name>
+            <name>Steven Zhou</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nap in the sun]]></title>
-        <id>1x-3554020</id>
-        <link href="https://1x.com/photo/3554020"/>
-        <updated>2026-04-24T02:56:55.983Z</updated>
-        <summary type="html"><![CDATA[Nap in the sun by Adolfo Urrutia]]></summary>
+        <title type="html"><![CDATA[Between Softness and Thorn]]></title>
+        <id>1x-3556348</id>
+        <link href="https://1x.com/photo/3556348"/>
+        <updated>2026-04-24T08:10:30.477Z</updated>
+        <summary type="html"><![CDATA[Between Softness and Thorn by ZY Zhang]]></summary>
         <author>
-            <name>Adolfo Urrutia</name>
+            <name>ZY Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[owls]]></title>
-        <id>1x-3555667</id>
-        <link href="https://1x.com/photo/3555667"/>
-        <updated>2026-04-24T02:56:55.976Z</updated>
-        <summary type="html"><![CDATA[owls by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[A Waltz in Light and Shadow]]></title>
+        <id>1x-3552663</id>
+        <link href="https://1x.com/photo/3552663"/>
+        <updated>2026-04-24T08:10:30.472Z</updated>
+        <summary type="html"><![CDATA[A Waltz in Light and Shadow by Jaga]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
+            <name>Jaga</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robin 4]]></title>
-        <id>1x-3555484</id>
-        <link href="https://1x.com/photo/3555484"/>
-        <updated>2026-04-24T02:56:55.969Z</updated>
-        <summary type="html"><![CDATA[Robin 4 by Van Der Smissen Jurgen]]></summary>
+        <title type="html"><![CDATA[cardinals]]></title>
+        <id>1x-3556190</id>
+        <link href="https://1x.com/photo/3556190"/>
+        <updated>2026-04-24T08:10:30.462Z</updated>
+        <summary type="html"><![CDATA[cardinals by Leeli Higgins]]></summary>
         <author>
-            <name>Van Der Smissen Jurgen</name>
+            <name>Leeli Higgins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Deal]]></title>
-        <id>1x-3527366</id>
-        <link href="https://1x.com/photo/3527366"/>
-        <updated>2026-04-24T02:56:55.967Z</updated>
-        <summary type="html"><![CDATA[No Deal by Angela Muliani Hartojo]]></summary>
+        <title type="html"><![CDATA[Evening with stars II.]]></title>
+        <id>1x-3541325</id>
+        <link href="https://1x.com/photo/3541325"/>
+        <updated>2026-04-24T08:10:30.459Z</updated>
+        <summary type="html"><![CDATA[Evening with stars II. by Stefan Condik]]></summary>
         <author>
-            <name>Angela Muliani Hartojo</name>
+            <name>Stefan Condik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometry in Stillness]]></title>
-        <id>1x-3555537</id>
-        <link href="https://1x.com/photo/3555537"/>
-        <updated>2026-04-24T02:56:55.964Z</updated>
-        <summary type="html"><![CDATA[Geometry in Stillness by Shungo]]></summary>
+        <title type="html"><![CDATA[溺]]></title>
+        <id>1x-3551835</id>
+        <link href="https://1x.com/photo/3551835"/>
+        <updated>2026-04-24T08:10:30.455Z</updated>
+        <summary type="html"><![CDATA[溺 by Kurosaki Sangan]]></summary>
         <author>
-            <name>Shungo</name>
+            <name>Kurosaki Sangan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beautiful profile]]></title>
-        <id>1x-3549626</id>
-        <link href="https://1x.com/photo/3549626"/>
-        <updated>2026-04-24T02:56:55.959Z</updated>
-        <summary type="html"><![CDATA[Beautiful profile by Eiji Yamamoto]]></summary>
+        <title type="html"><![CDATA[Nuristani girl]]></title>
+        <id>1x-3538666</id>
+        <link href="https://1x.com/photo/3538666"/>
+        <updated>2026-04-24T08:10:30.448Z</updated>
+        <summary type="html"><![CDATA[Nuristani girl by Trevor Cole]]></summary>
         <author>
-            <name>Eiji Yamamoto</name>
+            <name>Trevor Cole</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3541616</id>
-        <link href="https://1x.com/photo/3541616"/>
-        <updated>2026-04-24T02:56:55.957Z</updated>
-        <summary type="html"><![CDATA[Untitled by Songhu Yan]]></summary>
+        <title type="html"><![CDATA[Where the Cold Breathes]]></title>
+        <id>1x-3549100</id>
+        <link href="https://1x.com/photo/3549100"/>
+        <updated>2026-04-24T08:10:30.429Z</updated>
+        <summary type="html"><![CDATA[Where the Cold Breathes by Ling Jiang]]></summary>
         <author>
-            <name>Songhu Yan</name>
+            <name>Ling Jiang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suspension]]></title>
-        <id>1x-3555708</id>
-        <link href="https://1x.com/photo/3555708"/>
-        <updated>2026-04-24T02:56:55.955Z</updated>
-        <summary type="html"><![CDATA[Suspension by Frank Bruynseraede]]></summary>
+        <title type="html"><![CDATA[Blooming at the Edge of Dreams]]></title>
+        <id>1x-3544585</id>
+        <link href="https://1x.com/photo/3544585"/>
+        <updated>2026-04-24T08:10:30.420Z</updated>
+        <summary type="html"><![CDATA[Blooming at the Edge of Dreams by Kaoru Suzuki]]></summary>
         <author>
-            <name>Frank Bruynseraede</name>
+            <name>Kaoru Suzuki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Remains]]></title>
-        <id>1x-3554284</id>
-        <link href="https://1x.com/photo/3554284"/>
-        <updated>2026-04-24T02:56:55.952Z</updated>
-        <summary type="html"><![CDATA[What Remains by Leszek Paradowski]]></summary>
+        <title type="html"><![CDATA[In the Fishing Nets]]></title>
+        <id>1x-3548000</id>
+        <link href="https://1x.com/photo/3548000"/>
+        <updated>2026-04-24T08:10:30.415Z</updated>
+        <summary type="html"><![CDATA[In the Fishing Nets by Kieron Long]]></summary>
         <author>
-            <name>Leszek Paradowski</name>
+            <name>Kieron Long</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PALAU DE LES ARTS REINA SOFIA #1]]></title>
-        <id>1x-3555896</id>
-        <link href="https://1x.com/photo/3555896"/>
-        <updated>2026-04-24T02:56:55.950Z</updated>
-        <summary type="html"><![CDATA[PALAU DE LES ARTS REINA SOFIA #1 by Bernd Gantert]]></summary>
+        <title type="html"><![CDATA[Justice Venezia]]></title>
+        <id>1x-3553624</id>
+        <link href="https://1x.com/photo/3553624"/>
+        <updated>2026-04-24T08:10:30.408Z</updated>
+        <summary type="html"><![CDATA[Justice Venezia by Robin Yong]]></summary>
         <author>
-            <name>Bernd Gantert</name>
+            <name>Robin Yong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3555731</id>
-        <link href="https://1x.com/photo/3555731"/>
-        <updated>2026-04-24T02:56:55.946Z</updated>
-        <summary type="html"><![CDATA[Untitled by Paulo Abrantes]]></summary>
+        <title type="html"><![CDATA[her in memory]]></title>
+        <id>1x-3554905</id>
+        <link href="https://1x.com/photo/3554905"/>
+        <updated>2026-04-24T08:10:30.397Z</updated>
+        <summary type="html"><![CDATA[her in memory by Kou Suga]]></summary>
         <author>
-            <name>Paulo Abrantes</name>
+            <name>Kou Suga</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the heart of the glacier]]></title>
-        <id>1x-3554874</id>
-        <link href="https://1x.com/photo/3554874"/>
-        <updated>2026-04-24T02:56:55.935Z</updated>
-        <summary type="html"><![CDATA[the heart of the glacier by Judith Kuhn]]></summary>
+        <title type="html"><![CDATA[Old men in Varanasi]]></title>
+        <id>1x-3551528</id>
+        <link href="https://1x.com/photo/3551528"/>
+        <updated>2026-04-24T08:10:30.390Z</updated>
+        <summary type="html"><![CDATA[Old men in Varanasi by Giovanni Cavalli]]></summary>
         <author>
-            <name>Judith Kuhn</name>
+            <name>Giovanni Cavalli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOLOMİTES]]></title>
-        <id>1x-3555039</id>
-        <link href="https://1x.com/photo/3555039"/>
-        <updated>2026-04-24T02:56:55.902Z</updated>
-        <summary type="html"><![CDATA[DOLOMİTES by ilker çelik]]></summary>
+        <title type="html"><![CDATA[Urban textures - Orlando, Florida]]></title>
+        <id>1x-3555431</id>
+        <link href="https://1x.com/photo/3555431"/>
+        <updated>2026-04-24T08:10:30.378Z</updated>
+        <summary type="html"><![CDATA[Urban textures - Orlando, Florida by Arnon Orbach]]></summary>
         <author>
-            <name>ilker çelik</name>
+            <name>Arnon Orbach</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3554221</id>
-        <link href="https://1x.com/photo/3554221"/>
-        <updated>2026-04-24T02:56:55.791Z</updated>
-        <summary type="html"><![CDATA[Untitled by Yun Thwaits]]></summary>
+        <title type="html"><![CDATA[Kaitlin]]></title>
+        <id>1x-3554100</id>
+        <link href="https://1x.com/photo/3554100"/>
+        <updated>2026-04-24T08:10:30.369Z</updated>
+        <summary type="html"><![CDATA[Kaitlin by Lee Kershaw]]></summary>
         <author>
-            <name>Yun Thwaits</name>
+            <name>Lee Kershaw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stand together]]></title>
-        <id>1x-3554165</id>
-        <link href="https://1x.com/photo/3554165"/>
-        <updated>2026-04-24T02:56:55.789Z</updated>
-        <summary type="html"><![CDATA[Stand together by Sherry Huang]]></summary>
+        <title type="html"><![CDATA[Il passo del tempo - The Pace of Time]]></title>
+        <id>1x-3555532</id>
+        <link href="https://1x.com/photo/3555532"/>
+        <updated>2026-04-24T08:10:30.146Z</updated>
+        <summary type="html"><![CDATA[Il passo del tempo - The Pace of Time by Roberto Corinaldesi]]></summary>
         <author>
-            <name>Sherry Huang</name>
+            <name>Roberto Corinaldesi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[black and white]]></title>
-        <id>1x-3553873</id>
-        <link href="https://1x.com/photo/3553873"/>
-        <updated>2026-04-24T02:56:55.766Z</updated>
-        <summary type="html"><![CDATA[black and white by fotomarion]]></summary>
+        <title type="html"><![CDATA[Ran Himemiya]]></title>
+        <id>1x-3553213</id>
+        <link href="https://1x.com/photo/3553213"/>
+        <updated>2026-04-24T08:10:30.099Z</updated>
+        <summary type="html"><![CDATA[Ran Himemiya by KOIKI]]></summary>
         <author>
-            <name>fotomarion</name>
+            <name>KOIKI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰国最高法院受理44名反对派议员案 涉修冒犯君主法]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8946864</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8946864"/>
+        <updated>2026-04-24T07:56:11.000Z</updated>
+        <summary type="html"><![CDATA[泰国最高法院已受理一起指控44名现任和前任反对党议员2021年试图修改冒犯君主法，涉嫌违反道德规范，凸显泰国进步派政治人物持续面临的挑战。
+路透社报道，泰国最高法院星期五（4月24日）说，案件于6月30日开审。涉案者包括人民党及其已解散前身前进党的现任和前任成员，人民党党魁那他蓬和副党魁西里甘亚也被列入其中。
+如果罪名成立，他们将面临的最高刑罚为终身禁止担任公职。
+这起案件由泰国反腐机构在2月8日大选后提起，指控44名涉案者2021年提交的修改泰国刑法第112条的请愿书中违反了道德准则。
+那他蓬否认指控，并誓言反对党议员将全力抗争到底，因为这关系到泰国民主。
+泰国最高法院在一份声明中说，已决定不下令44名涉案者中的10名现任议员暂时停职。
+泰国的冒犯君主法是全球最严厉的王室保护法律之一，违法者最高可被判处15年监禁。前进党寻求修改这项立法，认为此法已被滥用，目的是为压制反对派。
+近年来已有数以百计的人因为触犯冒犯君主法而遭到起诉。
+尽管人民党在民调中大幅领先其他政党，但在2月大选中仅排在第二位，败给了首相阿努廷领导的泰自豪党。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本岩手县山火过火面积接近1200公顷]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8946457</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8946457"/>
+        <updated>2026-04-24T06:43:33.000Z</updated>
+        <summary type="html"><![CDATA[日本岩手县大槌町两天前发生的山林火灾，截至星期五（4月24日）清晨6时，过火面积已接近1200公顷，火势仍未得到有效控制。
+共同社报道，受火灾影响，岩手县大槌町已对近2600人发布避难指示，约占全町人口的四分之一。此外，包括住宅在内的八栋建筑在火灾中受损。
+日本总务部消防厅24日说，已向北海道、山形县、福岛县、栃木县、新潟县请求派遣消防力量支援。
+此外，由于日本东北部海域20日发生7.7级地震，日本气象厅对包括岩手县在内的七个县182个市町村发布后续地震提醒信息。应对火灾的同时也需警惕地震风险。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本澳洲5月拟发布经济安全合作宣言]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8946409</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8946409"/>
+        <updated>2026-04-24T06:22:31.000Z</updated>
+        <summary type="html"><![CDATA[共同社取得的一份草案显示，日本首相高市早苗和澳大利亚总理阿尔巴尼斯，正在协调制定一份关于经济安全合作的联合宣言，这份宣言将于5月初的峰会上发布。 
+报称，鉴于中国采取的经济胁迫措施，包括收紧出口管制，日澳草案的核心内容是加强在稀土等关键矿产、能源、食品等必需品供应链建设方面的合作。
+多方消息来源已证实上述消息。
+日澳两国政府2022年发表一份关于安全合作的联合宣言，拟于5月发布的日澳联合宣言将定位为一份“战略指导方针”，专门阐述经济安全领域的合作与危机管理。
+此外，鉴于美以伊战事已对原油等必需品的供应造成了影响，两国将寻求建立多层次的日澳关系。
+草案明确提出，日本和澳洲将共享信息以应对可能影响日澳双方安全利益的冲突、经济胁迫和突发事件。
+草案还对出口管制对关键矿产供应链造成负面影响表达“强烈关切”，且预计将强调遵守国际法和贸易规则的重要性。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国将邀请普京出席G20峰会]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8946182</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8946182"/>
+        <updated>2026-04-24T05:56:36.000Z</updated>
+        <summary type="html"><![CDATA[美国高级政府官员说，美国将邀请俄罗斯总统普京出席年底在佛罗里达州举行的二十国集团峰会，而美国总统特朗普说，若普京答应出席，将是一件“好事”。
+法新社报道，美国是本年度二十国集团（G20）轮值主席国。特朗普政府一名高级官员星期四（4月23日）说：“所有G20成员国都将受邀参加今年12月在佛州迈阿密举行的G20部长级会议和领导人峰会。”
+另据《华盛顿邮报》报道，美国国务院在一份声明中说，特朗普“已明确表示欢迎俄罗斯出席所有G20会议，美国正致力于举办一届成功且富有成效的峰会”。
+这一邀请将标志着国际社会对普京的压力大幅缓解。自普京于2022年2月下令入侵乌克兰以来，他一直受到西方大多数国家的冷落，但特朗普除外。
+特朗普23日被问及邀请普京出席G20峰会一事，他表示不知情， 并对普京是否会出席表示怀疑。
+特朗普说：“我不知道有没有邀请他，坦白说，我怀疑他会答应出席。但如果他来，他可以和所有人谈谈，我认为这应该是件好事。”
+他也再次批评奥巴马担任美国总统时，为回应俄罗斯2014年对乌克兰进行了一次小规模入侵，将俄罗斯踢出八国集团（G8）。
+特朗普说：“普京总统对此非常生气——这完全可以理解。”
+克里姆林宫23日表示，普京尚未决定是否出席G20峰会。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国检方就“无人机事件”对尹锡悦求处30年有期徒刑]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8945917</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8945917"/>
+        <updated>2026-04-24T04:56:52.000Z</updated>
+        <summary type="html"><![CDATA[韩国负责调查紧急戒严事件的特检组就制造平壤上空无人机入侵事件，对前总统尹锡悦求处30年有期徒刑。
+韩联社星期五（4月24日）报道，特检组当天在首尔中央地方法院审理尹锡悦涉嫌一般利敌等案件一审结案公审中提出30年有期徒刑请求。特检组说，尹锡悦被指控为制造宣布紧急戒严的借口，指示军方向朝鲜首都平壤投放无人机，诱导军事紧张局势升级。检方认为，这一行为损害韩国利益，构成了严重犯罪。
+2025年11月10日，特检组指控尹锡悦等人在2024年10月指示无人机作战司令部向平壤派遣无人机。特检组认为，无人机在平壤附近坠落，导致作战计划与战力等军事机密外泄，此行为已构成一般利敌罪。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美官员称伊朗本周在霍尔木兹海峡布设更多水雷]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8945654</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8945654"/>
+        <updated>2026-04-24T04:32:19.000Z</updated>
+        <summary type="html"><![CDATA[美国新闻网站Axios星期四（4月23日）引述一名美国官员和一名消息人士说，伊朗伊斯兰革命卫队海军本周在霍尔木兹海峡水域布设了更多水雷。
+美国总统特朗普听取报告后，在社媒平台Truth Social发文说，他已向美国海军下令，一发现伊朗船只在霍尔木兹海峡水域布设水雷就开火，“格杀勿论”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：英国若不取消科技税将面临“高关税”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260424-8945203</id>
+        <link href="https://www.zaobao.com/news/world/story20260424-8945203"/>
+        <updated>2026-04-24T03:07:58.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在英国国王查尔斯三世即将访问美国之际警告，如果英国继续对苹果公司、谷歌母公司Alphabet、脸书母公司Meta等美国公司征收科技税，美国将以“高关税”报复。
+英国于2020年推出了2%的数码服务税，此举遭到了特朗普及民主党籍的美国前任总统拜登的批评。
+路透社报道，特朗普星期四（4月23日）在白宫说：“如果他们不取消这项税收，我们可能会对英国征收高额关税。”
+查尔斯三世和王后卡米拉4月27日起对美国进行四天国事访问，将到白宫与特朗普会晤。
+特朗普接受英国广播公司（BBC）电话采访时，被问及查尔斯三世访美是否有助于修复两国关系，特朗普说，那当然，他还称查尔斯三世是非常好的一个人，是一个勇敢和伟大的人。
+特朗普也谈到他与英国首相斯塔默的关系，除非斯塔默在移民问题上改变立场，两人才能“恢复”关系。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -235,16 +338,16 @@
         <id>https://www.zaobao.com/news/world/story20260424-8944797</id>
         <link href="https://www.zaobao.com/news/world/story20260424-8944797"/>
         <updated>2026-04-24T02:09:52.000Z</updated>
-        <summary type="html"><![CDATA[《纽约时报》星期四（4月23日）引述数名匿名伊朗官员的话报道，在美国和以色列空袭中身受重伤的伊朗最高领袖穆杰塔巴，已“至少目前”将决策权下放给伊朗伊斯兰革命卫队指挥官。
+        <summary type="html"><![CDATA[《纽约时报》星期四（4月23日）引述数名匿名伊朗官员的话报道，在美国和以色列空袭中身受重伤的伊朗最高领袖穆杰塔巴，已“至少目前”将决策权下放给伊朗伊斯兰革命卫队指挥官。 
 报道称，伊朗革命卫队目前还负责军事战略，包括霍尔木兹海峡的封锁。
-伊朗官员称穆杰塔巴依然头脑敏锐，并积极参与国家事务。
-一名官员说：“他的一条腿动了三次手术，目前正在等待装义肢。他的一只手也动了手术，功能正在逐步恢复。他的脸部和嘴唇严重烧伤，导致他说话困难。”
+伊朗官员指穆杰塔巴依然头脑敏锐，并积极参与国家事务。
+一名官员说：“他的一条腿动了三次手术，正在等待装义肢。他的一只手也动了手术，功能正逐步恢复。他的脸部和嘴唇严重烧伤，导致他说话困难。”
 这名官员说，穆杰塔巴“最终还是须要接受整形手术”。
-基于安全考量，与穆杰塔巴的接触受到极其严格的限制，他目前仍藏身在秘密地点，官员只能以手写方式向他传递消息。
+基于安全考量，与穆杰塔巴的接触受到极其严格的限制，他仍藏身在秘密地点，官员只能以手写方式向他传递消息。
 报道称，伊朗革命卫队指挥官不探望穆杰塔巴，但本身是心脏外科医生的伊朗总统佩泽希齐扬参与了他的治疗。
-报道还指，伊朗革命卫队指挥官认为美国和以色列发动的这场战争，对伊朗政权构成的生存威胁已得到遏制。
-另一方面，以色列国防部长卡茨23日说，以色列正在等待美国“开绿灯”，以便将伊朗“打回石器时代”。他说，以色列国防军已做好防御和进攻的准备，目标已经锁定。他还说，首先，也是最重要的，是彻底铲除哈梅内伊王朝。
-穆杰塔巴的父亲哈梅内伊在美以联军2月28日的大规模空袭中丧命，穆杰塔巴3月9日当选为新最高领袖，但他至今未公开露面，仅发表书面声明，引发外界对他的健康状况和是否已经死亡的猜测。
+报道还指，伊朗革命卫队指挥官认为美国和以色列发动的这场战争，对伊朗政权构成的生存威胁已得到遏制。 
+另一方面，以色列国防部长卡茨23日说，以色列在等待美国“开绿灯”，以便将伊朗“打回石器时代”。他说，以色列国防军已做好防御和进攻的准备，目标已经锁定。他还说，首先，也是最重要的，是彻底铲除哈梅内伊王朝。 
+穆杰塔巴的父亲哈梅内伊在美以联军2月28日的大规模空袭中丧命，穆杰塔巴3月9日当选为新最高领袖，但他至今未公开露面，仅发表书面声明，引发外界对他的健康状况和是否已经死亡的猜测。 
 路透社4月11日报道，穆杰塔巴核心圈的三名消息人士披露，穆杰塔巴在美伊袭击中遭毁容，一条腿或双腿重伤。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
@@ -265,7 +368,7 @@
         <id>https://ducorn.com/mstr-leverage-game</id>
         <link href="https://ducorn.com/mstr-leverage-game"/>
         <updated>2026-04-24T01:15:56.000Z</updated>
-        <summary type="html"><![CDATA[3 年 22 倍是真的，Saylor 的持股也是真的，Chanos 短 MSTR 賺 100% 也是真的。這些事實一起成立，挑一邊相信不夠用。把五方論述（Saylor / Damodaran / Chanos / 神魚 / Bier）擺在同一個問題上對照，你會看到自己買 MSTR 在賭什麼。]]></summary>
+        <summary type="html"><![CDATA[3 年 22 倍是真的，Saylor 的持股也是真的，Chanos 短 MSTR 賺 100% 也是真的。這些事實一起成立，挑一邊相信不夠用。把四組專業判斷（Saylor / Damodaran / Chanos / 神魚）擺在同一個問題上對照，你會看到自己買 MSTR 在賭什麼。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
@@ -417,6 +520,9 @@
         <updated>2026-04-23T15:47:04.000Z</updated>
         <summary type="html"><![CDATA[（德黑兰/华盛顿综合电）美国和伊朗在霍尔木兹海峡的封锁战中互不相让，伊朗军方周三在海峡向商船开火，首次扣押两艘船。美国则坚称完全控制霍尔木兹海峡，并警告将立即击沉任何在海峡布雷的船只。 
 伊朗伊斯兰革命卫队海军周三（4月22日）对外宣布，已扣押两艘未经授权通过霍尔木兹海峡的船只。革命卫队也声称这两艘船篡改导航系统，危及海上安全，并将之押回伊朗海岸接受检查。
+
+
+
 据伊朗媒体报道，被扣押的分别是悬挂巴拿马国旗的集装箱船MSC弗朗西斯卡号（MSC Francesca），以及悬挂利比里亚国旗、由希腊运营的埃帕米农达斯号（Epaminondas）。
 巴拿马外交部谴责伊朗扣押货船，称这是“对海上安全的严重攻击”，也不必要地让局势升级。
 白宫新闻秘书莱维特形容伊朗此举是海盗行径，但并不违反停火协议，因为被扣的不是美国或以色列船只。
@@ -554,134 +660,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美军在印度洋登船 检查伊朗石油运输船]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8943307</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8943307"/>
-        <updated>2026-04-23T13:14:59.000Z</updated>
-        <summary type="html"><![CDATA[美国战争部说，美国军队在印度洋登船检查了一艘向伊朗提供物资支持的船只，这是三天内美军第二次采取此类行动。
-美国战争部星期四（4月23日）在声明中说：“昨晚，美军在印度洋对受制裁的无国籍船只‘Majestic X’号进行了海上拦截和登船检查，该船当时正在运输来自伊朗的石油。”
-此前，战争部21日在社交媒体发布消息说，美军20日晚登上一艘涉伊朗油轮并检查。船舶追踪数据显示，该油轮当时位于印度洋，介于斯里兰卡和印度尼西亚之间。
-新华社引述消息说，这艘名为蒂法妮号的油轮“无国籍且受制裁”，美军对该油轮实施了海上拦截并登船检查，全程未出现任何意外。
-消息还说，美军将在“全球范围内开展海上执法行动”，拦截向伊朗“提供物资支持”的受制裁船只。
-美军参谋长联席会议主席凯恩日前称，美军将在太平洋等其他海域追踪任何悬挂伊朗旗帜或任何试图向伊朗提供物资支持的船只。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国首季增长创五年新高 半导体出口成增长引擎]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8942318</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8942318"/>
-        <updated>2026-04-23T13:02:24.000Z</updated>
-        <summary type="html"><![CDATA[（首尔综合电）韩国今年第一季经济表现强劲，人工智能（AI）热潮带动半导体出口飙升，成为拉动增长的核心引擎。
-韩国央行周四（4月23日）发布的数据显示，今年1月至3月的国内生产总值（GDP）环比增长1.7%，远高于市场预期的1.0%。这不仅逆转了2025年第四季度的萎缩局面，也创下了自2020年第三季以来的最快扩张速度。
-韩国央行说，增长主要来自出口大幅回升，按季增长5.1%，其中半导体及IT相关零部件需求强劲。
-彭博经济研究显示，这段期间晶片出货量较上年同期激增139.1%，增速较上一季度提高了三倍多，且月度出货量增速已达到2021年以来未见的水平。
-企业表现方面，SK海力士首季营业利润增长超过五倍，创历史新高。三星电子本月早前也公布季度利润增长达八倍，反映全球科技企业扩建AI数据中心持续推高晶片需求。 
-穆迪分析经济学家奇亚告诉法新社：“半导体出货量的强劲增长支撑了出口表现。财政支持以及此前通胀压力的缓解，也逐步提振了国内需求。”
-不过，彭博经济师权孝成指出，韩国第二季度增长势头恐难持续。他说：“我们预计经济增长将放缓，因为伊朗战争导致的能源供应中断将对石化行业造成沉重打击，并波及更广泛的制造业和服务业。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美参院五度否决止战案 但特朗普对伊用兵60天大限将至]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8942464</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8942464"/>
-        <updated>2026-04-23T12:56:28.000Z</updated>
-        <summary type="html"><![CDATA[（纽约综合讯）美国共和党在参议院连续第五次否决了限制总统特朗普对伊朗发动战争的法案。不过，特朗普面临一个星期后到来的关键宪法期限，他如果无法获国会批准持续作战，或许必须停战。
-由民主党人发起的止战议案星期三（4月22日）在参议院以46票赞成、51票反对，未获通过。
-参议院民主党领袖舒默在投票前发表讲话说：“民主党人将继续每周强行推动对战争权力决议进行投票，直到共和党人将美国人民的利益置于特朗普之上，结束这场战争。”
-美国1973年生效的《战争权力法》规定，总统如果未获国会批准而动用武装力量，须在60天内终止行动。这意味着对伊战争的关键期限就在5月1日，即从特朗普3月2日正式通知国会开战算起的第60天。
-若特朗普到时不获国会批准继续作战，就必须从前线撤军。但根据宪法，特朗普之后还有30天撤军，理据是需要时间让军队安全撤出，但军队无权继续发动攻击。
-美国国会自2002年授权对伊拉克动武之后，就未再投票支持开战。虽然大多数共和党人一致阻挡民主党法案通过，但要明确授权特朗普继续打仗，不见得能够保持团结。
-犹他州共和党参议员柯蒂斯本月中旬发文表明：“不会支持未经国会批准而持续超过60天的军事行动。”
-担任众议院外交事务委员会主席的佛罗里达州共和党众议员马斯特警告，如果冲突持续到5月，特朗普可能失去大批支持。
-上周，共和党人在众议院勉强挡住民主党的止战动议后，马斯特就表明，60天期限之后的表决结果“可能有所不同”。
-不过，《纽约时报》指出，特朗普也可能无视这个期限。美国历届政府一再辩称，宪法对总统兼任三军总司令赋予广泛的权力，而《战争权力法》对总统的限制是违宪的。
-2011年，美国在利比亚的军事行动持续超过60天，时任总统奥巴马给出的理由是：“美国的行动不涉及与敌对势力持续战斗或激烈交火，也不涉及美国的地面部队。”奥巴马来自民主党。
-一些美国议员推测，特朗普政府可能以类似论点辩解，继续对伊朗展开军事行动。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不做“夹心饼干” 特鲁多：中等力量可成全球稳压器]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8942188</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8942188"/>
-        <updated>2026-04-23T11:33:13.000Z</updated>
-        <summary type="html"><![CDATA[加拿大、亚细安和欧洲等“中等力量”并非只能在大国竞争中被动周旋，而是能通过深化协作、共同维护规则，成为支撑国际秩序韧性的重要力量。
-加拿大前总理特鲁多星期四（4月23日）上午在星耀樟宜出席美国消费者新闻与商业频道（CNBC）Converge Live大会时，向主持人德鲁里（Mandy Drury）指出，以布雷顿森林体系（Bretton Woods System）为核心的传统国际秩序已步入深度转型期。 
-这套秩序虽曾见证辉煌，却已难以有效应对如今的新兴挑战。特鲁多指出，2014年俄罗斯吞并克里米亚，很可能被后世视为规则基础国际秩序出现转折的重要节点之一。
-当时，俄罗斯以武力改变边界却几乎没有付出真正代价，还能“全身而退”，这不仅削弱了既有规则的约束力，也释放出危险信号：支撑世界稳定的基本规范，已不再是不可逾越的底线。　
-面对保护主义与孤立主义的双重夹击，特鲁多倡导通过“小多边主义”建立更灵活的伙伴网络。这种合作不设价值观的高门槛，核心在于围绕具体议题达成双赢的共同利益，共同制定和遵守规则。
-他指出：“如果把欧洲、亚细安、加拿大以及部分南美国家的力量加总起来，其经济实力足以与任何大国相匹敌。”加拿大也正通过《跨太平洋伙伴全面进展协定》（CPTPP）等机制，与伙伴共同维持开放贸易与规则合作。
-
-AI红利若不共享 社会将面临制度性“反噬”
-
-谈及人工智能（AI）时，特鲁多提出明确警示，AI带来的问题不只是效率提升，更关系到社会稳定与制度可持续性。
-“AI已经到来，且不可逆转。”特鲁多直言，与其纠结是否推进技术发展，不如思考如何确保AI所创造的财富不会过度集中。他说，如果AI带来的优势最终“只集中在少数人手中，我们可能正走向社会分裂，甚至崩塌”。
-因此，他强调，在AI时代必须更加重视人的自主性。个人真正需要争取的，不只是技术适应能力，更包括对数据、隐私以及掌控自身生活的能力。
-在这一逻辑下，技术的发展方向应是增强人与社区之间的连接，让人更有掌控感，而不是被平台与算法进一步削弱主动权。
-谈话的最后，当被问及“什么最让你夜不能寐”时，特鲁多说，最令他担忧的是“越来越多人被说服自己已经不再重要”。
-他说，一旦人们失去对未来的掌控感，以及改变世界的信念，社会将更难凝聚力量，应对气候变化与AI带来的深层转型挑战。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英法签三年协议 合作遏制难民搭小船渡海峡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8941237</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8941237"/>
-        <updated>2026-04-23T10:58:48.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦/巴黎综合电）英国与法国签署一份新的三年协议，英国将提供最高6亿6000万英镑（约11亿3700万新元）资金，协助遏制英吉利海峡非法偷渡；法国则会加强执法，并投入更多人员打击偷渡。
-根据协议，英国将提供约5亿英镑提升海岸巡逻与执法力量，包括在法国北部海岸部署近1100名执法、情报及军方人员，扩充情报与司法警力。
-法国则计划到2029年将沿岸执法人员增加至约1400人，并强化情报与技术手段，减少偷渡出发次数。根据海上国际法，一旦船只离岸，执法人员主要限于救援，这也增加了拦截难度。
-此外，法国还将派遣一支由50名警员组成的新防暴警察分队，同时把一支旨在追踪人口走私者的18人情报小组扩充至30人。
-若阻止难民的成效显著，英国还将额外支付1亿6000万英镑。双方每年将进行评估，若未达到预期成果，资金将转用于其他应对措施。
-英国与法国长期就难民问题合作，但英方持续批评法国沿岸拦截力度不足。
-数据显示，2025年约有4万1000人乘坐小船横渡英吉利海峡抵达英国，接近2022年最高纪录。与此同时，横渡海峡的风险持续上升，2025年至少有29名移民在途中死亡。 
-新协议取代了2023年签署的金额为4亿8000万英镑的旧协议。过去数月，双方围绕协议续签展开激烈谈判，英国坚持要求对资金使用设置更严格条件，最终才促成新协议。
-英国政府说，自2024年7月工党政府上台以来，英法合作已阻止超过4万2000次偷渡尝试。
-英国首相斯塔默指出，达致新协议意味着英法两国可进一步加强情报、监控和地面警力部署，以保护英国的边境。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗副议长：收到首笔霍尔木兹海峡通行费]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8942386</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8942386"/>
-        <updated>2026-04-23T10:21:41.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰议会副议长哈吉·巴巴埃说，伊朗已收到自与美国和以色列交战以来的首笔霍尔木兹海峡通行费。 
-法新社引述伊朗塔斯尼姆通讯社（4月23日）的报道，哈吉·巴巴埃（Hamidreza Hajibabaei）说：“霍尔木兹海峡通行费的首笔收入已存入中央银行账户。”其他伊朗媒体也报道了同样的消息，但未作详细说明。
-霍尔木兹海峡是重要的能源运输咽喉要道，自2月28日中东战争爆发以来，已成为一个主要的冲突爆发点。
-伊朗只允许极少数船只通过这条水道。和平时期，这条航道承载着全球五分之一的石油和天然气运输量，以及其他重要商品的运输。
-在宣布征收通行费之前，伊朗议会一直在讨论是否对途经霍尔木兹海峡的船只征收通行费。伊朗官员警告，海峡的海上交通“将无法恢复到战前状态”。 
-3月30日，伊朗国家媒体报道，议会安全委员会已批准征收通行费的计划，但尚不清楚议会是否已就此提案进行最终投票。
-美国总统特朗普一直敦促伊朗开放霍尔木兹海峡。
-英国、法国以及来自30多个国家的军事规划人员已举行会谈，商讨如何保障霍尔木兹海峡的航行安全。巴黎和伦敦表明，一旦条件允许，他们将牵头组建一个多国代表团。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本众议院通过设立“国家情报局”相关法案]]></title>
-        <id>https://www.zaobao.com/news/world/story20260423-8941749</id>
-        <link href="https://www.zaobao.com/news/world/story20260423-8941749"/>
-        <updated>2026-04-23T09:20:25.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗内阁推动的设立“国家情报局”相关法案在众议院全体会议上经表决通过，并将移交参议院进行表决。相关法案在日本社会引发广泛担忧。
-根据星期四（4月23日）通过的法案，日本拟构建以“国家情报会议”为核心、“国家情报局”为执行机构的情报体系，负责统筹安全保障、反恐等领域的情报活动以及涉外国间谍的“对外情报活动”。“国家情报局”还被赋予要求政府各省厅向其提供情报的综合协调权。
-新华社报道，日本媒体普遍认为，尽管由自民党和日本维新会组成的执政联盟在参议院的议席未过半，但由于部分在野党也对法案持赞成态度，预计在参议院也将获得通过，因此可能在本届国会内完成立法程序。
-据共同社报道，高市早苗一直有意强化日本的情报机能。报道称，待设立“国家情报局”的法案正式生效后，高市还将全面启动“防止间谍法”的立法工作以及设立独立对外情报机构的专项研讨工作。
-当前在日本国内，围绕法案可能引发的隐私权及言论自由受侵犯的担忧持续发酵。庆应义塾大学名誉教授金子胜23日在社交媒体发文说：“高市政府试图通过修宪和军事化掩盖日本即将到来的经济崩溃，现在又限制民众言论自由、压制社会声音，这一切都是在重蹈覆辙。” 
-日本社民党党首福岛瑞穗22日接受媒体采访时指出，政府虽称不会随意调查“普通市民”，但“普通市民”与“非普通市民”的界限如何划定仍不明确，这令人非常担忧，法案本身也存在缺陷。
-日本媒体近日也普遍指出，政府有必要充分说明强化情报职能的必要性，并正视其可能带来的严重影响。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[焦慮的世代救不了你家小孩：三種家長讀同一本書的三種結果]]></title>
         <id>https://ducorn.com/anxious-generation-debunked</id>
         <link href="https://ducorn.com/anxious-generation-debunked"/>
@@ -789,7 +767,7 @@ axios 属于使用最广泛的 JS 软件库之一，每周下载量接近1亿次
         <id>https://ducorn.com/intermittent-fasting</id>
         <link href="https://ducorn.com/intermittent-fasting"/>
         <updated>2026-04-09T13:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Cochrane 說168斷食跟節食一樣，Fung 說傳統節食幾乎必定失敗。91% 心臟病風險研究有致命缺陷。兩邊在量不同的東西，跟誰對誰錯無關。]]></summary>
+        <summary type="html"><![CDATA[Cochrane 統合分析說 168 斷食跟普通節食一樣有效，Fung 說傳統節食幾乎必定失敗。那個 91% 心臟病風險嚇到一堆人的研究有致命的方法缺陷。兩邊量的是不同的東西，跟誰對誰錯無關——成功的原因從來不是胰島素理論，是終於有了一個不用每餐做決定的規則。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
@@ -856,7 +834,7 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NMN 有用嗎？四個長壽專家互相打臉的 2026 證據排行]]></title>
+        <title type="html"><![CDATA[NMN 有用嗎？四個長壽專家互相矛盾的 2026 證據排行]]></title>
         <id>https://ducorn.com/longevity-science</id>
         <link href="https://ducorn.com/longevity-science"/>
         <updated>2026-04-01T15:31:58.000Z</updated>
@@ -880,7 +858,7 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <id>https://ducorn.com/midlife-pivot</id>
         <link href="https://ducorn.com/midlife-pivot"/>
         <updated>2026-03-31T09:52:05.000Z</updated>
-        <summary type="html"><![CDATA[哈佛教授說創新力 38 歲開始衰退，但 50 歲創業者成功率是 30 歲的兩倍。兩組數據都對，但量的是不同的東西。七本書對「你 38 歲到底怎麼了」給了五個互相矛盾的答案。「35 歲天花板」的出處不在你的大腦。環境在用錯的指標評估你。]]></summary>
+        <summary type="html"><![CDATA[哈佛教授說創新力 38 歲開始衰退，但 MIT 研究 50 歲創業者成功率是 30 歲的兩倍。兩組數據都對，但量的是不同的東西。七本書對「你 38 歲到底怎麼了」給了五個互相矛盾的答案。「35 歲天花板」的出處不在你的大腦，是環境在用錯的指標評估你。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
@@ -890,7 +868,7 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <id>https://ducorn.com/agi-definition-war</id>
         <link href="https://ducorn.com/agi-definition-war"/>
         <updated>2026-03-31T05:47:54.000Z</updated>
-        <summary type="html"><![CDATA[GPT-5 的 AGI 分數 57%，記憶力 0 分。黃仁勳說 AGI 已到，OpenAI 合約秘密定義 AGI 為能賺 1000 億美元利潤的技術。三把尺，三個相反結論，你老闆用哪把決定你該擔心什麼。]]></summary>
+        <summary type="html"><![CDATA[GPT-5 的 AGI 分數 57%，記憶力拿了 0 分。黃仁勳說 AGI 已經到了，OpenAI 合約裡秘密把 AGI 定義成能賺到 1000 億美元利潤的技術。三把尺量出三個完全相反的結論——你老闆用的是哪一把，決定你該不該擔心自己的工作。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>

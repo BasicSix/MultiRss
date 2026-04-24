@@ -961,24 +961,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69bdc1583bbfcfe8db8a64ef",
-          "author": null,
-          "description": "In this TED Talk gone wrong, comedian Mike Albo receives an unexpected call from his bank. The result: a hilariously uncomfortable tour of his purchase history, and a reminder that in the digital age, our data knows us a little too well.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/mikealbo",
-          "publishedOn": "2026-03-25T15:00:00.000Z",
-          "wordCount": null,
-          "title": "My bank called in the middle of my TED Talk | Mike Albo",
-          "itunes": {
-            "duration": "7:58"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69bdc1583bbfcfe8db8a64ef/media.mp3",
-            "length": "7748591",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
