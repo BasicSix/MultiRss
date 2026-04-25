@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T13:12:37.884Z</updated>
+    <updated>2026-04-25T18:58:47.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[番外 14： 跟李诞聊聊播客、创作、AI 与中年]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69ece4fd1e94ae692124bfcf</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69ece4fd1e94ae692124bfcf"/>
+        <updated>2026-04-25T16:26:31.000Z</updated>
+        <summary type="html"><![CDATA[这期节目有点特别，看标题估计就知道了。这是一次关于播客、创作、媒介、AI 和「中年」怀旧的闲聊。也是一次没有提纲更没有逐字稿的，「用嘴思考」的快乐体验。
+
+时间轴
+
+00:00｜半拿铁是怎么开始的
+07:32｜起点：俄罗斯经济和中国饮料简史
+09:13｜半拿铁的工作流
+14:52｜谁主导，谁写稿的工作方式
+20:22｜播客、电台和广告
+30:58｜声音为什么让人觉得亲近
+41:05｜做节目带来的关系与好奇心
+54:13｜AI、创作和未来工作
+01:04:53｜最后一代古代人]]></summary>
+        <author>
+            <name>半拿铁 | 商业沉浮录</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP80《深度工作》：什么是AI时代最不能被取代的技能？]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69eb32bd1e94ae69210ebaeb</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69eb32bd1e94ae69210ebaeb"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在这个AI能一秒写出及格文案，两秒画出精美PPT的时代，你有没有感到一种前所未有的“被贬值感”？又有没有想过，其实这种职业危机，背后推手不仅仅是AI？
+
+我们每天在无数个“收到”中切碎大脑，在多线程切换和会议消息轰炸中疲于奔命，在996和咖啡奶茶中消耗健康，然后在已经被无限压榨的“个人时间”箱子里，拼命塞进学习、爱好、生活、人际、公益……最后，在注定的一次次失败中自我苛责、自我怀疑。
+
+我常常觉得身不由己陷入这一切的现代人真是太可怜了😂。
+
+疲惫和忙碌让我们不再有心力去审视，这种模式是否有持续性，又是否真的“忙碌”能帮我们打造出这个时代的职业“诺亚方舟”。真相是，你越忙碌，价值越低；你消息回得越快，越容易被取代。
+
+本期我们一起拆解Cal Newport 的经典——《深度工作》，和他的新书《慢生产力》，聊聊为什么在这个“技术垄断”的时代，“深度”反而成了你最昂贵、最不可替代的职业资本。
+
+在这场4个多小时的“脑力重塑”中，我们也会深入聊聊如何接纳人生的有限性，如何彻底终结分心、拖延和畏难情绪、丹麦人的四点下班哲学，和职业规划的本质。
+
+准备好冰咖啡，关掉通知，我们要开始潜入深海了。
+
+---------------------------
+
+欢迎在以下平台关注我们：
+
+携隐Melody：小红书🍠 | 微博🧣 | 即刻🟡 | 公众号💚
+
+纵横四海：小红书🍠 | 微博🧣 | 即刻🟡
+
+---------------------------
+
+🎙️ 感谢本期赞助方「华夏基金」！
+
+在努力工作、体验当下的同时，也别忘了给未来的自己提前攒一份底气。作为拥有20余年丰富经验的老牌机构，华夏基金一直倡导「投给想要的未来」。
+
+如果你还在纠结个人养老金怎么买，不妨关注一下华夏基金的养老指数基金Y份额。主打低成本、高透明，轻松涵盖大盘、科创板等核心资产，帮你更简单地把握市场红利。
+
+💡 省钱小贴士： 新一年 1.2 万元的个人养老金缴存额度已经开放啦！现在搞定，不仅能给未来的自己存笔钱，还能享受最高 5400 元的个税抵扣。用确定的规划，换一个安心的未来！
+
+📝 时间轴
+
+AI时代的取代和共生
+
+00:06:15卡尔·荣格的“石头塔楼”与比尔·盖茨的“思考周”
+00:18:10简奥斯汀的故事新版本：《傲慢与偏见》真的是在客厅写出来的吗？
+00:26:36为什么说深度工作是AI时代最有价值的技能？
+00:34:10微软职场报告：AI真的在取代人类工作吗？
+00:46:24经历塑造大脑：你关注什么，你的世界就是什么样子
+00:58:19为什么深度工作在当下越来越稀缺？
+01:08:59职场度量黑洞：最小阻力原则 & 伪生产力（忙碌作为生产力）
+
+深度工作的几个原则
+
+01:35:22深度哲学：禁欲主义、双峰、节奏还是新闻记者？选一个适合你的
+01:52:08第一勺冰淇淋原则：如何确保最重要的事不被琐事挤掉
+02:05:44可视化计分板：让你的深度工作时长变成可见的复利
+
+面对人生的有限性
+
+02:26:19拖延、分心、畏难情绪：逃避的根源是什么？
+02:40:55直面痛苦：没有解决方案，就是解决方案
+02:49:35花足时间：只要你愿意忍受无知的不适，解决方案就会出现
+02:58:12聚焦当下：做接下来最必要的事，路自己会一步步铺开
+
+逃离注意力经济的牢笼
+
+03:06:18注意力经济的本质：我们如何成了硅谷之火的“燃料”
+03:17:54为什么说我们默认的“娱乐”其实不是真正的“娱乐”
+03:27:04重要活动清单：重新审视我们的顶层目标和底层活动
+
+职业规划：我们最需要积累的是什么？
+
+03:39:25激情和使命感公式：它们如何生长出来
+03:44:47相邻可能：为什么对专精的追求是职业规划最重要的一环
+03:50:20自主陷阱：离职博主们为什么注定失败？
+03:56:54职场资本：做出所有两难职业选择的依据
+
+愿景：主动保护我们的深度工作
+
+04:10:32丹麦，一个深度工作的国度
+04:17:44征集问题回答：英语学习的畏难情绪、KPI焦虑、完美主义等
+
+这一期我们会在评论区随机抽取听友留言，送出本期节目的专属徽章 🎁
+
+🎵 片头/尾曲：Graduate 666 - Fiona Huang]]></summary>
+        <author>
+            <name>纵横四海</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What you discover when you really listen | Hrishikesh Hirway (re-release and interview)]]></title>
+        <id>69ea33231e1e812364347bd7</id>
+        <link href="https://go.ted.com/6nSi"/>
+        <updated>2026-04-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Every conversation has the potential to open up and reveal all the layers and layers within it, all those rooms within rooms," says musician and host of the beloved podcast Song Exploder, Hrishikesh Hirway. In this profoundly moving talk from 2022, he offers a guide to deep conversations and explores what you learn when you take that same kind of close listening we often give to music, and turn it toward people.
+
+A lot has changed for Hrishikesh since this popular talk was released, and after more than a decade helping other artists tell their stories and helping us think about listening in new ways, he's got a new solo album that just came out, called In the Last Hour of Light, which he describes as a memoir of sorts. Elise Hu, host of TED Talks Daily, caught up with him earlier this month to talk about his new album, how his ideas about listening have evolved since his talk, and what his own creative process looks like today. They also do a mini Song Exploder of sorts to take a peak into Hrishikesh's own songwriting process, breaking down one of the new songs on this album, "Things Change, Even Now," (co-written with Vagabond), which is shared in full at the end of the episode.
+
+This episode originally aired in 2022. The interview was recorded in April 2026.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Kosovo can teach the world about freedom | Vjosa Osmani Sadriu]]></title>
         <id>69eb82ed6eeb59e2ba2abbe4</id>

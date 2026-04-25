@@ -2,198 +2,354 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T13:13:23.832Z</updated>
+    <updated>2026-04-25T18:59:33.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Almost all the paint peeled off (soft)]]></title>
-        <id>1x-3540703</id>
-        <link href="https://1x.com/photo/3540703"/>
-        <updated>2026-04-25T13:12:37.156Z</updated>
-        <summary type="html"><![CDATA[Almost all the paint peeled off (soft) by Þorsteinn H. Ingibergsson]]></summary>
+        <title type="html"><![CDATA[A Massive Blue Iceberg of Antarctic]]></title>
+        <id>1x-3557897</id>
+        <link href="https://1x.com/photo/3557897"/>
+        <updated>2026-04-25T18:58:46.586Z</updated>
+        <summary type="html"><![CDATA[A Massive Blue Iceberg of Antarctic by Raymond Ren Rong Liu]]></summary>
         <author>
-            <name>Þorsteinn H. Ingibergsson</name>
+            <name>Raymond Ren Rong Liu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wading through dawn]]></title>
-        <id>1x-3557690</id>
-        <link href="https://1x.com/photo/3557690"/>
-        <updated>2026-04-25T13:12:37.151Z</updated>
-        <summary type="html"><![CDATA[wading through dawn by Jennifer Chen]]></summary>
+        <title type="html"><![CDATA[Glacial Lights]]></title>
+        <id>1x-3555403</id>
+        <link href="https://1x.com/photo/3555403"/>
+        <updated>2026-04-25T18:58:46.583Z</updated>
+        <summary type="html"><![CDATA[Glacial Lights by Idan Livni]]></summary>
         <author>
-            <name>Jennifer Chen</name>
+            <name>Idan Livni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flame-colored Tanager]]></title>
-        <id>1x-3551744</id>
-        <link href="https://1x.com/photo/3551744"/>
-        <updated>2026-04-25T13:12:37.145Z</updated>
-        <summary type="html"><![CDATA[Flame-colored Tanager by Hai Lin 雪原]]></summary>
+        <title type="html"><![CDATA[Smoke is Mundari's daily life]]></title>
+        <id>1x-3558070</id>
+        <link href="https://1x.com/photo/3558070"/>
+        <updated>2026-04-25T18:58:46.580Z</updated>
+        <summary type="html"><![CDATA[Smoke is Mundari's daily life by Svetlin Yosifov]]></summary>
         <author>
-            <name>Hai Lin 雪原</name>
+            <name>Svetlin Yosifov</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building]]></title>
-        <id>1x-3543225</id>
-        <link href="https://1x.com/photo/3543225"/>
-        <updated>2026-04-25T13:12:37.142Z</updated>
-        <summary type="html"><![CDATA[Building by MOSAO]]></summary>
+        <title type="html"><![CDATA[Curvature of Silence]]></title>
+        <id>1x-3554250</id>
+        <link href="https://1x.com/photo/3554250"/>
+        <updated>2026-04-25T18:58:46.578Z</updated>
+        <summary type="html"><![CDATA[Curvature of Silence by Toshinari Asakura]]></summary>
         <author>
-            <name>MOSAO</name>
+            <name>Toshinari Asakura</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A morning at Bharatpur bird sanctuary.]]></title>
-        <id>1x-3557708</id>
-        <link href="https://1x.com/photo/3557708"/>
-        <updated>2026-04-25T13:12:37.134Z</updated>
-        <summary type="html"><![CDATA[A morning at Bharatpur bird sanctuary. by Shobhit Chawla]]></summary>
+        <title type="html"><![CDATA[Long-tailed tit]]></title>
+        <id>1x-3557969</id>
+        <link href="https://1x.com/photo/3557969"/>
+        <updated>2026-04-25T18:58:46.570Z</updated>
+        <summary type="html"><![CDATA[Long-tailed tit by Annie Keizer]]></summary>
         <author>
-            <name>Shobhit Chawla</name>
+            <name>Annie Keizer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the platform]]></title>
-        <id>1x-3557291</id>
-        <link href="https://1x.com/photo/3557291"/>
-        <updated>2026-04-25T13:12:37.122Z</updated>
-        <summary type="html"><![CDATA[On the platform by Jose C. Lobato]]></summary>
+        <title type="html"><![CDATA[2025_09]]></title>
+        <id>1x-3557287</id>
+        <link href="https://1x.com/photo/3557287"/>
+        <updated>2026-04-25T18:58:46.565Z</updated>
+        <summary type="html"><![CDATA[2025_09 by Rainer Neumann]]></summary>
         <author>
-            <name>Jose C. Lobato</name>
+            <name>Rainer Neumann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One arm stretched straight out]]></title>
-        <id>1x-3557883</id>
-        <link href="https://1x.com/photo/3557883"/>
-        <updated>2026-04-25T13:12:37.117Z</updated>
-        <summary type="html"><![CDATA[One arm stretched straight out by Offer Ellbogen]]></summary>
+        <title type="html"><![CDATA[Traditional Charcoal Factory]]></title>
+        <id>1x-3553802</id>
+        <link href="https://1x.com/photo/3553802"/>
+        <updated>2026-04-25T18:58:46.561Z</updated>
+        <summary type="html"><![CDATA[Traditional Charcoal Factory by Albert Lim]]></summary>
         <author>
-            <name>Offer Ellbogen</name>
+            <name>Albert Lim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3558163</id>
-        <link href="https://1x.com/photo/3558163"/>
-        <updated>2026-04-25T13:12:37.111Z</updated>
-        <summary type="html"><![CDATA[Untitled by Giorgio Toniolo]]></summary>
+        <title type="html"><![CDATA[Suspended Harvest]]></title>
+        <id>1x-3557978</id>
+        <link href="https://1x.com/photo/3557978"/>
+        <updated>2026-04-25T18:58:46.550Z</updated>
+        <summary type="html"><![CDATA[Suspended Harvest by PDB Meegolla]]></summary>
         <author>
-            <name>Giorgio Toniolo</name>
+            <name>PDB Meegolla</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rocks & man]]></title>
-        <id>1x-3557842</id>
-        <link href="https://1x.com/photo/3557842"/>
-        <updated>2026-04-25T13:12:37.016Z</updated>
-        <summary type="html"><![CDATA[Rocks & man by Kong Wei]]></summary>
+        <title type="html"><![CDATA[Stain]]></title>
+        <id>1x-3552502</id>
+        <link href="https://1x.com/photo/3552502"/>
+        <updated>2026-04-25T18:58:46.540Z</updated>
+        <summary type="html"><![CDATA[Stain by Swen MUN]]></summary>
         <author>
-            <name>Kong Wei</name>
+            <name>Swen MUN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cascading Waves]]></title>
-        <id>1x-3557306</id>
-        <link href="https://1x.com/photo/3557306"/>
-        <updated>2026-04-25T13:12:37.001Z</updated>
-        <summary type="html"><![CDATA[Cascading Waves by joy pingwei pan]]></summary>
+        <title type="html"><![CDATA[Bridal 22]]></title>
+        <id>1x-3557903</id>
+        <link href="https://1x.com/photo/3557903"/>
+        <updated>2026-04-25T18:58:46.533Z</updated>
+        <summary type="html"><![CDATA[Bridal 22 by Radu Badea]]></summary>
         <author>
-            <name>joy pingwei pan</name>
+            <name>Radu Badea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sun]]></title>
-        <id>1x-3558291</id>
-        <link href="https://1x.com/photo/3558291"/>
-        <updated>2026-04-25T13:12:36.989Z</updated>
-        <summary type="html"><![CDATA[Sun by Simon]]></summary>
+        <title type="html"><![CDATA[Stop]]></title>
+        <id>1x-3558011</id>
+        <link href="https://1x.com/photo/3558011"/>
+        <updated>2026-04-25T18:58:46.528Z</updated>
+        <summary type="html"><![CDATA[Stop by Normunds Kaprano]]></summary>
         <author>
-            <name>Simon</name>
+            <name>Normunds Kaprano</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lavender Reverie]]></title>
-        <id>1x-3557715</id>
-        <link href="https://1x.com/photo/3557715"/>
-        <updated>2026-04-25T13:12:36.983Z</updated>
-        <summary type="html"><![CDATA[Lavender Reverie by Lius Siong]]></summary>
+        <title type="html"><![CDATA[Female Painted Bunting]]></title>
+        <id>1x-3541235</id>
+        <link href="https://1x.com/photo/3541235"/>
+        <updated>2026-04-25T18:58:46.521Z</updated>
+        <summary type="html"><![CDATA[Female Painted Bunting by David W Sussman]]></summary>
         <author>
-            <name>Lius Siong</name>
+            <name>David W Sussman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3557518</id>
-        <link href="https://1x.com/photo/3557518"/>
-        <updated>2026-04-25T13:12:36.974Z</updated>
-        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
+        <title type="html"><![CDATA[Unbound]]></title>
+        <id>1x-3547800</id>
+        <link href="https://1x.com/photo/3547800"/>
+        <updated>2026-04-25T18:58:46.510Z</updated>
+        <summary type="html"><![CDATA[Unbound by Hiro Tanaka]]></summary>
         <author>
-            <name>Karim Al Thahaby</name>
+            <name>Hiro Tanaka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Ready]]></title>
-        <id>1x-3556415</id>
-        <link href="https://1x.com/photo/3556415"/>
-        <updated>2026-04-25T13:12:36.880Z</updated>
-        <summary type="html"><![CDATA[Getting Ready by DonnaHom APA]]></summary>
+        <title type="html"><![CDATA[Light Through Stillness]]></title>
+        <id>1x-3557047</id>
+        <link href="https://1x.com/photo/3557047"/>
+        <updated>2026-04-25T18:58:46.495Z</updated>
+        <summary type="html"><![CDATA[Light Through Stillness by Tom Pavlasek]]></summary>
         <author>
-            <name>DonnaHom APA</name>
+            <name>Tom Pavlasek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aika]]></title>
-        <id>1x-3557840</id>
-        <link href="https://1x.com/photo/3557840"/>
-        <updated>2026-04-25T13:12:36.858Z</updated>
-        <summary type="html"><![CDATA[Aika by Kazuyoshi Kawashima]]></summary>
+        <title type="html"><![CDATA[Do we know each other?]]></title>
+        <id>1x-3556895</id>
+        <link href="https://1x.com/photo/3556895"/>
+        <updated>2026-04-25T18:58:46.482Z</updated>
+        <summary type="html"><![CDATA[Do we know each other? by Norbert Maier]]></summary>
         <author>
-            <name>Kazuyoshi Kawashima</name>
+            <name>Norbert Maier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3557829</id>
-        <link href="https://1x.com/photo/3557829"/>
-        <updated>2026-04-25T13:12:36.850Z</updated>
-        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
+        <title type="html"><![CDATA[Hunter]]></title>
+        <id>1x-3558114</id>
+        <link href="https://1x.com/photo/3558114"/>
+        <updated>2026-04-25T18:58:46.471Z</updated>
+        <summary type="html"><![CDATA[Hunter by Olga Rudchenko]]></summary>
         <author>
-            <name>Atsuyuki Watanabe</name>
+            <name>Olga Rudchenko</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alignment]]></title>
-        <id>1x-3556464</id>
-        <link href="https://1x.com/photo/3556464"/>
-        <updated>2026-04-25T13:12:36.836Z</updated>
-        <summary type="html"><![CDATA[Alignment by 3san_mountain]]></summary>
+        <title type="html"><![CDATA[Ladybug]]></title>
+        <id>1x-3556864</id>
+        <link href="https://1x.com/photo/3556864"/>
+        <updated>2026-04-25T18:58:46.288Z</updated>
+        <summary type="html"><![CDATA[Ladybug by Ryo Iura]]></summary>
         <author>
-            <name>3san_mountain</name>
+            <name>Ryo Iura</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Silence Leads]]></title>
-        <id>1x-3557826</id>
-        <link href="https://1x.com/photo/3557826"/>
-        <updated>2026-04-25T13:12:36.826Z</updated>
-        <summary type="html"><![CDATA[Where Silence Leads by Hinata Takahashi]]></summary>
+        <title type="html"><![CDATA[American classic car 1956 headlight grille]]></title>
+        <id>1x-3558078</id>
+        <link href="https://1x.com/photo/3558078"/>
+        <updated>2026-04-25T18:58:46.280Z</updated>
+        <summary type="html"><![CDATA[American classic car 1956 headlight grille by Beate Gube]]></summary>
         <author>
-            <name>Hinata Takahashi</name>
+            <name>Beate Gube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yotsuya 4-chome]]></title>
-        <id>1x-3557551</id>
-        <link href="https://1x.com/photo/3557551"/>
-        <updated>2026-04-25T13:12:36.810Z</updated>
-        <summary type="html"><![CDATA[Yotsuya 4-chome by 中林　光次]]></summary>
+        <title type="html"><![CDATA[Appetizers!]]></title>
+        <id>1x-3558219</id>
+        <link href="https://1x.com/photo/3558219"/>
+        <updated>2026-04-25T18:58:46.262Z</updated>
+        <summary type="html"><![CDATA[Appetizers! by Massimo Chiodini]]></summary>
         <author>
-            <name>中林 光次</name>
+            <name>Massimo Chiodini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报伊朗谈判立场更强硬 表明须采伊方条件才可结束战争]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953034</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953034"/>
+        <updated>2026-04-25T16:05:47.000Z</updated>
+        <summary type="html"><![CDATA[（伊斯兰堡／华盛顿综合电）美国和伊朗星期六通过巴基斯坦展开间接谈判。据报道，德黑兰展示了比第一轮谈判更强硬的立场，宣称谈判必须按照它的而不是华盛顿的条件进行，战争才有望结束。
+有分析指，伊朗领导层对谈判条件有分歧，强硬派坚持不做出退让，或已使美伊更难推进谈判，通过外交途径结束战争。
+伊朗外长阿拉格齐星期六（4月25日）在伊斯兰堡同巴基斯坦总理谢里夫和陆军参谋长穆尼尔会谈。路透社报道，阿拉格齐向斡旋方传达了德黑兰的谈判条件，并对美方的条件持保留态度。
+新华社引述巴基斯坦消息来源报道，与第一轮谈判相比，伊朗此次立场更为强硬，强调任何停战方案都必须按照它的条件拟定，而不是依照美国总统特朗普的条件。
+白宫早前宣布，特朗普的总统特使威特科夫和女婿库什纳星期六会动身前往伊斯兰堡；但据福克斯新闻周六报道，特朗普已取消威特科夫和库什纳的巴基斯坦之行。 
+《华尔街日报》报道，阿拉格齐当天已离开巴基斯坦前往阿曼。不过巴基斯坦消息后来透露，如果相关接触进展顺利，阿拉格齐之后或返回伊斯兰堡。 
+
+伊朗恫言报复美军封锁伊朗海运
+
+伊朗军方也摆出强硬姿态，恫言对美军在霍尔木兹海峡封锁伊朗海运采取反制行动。伊朗武装部队中央总部发言人说：“如果美军继续在区域实施封锁、抢劫和海盗行为，必将面临伊朗强大武装力量的回应。”
+德黑兰也再度宣称完全掌控霍尔木兹海峡主权。新华社报道，伊朗伊斯兰议会议员赛义迪当天接受迈赫尔通讯社访问时说，德黑兰已就管理海峡拟定了综合方案，在那里航行的船只须有伊朗许可，若被认定为敌国船只则不得通过，以色列的船只更是绝对禁止。获准通过的船只须就安全、环境保护、航运管理、许可发放等付费。
+在雅典访问的法国总统马克龙则重申，法国与盟友专注于争取霍尔木兹海峡重开，显然试图安抚备受波斯湾原油阻断打击的全球能源市场。 
+马克龙在与希腊总理米佐塔基斯联合召开的记者会上说：“我们的目标是在未来几天和几周，让霍尔木兹海峡按照国际法保障航行自由，且不收费的情况下，获得全面重开。” 
+
+《华尔街日报》：伊朗内部分歧让美伊更难推进谈判
+
+《华尔街日报》星期五（24日）引述消息报道，伊朗领导人之间针对与美国谈判时应给予多大的让步空间看法不一，内部冲突已浮出台面。
+知情者说，伊朗的内部分歧早在4月初首轮会谈时已显露无遗，当美国追问伊朗愿意讨论的问题细节时，伊方含糊其辞。
+据报，强硬派领袖与更关注重建经济的其他高层就谈判问题陷入了拉锯。强硬派不断向谈判代表施压，力主不对美国妥协，这些内部分歧已让美伊谈判更难推进。
+极端保守派国会议员纳巴维安几天前就在媒体访问中，批评国会议长卡利巴夫在首轮会谈中犯下“战略失误”，不应当与美方探讨核问题，“导致敌人更大胆”。
+知情者还说，革命卫队新任总司令瓦希迪也反对向美方过于让步。
+美国田纳西大学的伊朗安全部队专家戈尔卡向《华尔街日报》分析，伊朗内部各个权力中心都试图在任何正式会谈举行前争取更有利的条件。“他们正在上演抗拒谈判，以增加谈判筹码。”
+不过，以色列国家安全研究所的伊朗问题研究主管齐米特认为，伊朗政权极不受民众欢迎，如果让内部分裂的印象定型，将打击它在国内的气势。
+齐米特说，伊朗如今缺乏一个强有力、能做艰难抉择并能承担风险的领袖，这不利于它的内部团结。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰：中东部遭俄袭击 数十人死伤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260426-8953306</id>
+        <link href="https://www.zaobao.com/news/world/story20260426-8953306"/>
+        <updated>2026-04-25T16:01:50.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰总统泽连斯基说，俄罗斯对乌克兰中东部第聂伯罗彼得罗夫斯克州发动多轮大规模空袭，导致数十人死伤。
+泽连斯基星期六（4月25日）在社交媒体发布消息称，俄军24日晚至25日白天使用导弹和无人机对第聂伯罗彼得罗夫斯克州多次发动大规模袭击，袭击目标包括能源设施和居民楼等民用目标，共导致五人死亡、40多人受伤，另有两人失踪。搜救行动仍在进行中。
+新华社引述第聂伯罗彼得罗夫斯克州军事管理局局长甘贾在社交媒体发布的消息说，俄军的大规模袭击导致五人死亡、46人受伤，其中五名伤者为儿童。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长离开伊斯兰堡 特朗普取消美国代表团行程]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953246</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953246"/>
+        <updated>2026-04-25T15:33:04.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐已经离开伊斯兰堡。他于星期五（4月24日）抵达，与巴基斯坦高级官员举行会谈，讨论与美国进行的和平谈判。
+法新社报道，两周前，华盛顿和德黑兰在巴基斯坦首都举行了首轮直接会谈，此前双方就美国和以色列对伊战争达成了临时停火协议。但双方尚未举行第二轮会谈。
+新华社引述巴基斯坦消息人士说，如果相关接触进展顺利，阿拉格齐或在未来率团返回巴首都伊斯兰堡。
+美国总统特使威特科夫和总统女婿库什纳原本预计将很快抵达伊斯兰堡。据美国媒体报道，美国总统特朗普称，已取消威特科夫和库什纳前往巴基斯坦与伊朗谈判的行程。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗议员：已拟定管理霍尔木兹海峡综合方案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953213</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953213"/>
+        <updated>2026-04-25T15:17:58.000Z</updated>
+        <summary type="html"><![CDATA[据伊朗迈赫尔通讯社报道，伊朗议会议员贝赫纳姆·赛义迪说，伊朗已就管理霍尔木兹海峡形成一个综合方案。
+伊朗迈赫尔通讯社星期六（4月25日）报道，赛义迪在接受通讯社采访时说，方案的一项重要内容是，在所有信函和商业文件中，仅承认“波斯湾”这个名称，不接受任何其他名称。区域内航行的船舶和舰艇必须获得伊朗的许可。霍尔木兹海峡的主权将完全掌握在伊朗手中。
+新华社引述报道说，赛义迪还说，伊最高国家安全委员会或武装部队总参谋部认定为敌对国家的船只不得通过霍尔木兹海峡，以色列船只绝对禁止通过该区域。通过该区域的船只须就安全、环境保护、航运管理、许可发放等事项缴纳相关费用，且优先以里亚尔支付。
+对于给伊朗造成损失的国家，赛义迪说，相关国家必须先与伊朗就赔偿方式达成协议，伊方才会向其船只发放通行许可。
+他透露，方案已提交伊朗伊斯兰议会国家安全委员会，一旦议会全体会议恢复，该方案将提交议长团，并在全体会议上进行审议。方案也可能通过最高国家安全委员会批准并发布。
+伊朗国防部：敌人试图体面逃离战争泥潭
+
+另据伊朗学生通讯社报道，伊朗国防部发言人指出，敌人正试图体面地逃离战争泥潭。
+发言人说，伊朗军队如今是主导力量，敌人正试图体面地从其深陷的战争泥潭中逃离，他们摧毁伊朗导弹和军事力量的企图已完全失败，霍尔木兹海峡已处于伊朗强大控制之下。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长与巴基斯坦总理会谈 重申伊朗停火原则]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953176</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953176"/>
+        <updated>2026-04-25T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐在巴基斯坦首都伊斯兰堡与巴基斯坦总理谢里夫举行会谈，再次阐明伊朗有关停火和彻底结束战事的原则立场。
+伊朗外交部星期六（4月25日）在社交媒体上发表声明说，双方讨论了各领域双边关系与合作以及地区和国际形势。阿拉格齐赞赏巴基斯坦为结束战争、促成停火所作辛勤努力，强调巴基斯坦在伊朗外交政策和关系中的特殊地位，并表示将进一步发展两国关系。
+新华社引述声明说，阿拉格齐还提及以色列在巴勒斯坦犯下的罪行以及对黎巴嫩领土和国家主权的侵犯。他赞赏巴基斯坦支持巴勒斯坦人民的立场，以及为落实黎以停火所作努力。
+谢里夫说，两国将继续加强双边关系，在多边层面和国际组织中加强协调与合作。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本北部山火肆虐 3000余人撤离]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8953077</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8953077"/>
+        <updated>2026-04-25T14:25:50.000Z</updated>
+        <summary type="html"><![CDATA[日本北部千余名消防员连续第四天奋力扑救两处山火，火势逼近居民区，迫使3000余名居民撤离。
+近年来日本森林火灾频发。路透社报道，此次山火过火面积累计达到日本有记录以来的第三大。
+第一处山火于星期三（4月22日）在山区燃起，随后附近第二处山火逼近岩手县大槌町（Otsuchi）的居民区。
+一名消防部门官员星期六（4月25日）告诉记者，丘陵地形、干燥天气和大风阻碍了灭火工作。
+截至星期六，火灾已烧毁约730公顷（1800英亩）土地，导致1541户家庭、3233人（约占大槌町人口的三分之一）紧急疏散。
+2011年3月，地震和海啸夺去了大槌町近十分之一人口的生命，给这座小镇留下了难以磨灭的伤痕。
+疏散工作星期五展开，曾是护士的76岁居民梶木妙子说：“即使在2011年的灾难中，这片区域也没有烧毁。当时发生了海啸，但我们这里没有发生火灾。”
+她说她整夜没睡，一直盯着熊熊燃烧的火焰，并把银行存折、医疗卡以及自2010年以来一直养着的宠物龟都打包带走了。
+地面消防员得到了来自多个县和日本自卫队的直升机支援，这些直升机进行了空中洒水作业，试图阻止火势蔓延。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泽连斯基访阿塞拜疆 签署安全与能源合作协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952987</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952987"/>
+        <updated>2026-04-25T13:54:57.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰总统泽连斯基同阿塞拜疆总统阿利耶夫签署了安全和能源合作协议。基辅方面希望它在抵御俄罗斯侵犯领空方面的经验能发挥作用。
+路透社报道，泽连斯基星期六（4月25日）在阿塞拜疆首都巴库说，两国签署了一项关于军事工业合作的协议。
+阿利耶夫说，两国之间的军事工业合作具有“广泛前景”，两位领导人讨论了联合国防生产。但他没有具体说明是否签署了任何协议。
+自2月底美国和以色列空袭伊朗以来，中东地区爆发了新一轮冲突。此后，多个国家寻求乌克兰的帮助和专业知识，以击落伊朗的远程无人机。
+乌克兰已与多个欧洲盟国达成协议或实施了联合武器生产计划。
+泽连斯基还寻求重启与俄罗斯的和平谈判。此前，这些谈判由美国斡旋，但随着美国将更多精力投入到对伊朗的军事行动中，谈判一度陷入停滞。
+这位乌克兰领导人说，他已与阿利耶夫讨论了在阿塞拜疆举行乌克兰与俄罗斯会晤的可能性。他说：“如果俄罗斯愿意进行外交斡旋，我们已准备好在阿塞拜疆举行下一轮会谈。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东战火催生美出口盛世 石油危机催促能源转型]]></title>
+        <id>https://www.zaobao.com/news/world/story20260425-8952203</id>
+        <link href="https://www.zaobao.com/news/world/story20260425-8952203"/>
+        <updated>2026-04-25T13:05:52.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合讯）中东战事导致霍尔木兹海峡航运阻断，严重影响波斯湾的石油运输，亚洲与欧洲国家纷纷转向美国寻找替代货源。这股抢购潮推动美国原油与石油产品出口创下历史新高，也巩固美国作为全球能源出口强国的地位。
+根据美国能源信息署的最新数据，美国上周原油和石油产品出口量攀升至每日近1290万桶。船舶追踪公司Kpler的数据显示，美国液化天然气出口上个月刷新纪录。
+目前，这股能源抢购潮尚无放缓迹象。截至本星期三（4月22日），有60多艘空舱超级油轮驶向美国的墨西哥湾沿岸，数量约为往常水平的两倍，显示美国能源出口在未来数月还会进一步上升。
+
+亚欧市场仍面临基建与政治挑战
+
+尽管需求炽热，但能源专家指出，美国要将这波“战时红利”转化为长期增长，仍面临瓶颈和局限。
+首先是基础设施错配。亚洲各国主要依赖中东石油，因此炼油厂大多为处理较稠重、含硫量较高的中东原油而设计，而不适合美国的轻质原油。不同类型原油需不同的加工设施，否则难以充分提炼出高价值燃料，也影响炼油效率和利润。
+牛津能源研究所研究员巴克希指出，为了匹配油种和设施，炼油厂须进行技术改造，但代价很高，“须数月做工程调整，数年才可能全面实施”。
+另一问题是，欧洲对于依赖美国能源的政治忧虑日益加深。随着美国总统特朗普与欧洲领导人的关系日益紧张，一些国家担心能源供应可能沦为外交谈判筹码。
+欧亚集团能源董事总经理格洛伊斯坦认为，欧洲国家担心美国会滥用这种供应依赖，在气候政策、北约事务、安全合作与关税议题上争取优势。
+
+美国能源缓解紧缺但难填满缺口
+
+目前，霍尔木兹海峡运输受阻导致每日超过1000万桶原油和石油产品滞留，占全球供应约一成。虽然美国能源出口增加有助于缓解航空燃料和民生燃料的供应紧缺，但还无法完全弥补海峡受阻造成的供应缺口。
+其实，美国的出口能力已接近瓶颈。得克萨斯州和路易斯安那州的主要出口设施已接近装载极限。墨西哥湾沿岸一个新的液化天然气码头虽然已在日前发出首批货物，但预计要到明年才能全面运作。
+然而，一旦中东局势回稳、霍尔木兹海峡重开，美国石油是否还能这么吃香就难说了。东京笹川和平基金会高级研究员渡边恒雄认为，到那时候，“美国的石油和天然气就不再那么有吸引力了”。
+
+国际能源署：石油危机加速能源转型
+
+另一方面，专家指出，这场由美伊战争触发的石油危机已永久改变化石燃料市场生态，促使各国为保障能源供应而逐步舍弃化石燃料。
+国际能源署署长比罗尔接受英国《卫报》采访时指出，各国对风险与供应可靠性的认知会改变，政府将重新审视能源战略。可再生能源、核能以及电气化发展预计将明显提速，这终究会侵蚀石油市场。
+他警告，若化石燃料价格持续高企，一些发展中国家可能转向煤炭。不过，随着太阳能成本竞争力上升、增长更快，可再生能源仍是更具吸引力的长期选择。他说，开发可再生能源是“我从未听说有人后悔”的选择。 
+包括英国、欧盟、各主要产油国和数十个发展中国家的50多个国家政府，下周将在哥伦比亚召开首个全球化石燃料转型国际会议，讨论如何应对石油危机与推动能源转型。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -371,7 +527,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超加工食品摄入量增加10% 专注力表现将下降]]></title>
+        <title type="html"><![CDATA[研究：每天多吃一包薯片 超加工食品削弱专注力]]></title>
         <id>https://www.zaobao.com/news/world/story20260425-8951684</id>
         <link href="https://www.zaobao.com/news/world/story20260425-8951684"/>
         <updated>2026-04-25T07:27:49.000Z</updated>
@@ -457,128 +613,6 @@
 伊朗总统佩泽希齐扬去年12月宣布，第七届里海峰会定2026年8月12日在德黑兰举行。
 里海峰会是一个高级别谈判平台，参会者包括俄罗斯、伊朗、阿塞拜疆、哈萨克斯坦、土库曼斯坦五国领导人。
 “里海五国”是指环绕世界最大内陆咸水湖里海的五个沿岸国家。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马杜罗下台后委内瑞拉首迎外宾 与哥伦比亚合作打击黑帮]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8951110</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8951110"/>
-        <updated>2026-04-25T04:50:36.000Z</updated>
-        <summary type="html"><![CDATA[委内瑞拉代总统罗德里格斯星期五（4月24日）与到访加拉加斯的哥伦比亚总统佩特罗承诺开展军事合作，联手打击活跃于两国边境的“黑帮”。
-法新社报道，佩特罗是委内瑞拉原总统马杜罗被美国发起的军事行动强行控制并带到美国后，首位访问委内瑞拉的外国领导人。
-佩特罗说，哥伦比亚和委内瑞拉的联合军事行动，旨在“将边境地区从黑手党手中解放出来”，这些非法活动包括走私可卡因、非法黄金、人口贩运、稀有矿产。
-罗德里格斯说：“两国已着手制定军事计划，并立即建立信息共享和情报收集机制。”
-委内瑞拉外交部说，佩特罗此访主要目的是深化两国共同关心领域的合作机制，并重申两国人民之间的兄弟情谊。
-此访正值两国睦邻和双边一体化委员会第三次会议23日至24日在委内瑞拉召开，会议旨在加强区域一体化，促进两国经贸联系。
-罗德里格斯原计划将哥伦比亚作为首次出访对象国，定于3月13日在哥伦比亚边境城市库库塔与佩特罗举行会晤。
-双方原拟讨论边境安全议题，包括打击与毒品走私相关的非法武装团体活动，以及哥伦比亚从委内瑞拉进口天然气的可能性。但两国政府3月12日发表声明，宣布因“不可抗力”临时取消13日的会晤，双方均未说明具体原因。
-4月9日，罗德里格斯访问了加勒比岛国格林纳达。这是她1月初就任代总统以来首次出访。
-今年1月3日，美军闪电突袭加拉加斯，控制了马杜罗和他的夫人，并将两人押往纽约接受毒品走私指控。罗德里格斯随后接管委内瑞拉政权。
-美国总统特朗普支持罗德里格斯的临时政府，临时政府向美国公司开放了委内瑞拉的石油行业。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联黎部队一印尼维和人员不治身亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950927</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950927"/>
-        <updated>2026-04-25T03:59:18.000Z</updated>
-        <summary type="html"><![CDATA[联合国秘书长发言人说，在联合国驻黎巴嫩临时部队（联黎部队）服役的一名印度尼西亚士兵星期五（4月24日）不治身亡。近期在黎南部遇袭身亡的联黎部队维和人员人数已上升至六人，另有多人受伤。
-新华社报道，联合国秘书长古特雷斯的发言人迪雅里克在24日的记者会说，这位名叫里科（Rico Pramudya）的印尼士兵在3月29日受伤。当时联黎部队位于黎巴嫩南部的一个阵地遭到炮火袭击。
-迪雅里克强调，此类事件令人无法接受，必须停止。
-根据国际法，针对联合国维和人员的袭击可能构成战争罪。联合国已要求有关各方确保这些事件得到调查，并适时提起诉讼，将肇事者绳之以法。
-古特雷斯向普拉穆迪亚的家人、朋友和同事，以及印尼政府和人民致以最深切的慰问。他也再次呼吁各方履行在国际人道主义法下的义务，确保联合国人员的安全，并始终保障联合国财产和资产不受侵犯。
-黎巴嫩与以色列3月初战火重燃以来，联黎部队多次遇袭。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国拦截一艘悬挂伊朗国旗船只]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950788</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950788"/>
-        <updated>2026-04-25T03:34:16.000Z</updated>
-        <summary type="html"><![CDATA[美国军舰拦截了一艘悬挂伊朗国旗船只。
-美国中央司令部星期五（4月24日）在X平台说，美国驱逐舰“拉斐尔·佩拉尔塔”号（USS Rafael Peralta）在执行对伊朗港口封锁任务时，拦截了一艘悬挂伊朗国旗、试图驶往伊朗某港口的船只。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国多州报告与家禽相关的沙门氏菌感染病例]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950850</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950850"/>
-        <updated>2026-04-25T03:31:46.000Z</updated>
-        <summary type="html"><![CDATA[美国已有13个州报告与家禽相关的沙门氏菌感染病例。
-新华社报道，美国疾病控制与预防中心（CDC）星期四（4月23日）通报，来自13个州的34人因感染同一种沙门氏菌（Salmonella）菌株而患病，其中13人住院，目前尚无死亡病例报告。美疾控中心正与各州公共卫生部门开展联合调查。
-美疾控中心说，鸡鸭等可家庭饲养的禽类即使看起来健康，也可能携带沙门氏菌。人接触家禽或家禽生活环境中的物品后，如未洗手便触碰口鼻或食物，可能导致沙门氏菌进入体内而感染。
-美疾控中心提醒公众，在接触禽类、相关饲养用具或收集禽蛋后务必洗手；应将禽类及饲养用具置于室外，以防病菌传播；5岁以下儿童不应接触禽类及禽类活动区域的物品。
-沙门氏菌广泛存在于家养和野生动物中，常通过受污染的食物感染人类。据美疾控中心介绍，人类感染沙门氏菌的症状通常包括腹泻、发烧、胃痉挛等，症状一般在接触病菌六小时至六天内出现。大多数患者可在四至七天内自愈，但儿童、老人、免疫力低下人群更易出现重症。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国确认对福克兰群岛主权问题保持中立]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950655</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950655"/>
-        <updated>2026-04-25T02:17:07.000Z</updated>
-        <summary type="html"><![CDATA[美国国务院确认，美国在英国与阿根廷长期存在争议的福克兰群岛主权问题上持中立立场。 
-法新社报道，美国国务院发言人星期五（4月24日）说：“我们对福克兰群岛主权的立场始终保持中立。我们承认阿根廷和英国对此群岛存在相互冲突的主权主张。”
-他也补充说，美国承认英国实际上拥有福克兰群岛的管辖权，但不在主权问题上选边站。
-路透社报道，美国五角大楼在一封内部邮件中建议，重新审视美国对福克兰群岛主权的立场，以此惩罚英国对伊朗战争的立场。
-英国首相斯塔默的发言人24日说，福克兰群岛的主权属于英国，并“向美国历届政府明确且始终如一地”表达这一立场。
-福克兰群岛（阿根廷称马尔维纳斯群岛）目前由英国实际管辖和控制，属于英国海外领土，享有自治权。但阿根廷长期声称拥有福克兰群岛的主权。
-1982年，阿根廷试图攻占福克兰群岛但未成功，英国和阿根廷爆发了一场短暂的战争，约650名阿根廷军人和255名英国军人阵亡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国向美国表明 福克兰群岛主权属于英国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950447</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950447"/>
-        <updated>2026-04-25T01:30:41.000Z</updated>
-        <summary type="html"><![CDATA[英国首相斯塔默的发言人说，福克兰群岛的主权属于英国，并向历届美国政府明确表达这一立场。
-路透社报道，美国五角大楼在一封内部邮件中建议，重新审视美国对福克兰群岛主权的立场，以此惩罚英国对伊朗战争的立场。
-福克兰群岛（阿根廷称马尔维纳斯群岛）目前由英国实际管辖和控制，属于英国海外领土，享有自治权。但阿根廷长期声称拥有福克兰群岛的主权。
-斯塔默的发言人星期五（4月24日）对媒体说：“英国对福克兰群岛的立场再清楚不过。我们的立场由来已久，从未改变。”
-发言人说：“主权归英国所有，岛民自决权至关重要。这是我们的一贯立场，没有改变。”他还补充说，英国“向美国历届政府明确且始终如一地”表达这一立场。
-特朗普政府认为一些北约盟友未支持美国的伊朗战争行动，五角大楼在电邮中概述了美国惩罚这些北约盟友的选项，包括考虑重新评估美国对欧洲长期“帝国属地”的外交支持，例如位于阿根廷附近的福克兰群岛。
-当被问及斯塔默是否认为这是美国试图向他施压，迫使他加入伊朗战争，发言人说：“斯塔默已谈过这个问题，也说过这种压力不会影响他，他将永远以国家利益为重。”
-阿根廷外交部长基尔诺就相关报道作出回应，重申阿根廷愿与英国重启双边谈判，以寻求“和平且最终的解决方案”。
-基尔诺将福克兰群岛目前的状况描述为“殖民状态”，并对国际社会支持阿根廷的主权声索表示感谢。
-基尔诺在X平台说：“无论从历史、权利还是信念来看，马尔维纳斯群岛都是属于阿根廷的。”
-1982年，阿根廷试图攻占福克兰群岛但未成功，英国和阿根廷爆发了一场短暂的战争，约650名阿根廷军人和255名英国军人阵亡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗议会否认卡利巴夫辞去谈判代表团团长职务]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950348</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950348"/>
-        <updated>2026-04-25T00:21:12.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰议会否认议长卡利巴夫辞去伊美谈判伊方代表团团长职务。
-伊朗伊斯兰共和国通讯社报道，伊朗议会媒体办公室负责人星期五（4月24日）说：“流传的谣言只是为了扰乱公众视听，卡利巴夫正认真履职。”
-伊朗外交部长阿拉格齐24日晚抵达巴基斯坦首都伊斯兰堡，开始对巴基斯坦、阿曼、俄罗斯三国的访问行程。美国白宫同一天确认，特朗普总统的特使威特科夫和女婿库什纳25日启程赴巴基斯坦，听取伊方提案。而伊朗外交部发言人25日凌晨在X平台说，伊美双方没有计划在巴基斯坦会晤，伊朗将通过巴基斯坦官员传达立场。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗议会要员：核问题是伊朗红线 外长访巴不涉核谈]]></title>
-        <id>https://www.zaobao.com/news/world/story20260425-8950322</id>
-        <link href="https://www.zaobao.com/news/world/story20260425-8950322"/>
-        <updated>2026-04-25T00:07:54.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰议会国家安全和外交政策委员会主席阿齐兹说，伊朗外交部长阿拉格齐访问巴基斯坦仅为讨论双边关系，并未获授权处理任何与核谈判相关事宜。
-新华社报道，阿齐兹星期六（4月25日）凌晨在社交媒体发文说，核问题仍是伊朗坚守的红线之一。
-伊朗外交部发言人巴加埃稍早时候说，阿拉格齐访巴期间，将同巴方高级官员围绕巴方为结束美国和以色列强加于伊朗的战争、在本地区实现和平的斡旋努力进行磋商，没有与美方会晤的计划，将经由巴方向美方转达伊方的意见和考量。
-阿拉格齐24日晚抵达巴基斯坦首都伊斯兰堡，开始对巴基斯坦、阿曼、俄罗斯三国的访问行程。
-美国白宫同一天确认，特朗普总统的特使威特科夫和女婿库什纳25日启程赴巴基斯坦，听取伊方提案。白宫新闻秘书莱维特说，美国首席谈判代表、副总统万斯“处于待命状态，如有必要，他愿意前往巴基斯坦。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
