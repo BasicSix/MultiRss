@@ -2,198 +2,377 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T03:28:46.662Z</updated>
+    <updated>2026-04-27T08:32:56.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Balanced in Silence]]></title>
-        <id>1x-3557730</id>
-        <link href="https://1x.com/photo/3557730"/>
-        <updated>2026-04-27T03:28:02.759Z</updated>
-        <summary type="html"><![CDATA[Balanced in Silence by Robert Zhang]]></summary>
+        <title type="html"><![CDATA[Sitting on the Stone Edge]]></title>
+        <id>1x-3559797</id>
+        <link href="https://1x.com/photo/3559797"/>
+        <updated>2026-04-27T08:32:15.544Z</updated>
+        <summary type="html"><![CDATA[Sitting on the Stone Edge by Uryutalk]]></summary>
         <author>
-            <name>Robert Zhang</name>
+            <name>Uryutalk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tidal Tree 7]]></title>
-        <id>1x-3560578</id>
-        <link href="https://1x.com/photo/3560578"/>
-        <updated>2026-04-27T03:28:02.756Z</updated>
-        <summary type="html"><![CDATA[Tidal Tree 7 by Huabing Ye]]></summary>
+        <title type="html"><![CDATA[Quiet light]]></title>
+        <id>1x-3554606</id>
+        <link href="https://1x.com/photo/3554606"/>
+        <updated>2026-04-27T08:32:15.533Z</updated>
+        <summary type="html"><![CDATA[Quiet light by Eiji Yamamoto]]></summary>
         <author>
-            <name>Huabing Ye</name>
+            <name>Eiji Yamamoto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old and lonely but beautiful]]></title>
-        <id>1x-3560044</id>
-        <link href="https://1x.com/photo/3560044"/>
-        <updated>2026-04-27T03:28:02.748Z</updated>
-        <summary type="html"><![CDATA[Old and lonely but beautiful by Viggo Strand Kristiansen]]></summary>
+        <title type="html"><![CDATA[Still Hope]]></title>
+        <id>1x-3560139</id>
+        <link href="https://1x.com/photo/3560139"/>
+        <updated>2026-04-27T08:32:15.529Z</updated>
+        <summary type="html"><![CDATA[Still Hope by meix]]></summary>
         <author>
-            <name>Viggo Strand Kristiansen</name>
+            <name>meix</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ramonica]]></title>
-        <id>1x-3527421</id>
-        <link href="https://1x.com/photo/3527421"/>
-        <updated>2026-04-27T03:28:02.744Z</updated>
-        <summary type="html"><![CDATA[Ramonica by Christian Kieffer]]></summary>
+        <title type="html"><![CDATA[Universidad Laboral]]></title>
+        <id>1x-3554938</id>
+        <link href="https://1x.com/photo/3554938"/>
+        <updated>2026-04-27T08:32:15.519Z</updated>
+        <summary type="html"><![CDATA[Universidad Laboral by Osmel]]></summary>
         <author>
-            <name>Christian Kieffer</name>
+            <name>Osmel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still life with glassware on a colored background]]></title>
+        <id>1x-3560048</id>
+        <link href="https://1x.com/photo/3560048"/>
+        <updated>2026-04-27T08:32:15.512Z</updated>
+        <summary type="html"><![CDATA[Still life with glassware on a colored background by Brig Barkow]]></summary>
+        <author>
+            <name>Brig Barkow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilpferde]]></title>
+        <id>1x-3551604</id>
+        <link href="https://1x.com/photo/3551604"/>
+        <updated>2026-04-27T08:32:15.503Z</updated>
+        <summary type="html"><![CDATA[Nilpferde by Wiolett]]></summary>
+        <author>
+            <name>Wiolett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wood Sandpiper (Tringa glareola)]]></title>
+        <id>1x-3547535</id>
+        <link href="https://1x.com/photo/3547535"/>
+        <updated>2026-04-27T08:32:15.487Z</updated>
+        <summary type="html"><![CDATA[Wood Sandpiper (Tringa glareola) by Selim Kaya]]></summary>
+        <author>
+            <name>Selim Kaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between night and morning]]></title>
+        <id>1x-3550355</id>
+        <link href="https://1x.com/photo/3550355"/>
+        <updated>2026-04-27T08:32:15.477Z</updated>
+        <summary type="html"><![CDATA[Between night and morning by Yukinori Kishimoto]]></summary>
+        <author>
+            <name>Yukinori Kishimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tisa]]></title>
+        <id>1x-3526845</id>
+        <link href="https://1x.com/photo/3526845"/>
+        <updated>2026-04-27T08:32:15.471Z</updated>
+        <summary type="html"><![CDATA[Tisa by Joško Šimic]]></summary>
+        <author>
+            <name>Joško Šimic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facade - London, UK]]></title>
+        <id>1x-3558645</id>
+        <link href="https://1x.com/photo/3558645"/>
+        <updated>2026-04-27T08:32:15.465Z</updated>
+        <summary type="html"><![CDATA[Facade - London, UK by Arnon Orbach]]></summary>
+        <author>
+            <name>Arnon Orbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blessed… and Unimpressed]]></title>
+        <id>1x-3539144</id>
+        <link href="https://1x.com/photo/3539144"/>
+        <updated>2026-04-27T08:32:15.460Z</updated>
+        <summary type="html"><![CDATA[Blessed… and Unimpressed by txules]]></summary>
+        <author>
+            <name>txules</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Anna]]></title>
+        <id>1x-3557176</id>
+        <link href="https://1x.com/photo/3557176"/>
+        <updated>2026-04-27T08:32:15.451Z</updated>
+        <summary type="html"><![CDATA[Happy Anna by Christian Kurz]]></summary>
+        <author>
+            <name>Christian Kurz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fight]]></title>
+        <id>1x-3560027</id>
+        <link href="https://1x.com/photo/3560027"/>
+        <updated>2026-04-27T08:32:15.448Z</updated>
+        <summary type="html"><![CDATA[Fight by Milan Malovrh]]></summary>
+        <author>
+            <name>Milan Malovrh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Flycatcher from Paradise]]></title>
+        <id>1x-3560270</id>
+        <link href="https://1x.com/photo/3560270"/>
+        <updated>2026-04-27T08:32:15.446Z</updated>
+        <summary type="html"><![CDATA[The Flycatcher from Paradise by Wagdy]]></summary>
+        <author>
+            <name>Wagdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Serene Light]]></title>
+        <id>1x-3559499</id>
+        <link href="https://1x.com/photo/3559499"/>
+        <updated>2026-04-27T08:32:15.442Z</updated>
+        <summary type="html"><![CDATA[In Serene Light by URANUS  FILM]]></summary>
+        <author>
+            <name>URANUS FILM</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3545816</id>
-        <link href="https://1x.com/photo/3545816"/>
-        <updated>2026-04-27T03:28:02.737Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <id>1x-3559385</id>
+        <link href="https://1x.com/photo/3559385"/>
+        <updated>2026-04-27T08:32:15.428Z</updated>
+        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Karim Al Thahaby</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anna06989]]></title>
-        <id>1x-3559477</id>
-        <link href="https://1x.com/photo/3559477"/>
-        <updated>2026-04-27T03:28:02.673Z</updated>
-        <summary type="html"><![CDATA[Anna06989 by Shuki Laufer]]></summary>
+        <title type="html"><![CDATA[Level-headed]]></title>
+        <id>1x-3557940</id>
+        <link href="https://1x.com/photo/3557940"/>
+        <updated>2026-04-27T08:32:15.426Z</updated>
+        <summary type="html"><![CDATA[Level-headed by Yohei Tabuchi]]></summary>
         <author>
-            <name>Shuki Laufer</name>
+            <name>Yohei Tabuchi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Appointment]]></title>
-        <id>1x-3556252</id>
-        <link href="https://1x.com/photo/3556252"/>
-        <updated>2026-04-27T03:28:02.652Z</updated>
-        <summary type="html"><![CDATA[The Last Appointment by X-FlyingKN]]></summary>
+        <title type="html"><![CDATA[A glass of champagne]]></title>
+        <id>1x-3560547</id>
+        <link href="https://1x.com/photo/3560547"/>
+        <updated>2026-04-27T08:32:15.418Z</updated>
+        <summary type="html"><![CDATA[A glass of champagne by PETER BALANTIC]]></summary>
         <author>
-            <name>X-FlyingKN</name>
+            <name>PETER BALANTIC</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Northern cardinal]]></title>
-        <id>1x-3559973</id>
-        <link href="https://1x.com/photo/3559973"/>
-        <updated>2026-04-27T03:28:02.648Z</updated>
-        <summary type="html"><![CDATA[Northern cardinal by Steven Haddix]]></summary>
+        <title type="html"><![CDATA[Roses #2]]></title>
+        <id>1x-3560022</id>
+        <link href="https://1x.com/photo/3560022"/>
+        <updated>2026-04-27T08:32:15.406Z</updated>
+        <summary type="html"><![CDATA[Roses #2 by Kristjan Vuk]]></summary>
         <author>
-            <name>Steven Haddix</name>
+            <name>Kristjan Vuk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arbore old Lady portrait, Ethiopia]]></title>
-        <id>1x-3543345</id>
-        <link href="https://1x.com/photo/3543345"/>
-        <updated>2026-04-27T03:28:02.646Z</updated>
-        <summary type="html"><![CDATA[Arbore old Lady portrait, Ethiopia by Francisco Mendoza Ruiz]]></summary>
+        <title type="html"><![CDATA[伊朗外长指责美国导致谈判破裂]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959744</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959744"/>
+        <updated>2026-04-27T08:16:03.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐在访问俄罗斯时，指责美国导致巴基斯坦美伊和谈破裂。
+伊朗国家媒体报道，阿拉格齐星期一（4月27日）抵达圣彼得堡，与俄罗斯总统普京会晤。
+阿拉格齐过后就与美国和谈表明：“虽然取得进展，但美国要求过分苛刻，导致上一轮谈判未能实现目标。”
+他也强调：“霍尔木兹海峡的航行安全是重要的全球问题。”
+美国与伊朗官员4月11日在调解国巴基斯坦谈判，21小时的马拉松式会谈无果而终。双方至今仍未敲定第二轮谈判安排。
+与此同时，美伊仍在石油运输要道霍尔木兹海峡水域实施封锁。这条水道的控制权是双方关键分歧之一。]]></summary>
         <author>
-            <name>Francisco Mendoza Ruiz</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I`m looking at]]></title>
-        <id>1x-3559395</id>
-        <link href="https://1x.com/photo/3559395"/>
-        <updated>2026-04-27T03:28:02.641Z</updated>
-        <summary type="html"><![CDATA[What I`m looking at by Wanjae Choi]]></summary>
+        <title type="html"><![CDATA[日本研究所研发新药 或有助治疗猫慢性肾病]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959463</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959463"/>
+        <updated>2026-04-27T07:42:50.000Z</updated>
+        <summary type="html"><![CDATA[日本一家研究所向当局提交申请，希望批准用于治疗猫慢性肾病的新药，并称这款药物为攻克目前尚无确切疗法的常见猫只疾病带来希望。　
+法新社报道，总部位于东京的AIM医学研究所（The Institute for AIM Medicine）研究员宫崎彻说，经过试验，这款药物显著延长了患病猫的寿命。研究所已于上周向农林水产省提交药物批准申请。
+曾任东京大学教授的宫崎表明：“大多数猫都患有慢性肾病，许多猫最终死于终末期肾衰竭或尿毒症。我们做药物研发，就是为了扭转这个局面，并减轻猫咪和主人的经济和身体负担。”
+五年前，由于冠病疫情期间研究资金短缺，宫崎被迫暂停这款药物的研发，但他的研究备受关注。媒体报道后，他在2021年至2022年间，收到许多来自爱猫人士和养猫人的捐款，总额近3亿日元（约240万新元）。
+美国康奈尔大学猫科动物健康中心称，慢性肾病是一种“无法根治的进行性疾病”，在老年猫中很常见，10岁以上猫的患病率高达40%，15岁以上猫的患病率则高达80%。
+宫崎的研究于今年2月发表在《兽医杂志》上。这项研究对11只接受治疗的猫和15只未接受治疗的猫进行为期一年的追踪。
+结果显示，接受治疗的猫累计存活率在80%至83%之间，而未接受治疗的猫存活率仅为20%。]]></summary>
         <author>
-            <name>Wanjae Choi</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metallica 26]]></title>
-        <id>1x-3558625</id>
-        <link href="https://1x.com/photo/3558625"/>
-        <updated>2026-04-27T03:28:02.630Z</updated>
-        <summary type="html"><![CDATA[Metallica 26 by Hans-Wolfgang Hawerkamp]]></summary>
+        <title type="html"><![CDATA[消息：以总统暂不赦免涉贪腐案的内坦亚胡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959299</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959299"/>
+        <updated>2026-04-27T07:35:03.000Z</updated>
+        <summary type="html"><![CDATA[有消息指，以色列总统赫尔佐格已决定暂不赦免涉贪腐案的以色列总理内坦亚胡，而是将启动调解程序，推动达成认罪协议。
+《纽约时报》星期天（4月26日）报道，两名了解赫尔佐格想法的以色列高级官员说，赫尔佐格将首先尝试启动调解程序，推动达成认罪协议。对于内坦亚胡提出的赦免请求，他现阶段不表态是否同意。
+针对上述消息，以色列总统办公室给《纽约时报》的声明称，赫尔佐格已多次说，推动当事双方达成“友好解决方案”符合公共利益。至于赦免请求，他将依据法律、良知、国家利益行事。
+2020年初，以色列检方以受贿、欺诈和违背公众信任三项罪名，正式起诉内坦亚胡。同年5月，法院首次开庭审理该案，内坦亚胡因此成为以色列首个接受司法审理的在任总理。2024年12月10日，内坦亚胡首次就涉嫌贪腐案出庭作证。
+据以媒报道，审理启动以来，内坦亚胡已多次以战事、外访、健康等理由“拖延避审”。如果罪名成立，内坦亚胡因受贿面临的最高刑罚将是10年监禁，因欺诈和违背公众信任将合计面临三年监禁的最高刑罚。
+美国总统特朗普多次要求赫尔佐格赦免内坦亚胡。]]></summary>
         <author>
-            <name>Hans-Wolfgang Hawerkamp</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leonard Misonne]]></title>
-        <id>1x-3560554</id>
-        <link href="https://1x.com/photo/3560554"/>
-        <updated>2026-04-27T03:28:02.622Z</updated>
-        <summary type="html"><![CDATA[Leonard Misonne by Marion Keijzer]]></summary>
+        <title type="html"><![CDATA[韩媒：美限制向韩提供涉朝核设施卫星资料]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959369</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959369"/>
+        <updated>2026-04-27T07:27:29.000Z</updated>
+        <summary type="html"><![CDATA[韩国媒体报道，美国因韩国统一部长涉朝鲜核设施的言论，限制向韩方提供有关朝核设施的卫星资料。
+韩联社星期一（4月27日）引述消息人士报道，美方限制向韩方提供一些卫星资料，其中涉及朝鲜核设施，包括朝鲜平安北道龟城市，主要为长期积累的技术情报。
+报道称，经韩美情报部门证实的朝鲜铀浓缩设施所在地，只有平安北道宁边和南浦市降仙两处。然而，韩国统一部长郑东泳3月在国会外交统一委员会全会上，公开提及龟城市也设有铀浓缩设施，此事引起关注。
+龟城市从2010年代中期开始被怀疑为核设施所在地。美国智库科学与国际安全研究所（ISIS）2016年7月发布的一份报告，也提及龟城市设有铀浓缩设施的可能。
+韩军强调，目前美方限制提供部分涉朝情报，并未给韩方对朝戒备工作造成障碍；每当朝鲜发起军事挑衅，韩美都通过联合情报系统实时共享相关信息；韩军还加快推进中大型、微小侦察卫星群建设项目，提升自主监侦能力。
+不过，多数分析认为，韩军自行收集的情报有限，无法完全弥补美国卫星资料的空白。专家建议韩国在提高自身监侦能力的同时，须重拾美方信赖。]]></summary>
         <author>
-            <name>Marion Keijzer</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In the last brush of sunset]]></title>
-        <id>1x-3557941</id>
-        <link href="https://1x.com/photo/3557941"/>
-        <updated>2026-04-27T03:28:02.613Z</updated>
-        <summary type="html"><![CDATA[In the last brush of sunset by Ling Zhang]]></summary>
+        <title type="html"><![CDATA[2028美国总统大选 鲁比奥行情看涨]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8959065</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8959065"/>
+        <updated>2026-04-27T07:10:03.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普的一些亲密心腹日益认为，国务卿鲁比奥是角逐2028年总统大位的潜在人选，因为他在处理外交冲突方面手腕老练，且具备避免政治风险的能力。
+美国政治新闻网Politico报道，鲁比奥曾被认为过于鹰派或过于建制派。他在2016年问鼎总统宝座失败后，在特朗普时代的共和党中无足轻重。但他在推动委内瑞拉总统马杜罗下台方面的表现，以及对特朗普高度忠诚，提升了他在白宫西翼与部分“让美国再次伟大”（MAGA）选民心中的地位。
+虽然他本人表明不会挑战副总统万斯，万斯目前也仍在民调中领先，但特朗普是否支持可能决定共和党2028年初选格局。
+目前，特朗普核心圈中越来越多人将鲁比奥迟来的“特朗普主义”视为他的一大优势。特朗普喜欢“皈依者”的热情，与一些老派共和党精英形成鲜明对比，后者情愿避开共和党或远离华盛顿也不愿与特朗普和解。
+特朗普顾问布鲁塞维茨（Alex Bruesewitz）说：“万斯是一位出色的副总统，而鲁比奥是一位优秀的国务卿。”
+他说，鲁比奥在2016年总统大选后有两条路可走，他可以像卡西奇（John Kasich）那样，患上“特朗普精神错乱综合症”，最终销声匿迹。但奥比奥“选择了拥抱MAGA运动”，并成为MAGA最坚定的盟友和支持者之一。
+卡西奇为前俄亥俄州州长，2016年与特朗普竞争共和党内初选提名，2020年宣布支持民主党总统候选人拜登。
+与Politico的其他受访者一样不愿具名的一名白宫高级官员，形容鲁比奥“忠诚、极其精明、能言善道且经验老到”，并补充说他是一位“赢家”。
+特朗普尚未宣布支持谁成为他的继任者，他的意见可能具有决定性作用。]]></summary>
         <author>
-            <name>Ling Zhang</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whispers of Antelope Canyon ...]]></title>
-        <id>1x-3560079</id>
-        <link href="https://1x.com/photo/3560079"/>
-        <updated>2026-04-27T03:28:02.602Z</updated>
-        <summary type="html"><![CDATA[Whispers of Antelope Canyon ... by Yvette Depaepe]]></summary>
+        <title type="html"><![CDATA[索马里海域再现劫持事件 英国警告船只谨慎通行]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8958829</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8958829"/>
+        <updated>2026-04-27T06:05:32.000Z</updated>
+        <summary type="html"><![CDATA[英国海上贸易行动办公室星期天（4月26日）晚通报，索马里东北部加拉阿德附近海域一艘货船被未经授权的人员控制，目前已被调往索马里领海。
+路透社报道，英国海上贸易行动办公室说，事发地点位于加拉阿德东北约6海里处，并称之为劫持事件，但未提供更多细节。
+新华社报道，根据第三方报告，未经授权人员控制了这艘货船，并将船只驶向索马里领海。
+英国海上贸易行动办公室说，鉴于索马里海域有组织海盗活动的威胁上升，建议过往船只谨慎通行。
+英国海上贸易行动办公室25日已通报一起发生在索马里海域的劫船事件。未经授权人员21日控制了一艘油轮，并在索马里领海内操纵该船向南航行。英国广播公司（BBC）报道说，涉事油轮载有17名船员和18500桶石油，原定目的地是索马里首都摩加迪沙。]]></summary>
         <author>
-            <name>Yvette Depaepe</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drooping]]></title>
-        <id>1x-3559962</id>
-        <link href="https://1x.com/photo/3559962"/>
-        <updated>2026-04-27T03:28:02.599Z</updated>
-        <summary type="html"><![CDATA[Drooping by Jaeyoun Ryu]]></summary>
+        <title type="html"><![CDATA[消息：美国已收到伊朗谈判新方案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8958417</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8958417"/>
+        <updated>2026-04-27T04:57:06.000Z</updated>
+        <summary type="html"><![CDATA[一名美国官员和两名知情人士透露，美国已收到伊朗通过巴基斯坦转交的谈判新方案。 
+美国新闻网站Axios星期天（4月26日）引述两名消息人士称，伊朗谈判新方案首先聚焦于解决霍尔木兹海峡危机和美国封锁问题。作为新方案的一部分，停火将长期延长或各方将同意永久结束战事。核谈判只会在霍尔木兹海峡重新开放和美国封锁解除后才开始举行。  
+报道说，伊朗外长阿拉格齐在巴基斯坦首都伊斯兰堡同巴方讨论了这一新方案。阿拉格齐周末向巴基斯坦、埃及、土耳其、卡塔尔明确说，就如何回应美国提出的长期停止铀浓缩活动以及将浓缩铀运出伊朗的要求，伊朗领导层尚未达成共识。
+报道还引述相关人士的话称，预计美国总统特朗普将于27日与国家安全和外交政策团队就伊朗问题开会。其中一名官员说，预计此次会议将讨论当前与伊朗谈判的僵局，以及伊朗战事下一阶段的潜在应对方案。 
+Axios报道的伊朗谈判新方案，与黎巴嫩“广场”电视台稍早前披露的伊朗三阶段谈判框架大体类似。三阶段谈判重点依次是结束战争、霍尔木兹海峡事宜、核谈判。 
+特朗普25日取消了美方代表前往伊斯兰堡与伊朗方面会晤的行程。特朗普26日受访时说，如果伊朗希望通过谈判结束战争，可以“打电话给我们”。]]></summary>
         <author>
-            <name>Jaeyoun Ryu</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Light]]></title>
-        <id>1x-3555280</id>
-        <link href="https://1x.com/photo/3555280"/>
-        <updated>2026-04-27T03:28:02.381Z</updated>
-        <summary type="html"><![CDATA[Golden Light by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[白宫记者晚宴枪击后 各种阴谋论满天飞]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8958154</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8958154"/>
+        <updated>2026-04-27T04:15:58.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫记者晚宴枪击事件发生后，社交媒体平台立即充斥各种阴谋论和相互指责的言论。 
+《纽约时报》星期天（4月26日）报道，白宫记者晚宴25日在华盛顿希尔顿酒店举行，宴会才刚开始不久，一名持枪男子就在酒店内一处安全检查站开枪击中一名特勤局特工，之后被执法人员逮捕。
+枪击发生后，X、脸书、TikTok等平台瞬间炸开了锅，不同政治立场的用户纷纷在网上发表各自看法，令人眼花缭乱。
+一些用户声称这次枪击是“自导自演”，毫无证据地暗示这是特朗普或其他人士为了转移人们对糟糕民调或对伊朗战争的注意力而精心策划的一起阴谋。
+社交媒体分析公司TweetBinder的数据显示，截至26日中午，“自导自演”（staged）一词在X平台的出现率已超过30万条，但至少有一些帖子驳斥了枪击是有预谋的说法。
+其他社媒用户则迅速将矛头指向某一方，在没有证据的情况下将枪手与以色列相关事件联系起来，并使用明显经过人工智能（AI）工具篡改的图像来支持他们的说法。俄罗斯国家新闻频道RT在X放大传播了其中一些说法。
+如今，每当发生此类事件，一些有影响力的人士为了博取关注和粉丝，往往会利用信息真空，散布各种猜测臆断。
+虚假信息、谣言、猜测的迷雾模糊了突发新闻事件的真相，包括此前针对美国总统特朗普的两次未遂刺杀事件，以及今年1月委内瑞拉总统马杜罗被美军强行控制并抓捕到美国的事件。 
+而最终结果是，在新闻报道袭击事件的短短几秒或几分钟之后，网上就会爆发一场关于真相的混战。这种混战一般可以持续几天甚至几个星期，即便真相往往依然扑朔迷离。
+特朗普在宾夕法尼亚州的一次集会上险遭暗杀事件虽已过去近两年，许多有影响力的社媒账号仍继续声称这起未遂暗杀事件是人为策划，尽管这起事件夺走了两条人命。 
+密歇根大学信息学院教授兼学术事务副院长兰佩（Cliff Lampe）说：“人们正在根据自己希望的真假来重塑现实。”
+兰佩说：“他们不是在寻找可靠的信息，而是在寻找能够证实自己的观点的信息，而且往往会“深入兔子洞”，钻牛角尖地对比并列照片、分析总统照片面部细微差距等等。”]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As You like it]]></title>
-        <id>1x-3559676</id>
-        <link href="https://1x.com/photo/3559676"/>
-        <updated>2026-04-27T03:28:02.347Z</updated>
-        <summary type="html"><![CDATA[As You like it by Tomo]]></summary>
+        <title type="html"><![CDATA[AI帮爱犬找到救命药 普通人可以找AI求生机吗？]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8899922</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8899922"/>
+        <updated>2026-04-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果救命的解药不在药柜里，而是在与人工智能（AI）的对话框中，是否意味着人类正迎来一场生命科学的“大航海时代”？ 
+澳大利亚科技企业家保罗·康宁汉（Paul Conyngham）用一次大胆尝试给出了答案。他没有医学背景，也没有科研团队，仅凭一台能与ChatGPT等生成式人工智能（Generative AI）对话的电脑，以及后期科研团队的协助，成功为病危的爱犬罗茜设计出专属的信使核糖核酸（mRNA）癌症疫苗，让它的病情明显改善。
+作为目前少见的非专业人士借助AI深度参与药物设计的案例，康宁汉的尝试引发广泛讨论：当AI降低了获取医学知识和研究工具的门槛，未来拯救生命的技术壁垒，是否将不再像过去那样高不可攀？ 
+
+若传统疗法失效 AI是最后的“救命稻草”？
+
+罗茜是一只八岁的斯塔福混种犬，患有恶性肥大细胞癌。这是一种常见的犬类皮肤癌，源于免疫细胞，不仅容易复发，还可能扩散到全身器官。
+罗茜曾接受手术、化疗及标准免疫治疗，但病情仍未受控，后腿长出明显肿瘤，兽医判断它可能只剩几个月的寿命。
+面对几乎无路可走的治疗选择，拥有17年AI与机器学习经验的康宁汉，决定把爱犬的癌症当作一组须要破解的数据问题，尝试借助数据分析和AI工具寻找生机。
+“罗茜是我最好的朋友，当我得知它得了癌症，我很崩溃。但我一定要试一试，尝试想出办法来阻止（癌症），这听起来可能有点疯狂，但我就是想试试看。”
+康宁汉的第一步，是弄清楚罗茜的肿瘤与正常细胞究竟有何不同。
+他自费约3000美元（约3800新元），委托大学实验室为罗茜的肿瘤进行基因测序，得到一份列出大量突变信息的庞大数据文件。
+为了能快速理解和分析这些突变信息，并从中筛选出可能用于设计疫苗的治疗靶点，康宁汉最终选择求助AI。
+
+              
+罗茜的后腿肿瘤曾两度被误诊为普通皮疹，延误近一年才确诊为肥大细胞皮肤癌。（取自康宁汉社媒X）
+    …]]></summary>
         <author>
-            <name>Tomo</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[She Knows]]></title>
-        <id>1x-3560680</id>
-        <link href="https://1x.com/photo/3560680"/>
-        <updated>2026-04-27T03:28:02.336Z</updated>
-        <summary type="html"><![CDATA[She Knows by konikonikei]]></summary>
+        <title type="html"><![CDATA[美国枪击案引发安保质疑 下一场宴会如何强化防护成焦点]]></title>
+        <id>https://www.zaobao.com/news/world/story20260427-8958043</id>
+        <link href="https://www.zaobao.com/news/world/story20260427-8958043"/>
+        <updated>2026-04-27T03:47:56.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿路透电）美国白宫记者协会晚宴枪击事件虽未造成严重伤亡，但特勤局的现场安保问题仍引发广泛质疑，下一场晚宴将如何加强防护措施成为外界关注的焦点。 
+两名前特勤局特工和三名美国高官告诉路透社，联邦特工在星期六（4月25日）晚上的白宫记者协会晚宴上有效地执行了保护总统的计划，在枪手到达华盛顿希尔顿酒店地下室之前制伏他。
+不过，一些官员和评论员认为安保措施应该更加严密，嫌犯不应如此接近目标。此前，在2024年总统竞选期间，针对美国总统特朗普的两起暗杀未遂事件已促使当局加强总统的安保措施。
+尽管特朗普在记者会上赞扬特勤局反应迅速，但他明确指出华盛顿希尔顿酒店“并不是一个特别安全的建筑”。
+华盛顿希尔顿酒店长期承办该晚宴，但由于规模庞大、对公众开放且人员流动频繁，一直是特勤局难以完全掌控的场地。此外，这项活动往往汇集总统和多名内阁政要，使风险进一步上升。
+在星期六的晚宴上，宾客须通过金属探测器的检测才能进入宴会厅，但公众只需凭票即可进入酒店。据一名直接了解活动策划的人士透露，有多人试图使用去年的门票进入酒店，而嫌犯可能在活动前几天入住酒店，从而绕过这一基本检查。
+就连31岁嫌犯艾伦也批评这次活动的安保措施。据《纽约邮报》报道，嫌犯在一份书面宣言中提及安保措施似乎过于松懈。 
+他对于自己能够携带一支霰弹枪、一支手枪和一把刀入住酒店感到惊讶。
+他写道：“我原以为每个拐角都有监控摄像头，酒店房间都被监听，每隔10英尺（约3米）就有武装特工，到处都是金属探测器……结果我看到的却是什么都没有。”
+这场宴会将在30天内再次举行，加强安保将成为关键焦点。
+曾在特勤局反突击小组任职六年的盖奇告诉路透社，事后审查很可能会重点考虑将金属探测设备前移，以扩大外围警戒范围。这意味着如果有人再次试图冲破安保人员的防线，冲突将发生在建筑物外，而不是建筑物内。
+不过，曾在特朗普第一任期担任特工的埃克洛夫接受《纽约时报》访问时说，警戒范围过大可能反而削弱关键区域的安保力量。“关键不在于扩大警戒范围，而是更快、更精准地做出反应。”
+他说，安保人员必须在瞬间做出许多战术决定，包括是否要躲在桌子后面原地防御，以确定是否有人向主席台开枪。
+盖奇也说，特勤局需要在协调其他政府官员的撤离方面做得更好。
+枪击事件发生后，美国法警局和外交安全局等多个执法机构迅速疏散与会者，这凸显负责保护不同要员的复杂机构网络可能导致缺乏协调的应对措施。]]></summary>
         <author>
-            <name>konikonikei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yellow eyes and red lips]]></title>
-        <id>1x-3273223</id>
-        <link href="https://1x.com/photo/3273223"/>
-        <updated>2026-04-27T03:28:02.320Z</updated>
-        <summary type="html"><![CDATA[Yellow eyes and red lips by Masaki Yazaki]]></summary>
-        <author>
-            <name>Masaki Yazaki</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -325,7 +504,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一张入境卡引发命名困局 韩国在海峡两岸间左右为难]]></title>
+        <title type="html"><![CDATA[姜贵瑛：一张入境卡引发命名困局 韩国在海峡两岸间左右为难]]></title>
         <id>https://www.zaobao.com/news/world/story20260427-8952796</id>
         <link href="https://www.zaobao.com/news/world/story20260427-8952796"/>
         <updated>2026-04-26T21:01:00.000Z</updated>
@@ -458,223 +637,6 @@
 阿齐兹在社交媒体上发文说：“47年的热情好客时代已结束，所有想要通过霍尔木兹海峡的船只都必须缴纳通行费。”
 德黑兰早前再度宣称完全掌控霍尔木兹海峡主权。
 伊朗伊斯兰议会议员赛义迪星期六说，德黑兰已就管理海峡拟定综合方案，在那里航行的船只须有伊朗许可，若被认定为敌国船只则不得通过，以色列的船只更是绝对禁止。获准通过的船只须就安全、环境保护、航运管理、许可发放等付费。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国代理司法部长：枪手目标相信是特朗普政府官员]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956235</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956235"/>
-        <updated>2026-04-26T13:26:20.000Z</updated>
-        <summary type="html"><![CDATA[美国代理司法部长布兰奇说，已对白宫记者协会晚宴枪击嫌疑人执行搜查令，并称嫌疑人目标是政府官员，可能包括美国总统特朗普。 
-布兰奇星期天（4月26日）接受美国全国广播公司（NBC）新闻访问时说，根据“非常初步”的信息，调查人员认为枪手“确实有意针对政府工作人员，很可能包括总统本人”。
-他说，嫌犯在过去几年购买了两把枪，事发前坐火车从洛杉矶经芝加哥抵达华盛顿。嫌疑人住在晚宴举行的酒店，相信他是单独行动。
-他补充说，嫌犯将于星期一（27日）在联邦法院被正式被提控袭击联邦官员及开枪企图杀害联邦官员的罪名。截至星期天早上，嫌犯对于调查工作并不配合。
-特朗普星期天接受福克斯访问时称，嫌犯曾撰写过一份反基督宣言。
-他说：“这个人是个精神有问题的人。当你读他的宣言时，你会发现他憎恨基督徒。”
-他补充称：“他的兄弟姐妹甚至为此抱怨过。你知道，他们甚至向执法部门投诉过。他是个精神非常不稳定的人。”
-另一方面，布兰奇也说，他相信英国查尔斯国王在本周访问美国期间，将安全无虞。
-白金汉宫发言人星期天说，查尔斯国王已全面掌握事态进展，并得知美国总统特朗普、第一夫人及所有宾客均安然无恙后松了一口气。
-发言人说：“今天将举行多轮磋商，与美国同行及双方团队共同探讨星期六晚的事件将在多大程度上影响这次访问的行动计划。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊对峙赌谁先眨眼：特朗普拒“空谈” 德黑兰坚持先解封]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955574</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955574"/>
-        <updated>2026-04-26T13:23:15.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美国总统特朗普宣布，取消美方代表团前往巴基斯坦与伊朗代表团会晤的行程，却也指这未必意味着重启军事行动。伊朗总统佩泽希齐扬则重申，美国不解除对伊海上封锁就一切免谈。
-分析指，美伊双方互不退让，也都面对自家国内压力，正在赌谁更耐不住气先眨眼。
-特朗普星期六（4月25日）在社交媒体上说，他已取消美方代表团前往伊斯兰堡与伊方会晤的计划。他写道：“此行浪费在路途上的时间实在太多，工作量也太大！他们（伊朗）‘领导层’内部斗争激烈，混乱不堪。没人知道谁说了算。” 
-特朗普的特使威特科夫和女婿库什纳原定星期六前往伊斯兰堡。
-伊朗外长阿拉格齐则在同日较早前抵达伊斯兰堡，与巴基斯坦总理谢里夫和陆军参谋长穆尼尔会面。不过，他随后就转赴阿曼，与原定同日稍迟抵步的美国代表团“擦身而过”。 
-阿拉格齐形容这趟巴基斯坦之行成果丰硕，但也称，美国是否真心寻求通过外交斡旋结束战争，还有待观察。
-据伊朗媒体报道，阿拉格齐结束对阿曼访问后，会在星期天（26日）晚上回到巴基斯坦，之后续程前往俄罗斯。
-特朗普星期天接受福克斯新闻访问时说，他宣布取消谈判后的10分钟内，伊朗就送来一份更好的提案，但这份提案“仍不够好”。“美国已掌握所有筹码。伊朗如果想谈，随时打个电话就可以，但没人会再飞个18小时坐着空谈。”
-记者问他取消谈判是否意味着重启军事行动，他说：“不，不是的。我们没在考虑这个问题。”
-伊朗总统佩泽希齐扬星期六晚与谢里夫通电话时强调，伊朗不会在压力、威胁和封锁下谈判。他表明，美方应先解除对伊朗的海上封锁，为解决问题营造必要环境。 
-
-美伊海上锁喉互相勒紧 以军再轰炸黎巴嫩真主党 
-
-美国对伊朗港口的海上封锁仍在持续，而美国中央司令部星期六在阿拉伯海再次拦截一艘商船并押返伊朗。
-这艘船由迪拜企业拥有与运营，因涉及运输伊朗能源与油气产品而列入美国制裁清单。美军说，自封锁行动展开以来，已有37艘船被令改变航向。
-伊朗也不断展示对海峡的牢固控制。伊朗议会副议长尼克扎德说，伊朗最高领袖穆杰塔巴已下令，霍尔木兹海峡不得恢复战前状态。
-与此同时，以色列总理内坦亚胡星期六指黎巴嫩真主党违反停火协议，下令以军猛烈打击黎巴嫩南部真主党目标。这使局势再度紧张，危及本就极其脆弱的以黎停火协议。
-黎巴嫩卫生部说，以军星期六的袭击造成六人死亡、17人受伤。
-
-分析：伊朗赌特朗普更输不起
-
-美国有线电视新闻网（CNN）分析认为，伊朗在霍尔木兹海峡问题上拒不退让，或是押注特朗普“先眨眼”。
-CNN指出，美国的海上封锁钳制了伊朗的主要经济通道，导致德黑兰石油储存危机迫在眉睫，食品价格上涨和失业率飙升也冲高了民怨。
-但伊朗领导人也意识到，美国国内反战声浪日益高涨，加上11月中期选举将至，特朗普同样面临巨大压力，很可能更沉不住气先让步。
-专家指出，伊朗面对美国压力与严厉制裁多年，已摸索出一套自我调适之道。除非华盛顿准备再延长海上封锁数月，否则难以彻底摧毁伊朗经济。
-据估计，伊朗还能维持目前的石油产量两三个月。如果能找到其他方式来卸载石油，如使用退役油轮，储存时日还有望进一步延长。
-CNN引述德黑兰居民报道，尽管鸡肉、米、鸡蛋、药品等基本商品价格已涨至原来的三四倍，但当地市场供应仍然充足。
-陷入类似的经济困境，对伊朗人来说已是习以为常，但汽油价格持续飙涨，对美国选民来说却可能是场噩梦，将引发的冲击和政治效应难以预估。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马里多地发生交火 防长遇袭身亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8956177</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8956177"/>
-        <updated>2026-04-26T13:08:39.000Z</updated>
-        <summary type="html"><![CDATA[在叛乱分子于马里多地发动协调袭击的次日，马里政府军和图阿雷格族（Tuareg）武装分子星期天再度爆发激烈战斗，马里国防部长卡马拉在住所遇袭身亡。
-综合法新社和新华社报道，马里首都巴马科和中部、北部多地星期六（4月25日）遭遇由极端组织和分离主义势力协同进行的袭击，袭击目标包括巴马科国际机场、马里主要军事基地、国防部长宅邸等。
-据卡马拉的家属和一名官员星期天（26日）称，卡马拉和他的第二任妻子以及两名孙子，在巴马科郊外的家中遭遇汽车炸弹袭击后身亡。
-与卡伊达组织有关联的一个马里极端组织称，从星期六清晨开始，他们和分离主义武装组织“阿扎瓦德解放阵线”（Azawad Liberation Front）协同，在马里多地发动袭击。巴马科附近的基塔、基达尔、加奥和塞维尔等地星期天再次爆发战斗。
-此外，图阿雷格叛军宣称达成一项协议，允许支持马里军队的俄罗斯部队从北部城市基达尔撤离。他们声称，基达尔已“完全”处于叛军控制之下。
-基达尔是图阿雷格人的据点。2023年11月，马里军队在俄罗斯瓦格纳雇佣兵集团的支持下收复这个城镇，结束了叛军长达十多年的控制。
-马里军方星期六称，武装恐怖组织当天早晨企图在马里部分城市发动袭击，马里武装部队迅速反击，目前已控制局势，清剿行动仍在继续。
-军方说已击毙了数百名袭击者，暂未公布伤亡人数。马里政府发言人星期六在电视讲话中说，包括马里军人和平民在内的16人在袭击中受伤。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏开发师、天生的教师：白宫记者晚宴枪手是谁？]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955803</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955803"/>
-        <updated>2026-04-26T11:24:23.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国执法部门透露，在白宫记者晚宴上开枪的男子是一名兼职教师，从事游戏开发工作，还获得过教育机构月度最佳教师称号。 
-特区警方说，星期六（4月25日）在华盛顿希尔顿酒店白宫记者晚宴上开枪的男子，是这家酒店的住客。
-枪手科尔·托马斯·艾伦（Cole Tomas Allen），31岁，住在加利福尼亚州沿海城镇托伦斯。他作案时持霰弹枪，向一名特勤局特工开火后被捕。
-据悉，艾伦是注册选民，但无党派倾向。根据联邦选举委员会的记录，他2024年10月向时任民主党籍副总统哈里斯的总统竞选活动捐赠25美元。这是委员会记录中，他过去10年间唯一的政治捐款记录。
-当局尚未公布艾伦的干案动机。哥伦比亚广播公司（CBS）引述消息人士报道，艾伦自称袭击目标是特朗普政府官员。
-枪手自我标榜“电脑专家、天生教师”
-
-根据艾伦在职业社交平台领英（Linkedin）账号中的简介，他是一名“专业机械工程师和电脑科学家，经验丰富的独立游戏开发师，天生的教师”。 
-简历介绍，艾伦2017年从加州理工学院毕业，取得机械工程学士学位；去年在加州州立大学多明格斯山分校获得电脑科学硕士学位。
-
-              
-枪手艾伦来自加州，家住沿海城镇托伦斯。美国联邦调查局用灯光照亮当地一栋房屋，据说是艾伦的住所。（路透社）
-            
-美国有线电视新闻网（CNN）报道，艾伦在大学期间，曾因研发出轮椅应急刹车原型机，于2017年登上当地新闻报道。
-近几年，艾伦在从事游戏开发工作的同时，也兼任教育机构C2 Education的老师，并曾在2024年12月获评为月度最佳教师。
-此外，艾伦曾在七年前发帖，宣布自己制作的游戏Bohrdom在Steam游戏平台上线，且已注册商标。
-据游戏官网描述，这是一款“基于技巧、非暴力的非对称格斗游戏，灵感大致源自一个化学模型，而模型本身基本基于现实” ，“或者也可以把它想象成弹幕射击游戏和赛车游戏的混合体，并且加入了自动弹珠”。
-艾伦声称正在开发第二款游戏，暂定名为《第一定律》（First Law）。
-另据《洛杉矶时报》报道，艾伦曾为托伦斯非营利组织的几名高中生会员提供课外辅导。这些学生评价艾伦“非常聪明，精通生物学、数学和科学，且性格温和、沉稳”，得知艾伦作案后，他们都很震惊。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以军对黎巴嫩南部七村庄下达疏散令]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955924</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955924"/>
-        <updated>2026-04-26T11:12:45.000Z</updated>
-        <summary type="html"><![CDATA[以色列军方对黎巴嫩南部的七个村庄下达疏散令，称将对真主党违反两国近期续签的停火协议的行为作出回应。
-法新社报道，以军发言人阿德拉伊上校星期天（4月26日）在社媒发文，列出以军对黎南利塔尼河（Litani River）的七个村庄下达疏散令。“鉴于恐怖组织真主党违反停火协议，以军不得不采取果断行动。”
-以色列总理内坦亚胡星期天说，真主党的行动正在威胁以色列与黎巴嫩之间的停火协议，并承诺将“坚决”打击这个由伊朗支持的组织。
-他在例行内阁会议上说：“要明白，真主党的违规行为实际上是在破坏停火协议。”
-根据有关停火协议条款，以色列保留对“预谋的、迫在眉睫的或正在进行的袭击”进行反击的权利，并几乎每天都在对黎巴嫩南部的目标发动打击。
-黎巴嫩媒体报道称，黎巴嫩南部多个村庄星期天遭到多次空袭。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗外长料将再赴巴基斯坦推动和平谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955870</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955870"/>
-        <updated>2026-04-26T11:11:10.000Z</updated>
-        <summary type="html"><![CDATA[尽管美国总统特朗普取消了美国代表团访问巴基斯坦的行程，但推动和谈的努力仍在持续，伊朗外长阿拉格齐料星期天将返回巴基斯坦。 
-法新社引述伊朗学生通讯社（ISNA）报道，阿拉格齐将再次会见巴基斯坦官员，传达“伊朗就任何旨在彻底结束战争的谅解框架所持的立场和观点”。
-报道称，阿拉格齐前一天刚在伊斯兰堡停留，随后前往阿曼；与此同时，其他伊朗特使已经返回德黑兰，“就结束战争相关问题进行磋商并获取必要指示”。
-特朗普星期六（4月25日）告诉记者，他决定取消美国特使威特科夫和女婿库什纳的访问计划，因为在伊斯兰堡的会谈涉及过多的差旅和费用，而且伊朗最新的和平提议对他来说还不够好。
-他说，在他宣布取消访问后，伊朗提交了一份修改后的方案，“但还不够”。
-当被问及取消行程是否意味着战争将重燃时，特朗普回应说：“不，这并不意味着战争会再次爆发。我们还没有考虑过这个问题。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本养老院招聘健美运动员相扑手 解决看护短缺问题]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955808</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955808"/>
-        <updated>2026-04-26T11:07:54.000Z</updated>
-        <summary type="html"><![CDATA[（东京讯）日本养老院和护理中心长期面临护理人员，尤其是男看护严重不足的问题，一些机构因此开始招募健美运动员、各种武术选手和相扑手来担任护理人员。
-《纽约时报》报道，这种不寻常的安排为那些职业生涯通常短暂，且难以找到高薪工作的运动员提供了稳定的工作，同时他们还能获得免费住房、健身房会员资格和蛋白质补充剂等福利。
-这些年轻运动员不仅为养老院的生活增添不少乐趣，更让照顾老人显得格外轻松。
-在日本中部一家护理中心工作了两年多的健美运动员立见北斗说：“我觉得自己喜欢做的事，也能对社会有所帮助。我的肌肉正在帮助患者放松下来。”
-立见北斗和其他健美运动员每天在护理中心工作六小时，每月起薪超过1600美元（约2042新元）。此外，他们每天还有两个小时的健身房锻炼时间，并可以领取相应的酬报。
-日本目前有多家专门招募健美运动员的公司，其中一家公司首席执行官丹羽祐介说，他们希望将运动员的力量和耐力转化为护理人员的技能。
-他说：“我们必须改变这种刻板印象，所以我请来了健美运动员。他们非常强壮，外形很酷，可以帮助我们扭转这种看法。”
-在日本南部高知市的一家养老院里，一群年轻男子身兼二职：白天他们是护理员，晚上他们是武术选手。
-传统上，日本男性一直抗拒承担照护角色。政府数据显示，超过70%的护理人员是女性，但高知养老院的这批武术选手正在打破这刻板印象。
-在东京的一家护理中心，一批退役相扑选手每天都细心照顾着中心的老人。他们充分地发挥自己的长处：轻松转移此前因体重而被养老院拒收的重磅老人。
-44岁的前相扑手中井田修司不认为照顾他人很幸苦，反而觉得这份工作很有成就感。他说：“在这里，我们就像是一家人。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各国领袖对白宫晚宴枪击事件表态]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955749</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955749"/>
-        <updated>2026-04-26T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[华盛顿希尔顿酒店举行的白宫记者晚宴星期六发生枪击事件，美国总统特朗普被特勤局人员紧急带离。多名世界各国领导人对此表示震惊，并强力谴责这起暴力事件。 
-据报道，枪手来自加州，当时携带了多件武器强闯安全检查关卡，后被特勤局人员抓获，一名特勤局人员中弹受伤。特朗普事后在白宫新闻发布会上说，相信这是一起独狼事件，枪手干案动机仍待理清。 
-英国首相斯塔默说，他对星期六（4月25日）华盛顿白宫记者晚宴上的场景“感到震惊”。
-他星期天（26日）在社媒平台X上发文说：“任何针对民主制度和新闻自由的攻击都必须收到最严厉的谴责。”
-法国总统马克龙则说，这起事件不可接受，“暴力在民主社会中没有立足之地”，并向特朗普表达“全力的支持”。
-以色列总理内坦亚胡也说，对特朗普的“暗杀未遂事件”感到震惊。
-他在社媒贴文说：“得知（特朗普）总统和第一夫人平安无事，我们感到如释重负……我们祝愿受伤的警官早日康复，并向美国特勤局迅速果断的行动致敬。”
-韩国总统李在明星期天说，政治暴力破坏民主机制的根基，是严重的威胁行为，任何理由都无法为此辩解或正当化。
-他在社媒贴文写道，得知特朗普总统和第一夫人以及在场的所有人都平安无事，他感到如释重负，并向美国人民致以深切慰问。韩国政府坚决反对一切毁损民主主义和法治主义价值的暴力行为和极端主义。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切尔诺贝利核灾40周年 人们担心俄乌战争或引发另一场核灾难]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955559</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955559"/>
-        <updated>2026-04-26T10:05:51.000Z</updated>
-        <summary type="html"><![CDATA[（基辅路透电）在乌克兰纪念切尔诺贝利核事故40周年之际，人们愈发担心，持续了四年的乌俄战争可能会引发另一场核灾难。
-基辅称，莫斯科多次发射导弹和部署无人机沿切尔诺贝利附近的航线飞行，袭击乌克兰城市，甚至在去年的一次袭击中破坏了关键的防护罩。 
-乌克兰外交部上周在一份声明中说：“切尔诺贝利灾难是莫斯科下令进行一项违反安全规范的反应堆实验所致，此后还撒谎和掩盖实情。时至今日，世界仍然要面对极权主义体制带来的后果，尤其是这个体制将真相和科学置于意识形态和政治权力之下。”
-
-              
-4月26日，在切尔诺贝利核电站爆炸40周年纪念仪式上，身穿白色防护服象征核灾清理人员的哀悼者在乌克兰北部斯拉武季奇核灾遇难者纪念碑前放置蜡烛。（法新社）
-            
-1986年4月26日凌晨，位于前苏联乌克兰北部普里皮亚季邻近的切尔诺贝利核电站4号核反应堆在停堆过程中进行一次安全测试，因操作失误和反应堆本身的设计缺陷导致反应堆发生剧烈爆炸。这是史上最严重的民用核灾难。
-这场灾难所释放出的总辐射量超过第二次世界大战广岛原子弹爆炸的400倍，核污染扩散至苏联大部分地区，并造成数百万人暴露于辐射之下，数十万人被迫逃离家园，大片土地遭到污染。
-至今已有数千人死于癌症等辐射相关疾病，但死亡总人数和长期健康影响，至今仍是人们激烈讨论的话题。
-事故发生后，反应堆被钢筋混凝土“石棺”紧急封闭，但没几年就被认定存在坍塌风险，更大型的防护罩于2016年完工。
-但乌官员称，2025年2月的一次俄罗斯无人机袭击刺穿了防护罩的密封层。虽然没有检测到泄漏，但根据欧洲复兴开发银行，为防止永久性损坏，维修费需要至少5亿欧元（约7亿4800万新元）。
-上周，基辅首席国家检察官向路透社透露，自2024年6月以来，乌克兰雷达已探测到至少92架俄罗斯无人机飞入防护罩方圆5公里范围内。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星电子工会酝酿18天总罢工 分红诉求升温冲击半导体供应链]]></title>
-        <id>https://www.zaobao.com/news/world/story20260426-8955095</id>
-        <link href="https://www.zaobao.com/news/world/story20260426-8955095"/>
-        <updated>2026-04-26T09:09:46.000Z</updated>
-        <summary type="html"><![CDATA[近期，韩国三星电子工会发起大规模罢工行动，要求公司将在人工智能（AI）产业“超级周期”中获取的高额利润以奖金形式与员工共享。随着分配诉求持续上调，劳资矛盾迅速升温，并在韩国社会引发广泛关注。
-三星电子是韩国“存储晶片双雄”之一。4月23日，拥有逾7万名会员的三星电子工会宣布，将于5月21日启动为期18天的总罢工，并已向警方报备，计划在罢工首日下午1时于总裁李在镕的首尔住宅前举行集会。
-分析认为，此举既是争取更高分配比例的谈判筹码，也意在对管理层形成直接施压，显示劳资对立已进入实质对抗阶段。
-此次冲突升级的重要导火索，是韩国另一家存储晶片巨头SK海力士此前发放的大规模绩效奖金。 
-公司劳资双方在2021年围绕计件工资问题发生矛盾后，于去年9月达成调整方案，决定将营业利润的10%作为奖金财源，并取消个人上限。
-受此机制影响，公司在创下历史最佳业绩的去年向每名员工发放了约1亿韩元（8万6400新元）的奖金；而在今年营业利润预计达250万亿韩元（约2159亿新元）的情况下，约3万4500名员工的人均奖金规模或将超过7亿韩元（60万5000新元），大幅抬升行业薪酬预期。
-在此背景下，三星电子工会将分配诉求由原先的10%上调至15%。若按市场预测，公司全年营业利润最高或达300万亿韩元（约2591亿新元）计算，奖金规模可能高达约45万亿韩元（389亿新元）。
-这一水平不仅远高于公司去年的股息支出，也超过约37.7万亿韩元（325亿5838万新元）的研发投入，势必引发股东与管理层的强烈反弹，进一步加剧谈判难度。
-韩国社会担忧，一旦罢工落地，可能对半导体生产及全球供应链产生连锁冲击。
-
-罢工造成的直接经济损失或高达260亿元
-
-首尔市立大学经济系教授宋宪宰日前在一场研讨会上指出，若三星电子罢工成真，直接经济损失最高或达30万亿韩元（260亿新元）。以平泽半导体工厂为例，一旦生产中断，产量可能减少一半，损失规模或达每分钟数十亿韩元、每日约1万亿韩元。
-他强调，更需警惕供应稳定性受损带来的长期“隐性成本”。
-在不确定性上升背景下，全球大型科技企业可能为分散风险，转向台积电（TSMC）等替代供应商。鉴于半导体供应链认证周期长、切换成本高，一旦客户流失，短期内难以回流，冲击将超出短期财务层面。
-被称为韩国半导体之父的三星电子前社长陈大济在接受《中央日报》采访时说，当前正是企业与国家提前应对潜在下行风险的关键阶段，应把握景气窗口期，加大前瞻性投资并优化产业结构。
-他说：“半导体繁荣带来的黄金时间正在流逝，关键在于延长增长周期，而非提前透支红利。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -988,16 +950,6 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <link href="https://ducorn.com/when-to-quit"/>
         <updated>2026-03-29T11:14:42.000Z</updated>
         <summary type="html"><![CDATA[Klotz 追蹤二十年離職數據：一半的人不是慢慢想通的，是被一個事件拍醒的。Duckworth 說樂觀者業績好 20-40%，但 Duke 引用的 Moore 實驗說樂觀者堅持更久、表現沒更好。恆毅力害死了 Ali，低谷和死路痛苦一模一樣。七本書對「什麼時候該走」給了互相矛盾的答案。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大家都用 AI，誰輸錢？Simons 三十年 66% 卻叫散戶買指數]]></title>
-        <id>https://ducorn.com/ai-investment</id>
-        <link href="https://ducorn.com/ai-investment"/>
-        <updated>2026-03-28T15:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Medallion 三十年年均 66%，Simons 卻叫散戶買指數基金。2026 年 Polystrat AI 單筆賺 376%，但 63% 的 AI 在虧錢。量化投資六十年的失敗史告訴你：AI 會不會取代你的投資判斷，取決於你能不能答出這三個問題。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
