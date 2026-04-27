@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T14:02:50.575Z</updated>
+    <updated>2026-04-27T19:38:50.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to google your symptoms without freaking out | John Whyte]]></title>
+        <id>69ef7a4dca8040fd317d3a2c</id>
+        <link href="http://go.ted.com/johnwhyte"/>
+        <updated>2026-04-27T15:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Why does searching your symptoms online always leave you more frightened than before? As former chief medical officer of WebMD, physician John Whyte spent years believing more information meant better health — until he saw how too much of it was making people spiral. In a world of health influencers, algorithms and AI tools designed to keep you clicking, he reveals why clarity and context is a better prescription. 
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday Pick: Min Jin Lee | from Design Matters]]></title>
         <id>69d41629f57702d2d9fbedab</id>
@@ -1948,19 +1961,6 @@ Traction vs Distraction模型（《不可打扰》）
         <link href="http://go.ted.com/jennytaitz"/>
         <updated>2026-03-30T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Stress is contagious — but so is calm. Psychologist Jenny Taitz explains why one stressful moment tends to snowball into the next, and shares small, immediate resets you can practice anywhere to break the spiral before it starts.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Pick: Unsolicited Advice: How to handle layoffs with care | from Fixable]]></title>
-        <id>69c19d671861d127d5cbb512</id>
-        <link href="https://audiocollective.ted.com/"/>
-        <updated>2026-03-29T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When an organization lays people off , those who remain are often left scrambling to find their footing – and hold other people up – in an environment that no longer feels stable. In the wake of ongoing tech layoffs and the Trump administration’s efforts to reshape the public sector, Anne and Frances are back with a new Unsolicited Advice segment to set the record straight about what layoffs mean for an organization — and the responsibility leaders have to own what went wrong.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
