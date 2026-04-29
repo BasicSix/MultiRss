@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T19:46:02.756Z</updated>
+    <updated>2026-04-29T03:31:59.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[266.从红果到AI短剧：谁在革谁的命？]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/69f0d90f740bacea8777122d</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/69f0d90f740bacea8777122d"/>
+        <updated>2026-04-28T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[✍【乱翻书时刻】
+去年这个时候，行业还在争论短剧是“百亿市场”还是“千亿市场”；今年红果宣布DAU破亿，但与此同时，横店群演却在抱怨“短剧开机量腰斩”。到底哪个才是真实的短剧市场？
+“中国电影单日票房平均1.4亿，短剧单日流水3.5亿——短剧已经是电影的2.5倍。其中AI短剧4月15日单日广告消耗接近1亿，比两个月前Seedance 2.0发布时翻了4倍。与此同时，红果DAU破1.6亿逼近爱优腾，横店群演抱怨开机量腰斩，龚宇宣布爱奇艺要转型‘非中心化社交媒体’。”
+一句话定调：这不是一个行业内部的升级，这是一次整个影视工业的地基置换。今天我们要回答三个问题：红果革了谁的命？AI短剧又要革谁的命？谁会活下来？
+🎙【本期嘉宾】王小书、徐宏亮、庄明浩
+王小书（嘉书冰甜短剧创始人）
+徐宏亮（短剧网文行业8年观察者）
+庄明浩（「屠龙之术」主播）
+主播：潘乱（「乱翻书」主理人）
+
+⏰【时间线】
+一、AI漫剧的兴起与分类
+02:37 红果为什么跑赢了喜马拉雅，它不是抢了优爱腾的用户？
+04:09 「网络微短剧，它的本质更接近于电影——你打开来看这100分钟，看完觉得很满意。」
+05:34 AI漫剧跟动漫是一回事吗？
+08:02 AI漫剧的三大类型：
+    09:05 AI仿真人剧
+    09:43 AI 2D/3D漫剧
+    10:23 解说漫/沙雕漫
+
+12:30 成本预算是一切的母逻辑
+15:31 AI剧的核心颠覆逻辑：它不只是降成本，更是解锁了被成本封印的题材空间。
+19:19 低成本是内容多样性的根本保障
+二、短剧商业模式 vs 长视频的困境
+23:54 AI短剧的主要的发行场景是抖音
+25:36 AI真人剧是在蚕食真人剧的份额
+29:54 长视频平台的困境
+
+34:46 2023年长剧最后的荣光：《狂飙》、《繁花》、《三体》
+36:13 短剧和短视频，其实是有一种相对天…]]></summary>
+        <author>
+            <name>乱翻书</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You got what you wanted. Now what? | Debbie Millman]]></title>
         <id>69ef7b1a1557b3279dde9a14</id>
@@ -1966,19 +2005,6 @@ Traction vs Distraction模型（《不可打扰》）
 🎵 片头/尾曲：I'm Here Living Solo (Remastered)  - Fiona Huang]]></summary>
         <author>
             <name>纵横四海</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stress resets, the ultimate mental health hack | Jenny Taitz]]></title>
-        <id>69ca8d77e44b28321e44cb48</id>
-        <link href="http://go.ted.com/jennytaitz"/>
-        <updated>2026-03-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stress is contagious — but so is calm. Psychologist Jenny Taitz explains why one stressful moment tends to snowball into the next, and shares small, immediate resets you can practice anywhere to break the spiral before it starts.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>
