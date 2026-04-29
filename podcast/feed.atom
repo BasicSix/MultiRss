@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T14:06:58.202Z</updated>
+    <updated>2026-04-29T19:42:16.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The "hot shot rule" to help you become a better leader | Kat Cole (re-release)]]></title>
+        <id>69ef7e78ca8040fd317efafa</id>
+        <link href="http://go.ted.com/katcole"/>
+        <updated>2026-04-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Confidence doesn’t come before action — it comes from taking action, says business leader Kat Cole, who worked her way up from waitress to CEO of a global health company. She presents a simple yet powerful practice called the “hot shot rule” to help you step into a leadership mindset, break free from inertia and take decisive action when it matters most.
+
+This episode originally aired in 2025.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No.199 🚲 自行车 200年]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/69f0b75ad97e02e4ca59c4e6</id>
