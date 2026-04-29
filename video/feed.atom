@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T08:24:36.691Z</updated>
+    <updated>2026-04-29T14:06:58.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 免费接入 GPT Images 2.0 最强AI图片模型！无需 API Key、不耗 Token，5 分钟搞定！ | 零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=5g1AJwNNdwg</id>
+        <link href="https://www.youtube.com/watch?v=5g1AJwNNdwg"/>
+        <updated>2026-04-29T13:43:15.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NotebookLM 0-1終極攻略，90%的人都不知道的隱藏功能，手搓網站｜備考神器｜簡報精細化修改]]></title>
         <id>https://www.youtube.com/watch?v=JtvSCXz3A6w</id>
@@ -295,15 +304,6 @@
         <id>https://www.youtube.com/watch?v=y_mz59nDC0g</id>
         <link href="https://www.youtube.com/watch?v=y_mz59nDC0g"/>
         <updated>2026-04-05T12:18:58.000Z</updated>
-        <author>
-            <name>零度解说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 4 太猛了！谷歌最强开源模型，本地就能跑多模态（实测） | 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=jTVKagbUA68</id>
-        <link href="https://www.youtube.com/watch?v=jTVKagbUA68"/>
-        <updated>2026-04-04T12:16:52.000Z</updated>
         <author>
             <name>零度解说</name>
         </author>
