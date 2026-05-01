@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T03:42:30.616Z</updated>
+    <updated>2026-05-01T08:17:36.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -43,6 +43,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【免费VPS】3分钟搞定两个免费VPS！新手也能轻松白嫖服务器 | Setup 2 Free VPS in 3 Mins! Beginner's Guide🚀]]></title>
+        <id>https://www.youtube.com/watch?v=6oarnmJ3BHY</id>
+        <link href="https://www.youtube.com/watch?v=6oarnmJ3BHY"/>
+        <updated>2026-04-25T12:55:09.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPT-5.5 正式发布！OpenAI 最强模型来了：这次强得有点离谱…]]></title>
         <id>https://www.youtube.com/watch?v=aRkW4S5BWGo</id>
         <link href="https://www.youtube.com/watch?v=aRkW4S5BWGo"/>
@@ -67,6 +76,16 @@
         <updated>2026-04-24T02:46:15.000Z</updated>
         <author>
             <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨]]></title>
+        <id>https://www.youtube.com/shorts/XweTRQE45Qw</id>
+        <link href="https://www.youtube.com/shorts/XweTRQE45Qw"/>
+        <updated>2026-04-23T12:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -124,6 +143,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨]]></title>
+        <id>https://www.youtube.com/shorts/rwkZxPJ9Whk</id>
+        <link href="https://www.youtube.com/shorts/rwkZxPJ9Whk"/>
+        <updated>2026-04-17T05:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPN】新手16分钟纯净IP搞定免费AWS与Adkynet两VPN | Newbie to Ninja in 16 Mins: Free AWS & Adkynet VPN🚀]]></title>
+        <id>https://www.youtube.com/watch?v=4y5TYSxBntc</id>
+        <link href="https://www.youtube.com/watch?v=4y5TYSxBntc"/>
+        <updated>2026-04-17T04:45:00.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【保姆級教學】複製AI智慧老人頻道，月轉1萬美金]]></title>
         <id>https://www.youtube.com/watch?v=r1hgW9MqK3Y</id>
         <link href="https://www.youtube.com/watch?v=r1hgW9MqK3Y"/>
@@ -142,12 +180,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨]]></title>
+        <id>https://www.youtube.com/shorts/DozGE8aP0c8</id>
+        <link href="https://www.youtube.com/shorts/DozGE8aP0c8"/>
+        <updated>2026-04-15T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【修复-1】7分钟搞定,ECH速度-1问题,速设ProxyIP或区域 | Fix Cfnew ECH Speed -1 in 7 Mins — Proxy Ninja Mode On🚀]]></title>
+        <id>https://www.youtube.com/watch?v=b9NtqTEiAzI</id>
+        <link href="https://www.youtube.com/watch?v=b9NtqTEiAzI"/>
+        <updated>2026-04-14T05:00:28.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gemma 4 被越狱了！谷歌最强开源模型，这才是普通人真正需要的本地AI！| 零度解说]]></title>
         <id>https://www.youtube.com/watch?v=oW6DOhGaVTs</id>
         <link href="https://www.youtube.com/watch?v=oW6DOhGaVTs"/>
         <updated>2026-04-13T12:55:26.000Z</updated>
         <author>
             <name>零度解说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【U叔鼻涕】守护钱包！3分钟搞定支付宝买U防冻卡，新手必看 | Safe Guide: Grab Digital Assets in Just 3 Mins with Alipay🚀]]></title>
+        <id>https://www.youtube.com/watch?v=JxcE54JEc2s</id>
+        <link href="https://www.youtube.com/watch?v=JxcE54JEc2s"/>
+        <updated>2026-04-13T05:00:28.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -160,6 +226,35 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨]]></title>
+        <id>https://www.youtube.com/shorts/MxRMXySGRwA</id>
+        <link href="https://www.youtube.com/shorts/MxRMXySGRwA"/>
+        <updated>2026-04-10T22:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费VPN】新手也能8分钟搞定 CFnew2.9 零成本免费 VPN | Zero‑Skill, Zero‑Cost: Nail CFnew2.9 Free VPN in 8 Minutes🚀]]></title>
+        <id>https://www.youtube.com/watch?v=EDcKssOLeCA</id>
+        <link href="https://www.youtube.com/watch?v=EDcKssOLeCA"/>
+        <updated>2026-04-10T04:45:04.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨]]></title>
+        <id>https://www.youtube.com/shorts/1fyNa7WPzCY</id>
+        <link href="https://www.youtube.com/shorts/1fyNa7WPzCY"/>
+        <updated>2026-04-10T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[别再傻傻订阅一堆AI了！这个工具1个顶5个，帮你省下$1000月 | Skywork实测 | 零度解说]]></title>
         <id>https://www.youtube.com/watch?v=S5CF--dRwws</id>
         <link href="https://www.youtube.com/watch?v=S5CF--dRwws"/>
@@ -169,12 +264,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【免费VPN】告别花钱！10分钟丝滑搭建BPB面板实现免费VPN自由 | Stop Paying! Easily Deploy BPB Panel for Free VPN in 10 Mins😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=kT_16L6HLdM</id>
+        <link href="https://www.youtube.com/watch?v=kT_16L6HLdM"/>
+        <updated>2026-04-09T04:45:06.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qwen3.6-Plus 太猛了！免费 + 百万上下文 + Agent + 视觉多模态AI能力拉满！| 零度解说]]></title>
         <id>https://www.youtube.com/watch?v=ZVdx9VmpE7g</id>
         <link href="https://www.youtube.com/watch?v=ZVdx9VmpE7g"/>
         <updated>2026-04-08T12:45:18.000Z</updated>
         <author>
             <name>零度解说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI Manus】丝滑拿捏Manus 8分钟解锁懂你的AI自动化助手 | Effortless Mastery: Unlock Your Manus AI Assistant in 8 Mins😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=yT7_RG1Y46w</id>
+        <link href="https://www.youtube.com/watch?v=yT7_RG1Y46w"/>
+        <updated>2026-04-08T04:45:08.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI资讯】4分钟搞定！跨区充值省大钱与白嫖LTX AI视频剪辑 | 4 Mins to Save Big on AI & Get a Free AI Video Editor LTX!😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=giW4Flej49k</id>
+        <link href="https://www.youtube.com/watch?v=giW4Flej49k"/>
+        <updated>2026-04-07T04:45:03.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
@@ -205,12 +327,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【AI音乐】AIVA+Stable Audio 2分钟免费实现自主版权乐曲自由 | Cook Royalty‑Free Bangers in 2 Mins—AIVA+Stable Audio stl✨]]></title>
+        <id>https://www.youtube.com/shorts/f7NzWy30ZyY</id>
+        <link href="https://www.youtube.com/shorts/f7NzWy30ZyY"/>
+        <updated>2026-04-03T04:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>科技梦星云</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nano banana2 15種神級玩法實測，電商產品圖、遊戲場景擴充、漫畫生成、知識圖解，解決中文亂碼問題，免費使用]]></title>
         <id>https://www.youtube.com/watch?v=WZcNLBtFsMA</id>
         <link href="https://www.youtube.com/watch?v=WZcNLBtFsMA"/>
         <updated>2026-04-02T06:53:03.000Z</updated>
         <author>
             <name>七七行銷筆記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【OpenClaw】10分钟搞定ClawX，龙虾丝滑连Glm5+GPT5.4 | 10Mins ClawX Speedrun: OpenClaw Sliding into GLM5&GPT5.4😎⚡]]></title>
+        <id>https://www.youtube.com/watch?v=WKtXzLZ3tN8</id>
+        <link href="https://www.youtube.com/watch?v=WKtXzLZ3tN8"/>
+        <updated>2026-04-02T04:00:34.000Z</updated>
+        <author>
+            <name>科技梦星云</name>
         </author>
     </entry>
     <entry>
