@@ -2,198 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T19:28:40.089Z</updated>
+    <updated>2026-05-01T03:43:17.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Where the Voice Rests]]></title>
-        <id>1x-3564684</id>
-        <link href="https://1x.com/photo/3564684"/>
-        <updated>2026-04-30T19:27:53.789Z</updated>
-        <summary type="html"><![CDATA[Where the Voice Rests by Hamza Qarooni]]></summary>
+        <title type="html"><![CDATA[Schwalbenschwanz]]></title>
+        <id>1x-3565471</id>
+        <link href="https://1x.com/photo/3565471"/>
+        <updated>2026-05-01T03:42:34.188Z</updated>
+        <summary type="html"><![CDATA[Schwalbenschwanz by Georg Scharf]]></summary>
         <author>
-            <name>Hamza Qarooni</name>
+            <name>Georg Scharf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kestrel Falcon]]></title>
-        <id>1x-3564861</id>
-        <link href="https://1x.com/photo/3564861"/>
-        <updated>2026-04-30T19:27:53.785Z</updated>
-        <summary type="html"><![CDATA[Kestrel Falcon by Angela Muliani Hartojo]]></summary>
+        <title type="html"><![CDATA[Mariya Sitting (Remastered)]]></title>
+        <id>1x-3565552</id>
+        <link href="https://1x.com/photo/3565552"/>
+        <updated>2026-05-01T03:42:34.185Z</updated>
+        <summary type="html"><![CDATA[Mariya Sitting (Remastered) by Takayuki Otsuka]]></summary>
         <author>
-            <name>Angela Muliani Hartojo</name>
+            <name>Takayuki Otsuka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ok tree]]></title>
-        <id>1x-3564771</id>
-        <link href="https://1x.com/photo/3564771"/>
-        <updated>2026-04-30T19:27:53.778Z</updated>
-        <summary type="html"><![CDATA[Ok tree by Louise Xie]]></summary>
+        <title type="html"><![CDATA[Korimako]]></title>
+        <id>1x-3560917</id>
+        <link href="https://1x.com/photo/3560917"/>
+        <updated>2026-05-01T03:42:34.179Z</updated>
+        <summary type="html"><![CDATA[Korimako by Jarred Wilson]]></summary>
         <author>
-            <name>Louise Xie</name>
+            <name>Jarred Wilson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Take off...]]></title>
-        <id>1x-3561672</id>
-        <link href="https://1x.com/photo/3561672"/>
-        <updated>2026-04-30T19:27:53.764Z</updated>
-        <summary type="html"><![CDATA[Take off... by Molly Fu APA]]></summary>
+        <title type="html"><![CDATA[Up]]></title>
+        <id>1x-3565646</id>
+        <link href="https://1x.com/photo/3565646"/>
+        <updated>2026-05-01T03:42:34.164Z</updated>
+        <summary type="html"><![CDATA[Up by Louie Luo]]></summary>
         <author>
-            <name>Molly Fu APA</name>
+            <name>Louie Luo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Door Man]]></title>
-        <id>1x-3564926</id>
-        <link href="https://1x.com/photo/3564926"/>
-        <updated>2026-04-30T19:27:53.759Z</updated>
-        <summary type="html"><![CDATA[The Door Man by Richard Bland]]></summary>
+        <title type="html"><![CDATA[Follow Me]]></title>
+        <id>1x-3564424</id>
+        <link href="https://1x.com/photo/3564424"/>
+        <updated>2026-05-01T03:42:34.162Z</updated>
+        <summary type="html"><![CDATA[Follow Me by Jun Zuo]]></summary>
         <author>
-            <name>Richard Bland</name>
+            <name>Jun Zuo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The man with the hat]]></title>
-        <id>1x-3546872</id>
-        <link href="https://1x.com/photo/3546872"/>
-        <updated>2026-04-30T19:27:53.751Z</updated>
-        <summary type="html"><![CDATA[The man with the hat by Jürgen Wöhrle]]></summary>
+        <title type="html"><![CDATA[Tension]]></title>
+        <id>1x-3565431</id>
+        <link href="https://1x.com/photo/3565431"/>
+        <updated>2026-05-01T03:42:34.159Z</updated>
+        <summary type="html"><![CDATA[Tension by Christopher Schlaf]]></summary>
         <author>
-            <name>Jürgen Wöhrle</name>
+            <name>Christopher Schlaf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing cardinal]]></title>
-        <id>1x-3561584</id>
-        <link href="https://1x.com/photo/3561584"/>
-        <updated>2026-04-30T19:27:53.744Z</updated>
-        <summary type="html"><![CDATA[Dancing cardinal by Leeli Higgins]]></summary>
+        <title type="html"><![CDATA[A Red Fox]]></title>
+        <id>1x-3565514</id>
+        <link href="https://1x.com/photo/3565514"/>
+        <updated>2026-05-01T03:42:34.157Z</updated>
+        <summary type="html"><![CDATA[A Red Fox by Gary Hu]]></summary>
         <author>
-            <name>Leeli Higgins</name>
+            <name>Gary Hu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[virtuoso]]></title>
-        <id>1x-3564986</id>
-        <link href="https://1x.com/photo/3564986"/>
-        <updated>2026-04-30T19:27:53.721Z</updated>
-        <summary type="html"><![CDATA[virtuoso by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[Karo woman portrait, Ethiopia]]></title>
+        <id>1x-3563926</id>
+        <link href="https://1x.com/photo/3563926"/>
+        <updated>2026-05-01T03:42:34.155Z</updated>
+        <summary type="html"><![CDATA[Karo woman portrait, Ethiopia by Francisco Mendoza Ruiz]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
+            <name>Francisco Mendoza Ruiz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JANA]]></title>
-        <id>1x-3562071</id>
-        <link href="https://1x.com/photo/3562071"/>
-        <updated>2026-04-30T19:27:53.711Z</updated>
-        <summary type="html"><![CDATA[JANA by Hazem Swidan]]></summary>
+        <title type="html"><![CDATA[Whispers of the Forest Floor]]></title>
+        <id>1x-3564534</id>
+        <link href="https://1x.com/photo/3564534"/>
+        <updated>2026-05-01T03:42:34.152Z</updated>
+        <summary type="html"><![CDATA[Whispers of the Forest Floor by Leechee Z]]></summary>
         <author>
-            <name>Hazem Swidan</name>
+            <name>Leechee Z</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雅拉神山YaLaMountain]]></title>
-        <id>1x-3526626</id>
-        <link href="https://1x.com/photo/3526626"/>
-        <updated>2026-04-30T19:27:53.698Z</updated>
-        <summary type="html"><![CDATA[雅拉神山YaLaMountain by 吴子诚WuZiCheng]]></summary>
+        <title type="html"><![CDATA[Threshold]]></title>
+        <id>1x-3565593</id>
+        <link href="https://1x.com/photo/3565593"/>
+        <updated>2026-05-01T03:42:34.150Z</updated>
+        <summary type="html"><![CDATA[Threshold by B-STUDIO]]></summary>
         <author>
-            <name>吴子诚WuZiCheng</name>
+            <name>B-STUDIO</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wintercoat]]></title>
-        <id>1x-3565126</id>
-        <link href="https://1x.com/photo/3565126"/>
-        <updated>2026-04-30T19:27:53.677Z</updated>
-        <summary type="html"><![CDATA[Wintercoat by renekuipers]]></summary>
+        <title type="html"><![CDATA[The Gaze of the Owl 2]]></title>
+        <id>1x-3564368</id>
+        <link href="https://1x.com/photo/3564368"/>
+        <updated>2026-05-01T03:42:34.141Z</updated>
+        <summary type="html"><![CDATA[The Gaze of the Owl 2 by Steven Zhou]]></summary>
         <author>
-            <name>renekuipers</name>
+            <name>Steven Zhou</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flower Still Life]]></title>
-        <id>1x-3564916</id>
-        <link href="https://1x.com/photo/3564916"/>
-        <updated>2026-04-30T19:27:53.652Z</updated>
-        <summary type="html"><![CDATA[Flower Still Life by Erhard Batzdorf]]></summary>
+        <title type="html"><![CDATA[Stanford Arches]]></title>
+        <id>1x-3564536</id>
+        <link href="https://1x.com/photo/3564536"/>
+        <updated>2026-05-01T03:42:34.139Z</updated>
+        <summary type="html"><![CDATA[Stanford Arches by Lipinghu]]></summary>
         <author>
-            <name>Erhard Batzdorf</name>
+            <name>Lipinghu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE KISS]]></title>
-        <id>1x-3565190</id>
-        <link href="https://1x.com/photo/3565190"/>
-        <updated>2026-04-30T19:27:53.607Z</updated>
-        <summary type="html"><![CDATA[THE KISS by Bella Baron]]></summary>
+        <title type="html"><![CDATA[Sunday]]></title>
+        <id>1x-3565637</id>
+        <link href="https://1x.com/photo/3565637"/>
+        <updated>2026-05-01T03:42:34.136Z</updated>
+        <summary type="html"><![CDATA[Sunday by Weiwei]]></summary>
         <author>
-            <name>Bella Baron</name>
+            <name>Weiwei</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gravity's Edge]]></title>
-        <id>1x-3565086</id>
-        <link href="https://1x.com/photo/3565086"/>
-        <updated>2026-04-30T19:27:53.594Z</updated>
-        <summary type="html"><![CDATA[Gravity's Edge by Tali Krinsky]]></summary>
+        <title type="html"><![CDATA[Nowhere for This Feeling to Go]]></title>
+        <id>1x-3565424</id>
+        <link href="https://1x.com/photo/3565424"/>
+        <updated>2026-05-01T03:42:34.134Z</updated>
+        <summary type="html"><![CDATA[Nowhere for This Feeling to Go by noriaki okawa]]></summary>
         <author>
-            <name>Tali Krinsky</name>
+            <name>noriaki okawa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Silence of the Past (soft)]]></title>
-        <id>1x-3542011</id>
-        <link href="https://1x.com/photo/3542011"/>
-        <updated>2026-04-30T19:27:53.578Z</updated>
-        <summary type="html"><![CDATA[Silence of the Past (soft) by Þorsteinn H. Ingibergsson]]></summary>
+        <title type="html"><![CDATA[Flamingo 2026-4]]></title>
+        <id>1x-3565418</id>
+        <link href="https://1x.com/photo/3565418"/>
+        <updated>2026-05-01T03:42:34.131Z</updated>
+        <summary type="html"><![CDATA[Flamingo 2026-4 by Yuanwei Zuo APA]]></summary>
         <author>
-            <name>Þorsteinn H. Ingibergsson</name>
+            <name>Yuanwei Zuo APA</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3565027</id>
-        <link href="https://1x.com/photo/3565027"/>
-        <updated>2026-04-30T19:27:53.560Z</updated>
-        <summary type="html"><![CDATA[Untitled by Cristian Andreescu]]></summary>
+        <title type="html"><![CDATA[Cuernos del Paine at Dawn]]></title>
+        <id>1x-3565624</id>
+        <link href="https://1x.com/photo/3565624"/>
+        <updated>2026-05-01T03:42:34.126Z</updated>
+        <summary type="html"><![CDATA[Cuernos del Paine at Dawn by Kathy（Jie Xiao）]]></summary>
         <author>
-            <name>Cristian Andreescu</name>
+            <name>Kathy（Jie Xiao）</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where the Bloom Bends]]></title>
-        <id>1x-3554082</id>
-        <link href="https://1x.com/photo/3554082"/>
-        <updated>2026-04-30T19:27:53.537Z</updated>
-        <summary type="html"><![CDATA[Where the Bloom Bends by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[The Dancing House of MIT]]></title>
+        <id>1x-3564361</id>
+        <link href="https://1x.com/photo/3564361"/>
+        <updated>2026-05-01T03:42:34.123Z</updated>
+        <summary type="html"><![CDATA[The Dancing House of MIT by Jasmine Zhang]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>Jasmine Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vision 79]]></title>
-        <id>1x-3564961</id>
-        <link href="https://1x.com/photo/3564961"/>
-        <updated>2026-04-30T19:27:53.521Z</updated>
-        <summary type="html"><![CDATA[Vision 79 by Leonardo Bandinelli]]></summary>
+        <title type="html"><![CDATA[Stony Shell, Cyaned Cell]]></title>
+        <id>1x-3564979</id>
+        <link href="https://1x.com/photo/3564979"/>
+        <updated>2026-05-01T03:42:33.804Z</updated>
+        <summary type="html"><![CDATA[Stony Shell, Cyaned Cell by Meiji Maruo]]></summary>
         <author>
-            <name>Leonardo Bandinelli</name>
+            <name>Meiji Maruo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Light Hesitates]]></title>
-        <id>1x-3565075</id>
-        <link href="https://1x.com/photo/3565075"/>
-        <updated>2026-04-30T19:27:53.477Z</updated>
-        <summary type="html"><![CDATA[Where Light Hesitates by Akiss]]></summary>
+        <title type="html"><![CDATA[On the Petal]]></title>
+        <id>1x-3559713</id>
+        <link href="https://1x.com/photo/3559713"/>
+        <updated>2026-05-01T03:42:33.767Z</updated>
+        <summary type="html"><![CDATA[On the Petal by Wei Liu]]></summary>
         <author>
-            <name>Akiss</name>
+            <name>Wei Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美众院通过拨款法案 国土安全部“停摆”结束]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982663</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982663"/>
+        <updated>2026-05-01T02:35:05.000Z</updated>
+        <summary type="html"><![CDATA[美国众议院星期四（4月30日）以口头表决方式通过此前已获参议院批准的国土安全部拨款法案。总统特朗普随后予以签署生效。这意味着国土安全部结束持续两个多月的创纪录“停摆”。
+4月30日通过的法案将为国土安全部下辖的大部分机构提供资金，直至9月30日本财年结束，但不会为移民与海关执法局、边境巡逻队拨款。
+新华社报道，自今年1月两名美国公民在明尼苏达州遭打击非法移民的联邦执法人员枪杀以来，民主党人一直要求对移民与海关执法局运作进行重大改革，但共和党人予以拒绝，导致两党关于国土安全部拨款的谈判陷入僵局。在此背景下，国土安全部临时拨款2月13日到期，并于次日陷入“停摆”。 
+由于“停摆”持续，美国土安全部下辖的运输安全管理局、海岸警卫队、联邦紧急事务管理局等机构的运作受到严重影响，各地机场安检系统受冲击最为明显。联邦紧急事务管理局4月29日宣布，由于其灾害救助资金降至30亿美元（约38亿新元）以下，当局启动“紧急需求资金”机制，优先考虑将资金用于“拯救生命和维持生命”的工作。此前几日，国土安全部长马林说，国土安全部将在5月第一周耗尽资金，无法支付员工工资。
+3月下旬，美国参议院批准一项拨款法案，拟为国土安全部除移民与海关执法局、边境巡逻队以外的大部分机构提供资金。但法案在众议院迟迟未获通过。随后，参议院多数党领袖、共和党人图恩提出一项获特朗普支持的“双轨”策略：先与民主党达成两党协议，为国土安全部提供大部分资金拨款，然后利用所谓“预算协调程序”自行解决移民执法资金问题，确保移民与海关执法局、边境巡逻队的运作资金。该策略帮助破解了拨款法案无法获通过的僵局。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美政府官员：2月28日开始的“敌对行动已结束”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982562</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982562"/>
+        <updated>2026-05-01T02:07:04.000Z</updated>
+        <summary type="html"><![CDATA[新华社引述美国媒体报道，一名不愿透露姓名的美国政府高级官员星期四（4月30日）说，根据《战争权力法》，“2月28日开始的伊朗敌对行动已结束”。
+这名官员称，美国和伊朗在4月7日达成的两周停火已经被延长，“自4月7日以来，美军和伊朗没有发生交火”。
+根据美国1973年通过的《战争权力法》，总统在首次通知国会动用军事力量后，应在60天内决定停止该军事行动或者寻求国会授权继续作战。特朗普政府3月2日正式告知国会已对伊朗发起军事行动，由此推算的60天法律期限将于5月1日到期。
+但美国战争部长赫格塞斯在此期限前夕说，60天期限已因美伊停火暂时中止。
+赫格塞斯4月30日在众议院军事委员会听证会作证时称，美国与伊朗停火4月8日生效，意味着特朗普对伊朗采取军事行动的60天法律期限已“暂停或中止”。
+他说，特朗普政府眼下无须就对伊朗的军事行动寻求国会授权。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：只有少数人知晓美伊谈判实际进展]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982332</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982332"/>
+        <updated>2026-05-01T00:49:35.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普称，除他本人和少数几人外，无人知晓目前美方同伊朗谈判的实际进展。
+综合路透社和新华社报道，特朗普星期四（4月30日）在白宫一场活动上回答媒体提问，对“谈判似乎已停滞，他是否开始不耐烦想打破停火”的提问作上述发言。他坚称不能让伊朗拥有核武器，并指伊朗方面“其实很想达成协议”。
+特朗普再次强调，美国对伊朗的海上封锁正在发挥作用，声称伊朗“经济正在崩溃，他们几乎拿不到石油收入”。他还说，只要同伊朗的战事结束，汽油和原油价格就会迅速回落。
+被问及美国是否可能削减驻意大利和西班牙的美军部队时，特朗普回答道：“是的，很可能。”
+他说，在美国对伊朗的军事行动中，“意大利根本没帮上什么忙，而西班牙的表现糟糕透顶”，并再次批评“德国表现也很糟糕”。
+特朗普29日在社交媒体发文说，美国正在研究削减驻德美军的可能性，相关决定将于近期作出。
+截至2025年12月31日，驻意大利的美军现役人数为1万2662人，驻西班牙美军为3814人，驻德国美军为3万6436人。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华盛顿一高中发生持刀伤人案 五人受伤嫌疑人被捕]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982301</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982301"/>
+        <updated>2026-05-01T00:29:33.000Z</updated>
+        <summary type="html"><![CDATA[美国华盛顿州塔科马市一所高中发生疑似持刀伤人事件，造成五人受伤。嫌疑人是一名学生，已被警方控制。
+福克斯新闻在X平台贴文说，事发于星期四（4月30日）下午。
+据塔科马（Tacoma）消防部门和警方消息，消防员和警员于下午1时40分前赶到福斯高中（Foss High School），处置一起校园冲突或疑似持刀伤人事件。消防人员到达后发现四名学生和一名保安受伤，并将他们送往医院。
+警方说，嫌疑人为这所学校的学生，已被拘押。相关情况仍在调查中。
+事件发生后，福斯高中一度被封锁。警方说，现场已得到控制，执法人员正与校方合作，安排学生回家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普取消苏格兰威士忌关税 致敬英国国王王后访美]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982266</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982266"/>
+        <updated>2026-05-01T00:18:58.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在英国国王查尔斯三世结束访美行程之际，宣布取消苏格兰威士忌关税。
+彭博社称，此举标志着特朗普政府给予英国的一项重大贸易让步。
+特朗普星期四（4月30日）在社交媒体Truth Social贴文说：“我将取消与苏格兰威士忌和肯塔基州波本威士忌相关的关税和限制，苏格兰威士忌和波本威士忌是苏格兰和肯塔基州非常重要的产业。”
+特朗普说，他这么做是为了“向即将返回他们美丽国家的英国国王和王后致敬”。
+特朗普说，查尔斯三世和王后卡米拉“几乎什么都没说，却让我做了一件别人都办不到的事。”
+美国取消苏格兰威士忌关税的具体细节尚未公布，但特朗普同日晚些时候在白宫的一场活动对记者说：“我刚刚取消了所有限制，这样苏格兰和肯塔基就可以重新开展贸易了。我这么做是为了向刚刚离开的国王和王后致敬。”
+美国对苏格兰威士忌征收关税一直是美英之间一个主要争议点。英国方面说，取消这项关税让美国波本威士忌行业收益，因为波本威士忌生产商向苏格兰威士忌生产商出口旧酒桶。苏格兰威士忌是在曾用于陈酿波本威士忌的二手酒桶中熟成的。
+4月30日傍晚，查尔斯三世与卡米拉结束为期四天的美国国事访问，从安德鲁斯空军基地乘专机离开。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI警告：中国黑客一旦离开本国就可能被捕]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982206</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982206"/>
+        <updated>2026-04-30T23:25:34.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦调查局（FBI）高级官员说，中国政府雇佣黑客的生态系统已经“失控”，并为网络犯罪分子提供了“某种合理推诿的借口”。
+路透社报道，FBI助理局长莱瑟曼（Brett Leatherman）星期四（4月30日）警告，中国黑客一旦离开本国就可能被捕。
+莱瑟曼说，中国黑客在中国境内获得的保护“一旦越过国界就不复存在”。
+在莱瑟曼发出警告的几天之前，34岁中国公民徐泽伟（音译）从意大利被引渡到美国。徐泽伟被指控在2020年至2021年为一家中国承包商工作期间，在中国政府的指示下参与了大规模的网络攻击活动。应美国当局要求，徐泽伟去年7月在米兰被捕，意大利法院裁定允许引渡后，被引渡到美国。
+中国驻华盛顿大使馆尚未回应置评请求。
+中国外交部发言人林剑4月27日回应意大利将中国公民引渡至美国受审的消息，指责美国“通过政治操弄捏造罪名”，并敦促意大利“不要成为美国的帮凶”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美战争部长：美对伊战争60天期限因停火暂时中止]]></title>
+        <id>https://www.zaobao.com/news/world/story20260501-8982149</id>
+        <link href="https://www.zaobao.com/news/world/story20260501-8982149"/>
+        <updated>2026-04-30T22:54:41.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在未经国会授权下向伊朗动武的60天期限星期五（5月1日）到期，美国战争部长赫格塞斯在此期限前夕说，60天期限已因美伊停火暂时中止。
+《纽约时报》报道，赫格塞斯星期四（4月30日）在众议院军事委员会听证会作证时称，美国与伊朗停火4月8日生效，意味着特朗普对伊朗采取军事行动的60天法律期限已“暂停或中止”。
+他说，特朗普政府眼下无须就对伊朗军事行动寻求国会授权。
+根据美国1973年通过的《战争权力法》，总统在首次通知国会动用军事力量后，应在60天内决定停止该军事行动或者寻求国会授权继续作战。
+特朗普政府于2月28日与以色列联手对伊朗发动大规模空袭，3月2日才正式告知国会已对伊朗发起军事行动，由此推算的60天法律期限将于5月1日到期。到时，特朗普若未获得授权，理论上必须撤回美军。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -491,92 +596,6 @@ Axios周三也报道，美军中央司令部司令库珀周四会向特朗普汇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国防部：韩美从未讨论削减驻韩美军问题]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8976744</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8976744"/>
-        <updated>2026-04-30T03:51:46.000Z</updated>
-        <summary type="html"><![CDATA[韩国国防部周四说，韩国和美国从未讨论削减驻韩美军的问题。
-韩联社报道，韩国国防部官员星期四（4月30日）告诉记者，驻韩美军的主要任务是与韩军形成牢固的联合防卫态势，从而遏制和应对朝鲜的入侵和挑衅。韩美将继续保持密切沟通，保障美军在朝鲜半岛稳定驻扎，加强两军协防态势。
-美国总统特朗普周三在自家社媒平台Truth Social发文说，正在考虑削减驻德美军规模，并将在不久后作出决定。
-此前有观点指出，出于对欧洲盟友在安全领域“搭便车”的不满，美国或削减在欧洲的驻军规模，但特朗普点名驻德美军并提及削减问题似属首次。
-也有观点认为，美国2026财年《国防授权法》包含限制削减驻韩美军规模的条款，但不能排除特朗普政府调整驻韩美军军事能力部署的可能性。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谭德塞：美国若要退出世卫须先缴清欠款]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8976599</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8976599"/>
-        <updated>2026-04-30T03:30:41.000Z</updated>
-        <summary type="html"><![CDATA[世界卫生组织总干事谭德塞周三说，美国若要退出世卫组织，必须先缴清会费欠款。
-综合新华社和路透社报道，谭德塞星期三（4月29日）在日内瓦举行的记者会上指出，美国仍未缴清在世卫组织的会费欠款。“美国退出世卫组织有两个条件。第一个条件是提前一年通知，这个条件实际上已经满足。第二个条件是缴清欠款。我们希望他们能够做到这一点，但到目前为止，我们还没有收到美国的任何款项。”
-谭德塞还说，目前没有任何迹象表明美国会偿还欠款。“卫生安全需要普遍性。美国退出世卫组织，让自己变得不安全，也让世界其他地区变得不安全。各方都是输家。”
-美国今年1月正式退出世卫组织，但仍积欠2亿6000万美元（约3亿3300万新元）的费用。
-美国不仅拖欠世卫组织会费，也拖欠联合国数十亿美元会费。
-独立新闻机构Devex此前报道称，美国在过去一周向驻日内瓦和纽约的外交官员发出了两份外交照会，要求联合国同意九项“速效”改革，作为美国向联合国释放更多资金的条件。
-美国去年削减对联合国的拨款，今年又退出数十个联合国机构，并多次声称将继续推动联合国改革。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国拟首次在中东部署高超音速导弹 以备打击伊朗]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8976281</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8976281"/>
-        <updated>2026-04-30T03:06:31.000Z</updated>
-        <summary type="html"><![CDATA[知情人士透露，美国中央司令部已制定一项针对伊朗的打击计划，并且已经向陆军申请，将“暗鹰”（Dark Eagle）高超音速导弹部署至中东地区，意在打破当前的谈判僵局。
-如果获得批准，这将是美国首次部署高超音速导弹。这款导弹的研发进度严重滞后，且尚未宣布完全投入使用，而俄罗斯和中国均已部署了各自的同类导弹。
-一名知情者透露，美国中央司令部提出这项请求的理由，是伊朗已将发射装置移出精确打击导弹的射程范围。精确打击导弹的射程超过300英里。
-这名知情者称，陆军尚未就相关请求作出决定。美国中央司令部拒绝置评。
-“暗鹰”又称远程高超音速武器，据报射程超过1725英里，但具体性能仍属机密。这种武器设计用于以超过五倍音速的速度滑翔至目标，并可进行机动以规避拦截。
-另据《华尔街日报》星期三（4月29日）报道，特朗普政府正在要求其他国家加入一个名为“海事自由建构”（Maritime Freedom Construct）的新国际联盟，通过分享信息、协调外交和落实制裁，来推动霍尔木兹海峡恢复航运。
-报道指出，美国国务院已向各地使馆发送内部电讯，要求外交官敦促各国政府加入联盟，显示特朗普政府希望其他国家参与海峡当前和未来的管理。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不满德国批评 特朗普考虑削减驻德美军数量]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975915</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975915"/>
-        <updated>2026-04-30T01:50:38.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普周三（4月29日）在社媒发文说，美国正在评估在德国的驻军数量，近期内将决定是否削减驻军，这反映美德两国在伊朗战争问题上的冲突日益激烈。 
-特朗普在两个总统任期内，因北约军费分摊问题，曾多次威胁要削减在德国和其他欧洲盟国的驻军人数，这回他似乎决心惩罚那些未支持美以攻打伊朗以及未派遣军舰参与霍尔木兹海峡护航行动的盟友。
-德国总理默茨本周早前批评美国在没有制定任何战略的情况下对伊朗发起军事行动，导致目前进退两难，正遭受伊朗“羞辱”。这番话激怒特朗普，他发文称“默茨认为伊朗拥有核武器没问题，根本不知道自己在说什么”。
-据美国官方数据，2025年底，美军共有超过3万6000人驻扎在德国。目前，美军欧洲司令部和非洲司令部均设在德国斯图加特，德国拉姆施泰因空军基地则是美国在中东、北非和南亚军事行动的主要后勤基地。
-特朗普的最新表态引起同样驻有美军的韩国关注。
-韩国国防部周四说，韩美之间从未讨论削减驻韩美军问题。韩方指出，驻韩美军主要任务是与韩军形成牢固的联合防卫，遏制和应对朝鲜入侵和挑衅。韩美将继续保持密切沟通，保障美军稳定驻扎。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对伊战争已花费250亿美元 赫格塞斯坚称美国没陷战争泥潭]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975786</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975786"/>
-        <updated>2026-04-30T01:24:27.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国战争部长赫格塞斯在国会与民主党议员激烈交锋，他声称美国对伊作战目前已花费250亿美元（约320亿新元），但这笔开支是值得的，同时否认美国陷入战争泥潭。分析人士则认为，战争总成本可能远不止这个数字。
-赫格塞斯星期三（4月29日）出席国会众议院军事委员会听证会时，发表上述言论。
-这场听证会长达四个多小时，原定讨论特朗普政府政府史无前例的1.5万亿美元国防预算申请，但实际焦点都集中在伊朗战事等课题。民主党人就战争开支不断飙升、关键弹药储备大幅削减、美国民众生活费高涨问题，对赫格塞斯发出质疑。
-赫格塞斯说，伊朗战争迄今已耗资250亿美元，但为了不让伊朗获取核武器，这笔花费是值得的。
-五角大楼代理总会计师赫斯特说，这笔钱大部分用于弹药消耗，同时也包括作战行动支出和装备补充。
-这是美国首次公布战争费用的官方估算，但并未给出具体账目。
-康涅狄格州民主党参议员布卢门撒尔曾告诉彭博电视台，每日战争成本的保守估计就有20亿美元；《华盛顿邮报》报道，五角大楼估算，仅战争前两天的弹药消耗就达到56亿美元。
-新罕布什尔州民主党众议员古德兰德多次要求五角大楼就战争开支提供具体细节，她在听证会上严厉批评赫格塞斯：“你坐在这里，却无法对已花费的数十亿美元给出说法，这是极其严重的失职。”
-美军在作战中损失数十架飞机，更换这些装备将耗资数十亿美元。美军还损失和损坏多套雷达系统，每套价值数亿美元。
-美国智库史汀森中心高级研究员格里科分析：“五角大楼所说的250亿美元，显然只是对战争成本的狭隘估算，甚至还没算上基地损毁、行动成本，以及五角大楼自身不断上涨的燃油开销。”
-
-赫格塞斯否认美国陷战争泥潭 与民主党议员激烈争执
-
-民主党众议员加拉门迪在听证会上直指赫格塞斯“从战争伊始就向美国公众撒谎”，并称伊朗战争是“一片泥潭”和“各个层面的政治及经济灾难”。
-“在特朗普发动伊朗战争的60天里，关键弹药消耗速度惊人，库存水平已降至不足以遏制中国的程度。”
-赫格塞斯随即指责民主党人“鲁莽、软弱、消极”。“你们说这是泥潭，这岂不是给敌人送上宣传素材？你们真该为发表这种言论感到羞耻。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年4月推荐]]></title>
         <id>/archives/2026nian-4yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
@@ -584,39 +603,6 @@ Axios周三也报道，美军中央司令部司令库珀周四会向特朗普汇
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月30日 资源合集 视频号在线下载 4月28日 文本转语音 myDV Lite_v1.3.0 一个轻量化电视TV版抖音APP，吾爱大佬开发 4月27日 无羁 音乐播放器 一款现]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图刺杀特朗普枪手 酒店持武器自拍照曝光]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975655</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975655"/>
-        <updated>2026-04-30T00:52:44.000Z</updated>
-        <summary type="html"><![CDATA[闯入美国白宫记者晚宴、被控企图刺杀总统特朗普的枪手，干案前曾在酒店房间内自拍。
-持枪犯案的艾伦（Cole Tomas Allen，31岁）星期一（4月27日）被控企图刺杀特朗普，如果罪成，可判处终身监禁。
-检方周三（29日）称，在行凶前几分钟，艾伦浏览了报道特朗普行踪的网站，并武装自己，还在酒店房间的镜子前用手机自拍。
-照片显示，他身穿黑色衣服，系着红色领带，携带一把刀、一个手枪肩套，以及一个据当局称是弹药包的物品。
-离开房间时，他预先设置好的邮件发送给了亲友，邮件中包含一份解释其行为的宣言。
-艾伦涉嫌为这场被检方称为“令人发指的恶意”袭击所做准备的细节，在一份要求华盛顿联邦法院拒绝保释的文件中曝光。
-上星期六晚上，艾伦持枪企图闯入在华盛顿希尔顿酒店举行的白宫记者协会晚宴，出席活动的特朗普、副总统万斯等政要紧急撤离，艾伦随后被制伏逮捕。
-除了被控企图刺杀总统，艾伦也被控跨州运输武器及使用枪械实施暴力犯罪。他在周一的听证会上没有回应这些指控。
-艾伦将于美东时间星期四（30日）再次出庭，法庭将决定是否继续将他羁押候审。预审听证会定于5月11日举行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储主席人选沃什通过参议院关键关卡 有望5月确认]]></title>
-        <id>https://www.zaobao.com/news/world/story20260430-8975581</id>
-        <link href="https://www.zaobao.com/news/world/story20260430-8975581"/>
-        <updated>2026-04-30T00:13:06.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普提名的美联储下任主席人选沃什（Kevin Warsh）赢得参议院银行委员会支持，正式进入全院表决程序。
-此次投票严格按照党派立场划线进行，参议院银行委员会内13名共和党议员全部投下赞成票，11名民主党议员则全部投反对票。
-在通过上述程序性关卡后，沃什的提名将提交至由共和党控制的参议院进行全院审议。目前几乎可以确定，参议院最终将通过沃什的提名。
-若最终获确认，沃什将在现任美联储主席鲍威尔的任期于5月15日届满前接掌美联储。
-马萨诸塞州参议员、银行委员会资深成员沃伦（Elizabeth Warren）在沃什的提名获通过后警告，特朗普仍执意要控制美联储人为刺激经济，而美国经济未来面临滞胀的风险。
-沃什在争取特朗普提名时提出了大刀阔斧改革美联储的设想，并承诺缩减美联储6.7万亿美元（约8.58万亿新元）的资产负债表，建立新的通胀管理框架，并改变央行与公众的沟通方式。然而，他并未就如何实现这些目标提供多少细节。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -848,16 +834,6 @@ OpenAI 曾经设想过月费2万美元的套餐，提供最顶级、无限量的
         <link href="https://ducorn.com/glp1-after-stopping"/>
         <updated>2026-04-02T16:09:21.000Z</updated>
         <summary type="html"><![CDATA[Cleveland Clinic 8,000 人真實數據：停打瘦瘦筆後平均只復胖 0.5%。但 STEP 1 臨床試驗說三分之二會回來。差了 130 倍的原因不在誰說謊。是「停藥」的定義完全不同。加上 WashU 33 萬人研究發現，停藥後心臟保護在六個月內就開始消退。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMN 有用嗎？四個長壽專家互相矛盾的 2026 證據排行]]></title>
-        <id>https://ducorn.com/longevity-science</id>
-        <link href="https://ducorn.com/longevity-science"/>
-        <updated>2026-04-01T15:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Peter Attia 說運動，David Sinclair 說 NMN，但 Sinclair 自己 2025 年辭掉長壽學會會長、縮減補充劑清單。PEARL 試驗主要終點失敗，Blue Zones 發明人棄守沖繩。台灣人花 NT$2,500-10,000 買的 NMN，食藥署連合法食品原料都不算。按證據強度排序，你該做的和不該花錢的。]]></summary>
         <author>
             <name>讀角獸</name>
         </author>
