@@ -2,198 +2,299 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T13:20:43.156Z</updated>
+    <updated>2026-05-02T19:05:47.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Little Rock Thrush]]></title>
-        <id>1x-3548904</id>
-        <link href="https://1x.com/photo/3548904"/>
-        <updated>2026-05-02T13:19:58.860Z</updated>
-        <summary type="html"><![CDATA[Little Rock Thrush by Ahmed Elkahlawi]]></summary>
+        <title type="html"><![CDATA[2025_09]]></title>
+        <id>1x-3566583</id>
+        <link href="https://1x.com/photo/3566583"/>
+        <updated>2026-05-02T19:05:00.592Z</updated>
+        <summary type="html"><![CDATA[2025_09 by Rainer Neumann]]></summary>
         <author>
-            <name>Ahmed Elkahlawi</name>
+            <name>Rainer Neumann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fishnet stocking bridge]]></title>
-        <id>1x-3563486</id>
-        <link href="https://1x.com/photo/3563486"/>
-        <updated>2026-05-02T13:19:58.858Z</updated>
-        <summary type="html"><![CDATA[fishnet stocking bridge by Sofie Steenhoudt]]></summary>
+        <title type="html"><![CDATA[Frozen thoughts]]></title>
+        <id>1x-3566081</id>
+        <link href="https://1x.com/photo/3566081"/>
+        <updated>2026-05-02T19:05:00.590Z</updated>
+        <summary type="html"><![CDATA[Frozen thoughts by Rucsandra Silvia Calin]]></summary>
         <author>
-            <name>Sofie Steenhoudt</name>
+            <name>Rucsandra Silvia Calin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Der rote Eimer]]></title>
-        <id>1x-3514242</id>
-        <link href="https://1x.com/photo/3514242"/>
-        <updated>2026-05-02T13:19:58.856Z</updated>
-        <summary type="html"><![CDATA[Der rote  Eimer by Gülay Sween]]></summary>
+        <title type="html"><![CDATA[Vertical Serenity]]></title>
+        <id>1x-3554908</id>
+        <link href="https://1x.com/photo/3554908"/>
+        <updated>2026-05-02T19:05:00.587Z</updated>
+        <summary type="html"><![CDATA[Vertical Serenity by Els Keurlinckx]]></summary>
         <author>
-            <name>Gülay Sween</name>
+            <name>Els Keurlinckx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Innocent face - Gaza]]></title>
-        <id>1x-3567003</id>
-        <link href="https://1x.com/photo/3567003"/>
-        <updated>2026-05-02T13:19:58.853Z</updated>
-        <summary type="html"><![CDATA[Innocent face - Gaza by Hazem Swidan]]></summary>
+        <title type="html"><![CDATA[fairy land]]></title>
+        <id>1x-3567096</id>
+        <link href="https://1x.com/photo/3567096"/>
+        <updated>2026-05-02T19:05:00.585Z</updated>
+        <summary type="html"><![CDATA[fairy land by Hilda van der Lee]]></summary>
         <author>
-            <name>Hazem Swidan</name>
+            <name>Hilda van der Lee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L O N D O N]]></title>
-        <id>1x-3566912</id>
-        <link href="https://1x.com/photo/3566912"/>
-        <updated>2026-05-02T13:19:58.844Z</updated>
-        <summary type="html"><![CDATA[L O N D O N by Robert Fabrowski]]></summary>
+        <title type="html"><![CDATA[Gadaba lady]]></title>
+        <id>1x-3567073</id>
+        <link href="https://1x.com/photo/3567073"/>
+        <updated>2026-05-02T19:05:00.582Z</updated>
+        <summary type="html"><![CDATA[Gadaba lady by Myriam LEPLAT]]></summary>
         <author>
-            <name>Robert Fabrowski</name>
+            <name>Myriam LEPLAT</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portrait at the Durval Festival, Nigeria]]></title>
-        <id>1x-3285123</id>
-        <link href="https://1x.com/photo/3285123"/>
-        <updated>2026-05-02T13:19:58.838Z</updated>
-        <summary type="html"><![CDATA[Portrait at the Durval Festival, Nigeria by Francisco Mendoza Ruiz]]></summary>
+        <title type="html"><![CDATA[Duality]]></title>
+        <id>1x-3566971</id>
+        <link href="https://1x.com/photo/3566971"/>
+        <updated>2026-05-02T19:05:00.579Z</updated>
+        <summary type="html"><![CDATA[Duality by Frank Ma]]></summary>
         <author>
-            <name>Francisco Mendoza Ruiz</name>
+            <name>Frank Ma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wading]]></title>
-        <id>1x-3567032</id>
-        <link href="https://1x.com/photo/3567032"/>
-        <updated>2026-05-02T13:19:58.834Z</updated>
-        <summary type="html"><![CDATA[Wading by Ling Zhang]]></summary>
+        <title type="html"><![CDATA[Yogi...]]></title>
+        <id>1x-3567076</id>
+        <link href="https://1x.com/photo/3567076"/>
+        <updated>2026-05-02T19:05:00.570Z</updated>
+        <summary type="html"><![CDATA[Yogi... by Thierry Dufour]]></summary>
         <author>
-            <name>Ling Zhang</name>
+            <name>Thierry Dufour</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monolithic Balance]]></title>
-        <id>1x-3567001</id>
-        <link href="https://1x.com/photo/3567001"/>
-        <updated>2026-05-02T13:19:58.831Z</updated>
-        <summary type="html"><![CDATA[Monolithic Balance by Byeonggoo Kim]]></summary>
+        <title type="html"><![CDATA[Pyrrhosoma nymphula]]></title>
+        <id>1x-3567097</id>
+        <link href="https://1x.com/photo/3567097"/>
+        <updated>2026-05-02T19:05:00.566Z</updated>
+        <summary type="html"><![CDATA[Pyrrhosoma nymphula by Fabrizio Daminelli]]></summary>
         <author>
-            <name>Byeonggoo Kim</name>
+            <name>Fabrizio Daminelli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oriental Magpie-Robin]]></title>
-        <id>1x-3566986</id>
-        <link href="https://1x.com/photo/3566986"/>
-        <updated>2026-05-02T13:19:58.827Z</updated>
-        <summary type="html"><![CDATA[Oriental Magpie-Robin by Adventure Photo]]></summary>
+        <title type="html"><![CDATA[Motorcycle Falls Taipei]]></title>
+        <id>1x-3531466</id>
+        <link href="https://1x.com/photo/3531466"/>
+        <updated>2026-05-02T19:05:00.563Z</updated>
+        <summary type="html"><![CDATA[Motorcycle Falls Taipei by Jiahong Zeng]]></summary>
         <author>
-            <name>Adventure Photo</name>
+            <name>Jiahong Zeng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Female Cardinal Bathing]]></title>
-        <id>1x-3566938</id>
-        <link href="https://1x.com/photo/3566938"/>
-        <updated>2026-05-02T13:19:58.824Z</updated>
-        <summary type="html"><![CDATA[Female Cardinal Bathing by Michael Burlak]]></summary>
+        <title type="html"><![CDATA[Waiting for Godot]]></title>
+        <id>1x-3567324</id>
+        <link href="https://1x.com/photo/3567324"/>
+        <updated>2026-05-02T19:05:00.556Z</updated>
+        <summary type="html"><![CDATA[Waiting for Godot by Fadwa Rouhana]]></summary>
         <author>
-            <name>Michael Burlak</name>
+            <name>Fadwa Rouhana</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["W sieci" Gruzja]]></title>
-        <id>1x-3566366</id>
-        <link href="https://1x.com/photo/3566366"/>
-        <updated>2026-05-02T13:19:58.820Z</updated>
-        <summary type="html"><![CDATA["W sieci" Gruzja by Jan Monkiewicz]]></summary>
+        <title type="html"><![CDATA[Captive of Lines]]></title>
+        <id>1x-3567214</id>
+        <link href="https://1x.com/photo/3567214"/>
+        <updated>2026-05-02T19:05:00.548Z</updated>
+        <summary type="html"><![CDATA[Captive of Lines by Jana Andělová]]></summary>
         <author>
-            <name>Jan Monkiewicz</name>
+            <name>Jana Andělová</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Donut DriveIn]]></title>
-        <id>1x-3565502</id>
-        <link href="https://1x.com/photo/3565502"/>
-        <updated>2026-05-02T13:19:58.816Z</updated>
-        <summary type="html"><![CDATA[Donut DriveIn by Ash Page]]></summary>
+        <title type="html"><![CDATA[Passing Through]]></title>
+        <id>1x-3567031</id>
+        <link href="https://1x.com/photo/3567031"/>
+        <updated>2026-05-02T19:05:00.544Z</updated>
+        <summary type="html"><![CDATA[Passing Through by Annette Guo]]></summary>
         <author>
-            <name>Ash Page</name>
+            <name>Annette Guo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Solitary Chapel]]></title>
-        <id>1x-3566914</id>
-        <link href="https://1x.com/photo/3566914"/>
-        <updated>2026-05-02T13:19:58.800Z</updated>
-        <summary type="html"><![CDATA[A Solitary Chapel by Rong Wei]]></summary>
+        <title type="html"><![CDATA[may bells]]></title>
+        <id>1x-3567408</id>
+        <link href="https://1x.com/photo/3567408"/>
+        <updated>2026-05-02T19:05:00.539Z</updated>
+        <summary type="html"><![CDATA[may bells by Monique Delaet]]></summary>
         <author>
-            <name>Rong Wei</name>
+            <name>Monique Delaet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Triumph]]></title>
-        <id>1x-3566943</id>
-        <link href="https://1x.com/photo/3566943"/>
-        <updated>2026-05-02T13:19:58.795Z</updated>
-        <summary type="html"><![CDATA[Triumph by YU LIN]]></summary>
+        <title type="html"><![CDATA[American classic car 1959 Rear]]></title>
+        <id>1x-3567253</id>
+        <link href="https://1x.com/photo/3567253"/>
+        <updated>2026-05-02T19:05:00.535Z</updated>
+        <summary type="html"><![CDATA[American classic car 1959 Rear by Beate Gube]]></summary>
         <author>
-            <name>YU LIN</name>
+            <name>Beate Gube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arch on the beam]]></title>
-        <id>1x-3566972</id>
-        <link href="https://1x.com/photo/3566972"/>
-        <updated>2026-05-02T13:19:58.792Z</updated>
-        <summary type="html"><![CDATA[Arch on the beam by Rob Li]]></summary>
+        <title type="html"><![CDATA[Honey，I am coming]]></title>
+        <id>1x-3560301</id>
+        <link href="https://1x.com/photo/3560301"/>
+        <updated>2026-05-02T19:05:00.523Z</updated>
+        <summary type="html"><![CDATA[Honey，I am coming by Sherry Huang]]></summary>
         <author>
-            <name>Rob Li</name>
+            <name>Sherry Huang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mirror of Blossoms]]></title>
-        <id>1x-3566931</id>
-        <link href="https://1x.com/photo/3566931"/>
-        <updated>2026-05-02T13:19:58.784Z</updated>
-        <summary type="html"><![CDATA[Mirror of Blossoms by blue202190]]></summary>
+        <title type="html"><![CDATA[The Gentlemenbike]]></title>
+        <id>1x-3567364</id>
+        <link href="https://1x.com/photo/3567364"/>
+        <updated>2026-05-02T19:05:00.514Z</updated>
+        <summary type="html"><![CDATA[The Gentlemenbike by Hans Repelnig]]></summary>
         <author>
-            <name>blue202190</name>
+            <name>Hans Repelnig</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vigors's sunbird { male}]]></title>
-        <id>1x-3566950</id>
-        <link href="https://1x.com/photo/3566950"/>
-        <updated>2026-05-02T13:19:58.591Z</updated>
-        <summary type="html"><![CDATA[Vigors's sunbird { male} by Sandeep Shroff]]></summary>
+        <title type="html"><![CDATA[Sunshine Icicle]]></title>
+        <id>1x-3564881</id>
+        <link href="https://1x.com/photo/3564881"/>
+        <updated>2026-05-02T19:05:00.508Z</updated>
+        <summary type="html"><![CDATA[Sunshine Icicle by Ben.C.L]]></summary>
         <author>
-            <name>Sandeep Shroff</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Focused fox]]></title>
-        <id>1x-3567049</id>
-        <link href="https://1x.com/photo/3567049"/>
-        <updated>2026-05-02T13:19:58.571Z</updated>
-        <summary type="html"><![CDATA[Focused fox by Allan Wallberg]]></summary>
+        <title type="html"><![CDATA[The Perfect Girl]]></title>
+        <id>1x-3567234</id>
+        <link href="https://1x.com/photo/3567234"/>
+        <updated>2026-05-02T19:05:00.208Z</updated>
+        <summary type="html"><![CDATA[The Perfect Girl by Christopher Scurrah]]></summary>
         <author>
-            <name>Allan Wallberg</name>
+            <name>Christopher Scurrah</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winter castle]]></title>
-        <id>1x-3563388</id>
-        <link href="https://1x.com/photo/3563388"/>
-        <updated>2026-05-02T13:19:58.555Z</updated>
-        <summary type="html"><![CDATA[Winter castle by Daniel Goldbach]]></summary>
+        <title type="html"><![CDATA[The Chosen Legacy]]></title>
+        <id>1x-3562400</id>
+        <link href="https://1x.com/photo/3562400"/>
+        <updated>2026-05-02T19:05:00.194Z</updated>
+        <summary type="html"><![CDATA[The Chosen Legacy by Tatsuhiro Takayama]]></summary>
         <author>
-            <name>Daniel Goldbach</name>
+            <name>Tatsuhiro Takayama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺贝尔委员会：伊朗须让和平奖得主穆罕默迪接受治疗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8988988</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8988988"/>
+        <updated>2026-05-02T16:02:04.000Z</updated>
+        <summary type="html"><![CDATA[诺贝尔和平奖委员会主席约尔根·瓦特内·弗里德内斯说，伊朗当局必须将诺贝尔和平奖得主纳尔吉斯·穆罕默迪移交给她的医疗团队，以便她能尽快接受治疗，因为她的生命仍然受到威胁。
+路透社报道，伊朗著名女权捍卫者穆罕默迪（Narges Mohammadi）因在伊朗争取人权的努力而荣获2023年诺贝尔和平奖。弗里德内斯星期六（5月2日）引述穆罕默迪的家人和律师的话说，穆罕默迪的健康状况“严重恶化”。
+穆罕默迪家人管理的穆罕默迪基金会星期五在官方网站发布声明说，穆罕默迪因健康状况灾难性恶化，包括发生过两次完全失去意识和一次严重心脏危机，已紧急送往位于桑扬（Zanjan）的一所医院。
+穆罕默迪因推动伊朗女权及废除死刑，在狱中获得诺贝尔奖殊荣。她去年12月再因在律师阿里科迪（Khosrow Alikordi）的追悼会上就其死因发言，被控发表煽动性言论而在12月遭到逮捕。
+穆罕默迪基金会2月说，她再判刑七年半，数周后，美国和以色列对伊朗发动战争。当时挪威诺贝尔委员会呼吁立即释放她。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搁浅一个多月 座头鲸“蒂米”回归北海]]></title>
+        <id>https://www.zaobao.com/news/world/story20260502-8988968</id>
+        <link href="https://www.zaobao.com/news/world/story20260502-8988968"/>
+        <updated>2026-05-02T15:52:07.000Z</updated>
+        <summary type="html"><![CDATA[一个多月前在德国沿岸搁浅的座头鲸顺利由驳船运送至丹麦附近的北海，回归辽阔的海洋。
+这头鲸鱼的遭遇曾牵动无数人的心，德国人昵称它为“蒂米”（Timmy）。资助此次救援行动的富商之一卡琳·沃尔特-莫默特（Karin Walter-Mommert）介绍，“蒂米”从驳船中出来后，从喷水孔喷出空气，游向远方。
+法新社引述沃尔特-莫默特说，“蒂米”现在已经能自由地游动，至少看来，是朝着正确的方向前进。
+她还说，蒂米“身上有一些小伤——可能是由于在波涛汹涌的海面上运输造成的——但都是皮外伤”。
+这位靠赛马发家的女企业家补充说，它“现在应该会沿着挪威海岸向北极游去”。
+这头鲸鱼于3月23日首次被发现搁浅在德国波罗的海沿岸吕贝克市（Luebeck）附近的一处沙洲上，之后它曾多次脱困，但又多次再次搁浅。
+德国官员4月初时认为救援无望，决定放弃拯救“蒂米”，引发群众强烈抗议，德国当局最后批淮了沃尔特-莫默特和另一名女企业商提出的私人资助救援计划。
+她们想出了一个在许多人看来希望渺茫的计划：将鲸鱼引诱到一艘特制驳船的注水船舱中，将它拖回其自然栖息地。
+一些专家批评了这项私人资助的救援计划，认为它只会给鲸鱼带来更大的痛苦。但这个救援计划取得了成功，组织者说，鲸鱼于星期六（5月2日）上午8时45分左右（新加坡时间14时45分）从波罗的海沿岸的维斯马湾（Wismar Bay）离开了驳船。
+据德国通讯社（DPA）报道，“蒂米”身上已经安装了全球卫星定位系统（GPS）发射器，以便追踪它未来的行踪。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一艘油轮在也门南部海域遭劫持]]></title>
+        <id>https://www.zaobao.com/news/world/story20260502-8988884</id>
+        <link href="https://www.zaobao.com/news/world/story20260502-8988884"/>
+        <updated>2026-05-02T14:53:42.000Z</updated>
+        <summary type="html"><![CDATA[也门海岸警卫队说，一伙身份不明的武装分子在舍卜瓦省（Shabwa）海岸附近登上并劫持了一艘油轮，这艘油轮已驶向索马里海岸。
+也门海岸警卫队星期六（5月2日）发表声明说，他们在当天接到报告，一艘名为“尤里卡”号（M/T EUREKA）的油轮在也门南部海域遭袭，武装分子控制了这艘油轮并改变其航向。
+新华社引述声明说，也门海岸警卫队立即启动响应程序，从亚丁港派出两艘巡逻艇，并从舍卜瓦港派出小型船只进行搜寻和追踪。
+英国海上贸易行动办公室此前多次就也门南部海域的海上安全形势发出警告。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称伊朗行动已结束 但不满意伊朗新方案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260502-8988698</id>
+        <link href="https://www.zaobao.com/news/world/story20260502-8988698"/>
+        <updated>2026-05-02T14:41:49.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／德黑兰综合电）美国总统特朗普周五（5月1日）致函国会参众两院议长，称美国与伊朗的敌对行动已经结束。这一说法旨在规避他未经国会授权动用部队的60天期限，他同时称，这场战事可能远未结束。 
+特朗普在信中说：“自4月7日以来，美伊没再发生交火，从2026年2月28日开始的敌对行动已经结束”。不过，他指出伊朗仍显著威胁美国安全，国防部因此继续调整在美军中央司令部责任区相关国家的军事部署态势，以应对伊朗及其代理人的威胁。
+美国媒体认为，特朗普的说法实际上规避5月1日这一法律最后期限。1973年生效的《战争权力法》规定，总统如果未获国会批准而动武，必须在60天内终止行动。从特朗普3月2日正式通知国会向伊朗开战算起，5月1日就是第60天。到期后，若特朗普不获国会批准继续作战，须在30天内撤军。
+特朗普周五在白宫对记者说，美国不会提前结束与伊朗的对抗，然后让问题在三年后再次出现。
+他称伊朗希望达成协议，但他不满意伊朗提出的新方案，并把谈判陷入僵局归咎伊朗领导层内部的巨大分歧。
+对于记者问及政府的选项，特朗普称，战争局面不能一直继续下去，从人道主义角度来说，他更倾向于不继续打仗。
+
+美特使据报将伊核计划重新纳入谈判
+
+白宫拒绝提供伊朗方案的细节，不过美国新闻网站Axios报道称，特朗普的特使威特科夫已提交修正案，重新把伊朗核计划纳入谈判。这些修改包括要伊朗在谈判期间，不得从被轰炸的地点转移浓缩铀或在那里恢复浓缩铀活动。
+伊朗媒体周六报道，伊朗外交部长阿拉格齐称，如果美国改变方式，不要提出过多要求、停止威胁的言论和挑衅，伊朗仍愿同美国进行外交对话。
+前一天，伊朗最高领袖穆杰塔巴发书面声明，呼吁伊朗人民争取经济和文化斗争的胜利，让敌人失望并击败敌人。
+穆杰塔巴也呼吁人民优先消费国产商品，并提醒企业经营者，应尽可能避免裁员和解散员工。
+货币追踪机构称，本周伊朗货币对美元汇率暴跌至历史新低。劳工部一名官员说，由于战争的影响，已有超过19万人失业，申请失业救济金。
+
+伊朗态度强硬  欧洲多国预计僵局持续
+
+路透社的分析指出，美伊战争持续两个多月，却未能让美国在军事或外交取得决定性的胜利，这让特朗普面临与伊朗的对峙可能无限期拖延的风险，最终给美国和全球留下比开战前更棘手的问题。
+分析说，冲突若迟迟无法解决，全球经济冲击可能持续，对支持率下滑的特朗普构成更大压力，这也会削弱共和党在11月中期选举的胜算。
+欧洲多名外交官员透露，欧洲各国政府预计美国与伊朗的僵局将持续下去。一名外交官说：“很难想象这种情况会很快结束”，伊朗的态度仍然强硬。
+有分析认为，在被美国狠狠打击后，伊朗仍幸存下来，德黑兰会将此解读为自身的战略胜利。
+华盛顿智库战略与国际研究中心的中东项目主任奥尔特曼也说，经过这场战争，“伊朗已经意识到，即使在国力衰弱的情况下，它也能随意封锁霍尔木兹海峡。这种认知，使伊朗比战前更加强大”。
+
+美驻中东基地设施受损严重  战争支出或逾四百亿美元
+
+另一方面，美国这次军事行动蒙受的损失，也受关注。美国有线电视新闻网（CNN）周五发布的调查报道指出，自2月28日攻打伊朗以来，美国分布在中东地区八个国家的至少16处军事设施，在伊朗的袭击中受损，其中一些设施已无法使用。
+卫星图像显示，伊朗主要打击目标包括美国的先进雷达系统、通信系统和飞机，许多是价格高昂且难以替换的。
+一名熟悉受损情况评估的美国国会助理透露，伊朗把这些设施当成是“最划算的攻击目标”。在中东地区，雷达系统不仅造价最为昂贵，也是美方最稀缺的资源。 
+五角大楼代理总会计师赫斯特周三在众议院军事委员会听证会说，美国至今的战事支出达250亿美元（约320亿新元）。随后，一名消息人士向CNN透露，实际支出可能是400亿至500亿美元。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋退出 OPEC+原则上同意小幅增产]]></title>
+        <id>https://www.zaobao.com/news/world/story20260502-8988852</id>
+        <link href="https://www.zaobao.com/news/world/story20260502-8988852"/>
+        <updated>2026-05-02T14:29:45.000Z</updated>
+        <summary type="html"><![CDATA[据两名熟悉石油输出国组织+（OPEC+）内部想法的消息人士透露，尽管阿拉伯联合酋长国退出，七个OPEC+成员已原则上同意在6月份将石油日产量目标提高约18.8万桶，并继续推进计划。
+就在几天前，阿联酋意外宣布计划于5月1日退出油盟（OPEC），对油盟及领导国沙特阿拉伯无疑构成打击，石油行业正努力应对伊朗战争造成的供应中断。
+路透社引述消息人士称，此次增产幅度将与4月的每日20.6万桶幅度大致相当，但不包括阿联酋的份额。目前来看，此次增产在很大程度上只是象征性的，因为受美国和以色列对伊朗战争的影响，霍尔木兹海峡的大部分航运已经中断，对OPEC+造成重大冲击。
+两名消息人士均要求匿名。七个成员国计划于星期天举行线上会议。一名消息人士此前说，OPEC+的这一决定表明，它采取运作如常的策略。
+2月28日爆发的伊朗战争以及由此导致的霍尔木兹海峡封锁，严重打击了油盟成员沙特阿拉伯、伊拉克、科威特以及阿联酋的石油出口。冲突爆发前，这些产油国是组织中能够增产的国家。
+伊朗也是油盟成员，但并未参加星期天举行的七国会议。自4月美国实施封锁以来，伊朗的石油出口也大幅下降。
+油盟上个月发布的一份报告显示，3月份OPEC+所有成员国的原油日均产量为3506万桶，较2月份下降770万桶。其中，伊拉克和沙特阿拉伯因出口受限而减产幅度最大。除波斯湾地区外，俄罗斯在基础设施遭到乌克兰无人机袭击后也削减了产量。
+参加星期天会议的七个成员国分别是沙特阿拉伯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦、俄罗斯和阿曼。随着阿联酋的退出，OPEC+目前包含伊朗等21个成员国，但近年来只有这七个国家加上阿联酋参与每月产量决策。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -229,12 +330,14 @@
 
 同一天，美国国务院以涉及伊朗石油贸易为由，宣布制裁中国的青岛海业油码头有限公司，称它“使用掩人耳目的船运手法，进口数千万桶被制裁的伊朗原油”。
 国务院声明说：“只要伊朗意图继续赚取石油收入来资助破坏稳定的活动，美国将会对它和所有帮助它规避制裁的伙伴追究责任。”
-对青岛海业油码头的制裁意味着，美国业者若与这家公司进行任何交易，都属违法。美国去年也对当地另一家业者、青岛港海业董家口油品公司实施类似制裁。 美国财政部本周早前也警告各国银行，若协助中国炼油业者购买伊朗石油，将面对处以二级制裁的风险。
+对青岛海业油码头的制裁意味着，美国业者若与这家公司进行任何交易，都属违法。美国去年也对当地另一家业者、青岛港海业董家口油品公司实施类似制裁。 
+美国财政部本周早前也警告各国银行，若协助中国炼油业者购买伊朗石油，将面对处以二级制裁的风险。
 
               
 美国国务院周五以涉及进口伊朗石油为由，宣布制裁中国的青岛海业油码头有限公司。图为一艘油轮在青岛港口卸油的资料照片。（法新社）
             
-根据海运贸易信息公司Kpler的数据，美军封锁霍尔木兹海峡已扼制伊朗的原油出口，断绝德黑兰一笔主要的收入来源。原油无法出海也导致伊朗的储油设施即将满载，面对大量减产的风险。特朗普政府如今再针对伊朗最大石油买家中国推出新一轮制裁，试图进一步勒紧伊朗的石油收入命脉。
+根据海运贸易信息公司Kpler的数据，美军封锁霍尔木兹海峡已扼制伊朗的原油出口，断绝德黑兰一笔主要的收入来源。原油无法出海也导致伊朗的储油设施即将满载，面对大量减产的风险。
+特朗普政府如今再针对伊朗最大石油买家中国推出新一轮制裁，试图进一步勒紧伊朗的石油收入命脉。
 
 中国商务部发禁令反制美国制裁
 
@@ -506,100 +609,6 @@
 当天，古巴民众上街示威，谴责美国对古巴的经济封锁及能源限制。
 美国长期对古巴实施经济、金融封锁、贸易禁运。今年年初，特朗普政府对委内瑞拉发动大规模军事打击后，进一步加大对古巴施压，包括实施新一轮石油限制措施。
 特朗普多次威胁称，完成对委内瑞拉和伊朗的军事行动后，“下一个就是古巴”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国从德国撤5000驻军 跨大西洋关系持续恶化]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986223</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986223"/>
-        <updated>2026-05-02T00:24:59.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／柏林综合电）继美国总统特朗普与德国总理默茨就伊朗战争爆发激烈言辞交锋后，五角大楼星期五（5月1日）宣布将在未来一年内，从德国撤出约5000名士兵。此举被视为特朗普对欧洲盟友在伊朗战场上支持力度不足的直接惩罚。
-此次撤军涉及美军在德国3万6436名士兵的重要部分，其中包括一个旅级战斗部队，原定部署的一支远程火力营计划也将取消。
-五角大楼发言人帕内尔说，五角大楼是在对欧洲的兵力部署进行全面审查后，考虑到实际需要而决定撤军。撤军行动将在六到12个月内完成。
-五角大楼一名官员说，这次撤兵将使美国在欧洲的兵力，恢复到2022年2月俄罗斯入侵乌克兰前的水平。
-
-德防长：在意料之中 欧洲须自强
-
-德国国防部长皮斯托留斯在回应美国撤军消息时说，美国的举动“在意料之中”，并再次强调欧洲必须提升自主防卫能力。
-他说，德国正在扩充武装部队，加快并扩大装备采购规模，以及加强基础设施建设。
-德国计划将现役军人数量从目前的18万5000人增至26万人。
-北约发言人说，正在同美国协调了解美国的撤军决定。“这一调整凸显欧洲须继续加大国防投入，并承担更多维护共同安全的责任。”
-特朗普最近不断指责默茨，威胁削减驻德美军。默茨4月27日批评美国在没有制定任何战略的情况下攻打伊朗，导致进退两难，遭受伊朗羞辱。这番话激怒特朗普，他过后发文指默茨“根本不知道自己在说什么”，并威胁从德国撤军。
-美国也向其他欧洲盟友施压。据《金融时报》披露，五角大楼已向英国、波兰、立陶宛和爱沙尼亚等盟友发出预警，称由于美军须补充武器库存，可能出现严重的武器交付延迟。受影响的装备包括高机动性多管火箭系统（HIMARS）和国家先进地对空导弹系统（NASAMS）等。
-
-美加速向中东盟友出口军备
-
-向欧洲施压的同时，美国国务卿鲁比奥星期五引用紧急状态条款，绕过标准的国会审核程序，批准总额86亿美元（约109亿5000万新元）的紧急军售案，向以色列、卡塔尔、科威特及阿拉伯联合酋长国等中东盟友，快速运送防空导弹和激光制导系统。
-伊朗战争进入第九周，高强度的作战行动已严重消耗美军库存。美军甚至被迫从印太地区调拨物资，引发亚洲盟友对美军能否同时应对潜在台海危机的深度焦虑。分析指出，日本、韩国等高度依赖美国导弹防御系统的国家，可能将不得不寻求更多本土制造或其他非美系防务替代方案。
-地缘政治专家分析，跨大西洋关系的动摇已不是一时的言辞冲突所引起的。二战后的秩序正面临重构，美国的欧洲盟友正意识到，仅依靠美国提供安全伞已不再稳妥。
-布鲁金斯学会学者赖特（Tom Wright）指出，五角大楼现在可能须要在中东打一场持久战，同时也急于在印太地区巩固威慑力。“为此，美国不惜牺牲欧洲的利益。欧洲必须以极速重建自己的国防工业基础。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普“不满意”伊朗提出的最新谈判方案]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986211</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986211"/>
-        <updated>2026-05-01T23:44:49.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他对伊朗提出的最新谈判方案“不满意”，而伊朗外长阿拉格齐说，如果美国改变“过激”做法，德黑兰愿意通过外交途径解决问题。 
-路透社报道，特朗普星期五（5月1日）在离开白宫前往佛罗里达州时告诉记者，“他们想达成协议，但我对提案不满意。”
-特朗普指伊朗领导层“非常分裂”，分成了两三个派系。但他赞扬巴基斯坦的斡旋努力，称电话谈判仍在继续。
-特朗普证实，他已听取美军中央司令部关于军事选项的最新简报，并称他有让军事升级和达成协议两个选项，但他更愿意达成协议。
-伊朗伊斯兰共和国通讯社同日报道，伊朗已于4月30日经由巴基斯坦向美国转交最新的谈判方案。 
-阿拉格齐1日说，如果美国放弃“过激做法、威胁言论和挑衅行动”，伊朗准备通过外交解决问题。但他在Telegram发帖补充说：“伊朗武装部队随时准备保卫国家抵御任何威胁。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[称欧盟未遵守协议 特朗普把欧盟汽车卡车关税提高至25%]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986183</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986183"/>
-        <updated>2026-05-01T23:22:00.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／布鲁塞尔综合电）美国总统特朗普下周起把欧盟出口到美国的汽车和卡车关税，从原本的15%上调至25%，原因是欧盟“不遵守已完全同意的贸易协议”。欧盟表明特朗普的最新动作“不可接受”，显示美方是“多么地不可靠”。
-特朗普星期五（5月1日）在社媒发文宣布重新调高欧盟进口汽车的关税，还说“如果它们在美国厂房生产汽车和卡车，就不须支付关税。许多厂房正在兴建中，投资额超过1000亿美元，创下汽车和卡车制造业的历史记录”。
-美欧去年达成的协议，原已将欧洲进口汽车和零部件的关税从25%下调至15%。不过，特朗普周五在社媒发文以及在白宫和佛罗里达州的活动上，反复指责欧盟没有遵守双方达成的贸易协议，“所以我决定调高关税，这会为美国带进数十亿美元，迫使它们更快把厂房搬过来”。
-欧洲议会贸易委员会主席朗格告诉路透社：“特朗普总统的行为不可接受。这个最新动作凸显美国是多么不可靠。我们已见识到美国之前是如何在格陵兰岛问题上任意攻击我们，这不是对待密切伙伴的方式。”
-欧盟委员会发言人则表明将寻求华盛顿进一步说明。“如果美国采取与联合声明不一致的措施，我们将保有一切选项捍卫欧盟的权益。”
-分析：特朗普“点火”促欧盟动起来
-
-美国前代理副贸易代表、现任华盛顿智库亚洲协会政策研究所资深副所长卡特勒（Wendy Cutler） 向法新社分析：“特朗普总统显然已对欧盟落实双方多月前达成的双边贸易协议失去耐心，试图在欧盟的屁股点火，逼它们加速行动。”
-欧洲议会在3月底有条件批准了美欧协议，要求额外的保障条款。接下来，欧盟委员会还得跟个别成员国展开谈判，以敲定最终文本，估计不会在6月以前完成。
-曾在美国商务部任职的贸易律师马杰鲁斯（Ryan Majerus）则认为，特朗普的最新动作可能与他不满一些欧洲盟友在美伊战事中不支持他有关。
-德国总理默茨是最新一名惹恼特朗普的欧洲领袖。他早前批评美国在未制定任何战略下对伊朗发起军事行动，导致华盛顿如今进退两难，遭受伊朗“羞辱”。 
-欧盟20%以上的汽车出口目的地是美国，德国是欧盟最大的汽车出口国。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：停火意味敌对行动结束 他继续作战无须国会授权]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986171</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986171"/>
-        <updated>2026-05-01T23:07:34.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期五（5月1日）致函国会说，由于美国和伊朗处于停火状态，两国敌对行动已经“结束”，并辩称他继续作战无须获得国会授权。 
-根据美国1973年通过的《战争权力法》，总统在首次通知国会动用军事力量后，应在60天内决定停止这场军事行动，或者寻求国会授权继续作战。
-特朗普政府2月28日与以色列联手袭击伊朗，3月2日才正式告知国会对伊朗发起军事行动，由此推算的60天法律时限于5月1日到期。到期后，若特朗普不获国会批准继续作战，就必须在30天内撤军。
-特朗普在60天期限到期当天正式致函国会，称美伊朗敌对行动已经“结束”。在这封写给众议院议长约翰逊和参议院临时议长格拉斯利的信中，特朗普说，他于4月7日下令停火两周，随后停火延长，美伊未再发生交火，“始于2026年2月28日的敌对行动，现已结束”。
-特朗普称，尽管对伊朗军事行动取得成功，但伊朗对美国及美军构成的威胁依然显著。因此，战争部继续调整在美军中央司令部责任区相关国家的军事部署态势，以应对伊朗及其地区“代理人”威胁。
-英国广播公司（BBC）指出，双方虽已停火，但美国和伊朗尚未通过谈判达成一项长期协议。
-美国媒体称，特朗普上述说法实际上规避了5月1日这一法律最后期限，也反映伊朗战事可能远未结束。
-民主党人批评特朗普对伊朗军事行动未经国会授权，当属“违法”，要求结束。共和党内对特朗普的支持出现分歧，也有国会议员表明不会在“60天期限”后支持这场军事行动。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：进入美国的欧盟汽车和卡车关税将调高]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8985976</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8985976"/>
-        <updated>2026-05-01T16:17:22.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他将调高来自欧洲联盟的汽车和卡车关税。
-特朗普星期五（5月1日）在社交媒体发布消息说：“鉴于欧盟未能遵守我们已达成的全面贸易协议，下周我将提高对欧盟进口美国汽车和卡车征收的关税。关税将提高至25%。”
-他说，如果欧盟在美国工厂生产汽车和卡车，则无需缴纳关税。目前，许多汽车和卡车工厂正在建设中，投资额在1000亿美元（1279.24亿新元）以上，创下汽车和卡车制造业的历史纪录。这些工厂将雇用美国工人，即将投产——美国今天正在发生的一切前所未有。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
