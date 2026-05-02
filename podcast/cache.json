@@ -978,24 +978,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69ce87c1ac25e4bf66166691",
-          "author": null,
-          "description": "As the world races toward digital perfection, tech humanist Stephen Remedios tried to optimize the messiest and most imperfect of all human work: parenting. He shares the story of DaddyGPT, a digital version of himself built to help raise his kids — until they began to prefer it over him. What unfolds is a personal look at the limits of AI, and a reminder that what matters most isn't getting it right every time but showing up with the authentic imperfection only humans have.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "https://go.ted.com/stephenremedios",
-          "publishedOn": "2026-04-02T15:00:00.000Z",
-          "wordCount": null,
-          "title": "I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios",
-          "itunes": {
-            "duration": "13:19"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69ce87c1ac25e4bf66166691/media.mp3",
-            "length": "12885743",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T19:17:21.123Z</updated>
+    <updated>2026-05-02T03:18:30.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1595,19 +1595,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[You're about to hear the sounds of several different creatures — from the voice of one single musician. In a spellbinding talk and performance, singer Snow Raven mimics the hoot of an owl, the grumble of a bear, the howl of a wolf and more.
 
 This episode originally aired in November 2024.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I let DaddyGPT parent my kids. Here's what I learned | Stephen Remedios]]></title>
-        <id>69ce87c1ac25e4bf66166691</id>
-        <link href="https://go.ted.com/stephenremedios"/>
-        <updated>2026-04-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As the world races toward digital perfection, tech humanist Stephen Remedios tried to optimize the messiest and most imperfect of all human work: parenting. He shares the story of DaddyGPT, a digital version of himself built to help raise his kids — until they began to prefer it over him. What unfolds is a personal look at the limits of AI, and a reminder that what matters most isn't getting it right every time but showing up with the authentic imperfection only humans have.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
