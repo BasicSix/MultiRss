@@ -2,198 +2,314 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T19:05:47.079Z</updated>
+    <updated>2026-05-03T03:36:40.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[2025_09]]></title>
-        <id>1x-3566583</id>
-        <link href="https://1x.com/photo/3566583"/>
-        <updated>2026-05-02T19:05:00.592Z</updated>
-        <summary type="html"><![CDATA[2025_09 by Rainer Neumann]]></summary>
+        <title type="html"><![CDATA[double vision]]></title>
+        <id>1x-3567551</id>
+        <link href="https://1x.com/photo/3567551"/>
+        <updated>2026-05-03T03:35:56.346Z</updated>
+        <summary type="html"><![CDATA[double vision by Karl-Heinz Bitter]]></summary>
         <author>
-            <name>Rainer Neumann</name>
+            <name>Karl-Heinz Bitter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frozen thoughts]]></title>
-        <id>1x-3566081</id>
-        <link href="https://1x.com/photo/3566081"/>
-        <updated>2026-05-02T19:05:00.590Z</updated>
-        <summary type="html"><![CDATA[Frozen thoughts by Rucsandra Silvia Calin]]></summary>
+        <title type="html"><![CDATA[Spring]]></title>
+        <id>1x-3567685</id>
+        <link href="https://1x.com/photo/3567685"/>
+        <updated>2026-05-03T03:35:56.341Z</updated>
+        <summary type="html"><![CDATA[Spring by Qing Zhao]]></summary>
         <author>
-            <name>Rucsandra Silvia Calin</name>
+            <name>Qing Zhao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vertical Serenity]]></title>
-        <id>1x-3554908</id>
-        <link href="https://1x.com/photo/3554908"/>
-        <updated>2026-05-02T19:05:00.587Z</updated>
-        <summary type="html"><![CDATA[Vertical Serenity by Els Keurlinckx]]></summary>
+        <title type="html"><![CDATA[MOONLIGHT SERENADE]]></title>
+        <id>1x-3567626</id>
+        <link href="https://1x.com/photo/3567626"/>
+        <updated>2026-05-03T03:35:56.337Z</updated>
+        <summary type="html"><![CDATA[MOONLIGHT SERENADE by Stefano Caccia]]></summary>
         <author>
-            <name>Els Keurlinckx</name>
+            <name>Stefano Caccia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fairy land]]></title>
-        <id>1x-3567096</id>
-        <link href="https://1x.com/photo/3567096"/>
-        <updated>2026-05-02T19:05:00.585Z</updated>
-        <summary type="html"><![CDATA[fairy land by Hilda van der Lee]]></summary>
+        <title type="html"><![CDATA[From the top of the fjord]]></title>
+        <id>1x-3567633</id>
+        <link href="https://1x.com/photo/3567633"/>
+        <updated>2026-05-03T03:35:56.335Z</updated>
+        <summary type="html"><![CDATA[From the top of the fjord by Cesar Alvarez Osorio]]></summary>
         <author>
-            <name>Hilda van der Lee</name>
+            <name>Cesar Alvarez Osorio</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gadaba lady]]></title>
-        <id>1x-3567073</id>
-        <link href="https://1x.com/photo/3567073"/>
-        <updated>2026-05-02T19:05:00.582Z</updated>
-        <summary type="html"><![CDATA[Gadaba lady by Myriam LEPLAT]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3540849</id>
+        <link href="https://1x.com/photo/3540849"/>
+        <updated>2026-05-03T03:35:56.332Z</updated>
+        <summary type="html"><![CDATA[Untitled by Anna Cseresnjes]]></summary>
         <author>
-            <name>Myriam LEPLAT</name>
+            <name>Anna Cseresnjes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duality]]></title>
-        <id>1x-3566971</id>
-        <link href="https://1x.com/photo/3566971"/>
-        <updated>2026-05-02T19:05:00.579Z</updated>
-        <summary type="html"><![CDATA[Duality by Frank Ma]]></summary>
+        <title type="html"><![CDATA[Whisper under the milkyway]]></title>
+        <id>1x-3567605</id>
+        <link href="https://1x.com/photo/3567605"/>
+        <updated>2026-05-03T03:35:56.328Z</updated>
+        <summary type="html"><![CDATA[Whisper under the milkyway by meix]]></summary>
         <author>
-            <name>Frank Ma</name>
+            <name>meix</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yogi...]]></title>
-        <id>1x-3567076</id>
-        <link href="https://1x.com/photo/3567076"/>
-        <updated>2026-05-02T19:05:00.570Z</updated>
-        <summary type="html"><![CDATA[Yogi... by Thierry Dufour]]></summary>
+        <title type="html"><![CDATA[Old Hut]]></title>
+        <id>1x-3542036</id>
+        <link href="https://1x.com/photo/3542036"/>
+        <updated>2026-05-03T03:35:56.317Z</updated>
+        <summary type="html"><![CDATA[Old Hut by Þorsteinn H. Ingibergsson]]></summary>
         <author>
-            <name>Thierry Dufour</name>
+            <name>Þorsteinn H. Ingibergsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pyrrhosoma nymphula]]></title>
-        <id>1x-3567097</id>
-        <link href="https://1x.com/photo/3567097"/>
-        <updated>2026-05-02T19:05:00.566Z</updated>
-        <summary type="html"><![CDATA[Pyrrhosoma nymphula by Fabrizio Daminelli]]></summary>
+        <title type="html"><![CDATA[The Fog]]></title>
+        <id>1x-3567773</id>
+        <link href="https://1x.com/photo/3567773"/>
+        <updated>2026-05-03T03:35:56.311Z</updated>
+        <summary type="html"><![CDATA[The Fog by Robert Buergisser]]></summary>
         <author>
-            <name>Fabrizio Daminelli</name>
+            <name>Robert Buergisser</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motorcycle Falls Taipei]]></title>
-        <id>1x-3531466</id>
-        <link href="https://1x.com/photo/3531466"/>
-        <updated>2026-05-02T19:05:00.563Z</updated>
-        <summary type="html"><![CDATA[Motorcycle Falls Taipei by Jiahong Zeng]]></summary>
+        <title type="html"><![CDATA[ADELAIDA PORTRAIT]]></title>
+        <id>1x-3566965</id>
+        <link href="https://1x.com/photo/3566965"/>
+        <updated>2026-05-03T03:35:56.304Z</updated>
+        <summary type="html"><![CDATA[ADELAIDA PORTRAIT by GAGIK  VAGRAMYAN]]></summary>
         <author>
-            <name>Jiahong Zeng</name>
+            <name>GAGIK VAGRAMYAN</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waiting for Godot]]></title>
-        <id>1x-3567324</id>
-        <link href="https://1x.com/photo/3567324"/>
-        <updated>2026-05-02T19:05:00.556Z</updated>
-        <summary type="html"><![CDATA[Waiting for Godot by Fadwa Rouhana]]></summary>
+        <title type="html"><![CDATA[Dots]]></title>
+        <id>1x-3567651</id>
+        <link href="https://1x.com/photo/3567651"/>
+        <updated>2026-05-03T03:35:56.294Z</updated>
+        <summary type="html"><![CDATA[Dots by Setsuna Kurouzu]]></summary>
         <author>
-            <name>Fadwa Rouhana</name>
+            <name>Setsuna Kurouzu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Captive of Lines]]></title>
-        <id>1x-3567214</id>
-        <link href="https://1x.com/photo/3567214"/>
-        <updated>2026-05-02T19:05:00.548Z</updated>
-        <summary type="html"><![CDATA[Captive of Lines by Jana Andělová]]></summary>
+        <title type="html"><![CDATA[Corner]]></title>
+        <id>1x-3567807</id>
+        <link href="https://1x.com/photo/3567807"/>
+        <updated>2026-05-03T03:35:56.289Z</updated>
+        <summary type="html"><![CDATA[Corner by ShikiRyu]]></summary>
         <author>
-            <name>Jana Andělová</name>
+            <name>ShikiRyu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Passing Through]]></title>
-        <id>1x-3567031</id>
-        <link href="https://1x.com/photo/3567031"/>
-        <updated>2026-05-02T19:05:00.544Z</updated>
-        <summary type="html"><![CDATA[Passing Through by Annette Guo]]></summary>
+        <title type="html"><![CDATA[JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331]]></title>
+        <id>1x-3567727</id>
+        <link href="https://1x.com/photo/3567727"/>
+        <updated>2026-05-03T03:35:56.287Z</updated>
+        <summary type="html"><![CDATA[JAPAN, HOKKAIDO - SHIRETOKO PENINSULA-14331 by Raimondo Restelli]]></summary>
         <author>
-            <name>Annette Guo</name>
+            <name>Raimondo Restelli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[may bells]]></title>
-        <id>1x-3567408</id>
-        <link href="https://1x.com/photo/3567408"/>
-        <updated>2026-05-02T19:05:00.539Z</updated>
-        <summary type="html"><![CDATA[may bells by Monique Delaet]]></summary>
+        <title type="html"><![CDATA[Flames in the Night]]></title>
+        <id>1x-3560479</id>
+        <link href="https://1x.com/photo/3560479"/>
+        <updated>2026-05-03T03:35:56.283Z</updated>
+        <summary type="html"><![CDATA[Flames in the Night by Lydia Jacobs]]></summary>
         <author>
-            <name>Monique Delaet</name>
+            <name>Lydia Jacobs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[American classic car 1959 Rear]]></title>
-        <id>1x-3567253</id>
-        <link href="https://1x.com/photo/3567253"/>
-        <updated>2026-05-02T19:05:00.535Z</updated>
-        <summary type="html"><![CDATA[American classic car 1959 Rear by Beate Gube]]></summary>
+        <title type="html"><![CDATA[Spring]]></title>
+        <id>1x-3567753</id>
+        <link href="https://1x.com/photo/3567753"/>
+        <updated>2026-05-03T03:35:56.280Z</updated>
+        <summary type="html"><![CDATA[Spring by Doron Margulies]]></summary>
         <author>
-            <name>Beate Gube</name>
+            <name>Doron Margulies</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honey，I am coming]]></title>
-        <id>1x-3560301</id>
-        <link href="https://1x.com/photo/3560301"/>
-        <updated>2026-05-02T19:05:00.523Z</updated>
-        <summary type="html"><![CDATA[Honey，I am coming by Sherry Huang]]></summary>
+        <title type="html"><![CDATA[Iron Ribbon]]></title>
+        <id>1x-3567676</id>
+        <link href="https://1x.com/photo/3567676"/>
+        <updated>2026-05-03T03:35:56.276Z</updated>
+        <summary type="html"><![CDATA[Iron Ribbon by Stefan Lenz]]></summary>
         <author>
-            <name>Sherry Huang</name>
+            <name>Stefan Lenz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Gentlemenbike]]></title>
-        <id>1x-3567364</id>
-        <link href="https://1x.com/photo/3567364"/>
-        <updated>2026-05-02T19:05:00.514Z</updated>
-        <summary type="html"><![CDATA[The Gentlemenbike by Hans Repelnig]]></summary>
+        <title type="html"><![CDATA[Duy...]]></title>
+        <id>1x-3567824</id>
+        <link href="https://1x.com/photo/3567824"/>
+        <updated>2026-05-03T03:35:56.273Z</updated>
+        <summary type="html"><![CDATA[Duy... by Vasfiye Budak]]></summary>
         <author>
-            <name>Hans Repelnig</name>
+            <name>Vasfiye Budak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunshine Icicle]]></title>
-        <id>1x-3564881</id>
-        <link href="https://1x.com/photo/3564881"/>
-        <updated>2026-05-02T19:05:00.508Z</updated>
-        <summary type="html"><![CDATA[Sunshine Icicle by Ben.C.L]]></summary>
+        <title type="html"><![CDATA[Doroteja]]></title>
+        <id>1x-3567665</id>
+        <link href="https://1x.com/photo/3567665"/>
+        <updated>2026-05-03T03:35:56.079Z</updated>
+        <summary type="html"><![CDATA[Doroteja by Nico Pakvis]]></summary>
         <author>
-            <name>Ben.C.L</name>
+            <name>Nico Pakvis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Perfect Girl]]></title>
-        <id>1x-3567234</id>
-        <link href="https://1x.com/photo/3567234"/>
-        <updated>2026-05-02T19:05:00.208Z</updated>
-        <summary type="html"><![CDATA[The Perfect Girl by Christopher Scurrah]]></summary>
+        <title type="html"><![CDATA[Silvertum. Frankfurt]]></title>
+        <id>1x-3567747</id>
+        <link href="https://1x.com/photo/3567747"/>
+        <updated>2026-05-03T03:35:56.069Z</updated>
+        <summary type="html"><![CDATA[Silvertum. Frankfurt by jordiegeatorrent]]></summary>
         <author>
-            <name>Christopher Scurrah</name>
+            <name>jordiegeatorrent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Chosen Legacy]]></title>
-        <id>1x-3562400</id>
-        <link href="https://1x.com/photo/3562400"/>
-        <updated>2026-05-02T19:05:00.194Z</updated>
-        <summary type="html"><![CDATA[The Chosen Legacy by Tatsuhiro Takayama]]></summary>
+        <title type="html"><![CDATA[deq]]></title>
+        <id>1x-3567376</id>
+        <link href="https://1x.com/photo/3567376"/>
+        <updated>2026-05-03T03:35:56.062Z</updated>
+        <summary type="html"><![CDATA[deq by Mehmet]]></summary>
         <author>
-            <name>Tatsuhiro Takayama</name>
+            <name>Mehmet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋空域航行恢复正常]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989484</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989484"/>
+        <updated>2026-05-03T02:18:19.000Z</updated>
+        <summary type="html"><![CDATA[阿拉伯联合酋长国宣布空域航行恢复正常，近期实施的各项临时预防措施均已解除。
+新华社报道，阿联酋民用航空总局星期六（5月2日）发布声明说，经过与相关部门协调，以及对运行状况和安全形势作出全面评估，决定恢复阿联酋空域航行。
+声明强调，相关部门会持续开展实时监测，确保航空运行保持最高安全水平。
+美国和以色列2月28日对伊朗发动大规模军事打击后，伊朗对以色列以及美国在中东地区的军事基地等目标实施导弹和无人机打击，波斯湾国家受到波及，阿联酋受影响最为严重。
+冲突发生后，阿联酋采取预防措施关闭部分空域，区域和国际航空运输受到影响，部分航线一度暂停。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列或加紧备战：内阁将讨论伊朗加沙]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989418</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989418"/>
+        <updated>2026-05-03T01:33:02.000Z</updated>
+        <summary type="html"><![CDATA[以色列媒体报道，以色列总理内坦亚胡计划与安全内阁讨论伊朗战争和加沙局势；以方正加紧在这两条战线的准备安排。
+《以色列时报》于当地时间星期六（5月2日）引述一名以色列内阁成员报道，内坦亚胡会在星期天（3日）与安全内阁成员开会。
+他上次与安全内阁成员会面是在星期三（4月29日），与会官员包括外交部长萨尔、国防部长卡茨、财政部长斯莫特里奇、国家安全部长本-格维尔、沙斯党主席德里等。
+这次会议正值美国与伊朗谈判陷入僵局之际。美国总统特朗普早前表明，对伊朗提交的最新谈判方案不满意。一名伊朗高级官员随后警告，“很有可能”与美国再次开战。
+以色列第12频道星期六报道，以军总参谋长扎米尔近日与美军中央司令部司令库珀通话，协调“可能发生的各种情况”。
+报道说，对伊朗任何规模的袭击都会招致德黑兰对以色列的报复。以军近日接收大量军事装备，已为战火重燃做好准备。
+另据以色列公共广播公司（Kan）报道，拟在星期天举行的安全内阁会议还会讨论加沙可能再次爆发冲突的问题。
+一名以色列消息人士说：“哈马斯没有遵守解除武装协议，我们正在与调解方沟通。”
+《以色列时报》在另一篇报道中称，据两名熟悉谈判情况的阿拉伯外交官透露，哈马斯星期六对美国主导“和平委员会”提出的加沙20点和平方案予以回应，基本拒绝交出所有武器的要求。
+“和平委员会”一直敦促哈马斯接受分阶段归还武器。但哈马斯在回应中要求就巴勒斯坦实现独立建国作出更明确的保证，主张把哈马斯解除武装纳入实现巴勒斯坦建国的框架，还要求以色列停止违反加沙停火协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：驻德美军拟撤员不止5000人]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989288</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989288"/>
+        <updated>2026-05-03T01:03:51.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，计划大幅削减驻德国美军人数，超过此前宣布的5000人。
+彭博社报道，特朗普星期六（5月2日）在佛罗里达州迈阿密登上总统专机“空军一号”时说：“我们会大幅削减（驻德美军）兵力，而且削减人数远不止5000人。”他并未提供更多细节。
+特朗普对欧洲国家愈发不满，指责它们无视他提出的协助对伊朗战争和重开霍尔木兹海峡的请求。
+五角大楼星期五（1日）宣布，会在未来一年内从德国撤出约5000名士兵。这个消息引发欧洲国家和美国共和党人的广泛担忧。
+美军在德国驻扎约3万5000人，几乎占美国驻欧部队总数的一半；美国在欧洲的司令部也设在德国。
+德国总理默茨4月27日批评美国在没有制定任何战略的情况下攻打伊朗，导致进退两难，遭受伊朗羞辱。特朗普过后发文指默茨“根本不知道自己在说什么”，并恫言从德国撤军。
+特朗普曾在首个总统任期内试图从德国撤军，但遭到立法阻挠。最新的命令很可能在国会遭遇类似反对。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗提交新方案 特朗普对谈判前景持悲观态度]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989312</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989312"/>
+        <updated>2026-05-03T00:06:45.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，他会审阅伊朗最新提交的谈判方案，但估计很难接受；如果伊朗政权“行为不端”，他不排除重启对德黑兰军事目标的打击。
+特朗普星期六（5月2日）在社媒平台Truth Social发文说：“我很快就会审阅伊朗刚刚发给我们的提案，但我认为无法接受，因为伊朗还没为过去47年来对人类和世界犯下的罪行付出足够沉重的代价。”
+他同日在佛罗里达州迈阿密机场告诉记者，他已听取关于伊朗“协议概念”的简报。
+伊朗媒体当天早些时候报道，德黑兰已通过巴基斯坦调解人，向美方提交一份14点谈判方案，旨在回应美国提出的九点计划，重点在于结束战争。
+白宫尚未披露伊朗新提案的相关细节，但特朗普星期五（1日）告诉记者，他对伊朗方案不满意。
+特朗普在迈阿密机场还被问及会否重启对伊朗的打击。他回答：“我不想这么说。我的意思是，我不能跟记者这么说。如果他们行为不端、做了什么坏事——我们拭目以待——这确实有可能发生。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国堕胎药争议再起：药厂求最高法院恢复邮寄米非司酮]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989258</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989258"/>
+        <updated>2026-05-02T23:39:48.000Z</updated>
+        <summary type="html"><![CDATA[美国主要堕胎药生产商向最高法院提出请求，希望恢复最常用堕胎药米非司酮的邮寄供应。此前一家下级法院暂停了这款药物的邮寄配送。
+法新社报道，美国大多数堕胎手术都使用米非司酮（Mifepristone），这款药物获准用于妊娠10周以内的堕胎。
+米非司酮通常与米索前列醇（Misoprostol）配合使用，后者用于清空子宫。
+丹科实验室（Danco Laboratories）是美国唯二分销米非司酮的公司之一，也是这款药物的生产商。
+美国第五巡回上诉法院星期五（5月1日）发布裁决，要求暂时禁止堕胎服务机构在全美范围内开具和运送米非司酮；需要堕胎的女性必须前往诊所获取这款药物。
+丹科实验室星期六（2日）在提交给最高法院的文件中表明，这项裁决立刻给高度紧急的医疗决策带来混乱和动荡。
+“由此给患者、医疗服务机构、药房和药品监管系统造成的混乱是无法弥补的，凸显最高法院提供紧急救济的必要。”
+反堕胎人士对米非司酮的安全性提出质疑，一些人引用一项由保守派智库开展的研究，但相关研究从未经过正式同行评审。
+最高法院2024年驳回限制米非司酮的请求。当时的裁决认为，反堕胎团体和主张进一步限制米非司酮的医生，缺乏提起诉讼的法律资格。
+最高法院2022年推翻全国范围内的堕胎权，此后已有约20个州禁止或限制堕胎。民调显示，尽管一些活动人士反对堕胎，但大多数美国人仍然支持合法堕胎。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金正恩会见青年同盟代表 称青年是推动朝鲜国家目标“先锋队”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989226</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989226"/>
+        <updated>2026-05-02T23:18:08.000Z</updated>
+        <summary type="html"><![CDATA[朝鲜官方媒体报道，最高领导人金正恩会见社会主义爱国青年同盟代表。朝鲜政府再次强调，青年在朝鲜国内动员和在俄乌战争中发挥军事作用方面，都至关重要。
+朝中社星期天（5月3日）报道，金正恩前一天在平壤会见参加社会主义爱国青年同盟第11次代表大会的代表。大会每五年召开一次，旨在动员14至30岁的朝鲜公民。
+金正恩告诉参会代表，青年是推动朝鲜国家目标的“先锋队”，社会主义爱国青年同盟是执行劳动党内决策的关键力量。
+他也敦促参会代表加强组织和思想纪律，并嘱咐要办好同盟工作的每一件事，教育好、培养好所有青年。
+执政的劳动党在星期五（1日）发表的信中，明确将青年的忠诚与平壤参与俄乌战争联系起来，称派往海外作战的年轻士兵在捍卫国家荣誉方面“化身为炸弹和火焰”。
+路透社报道，韩国、乌克兰和西方官员估计，朝鲜向库尔斯克地区派遣约1万4000名士兵，与俄罗斯军队并肩作战，其中超过6000名朝鲜士兵阵亡。金正恩4月在平壤为阵亡士兵揭幕新的纪念碑。
+金正恩将青少年政策视为社会稳定的支柱。朝鲜当局日益加强对外国文化影响的压制，对青少年管控也越发凸显。接触韩国音乐、电影和俚语被视为严重政治罪行。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊媒称德黑兰提交14点谈判计划 回应美方提案]]></title>
+        <id>https://www.zaobao.com/news/world/story20260503-8989197</id>
+        <link href="https://www.zaobao.com/news/world/story20260503-8989197"/>
+        <updated>2026-05-02T23:00:55.000Z</updated>
+        <summary type="html"><![CDATA[伊朗媒体披露，伊朗已通过巴基斯坦调解人向美方提交一份14点方案，回应美国提出的结束战争提议。相关条款要求美方从伊朗周边地区撤军和解除海上封锁及制裁。
+半官方的塔斯尼姆通讯社星期六（5月2日）报道，伊朗方面提交的这份提案，旨在回应美国提出的九点提议，重点在于结束战争。德黑兰正在等待美国对这份方案的回应。
+据报道，美方提议停火两个月，伊朗则强调问题应在30天内解决，而且努力的重点应该放在结束战争上，而不是延长停火期限。
+报道称，伊朗的提议包括保证不采取军事行动、美军从伊朗周边地区撤军、解除海上封锁和制裁、解冻伊朗资产、支付赔偿金，以及结束包括黎巴嫩在内多条战线上的敌对行动。
+方案还包括涉及霍尔木兹海峡的框架。
+伊媒报道，伊朗4月30日通过巴基斯坦向美国转交最新谈判方案。美国尚未透露伊朗方案的细节，但美国总统特朗普星期六早些时候说，他对伊朗提交的新方案不满意。
+不过他也强调，战争局面不能一直继续下去，他更倾向于不再打仗。
+伊朗外交部长阿拉格齐则称，如果美国改变方式，不提出过多要求、停止威胁言论和挑衅，伊朗仍愿同美国进行外交对话。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -501,114 +617,6 @@
 新华社报道，美国国务院星期五（5月1日）发布多条消息，公布相关军售合同。其中，以色列将购买1万套“先进精确杀伤武器系统”及相关设备，预计9亿9240万美元。
 此外，科威特将购买“综合战争指挥系统”及相关设备，预计25亿美元；卡塔尔将购买1万套“先进精确杀伤武器系统”及相关设备，以及“爱国者”导弹防御系统的补给服务及相关设备，预计共约50亿美元；阿联酋将购买“先进精确杀伤武器系统”及相关设备，预计1亿4760万美元。
 美国国务院说，美国务卿鲁比奥认定存在紧急情况，必须立即向上述四国出售防务物资和服务，这符合美国国家安全利益，根据经修订的《武器出口管制法》，相关交易可豁免国会审查。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普半开玩笑说美国将“几乎立刻接管”古巴]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8987153</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8987153"/>
-        <updated>2026-05-02T06:04:07.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在佛罗里达州致辞时称，美国将“几乎立刻接管”古巴。
-福克斯新闻报道，特朗普星期五（5月1日）在佛州棕榈滩论坛俱乐部发表讲话时发现前众议员米卡（Dan Mica）在现场，半玩笑说米卡“来自一个叫古巴的地方，我们将几乎立即接管那里。”
-特朗普说：“古巴有很多问题。我们得先解决一个（指伊朗）。我喜欢把事情做完。”
-他说：“办完伊朗的事，我们就派一艘大型航母，可能派林肯号，世界上最大的（航母）。” 
-特朗普说：“这艘航母一靠岸，古巴‘就会投降’。”
-特朗普没有为自己这番话多做解释，白宫尚未回应福克斯新闻数码频道的置评请求。
-美国同伊朗目前处于不战未和的状态。美国媒体普遍认为，特朗普急于从伊朗战事中脱身。同一时间，特朗普又不断威胁古巴，多次扬言在完成对委内瑞拉和伊朗的军事行动后，“下一个就轮到古巴”。
-白宫1日发布公告说，特朗普当天签署行政命令，加大对古巴的制裁。路透社引述两名美国官员说，新制裁措施是针对支持古巴政府安全机构、参与腐败或严重侵犯人权行为的个人、实体和附属机构，以及古巴政府代理人、官员或支持者。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国难民署：中东危机正阻碍全球人道援助]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986894</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986894"/>
-        <updated>2026-05-02T04:25:03.000Z</updated>
-        <summary type="html"><![CDATA[联合国难民署警告，中东危机已产生远超地区范围的深远连锁效应，对全球人道主义供应链及援助交付的负面影响日益严重。
-新华社报道，联合国难民署发言人沃尔夫星期五（5月1日）在日内瓦新闻发布会说，海湾主要航线及周边地区，特别是霍尔木兹海峡的安全局势日益恶化，导致海上运输受阻。
-全球范围内燃料、食品、货运成本上涨，推高了物价，并延误了关键物资的交付，降低了援助机构及时提供援助的能力，冲击数百万难民和流离失所者等的生计。
-沃尔夫说，自中东冲突爆发以来，主要物资供应国的货运价格上涨了近18%，部分货物的运输成本甚至增加了一倍多。
-她指出，非洲局势尤为严峻。肯尼亚一处联合国难民署全球储备仓库受燃油价格上涨约15%影响，运往埃塞俄比亚、刚果（金）和南苏丹的物资出现延误。在苏丹，援助运输成本近几个月已翻倍，绕道好望角的航线还使交付时间最多延长25天。
-她警告，若中东局势持续动荡，成本上升、运输延误及运力受限，将进一步压缩人道主义行动空间。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳洲西部鼠患严重 政府担忧冲击粮食供应]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986794</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986794"/>
-        <updated>2026-05-02T03:45:03.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚政府说，澳洲西部地区鼠患严重令人担忧，将继续与业界合作以遏制鼠患对粮食供应的影响。
-路透社报道，澳洲能源部长鲍恩星期六（5月2日）在悉尼发表电视讲话说：“我们当然对澳洲西部，包括西澳州的鼠患情况感到担忧。”
-鲍恩说：“这对农民、业界、政府来说都是非常棘手的问题。”他强调，政府正继续与业界紧密合作，努力减少鼠患对国内外粮食供应的影响。
-澳洲是世界第四大小麦出口国，老鼠过量繁殖是澳洲粮食种植区的一个长期问题。
-澳洲媒体指鼠患已侵袭西澳小麦种植带的农场。当地粮食生产商4月已警告，鼠患可能导致作物减产，并呼吁政府提供更强效的灭鼠药。
-澳洲科学机构的资料显示，1993年澳洲发生了史上最严重的老鼠灾害（Mouse Plague），不仅数千公顷的农作物被摧毁，老鼠还袭击了鸡猪养殖场里的牲畜。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特媒体：美国福特号航母已离开中东]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986450</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986450"/>
-        <updated>2026-05-02T02:57:43.000Z</updated>
-        <summary type="html"><![CDATA[沙特阿拉伯媒体星期五（5月1日）引述美国一名官员的话报道说，美国海军“福特号”航空母舰在参与对伊朗的军事行动后已离开中东。
-中东地区目前只剩下两艘美国大型军舰。
-3月12日，福特号航母船尾洗衣房发生火灾，造成三名水兵受伤，另有200多名水兵因吸入浓烟接受治疗。福特号随后不得不撤离中东战区，先后到希腊和克罗地亚港口进行维修和维护。
-美国官员4月17日向媒体披露，福特号在两艘驱逐舰护卫下离开地中海东部并穿越苏伊士运河，在红海海域执行任务。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗今访问越南 会见越共总书记苏林]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986613</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986613"/>
-        <updated>2026-05-02T02:42:02.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗星期六（5月2日）到越南进行访问。 
-路透社报道，高市早苗将在河内会见越共总书记、越南国家主席苏林，两国正努力在日本对越南投资大幅放缓的背景下巩固双边关系。 
-日本外交部官员说，双方预计将讨论如何深化2023年建立的全面战略伙伴关系，重点关注能源、技术、关键矿产方面的合作及地区稳定课题。
-日本仍是越南最大的外国投资来源国之一，许多日本跨国公司在越南设有大型制造厂。然而越南政府数据显示，今年第一季度日本对越新增投资承诺同比下降约75%，至2亿3300万美元（约3亿新元）。
-日本外交部官员说，高市早苗预计将敦促越方改善营商环境，并讨论日本企业面临的挑战，其中包括已完成工程的款项拖欠以及日企难以获得大型基础设施项目的机会。
-结束越南行程后，高市早苗将到澳大利亚访问。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗最高领袖呼吁民众争取经济和文化斗争胜利]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986492</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986492"/>
-        <updated>2026-05-02T02:11:34.000Z</updated>
-        <summary type="html"><![CDATA[伊朗最高领袖穆杰塔巴在五一劳动节呼吁伊朗人民争取经济和文化斗争的胜利，让敌人“失望”。 
-新华社报道，伊朗最高领袖办公室星期五（5月1日）发表声明说，穆杰塔巴在五一国际劳动节和5月2日伊朗教师节来临之际说，伊朗伊斯兰革命胜利47年来，伊朗已在军事斗争领域证明了自身实力，现在必须在经济和文化斗争领域让敌人“失望”并“击败”敌人。
-穆杰塔巴指出，教师和工人在文化和经济斗争中最为有力，是文化和经济领域的脊梁。伊朗人民应像支持军队一样，支持教师和工人。
-穆杰塔巴鼓励伊朗民众，优先消费国产商品，以支持产业工人；尤其是，受当前战事影响的企业主尽可能避免裁员和解聘员工，应将员工视为宝贵财富；各级政府也应在力所能及的范围内提供支持。
-美国和以色列2月28日对伊朗发起大规模军事行动，伊朗展开反击。美伊4月上旬停火后，美国对伊朗实施海上封锁。
-美国媒体报道，美国总统特朗普寻求对伊朗长期封锁，以摧毁伊朗经济，继而迫使伊朗在谈判中就范。特朗普4月30日再次称，美国对伊朗的海上封锁正在发挥作用，声称伊朗“经济正在崩溃，他们几乎拿不到石油收入”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国加大制裁古巴 古外长：坚决反对特朗普单边强制措施]]></title>
-        <id>https://www.zaobao.com/news/world/story20260502-8986312</id>
-        <link href="https://www.zaobao.com/news/world/story20260502-8986312"/>
-        <updated>2026-05-02T01:47:08.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期五（5月1日）签署行政命令，以“威胁美国国家安全和对外政策”为由，加大对古巴制裁。 
-路透社引述两名美国官员说，新制裁措施是针对支持古巴政府安全机构、参与腐败或严重侵犯人权行为的个人、实体和附属机构，以及古巴政府代理人、官员或支持者。目前尚未公布具体制裁名单。
-根据白宫1日发布的公告，美国政府除冻结在古能源、国防、矿产、金融等多领域经营的实体或个人资产和权益外，还禁止美国实体或个人与受制裁对象有资金、商品或服务往来，并限制受制裁对象入境美国。同时，相关联的外国金融机构也将受制裁。
-古巴外长罗德里格斯在X平台表明，古巴坚决反对美国政府对古巴新采取的单边强制措施，称美国意图再次对古巴人民实施集体惩罚。
-他说，美方宣布的措施违反《联合国宪章》，美国无权对古巴或任何第三国和相关实体施加这样的措施。
-罗德里格斯说：“他们吓不倒我们。”
-当天，古巴民众上街示威，谴责美国对古巴的经济封锁及能源限制。
-美国长期对古巴实施经济、金融封锁、贸易禁运。今年年初，特朗普政府对委内瑞拉发动大规模军事打击后，进一步加大对古巴施压，包括实施新一轮石油限制措施。
-特朗普多次威胁称，完成对委内瑞拉和伊朗的军事行动后，“下一个就是古巴”。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
