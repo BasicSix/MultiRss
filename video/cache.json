@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Kh8tGD5liwo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kh8tGD5liwo",
+          "publishedOn": "2026-05-03T13:35:46.000Z",
+          "wordCount": null,
+          "title": "零成本无限 Token！Hermes + Qwen3.6，本地最强 Agent 组合来了！附部署教程 | 零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nYJTxvrL9lk",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-04-08T12:45:18.000Z",
           "wordCount": null,
           "title": "Qwen3.6-Plus 太猛了！免费 + 百万上下文 + Agent + 视觉多模态AI能力拉满！| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bqjvxnVbfdE",
-          "publishedOn": "2026-04-06T12:15:10.000Z",
-          "wordCount": null,
-          "title": "零成本跑最强AI！Gemma 4手机本地部署（支持离线+多模态）安卓+iPhone全搞定 | 零度解说",
           "imageUrl": null
         }
       ]
@@ -325,7 +325,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_eaxu_auPes",
           "publishedOn": "2026-05-02T23:40:19.000Z",
-          "wordCount": 2129,
+          "wordCount": 2590,
           "title": "【免费AI剪辑】弃用剪映！Kdenlive+Whisper 免费AI字幕 安装与配置 | Bye CapCut — Kdenlive + Whisper Just Saved My Sanity✨",
           "imageUrl": null
         },
@@ -355,7 +355,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "publishedOn": "2026-04-23T12:10:03.000Z",
-          "wordCount": 2125,
+          "wordCount": 2175,
           "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
           "imageUrl": null
         },
@@ -365,7 +365,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2153,
+          "wordCount": 2187,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -385,7 +385,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 3243,
+          "wordCount": 2126,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxRMXySGRwA",
           "publishedOn": "2026-04-10T22:00:22.000Z",
-          "wordCount": 2284,
+          "wordCount": 2207,
           "title": "【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2131,
+          "wordCount": 2171,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         },
