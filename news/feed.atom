@@ -2,198 +2,396 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T08:35:26.801Z</updated>
+    <updated>2026-05-04T14:10:52.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[First Law of Mechanics]]></title>
-        <id>1x-3569045</id>
-        <link href="https://1x.com/photo/3569045"/>
-        <updated>2026-05-04T08:34:45.050Z</updated>
-        <summary type="html"><![CDATA[First Law of Mechanics by Oscar Lopez]]></summary>
+        <title type="html"><![CDATA[Where Silence Learns to Sing]]></title>
+        <id>1x-3568124</id>
+        <link href="https://1x.com/photo/3568124"/>
+        <updated>2026-05-04T14:10:08.933Z</updated>
+        <summary type="html"><![CDATA[Where Silence Learns to Sing by Leechee Z]]></summary>
         <author>
-            <name>Oscar Lopez</name>
+            <name>Leechee Z</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["White Whisper"]]></title>
-        <id>1x-3525421</id>
-        <link href="https://1x.com/photo/3525421"/>
-        <updated>2026-05-04T08:34:45.047Z</updated>
-        <summary type="html"><![CDATA["White Whisper" by Roberto Corinaldesi]]></summary>
+        <title type="html"><![CDATA[Estern Blue Bird]]></title>
+        <id>1x-3568171</id>
+        <link href="https://1x.com/photo/3568171"/>
+        <updated>2026-05-04T14:10:08.931Z</updated>
+        <summary type="html"><![CDATA[Estern Blue Bird by Leeli Higgins]]></summary>
         <author>
-            <name>Roberto Corinaldesi</name>
+            <name>Leeli Higgins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great Egret flying from the green]]></title>
-        <id>1x-3569035</id>
-        <link href="https://1x.com/photo/3569035"/>
-        <updated>2026-05-04T08:34:45.039Z</updated>
-        <summary type="html"><![CDATA[Great Egret flying from the green by Marie Salmeron-Serrano]]></summary>
+        <title type="html"><![CDATA[Mundari wrestlers]]></title>
+        <id>1x-3538692</id>
+        <link href="https://1x.com/photo/3538692"/>
+        <updated>2026-05-04T14:10:08.928Z</updated>
+        <summary type="html"><![CDATA[Mundari wrestlers by Trevor Cole]]></summary>
         <author>
-            <name>Marie Salmeron-Serrano</name>
+            <name>Trevor Cole</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urban Flow]]></title>
-        <id>1x-3569026</id>
-        <link href="https://1x.com/photo/3569026"/>
-        <updated>2026-05-04T08:34:45.033Z</updated>
-        <summary type="html"><![CDATA[Urban Flow by Antoni Figueras]]></summary>
+        <title type="html"><![CDATA[quiet murderous intent]]></title>
+        <id>1x-3568115</id>
+        <link href="https://1x.com/photo/3568115"/>
+        <updated>2026-05-04T14:10:08.920Z</updated>
+        <summary type="html"><![CDATA[quiet murderous intent by Ryuta Suzuki]]></summary>
         <author>
-            <name>Antoni Figueras</name>
+            <name>Ryuta Suzuki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little rascal]]></title>
-        <id>1x-3567573</id>
-        <link href="https://1x.com/photo/3567573"/>
-        <updated>2026-05-04T08:34:45.018Z</updated>
-        <summary type="html"><![CDATA[Little rascal by Sita Gramich]]></summary>
+        <title type="html"><![CDATA[Jumping]]></title>
+        <id>1x-3568873</id>
+        <link href="https://1x.com/photo/3568873"/>
+        <updated>2026-05-04T14:10:08.917Z</updated>
+        <summary type="html"><![CDATA[Jumping by Ronald Bergkamp]]></summary>
         <author>
-            <name>Sita Gramich</name>
+            <name>Ronald Bergkamp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duet]]></title>
-        <id>1x-3442997</id>
-        <link href="https://1x.com/photo/3442997"/>
-        <updated>2026-05-04T08:34:45.015Z</updated>
-        <summary type="html"><![CDATA[Duet by Dirk Koster]]></summary>
+        <title type="html"><![CDATA[Solitude in Stillness]]></title>
+        <id>1x-3566850</id>
+        <link href="https://1x.com/photo/3566850"/>
+        <updated>2026-05-04T14:10:08.912Z</updated>
+        <summary type="html"><![CDATA[Solitude in Stillness by URANUS  FILM]]></summary>
         <author>
-            <name>Dirk Koster</name>
+            <name>URANUS FILM</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scissor-tailed flycatchers]]></title>
-        <id>1x-3568953</id>
-        <link href="https://1x.com/photo/3568953"/>
-        <updated>2026-05-04T08:34:44.992Z</updated>
-        <summary type="html"><![CDATA[Scissor-tailed flycatchers by Alex Li]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3564689</id>
+        <link href="https://1x.com/photo/3564689"/>
+        <updated>2026-05-04T14:10:08.909Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
         <author>
-            <name>Alex Li</name>
+            <name>Joxe Inazio Kuesta Garmendia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A little peace by the shore]]></title>
-        <id>1x-3519853</id>
-        <link href="https://1x.com/photo/3519853"/>
-        <updated>2026-05-04T08:34:44.989Z</updated>
-        <summary type="html"><![CDATA[A little peace by the shore by Wagdy]]></summary>
+        <title type="html"><![CDATA[Osprey In Action]]></title>
+        <id>1x-3567091</id>
+        <link href="https://1x.com/photo/3567091"/>
+        <updated>2026-05-04T14:10:08.905Z</updated>
+        <summary type="html"><![CDATA[Osprey In Action by Victor Wang]]></summary>
         <author>
-            <name>Wagdy</name>
+            <name>Victor Wang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Echo]]></title>
-        <id>1x-3563151</id>
-        <link href="https://1x.com/photo/3563151"/>
-        <updated>2026-05-04T08:34:44.986Z</updated>
-        <summary type="html"><![CDATA[Echo by Max Wang]]></summary>
+        <title type="html"><![CDATA[Will]]></title>
+        <id>1x-3545319</id>
+        <link href="https://1x.com/photo/3545319"/>
+        <updated>2026-05-04T14:10:08.897Z</updated>
+        <summary type="html"><![CDATA[Will by Christian Kieffer]]></summary>
         <author>
-            <name>Max Wang</name>
+            <name>Christian Kieffer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Left My Heat in Banff]]></title>
-        <id>1x-3569033</id>
-        <link href="https://1x.com/photo/3569033"/>
-        <updated>2026-05-04T08:34:44.982Z</updated>
-        <summary type="html"><![CDATA[Left My Heat in Banff by Jin Park]]></summary>
+        <title type="html"><![CDATA[Rising]]></title>
+        <id>1x-3567247</id>
+        <link href="https://1x.com/photo/3567247"/>
+        <updated>2026-05-04T14:10:08.895Z</updated>
+        <summary type="html"><![CDATA[Rising by Hiro Tanaka]]></summary>
         <author>
-            <name>Jin Park</name>
+            <name>Hiro Tanaka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle of Play]]></title>
-        <id>1x-3568567</id>
-        <link href="https://1x.com/photo/3568567"/>
-        <updated>2026-05-04T08:34:44.980Z</updated>
-        <summary type="html"><![CDATA[Circle of Play by Shin Woo Ryu]]></summary>
+        <title type="html"><![CDATA[The Abyss Gaze]]></title>
+        <id>1x-3558372</id>
+        <link href="https://1x.com/photo/3558372"/>
+        <updated>2026-05-04T14:10:08.890Z</updated>
+        <summary type="html"><![CDATA[The Abyss Gaze by Tetsuji Yoshida]]></summary>
         <author>
-            <name>Shin Woo Ryu</name>
+            <name>Tetsuji Yoshida</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bird Singing...]]></title>
-        <id>1x-3569084</id>
-        <link href="https://1x.com/photo/3569084"/>
-        <updated>2026-05-04T08:34:44.977Z</updated>
-        <summary type="html"><![CDATA[Bird Singing... by Lu Wang]]></summary>
+        <title type="html"><![CDATA[The Penguins on the Iceberg]]></title>
+        <id>1x-3568336</id>
+        <link href="https://1x.com/photo/3568336"/>
+        <updated>2026-05-04T14:10:08.887Z</updated>
+        <summary type="html"><![CDATA[The Penguins on the Iceberg by Raymond Ren Rong Liu]]></summary>
         <author>
-            <name>Lu Wang</name>
+            <name>Raymond Ren Rong Liu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Village Boys]]></title>
-        <id>1x-3553339</id>
-        <link href="https://1x.com/photo/3553339"/>
-        <updated>2026-05-04T08:34:44.968Z</updated>
-        <summary type="html"><![CDATA[Village Boys by Kieron Long]]></summary>
+        <title type="html"><![CDATA[Unyielding]]></title>
+        <id>1x-3565061</id>
+        <link href="https://1x.com/photo/3565061"/>
+        <updated>2026-05-04T14:10:08.884Z</updated>
+        <summary type="html"><![CDATA[Unyielding by Hamza Qarooni]]></summary>
         <author>
-            <name>Kieron Long</name>
+            <name>Hamza Qarooni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curve]]></title>
-        <id>1x-3558238</id>
-        <link href="https://1x.com/photo/3558238"/>
-        <updated>2026-05-04T08:34:44.962Z</updated>
-        <summary type="html"><![CDATA[Curve by MOSAO]]></summary>
+        <title type="html"><![CDATA[White-necked Jacobin #1]]></title>
+        <id>1x-3555451</id>
+        <link href="https://1x.com/photo/3555451"/>
+        <updated>2026-05-04T14:10:08.875Z</updated>
+        <summary type="html"><![CDATA[White-necked Jacobin #1 by Hai Lin 雪原]]></summary>
         <author>
-            <name>MOSAO</name>
+            <name>Hai Lin 雪原</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Gate Bridge]]></title>
-        <id>1x-3557676</id>
-        <link href="https://1x.com/photo/3557676"/>
-        <updated>2026-05-04T08:34:44.950Z</updated>
-        <summary type="html"><![CDATA[Golden Gate Bridge by ZhuoWen Chen]]></summary>
+        <title type="html"><![CDATA[Apple Chicken1]]></title>
+        <id>1x-3568458</id>
+        <link href="https://1x.com/photo/3568458"/>
+        <updated>2026-05-04T14:10:08.858Z</updated>
+        <summary type="html"><![CDATA[Apple Chicken1 by Andy Wong]]></summary>
         <author>
-            <name>ZhuoWen Chen</name>
+            <name>Andy Wong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flight with double prey]]></title>
-        <id>1x-3568207</id>
-        <link href="https://1x.com/photo/3568207"/>
-        <updated>2026-05-04T08:34:44.765Z</updated>
-        <summary type="html"><![CDATA[Flight with double prey by Zeren Gu]]></summary>
+        <title type="html"><![CDATA[River roars]]></title>
+        <id>1x-3569029</id>
+        <link href="https://1x.com/photo/3569029"/>
+        <updated>2026-05-04T14:10:08.852Z</updated>
+        <summary type="html"><![CDATA[River roars by GENNARO DI NOTO]]></summary>
         <author>
-            <name>Zeren Gu</name>
+            <name>GENNARO DI NOTO</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Green Hermit]]></title>
-        <id>1x-3548981</id>
-        <link href="https://1x.com/photo/3548981"/>
-        <updated>2026-05-04T08:34:44.761Z</updated>
-        <summary type="html"><![CDATA[Green Hermit by Wendy Feng]]></summary>
+        <title type="html"><![CDATA[Sunday]]></title>
+        <id>1x-3567829</id>
+        <link href="https://1x.com/photo/3567829"/>
+        <updated>2026-05-04T14:10:08.682Z</updated>
+        <summary type="html"><![CDATA[Sunday by Hemanta Swain]]></summary>
         <author>
-            <name>Wendy Feng</name>
+            <name>Hemanta Swain</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Where the Red Breath Rises”]]></title>
-        <id>1x-3569222</id>
-        <link href="https://1x.com/photo/3569222"/>
-        <updated>2026-05-04T08:34:44.757Z</updated>
-        <summary type="html"><![CDATA[“Where the Red Breath Rises” by Cristina Navarro]]></summary>
+        <title type="html"><![CDATA[Spanish Lady 3]]></title>
+        <id>1x-3391522</id>
+        <link href="https://1x.com/photo/3391522"/>
+        <updated>2026-05-04T14:10:08.678Z</updated>
+        <summary type="html"><![CDATA[Spanish Lady 3 by Rafael L. Bardají]]></summary>
         <author>
-            <name>Cristina Navarro</name>
+            <name>Rafael L. Bardají</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Passing By]]></title>
-        <id>1x-3566863</id>
-        <link href="https://1x.com/photo/3566863"/>
-        <updated>2026-05-04T08:34:44.745Z</updated>
-        <summary type="html"><![CDATA[Passing By by Fan Lin (APA)]]></summary>
+        <title type="html"><![CDATA[Facade - Crete, Greece]]></title>
+        <id>1x-3568645</id>
+        <link href="https://1x.com/photo/3568645"/>
+        <updated>2026-05-04T14:10:08.622Z</updated>
+        <summary type="html"><![CDATA[Facade - Crete, Greece by Arnon Orbach]]></summary>
         <author>
-            <name>Fan Lin (APA)</name>
+            <name>Arnon Orbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[默茨：不会放弃与特朗普合作 美国仍是北约联盟核心]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995617</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995617"/>
+        <updated>2026-05-04T13:35:30.000Z</updated>
+        <summary type="html"><![CDATA[（柏林／布鲁塞尔综合电）德国总理默茨说，虽然他同美国总统特朗普因伊朗战争发生争执，但他不会放弃与对方合作。
+默茨星期天（5月3日）接受德国公共广播联盟（ARD）访问时试图淡化与特朗普之间的紧张关系，并称美国宣布将从德国撤出5000名美军并不令人意外，也不应被视为报复行动。
+他说：“我们对这场战争的看法不同。这已不是什么秘密。”但他强调：“我不会放弃发展跨大西洋关系，也不会放弃与特朗普合作。”
+默茨也在采访中证实，美国计划在德国部署远程战斧（Tomahawk）巡航导弹的方案目前暂时搁置，主要是伊朗和乌克兰战争导致美国武器库存减少。他说：“美国人自己目前也没有足够的导弹。”
+默茨说，尽管存在意见分歧，美国仍是北约联盟的核心，并坚信美国是北约最重要的伙伴。
+虽然德国把美国撤军视为象征性举动，但分析人士认为，更严重的是跨大西洋裂痕扩大。他们警告，特朗普最近上调欧洲汽车关税、搁置在德国部署远程导弹计划，以及伊朗战争带来的经济与军事冲击，对欧洲的影响将更为深远。
+柏林智库全球公共政策研究所贝纳（Thorsten Benner）说：“所有这些都比象征性的撤军5000人更为严重。美国在伊朗战争中浪费了大量宝贵资源，导致武器库迅速损耗，这同样不容忽视。”
+在华盛顿，美国决定不在德国部署导弹的计划，也引发两党议员的批评。美国陆军退役少将、北约前高级官员戴维斯（Gordon Davis）认为，这不仅影响北约威慑力，也将削弱美国对欧洲及周边地区潜在冲突的快速反应能力。
+吕特：欧洲已听进特朗普的意见 
+对于特朗普对一些北约国家在伊朗战争中没有给予美国足够支持感到不满，北约秘书长吕特说，欧洲各国已把特朗普的意见“给听进去”，目前正确保有关军事基地使用的协议得到落实。
+北约成员国西班牙此前表示，境内的军事基地不能用于对伊朗的战争。
+吕特周一在亚美尼亚举行的欧洲政治共同体峰会上对记者说，其他北约国家，如黑山、克罗地亚、罗马尼亚、葡萄牙、希腊、意大利、英国、法国和德国，正在落实使用基地和其他后勤支持的请求。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东战争冲击能源命脉 亚银下调亚洲经济前景]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8994624</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8994624"/>
+        <updated>2026-05-04T13:21:27.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合电）亚洲经济担忧中东战争持续升级会对区域增长造成冲击，由于严重依赖中东能源供应，从澳大利亚到孟加拉的官员都警告，飙升的进口成本可能导致通货膨胀远高于几周前的预测。
+英国《金融时报》报道，亚洲开发银行（ADB）已下调对区内开发中经济体的增长预期。目前亚银预测，今年亚洲经济增长率为4.7%、2027年为4.8%，低于先前对两年皆为5.1%的预估。
+亚银另预测，今年通胀将达到5.2%，高于去年的3%。
+亚银总裁神田真人警告，区域正受不断恶化的危机冲击。“我们面对的不是短暂波动，而是对全球能源与贸易网络的系统性、长期性干扰。”
+经济师说，亚洲各地的中央银行都面临着巨大的通胀冲击，即使是较富裕的国家也可能不得不更节俭地使用资源。
+作为亚洲地区最大的发达经济体，日本央行已将截至明年3月的财年实际国内生产总值（GDP）增长预测减半，从1%降至0.5%。
+汇丰银行（HSBC）首席亚洲经济师纽曼（Frederic Neumann）说，补贴和动用储备或许能缓解问题，但这些在现阶段只是些微的缓解。“这场冲击如此严重，其影响将遍及整个地区，不仅限于能源，还包括粮食及其他生产投入品。”
+纽曼指出，各国央行对经济成长面临的风险日益担忧，特别是对缓冲能力较弱的贫穷国家而言，冲击恐怕比一开始的通胀更为深远。
+印度仍会是全球增长最快的大型经济体，但印度央行预计，从4月1日开始的财年，增长将从去年的7.6%放缓至6.9%。
+物价上涨的冲击已促使一些政府寻求对消费者提供临时保护。日本已推出燃料补贴，菲律宾也为公共事业司机提供津贴，越南则已动用紧急基金来控制燃料价格上涨。
+高盛（Goldman Sachs）首席亚太经济师迪安竹（Andrew Tilton）分析说，投资者对战争风险的评估经历了三个截然不同的阶段。冲突初期，投资者关注的是物价上涨的影响。焦点随后转向资源短缺的可能性，以及如何冲击经济模式。“现在的关键在于，政府将如何在通胀与经济增长之间取得平衡。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军：两艘美国商船通过霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996456</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996456"/>
+        <updated>2026-05-04T13:08:29.000Z</updated>
+        <summary type="html"><![CDATA[美军中央司令部说，两艘悬挂美国国旗的商船已通过霍尔木兹海峡。
+美军中央司令部星期一（5月4日）在社媒平台X发文说，已有两艘悬挂美国国旗的商船，成功通过霍尔木兹海峡，并且正在安全地继续航行。
+贴文说，这个进展是美军协助霍尔木兹海峡商船通航的第一步。
+“美国海军的导弹驱逐舰通过霍尔木兹海峡后，正在阿拉伯湾执行任务，以便支持‘自由行动’（Project Freedom）。美军正积极协助恢复商船通航工作。”
+
+
+U.S. Navy guided-missile destroyers are currently operating in the Arabian Gulf after transiting the Strait of Hormuz in support of Project Freedom. American forces are actively assisting efforts to restore transit for commercial shipping. As a first step, 2 U.S.-flagged merchant… pic.twitter.com/SVDxDhK72I
+— U.S. Central Command (@CENTCOM) May 4, 2026
+
+美国总统特朗普星期天（3日）宣布，美国会在中东时间星期一上午展开名为“自由计划”的行动协助受困商船安全驶出霍尔木兹海峡。
+伊朗外交部发言人巴加埃星期一回应说，负责应对此类“非法行动”的人员已做好充分准备，并且清楚如何捍卫伊朗的利益和安全。
+伊朗塔斯尼姆通讯社同日引述知情人士报道，伊朗已为霍尔木兹海峡的各种情况做好准备。
+“除了向美国舰艇开火外，伊朗还准备其他方案，必要时会采取行动。”
+伊朗法尔斯通讯社在美军中央司令部发布商船通行的消息前报道，一艘美国军舰无视伊朗的警告，企图通过霍尔木兹海峡，但在航行至伊朗阿曼湾沿岸城市贾斯克（Jask）附近时，遭到两枚导弹袭击，随后被伊朗劝返。
+不过，美军中央司令部随后否认有美军船只遭伊朗导弹击中。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黎巴嫩真主党付出惨重代价]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996064</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996064"/>
+        <updated>2026-05-04T12:55:55.000Z</updated>
+        <summary type="html"><![CDATA[（贝鲁特路透电）黎巴嫩真主党自3月2日同以色列开战以来，付出了沉重代价。尽管如此，真主党仍试图透过与伊朗结盟，将黎巴嫩议题纳入美伊谈判，以期在外交僵局中寻求生机。
+根据真主党内部此前未公开的伤亡估算，真主党与以色列的斗争导致数十万什叶派支持者流离失所，真主党的数千名战斗人员也在战斗中丧命，以色列更是占领了黎南部分地区。
+这一行动也带来严重政治后果，黎国内反对真主党以武装力量存在的声音日益强烈，黎政府甚至在4月重启和以色列的对话，是数十年来的首次。
+但真主党仍然坚持认为与伊朗立场一致可扭转劣势，并通过卷入更大战争把黎巴嫩问题纳入美伊谈判，以争取更有利停火。然而，美国总统特朗普先前曾表示，华府与德黑兰达成的任何协议，都不会受黎巴嫩局势左右。
+目前虽然有美国斡旋的停火协议，但双方在黎南部边境的交火并未停歇。以色列持续在“缓冲区”清剿真主党设施，并表示已击毙数千名武装分子。
+贝鲁特卡内基中东中心分析师萨伊赫表示，真主党展现出了超乎许多人预料的韧性，但这本身并非战略上的胜利。“唯一能够遏制以色列的，就是美伊达成全面协议。如果没有协议，各方都将遭受巨大痛苦。最好的结果，也只是一个痛苦的僵局。”
+一名与真主党有接触的外交官将该组织参战的决定描述为一场豪赌和一种生存策略，称真主党认为必须成为问题的一部分，才能成为最终地区解决方案的一部分。这场豪赌正让黎巴嫩陷入更深的不确定性。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无顾护照作废 韩民间活动人士乘船赴加沙]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995526</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995526"/>
+        <updated>2026-05-04T12:50:42.000Z</updated>
+        <summary type="html"><![CDATA[韩国一名民间活动人士在护照作废的情况下，仍启程前往加沙地带，韩国政府称正在密切关注相关情况。
+韩联社报道，韩国社会团体“解放巴勒斯坦航海韩国总部”星期一（5月4日）说，和平活动人士金雅贤（译音，活动名“海草”），前一天在意大利登上前往加沙的“自由船队联盟”（Freedom Flotilla Coalition）船只。
+不过，金雅贤的护照已在4月4日被宣布作废，当时她身在境外，也没接听韩国外交部的电话。
+若护照失效，在通过机场口岸等正常途径出入境时会受到限制，但若以其他渠道出入境，有关部门难以限制她的跨境活动。
+报道称，预计韩国政府会针对金雅贤采取必要措施，例如请求有关国家保障她的人身安全。
+韩国外交部一名官员称，政府会继续采取必要举措，确保公民人身安全。
+金雅贤去年10月与多名外籍人员一同乘船前往加沙，中途遭以色列军方扣留，并在当地拘押两天后获释。
+她今年1月接受一家媒体采访时说，会再次前往加沙地区。韩国外交部后来在4月宣布她的护照作废。
+尽管面临以军拦截和扣留，“自由船队联盟”多次搭载国际各界人士前往加沙，包括瑞典活动家通贝里。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗“处决浪潮”持续 当局绞死三名涉1月示威男子]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996392</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996392"/>
+        <updated>2026-05-04T12:44:15.000Z</updated>
+        <summary type="html"><![CDATA[伊朗当局再处决1月反政权示威的参与者，三名男子被绞死。
+近几周来，伊朗当局几乎每天都在执行死刑，人权组织称之为“处决浪潮”。
+伊朗司法机构米赞通讯社（Mizan）报道，伊朗当局星期一（5月4日）宣布对三名男子处以绞刑。他们因参与1月东部城市马什哈德的骚乱而获罪。
+报道并未说明行刑地点。
+总部位于美国的人权活动家通讯社（HRANA）称，其中两人于星期天（3日）凌晨在马什哈德瓦基拉巴德监狱（Vakilabad Prison）被绞死。
+伊朗的大规模抗议活动始于去年12月，起因是民众对生活成本的不满。这些示威随后席卷全国，演变为反政权集会，并在1月8日和9日晚达到高潮。
+人权组织称，伊朗安全部队的镇压行动造成数千人死亡；德黑兰则将责任归咎于“暴徒”，并称这些人得到美国和以色列的支持。
+据米赞通讯社报道，在马什哈德被处死的两名男子，应对一名安全部队成员的死亡负责；另一名男子则是马什哈德的“煽动者”之一。
+不过，总部位于挪威的非政府组织“伊朗人权”（Iran Human Rights）称这三人是政治犯，“在革命法庭经过不公正审判后”被判刑。
+伊朗人权说，自今年3月伊朗在与美国和以色列作战期间恢复处决以来，当局已处决24名被视为“政治犯”的男子；另有四人因涉嫌为以色列从事间谍活动而遭处决。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊媒称美军船只无视警告穿越霍尔木兹海峡 遭导弹击中]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995969</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995969"/>
+        <updated>2026-05-04T11:15:44.000Z</updated>
+        <summary type="html"><![CDATA[伊朗媒体报道，一艘计划穿越霍尔木兹海峡的美国军舰，因无视伊朗警告而遭两枚导弹击中，随后被逼返航。美军否认这个说法。
+法尔斯通讯社星期一（5月4日）引述当地消息人士报道，一艘美军舰艇当天无视伊朗的警告，企图通过霍尔木兹海峡，但在航行至伊朗阿曼湾沿岸城市贾斯克（Jask）附近时，遭到两枚导弹袭击。
+遭受打击后，这艘美国军舰被迫掉头并撤离涉事水域。报道没有说明此次事件的具体损失及人员伤亡情况。
+伊朗媒体同日报道，伊朗军方发表声明说，凭借伊朗陆军和海军的果断、快速警告，伊朗成功阻止美国和以色列的驱逐舰驶入霍尔木兹海峡。
+美国新闻网站Axios的记者拉维德（Barak Ravid）同日晚些时候在社媒平台X发布消息说，一名美国高级官员否认美军船只遭伊朗导弹击中。
+另据路透社报道，美军中央司令部也发声明说，没有美国海军舰艇遭到袭击。
+
+
+Senior U.S. official denies a U.S. ship was hit by Iranian missiles
+— Barak Ravid (@BarakRavid) May 4, 2026]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联航飞机下降时撞到高速灯杆 但安全着陆]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995763</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995763"/>
+        <updated>2026-05-04T10:57:47.000Z</updated>
+        <summary type="html"><![CDATA[美国联合航空公司（美联航）一架航班在接近新泽西州纽瓦克自由国际机场时，撞上附近高速公路的一根灯柱，但随后安全降落；机上200多人均未受伤。
+彭博社报道，这起事故发生于当地时间星期一（5月4日）。美国联邦航空管理局说，这架美联航169号航班从意大利威尼斯起飞，当天下午2时左右在新泽西州收费公路上，撞到一根灯柱，随后安全降落。
+联邦航空管理局和国家运输安全委员会正在调查这起事故。
+航司说，飞机上的221名乘客和10名机组人员均未受伤。机组人员已停止值勤，维修人员正在评估飞机受损情况。
+纽约和新泽西港务局在一份声明中说，这起撞击事故造成一根路灯杆受损。一辆沿收费公路向南行驶的半挂卡车也被撞到，司机受轻伤，入院治疗后已出院。
+近年来多起航空事故引起公众对飞行安全的日益关注。美联航这起事故的两个月前，一架加拿大航空快运公司飞机在纽约机场降落后不久，与一辆消防车相撞，机长和副机长遇难。
+美国国家运输安全委员会说，已要求美联航提供飞机的驾驶舱语音记录器和飞行数据记录器。
+概述事件事实和情况的初步报告，预计会在30天内发布。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗促美国放弃过分要求]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995598</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995598"/>
+        <updated>2026-05-04T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[美伊谈判仍陷僵局，伊朗外交部发言人巴加埃说，美国必须降低对伊朗的要求。
+法新社报道，巴加埃星期一（5月4日）在伊朗国家电视台播出的简报会上说：“现阶段，我们的首要任务是结束战争。对方必须采取合理态度，并放弃针对伊朗的过分要求。”
+美伊停火协议4月8日生效，随后的和平谈判进展缓慢，迄今只有一轮直接和谈。霍尔木兹海峡控制权问题成为双方关键分歧之一。
+这条石油运输要道至今还未解除封锁，但美国总统特朗普星期天（3日）说，华盛顿会开始护送船只通行。此举招致伊朗军方威胁。
+巴加埃在简报会上说：“事到如今，美国人应该已经明白，他们不能对伊朗人使用威胁和武力言辞。伊朗已经表明，我们将自己视为霍尔木兹海峡和这条重要航道的守护者、捍卫者。”
+他也指责美国和以色列给霍尔木兹海峡带来不安全因素，以及制造影响全球的问题。他呼吁国际社会追究这两个国家的责任。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋：退出油盟非孤立之举 不针对任何国家]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995379</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995379"/>
+        <updated>2026-05-04T09:36:36.000Z</updated>
+        <summary type="html"><![CDATA[阿拉伯联合酋长国说，退出石油输出国组织（OPEC，简称油盟）的决定并不针对任何人。
+油盟星期天（5月3日）发布声明，确认阿联酋已正式退出。法新社报道，阿联酋国家石油公司（ADNOC）首席执行官贾贝尔星期一（4日）表明，退出油盟旨在聚焦国家优先事项和阿联酋经济。
+阿联酋于4月28日宣布，自5月1日起退出油盟及油盟与其他石油生产国组成的油盟+（OPEC+）。
+自去年12月因也门问题公开决裂以来，波斯湾国家之间的密切伙伴关系受到考验，但兼任阿联酋工业与先进技术部长的贾贝尔说，退出油盟的决定并非针对任何国家，也不是孤立之举。
+阿联酋是油盟第四大产油国，它的退出对油盟控制油价的能力造成打击。分析人士指出，此举也进一步加剧阿联酋与沙特阿拉伯之间本就因也门问题而持续的紧张关系；两国在油盟产量配额问题上，也长期存在分歧。
+贾贝尔强调，退出油盟“符合我们的国家利益和长期战略目标，契合我们的工业、经济及发展愿景，并使阿联酋更有能力加速投资、扩大规模并创造价值”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄远东煤矿山体滑坡 八名矿工遇难]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8994958</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8994958"/>
+        <updated>2026-05-04T08:37:53.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯远东一座煤矿日前发生山体滑坡，已有八人遇难，搜救行动已经结束。
+新华社报道，俄罗斯远东马加丹州（Magadan Oblast）的一座露天煤矿4月30日发生山体滑坡，多名矿工被埋。
+州长诺索夫说，截至星期一（5月4日），已在山体滑坡区域找到八名遇难者遗体。
+俄罗斯紧急情况部同日宣布，这次搜救行动已结束。
+《莫斯科时报》报道，山体滑坡事故造成至少八名矿工被困，官方称事故原因是永久冻土融化。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -394,180 +592,6 @@
 他并未透露项目更多细节，只说项目进展仍需要时间，以色列正在努力。
 内坦亚胡还说，以色列正在采购共计两个中队的美制F-35和F-15IA战机。未来十年，以色列将向国防预算追加3500亿新谢克尔（约合1514亿新元），用于在以本土生产弹药，确保不再依赖外国。此外，以色列将研发“由以色列制造的突破性飞机”。
 新华社引述《以色列时报》报道，无人机已成为黎巴嫩真主党对付以军的重要武器，且“被证明难以拦截”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中央司令部将支持霍尔木兹海峡疏导行动]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992477</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992477"/>
-        <updated>2026-05-04T01:38:58.000Z</updated>
-        <summary type="html"><![CDATA[美国中央司令部将于星期一（5月4日）开始支持霍尔木兹海峡被困船只疏导行动。但伊朗议会一名高级成员说，德黑兰将把美国任何干预霍尔木兹海峡的企图视为违反停火协议。
-美国中央司令部3日在社交媒体宣布，部队将于4日开始支持美国总统特朗普主导、面向霍尔木兹海峡被困船只的疏导行动。
-美方军事支持包括出动导弹驱逐舰、100多架陆基和海基飞机、无人机，以及1万5000名军人。
-特朗普3日早前在社媒平台Truth Social发文说，美国将于4日启动霍尔木兹海峡疏导行动，这项行动旨在帮助那些完全没有做错任何事的个人、公司和国家，并指受困海峡的船员众多，食物和其他必需品即将耗尽。
-特朗普说，多个国家请求美国帮助它们的船只脱困。
-美国中央司令部称，这项任务“将为寻求通过这一重要国际贸易通道的商船提供支持”。中央司令部司令库珀说，在支持这项“防御性”任务的同时，美方将继续维持对伊朗的海上封锁。
-美国中央司令部还说，国务院上周宣布了一项名为“海上自由架构”的倡议，旨在加强国际伙伴间的协调与信息共享，以支持霍尔木兹海峡的海上安全。这项倡议将外交行动与军事协调结合起来，将在此次疏导行动期间发挥关键作用。
-伊朗伊斯兰议会国家安全和外交政策委员会主席阿齐兹4日凌晨在社媒X平台发文说：“美国任何干预霍尔木兹海峡新海上秩序的行为都将被视为违反停火协议。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚行将为亚太地区两项新倡议提供700亿美元支持]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992042</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992042"/>
-        <updated>2026-05-04T01:24:09.000Z</updated>
-        <summary type="html"><![CDATA[亚洲开发银行宣布，到2035年，亚行将为“泛亚电网倡议”和“亚太数码高速公路”两项新倡议提供700亿美元（约891亿新元）资金支持，推动亚太地区电网互联、扩大地区跨境电力贸易并改进宽带接入状况。
-新华社报道，亚行行长神田真人星期天（5月3日）在亚行理事会第59届年会上宣布这一决定。他说，电网和数码网络的跨境互联有助于降低成本、扩大机遇，让数亿民众用上可靠的电力和数码服务。
-亚行方面称，泛亚电网倡议将在国家和次区域层面推进电力系统互联互通，使可再生能源能够跨境流动；亚太数码高速公路有助于弥合数字基础设施差距，让亚太地区从人工智能（AI）驱动的增长中获益。到2035年，亚行将累计统筹500亿美元用于跨境电力基础设施建设，并统筹200亿美元为数码廊道、数据基础设施等提供资金支持。
-亚行是一家聚焦亚太地区发展的多边开发银行，成立于1966年。亚行理事会第59届年会5月3日至6日在乌兹别克斯坦撒马尔罕举行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗议会要员：美国干涉海峡新管理制度将被视为违反停火]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992335</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992335"/>
-        <updated>2026-05-04T01:14:51.000Z</updated>
-        <summary type="html"><![CDATA[伊朗一名高级官员说，德黑兰将把美国任何干预霍尔木兹海峡的企图视为违反停火协议。
-综合法新社和新华社报道，伊斯兰议会国家安全和外交政策委员会主席阿齐兹星期一（5月4日）凌晨在社媒平台X发文说：“美国任何干预霍尔木兹海峡新海上秩序的行为都将被视为违反停火协议。”
-美国总统特朗普3日在Truth Social宣布，美国将于4日上午开始一项疏导行动，引导被困在霍尔木兹海峡的船只驶离这条海峡。
-阿齐兹说：“霍尔木兹海峡和波斯湾不会被特朗普妄想性质的帖文所管理。”
-特朗普称霍尔木兹海峡疏导行动为“自由计划”（Project Freedom），旨在帮助那些完全没有做错任何事的个人、公司和国家。他指受困于海峡的船员众多，食物和其他必需品即将耗尽。他还说，多个国家请求美国帮助它们的船只脱困。
-伊朗媒体2日报道，伊朗伊斯兰议会副议长尼克扎德说，议会将批准一项“霍尔木兹海峡管理法”，内容包括：永久禁止以色列船只通过这一关键水道；来自“敌对国家”的船只必须支付“战争赔偿金”才能获得通行许可；其他船只需获得伊朗授权才能通行。
-伊朗国家媒体3日报道，华盛顿已通过巴基斯坦向伊朗转达了对伊朗14点提案的回应，德黑兰正在审阅。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世卫：一艘游轮爆发汉坦病毒疫情 已致三人死亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992235</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992235"/>
-        <updated>2026-05-04T00:28:55.000Z</updated>
-        <summary type="html"><![CDATA[世界卫生组织（WHO）通报，大西洋一艘游轮爆发汉坦病毒感染事件，已造成三人死亡，一人在加护病房接受治疗。
-综合彭博社和路透社报道，汉坦病毒（hantavirus）是一种由啮齿动物传播的病毒，可能导致致命性的呼吸道疾病。
-世卫组织星期天（5月3日）在社媒平台X发表声明说：“世卫组织已获悉并正在支持一起涉及一艘在大西洋航行的游轮的公共卫生事件。迄今为止，已确诊一起汉坦病毒感染病例，另有五起疑似病例。六名感染者中，三人死亡，一人目前在南非接受重症监护治疗。”
-荷兰当局和媒体当天早前报道，一艘荷兰邮轮疑似爆发汉坦病毒疫情，已造成三人死亡。
-荷兰外交部发言人证实，两名荷兰籍乘客不幸死亡，但未透露更多细节。英国天空新闻引述南非卫生部消息称，在加护病房的病人是英国公民。
-总部位于荷兰的“泛海探险”（Oceanwide Expeditions）3日发布新闻稿说，公司旗下极地探险船洪迪厄斯号（MV Hondius）正在佛得角附近“处理一起严重的医疗事件”。佛得角是位于非洲西岸大西洋的一个火山岛国。
-这艘邮轮约三周前从阿根廷出发，载有约150名乘客，抵达佛得角前曾停靠南极洲及其他地点。
-世卫组织正对此次疫情进行调查，包括实验室检测和追踪病毒在船上的传播途径。世卫组织说，已向乘客和船员提供医疗护理和支持，并正在努力确定病毒的基因组序列。
-汉坦病毒可通过啮齿动物的粪便和尿液在空气中传播。世卫组织说，在极少数情况下，汉坦病毒可在人与人之间传播。
-据美国疾病控制与预防中心（CDC）统计，汉坦病毒的早期症状类似流感，可导致心肺衰竭，约40%的病例最终死亡。
-汉坦病毒目前没有特效药，因此治疗重点在于支持性治疗，包括让重症患者使用呼吸机。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗已收到美国回应 特朗普称正与伊方进行积极讨论]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992163</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992163"/>
-        <updated>2026-05-03T23:44:40.000Z</updated>
-        <summary type="html"><![CDATA[伊朗星期天（5月3日）说，已收到美国对伊方最新和平谈判提案的回应。而美国总统特朗普说，美国代表正与伊朗进行“非常积极的讨论”。
-路透社引述伊朗国家媒体报道，华盛顿已通过巴基斯坦向伊朗转达了对伊朗14点提案的回应，德黑兰目前正在审阅。
-华府和巴方均未立即证实此消息。
-报道引述伊朗外交部发言人巴盖伊说：“现阶段，我们不进行核谈判。”这显然是指伊朗提议搁置核问题谈判，直到战争结束且双方同意解除对霍尔木兹海峡航运的对立封锁。
-另一方面，美国总统特朗普3日在社媒平台Truth Social说，美国将于4日启动一项行动，引导被困在霍尔木兹海峡的船舶驶离这一区域。他称这项行动为“自由计划”，旨在帮助那些完全没有做错任何事的个人、公司和国家，多个国家请求美国帮助它们的船只脱困。
-特朗普还说：“我清楚知道我的代表们正与伊朗进行非常积极的讨论，这些讨论可能为所有人带来非常积极的结果。”他没有提供更多细节。
-此前，特朗普暗示，伊朗的最新和平方案可能不足以让他满意。特朗普一直把伊朗核问题列为优先事项。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：美国4日启动引导霍尔木兹海峡船只驶离行动]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992079</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992079"/>
-        <updated>2026-05-03T23:01:46.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，美国将从星期一（5月4日）上午开始一项疏导行动，引导被困在霍尔木兹海峡的船只驶离海峡。
-特朗普星期天在社媒平台Truth Social贴文说，这些船只来自世界各地，与中东当前局势没有任何关联。
-特朗普称这项行动为“自由计划”（Project Freedom），旨在帮助那些完全没有做错任何事的个人、公司和国家，受困海峡的船员众多，食物和其他必需品即将耗尽。
-他说，多个国家请求美国帮助它们的船只脱困。
-特朗普说：“我们已告知这些国家，我们将安全地引导他们的船只驶出受限制水域，让他们能够自由且顺利地继续开展业务。”
-特朗普未透露行动具体细节，包括美国海军是否会参与，但他警告，“如果这一人道主义进程受到任何形式的干扰，那我们将不得不采取强硬措施予以应对。”
-白宫和五角大楼尚未回应置评请求。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦检察官证实白宫晚宴枪手射中特勤局人员]]></title>
-        <id>https://www.zaobao.com/news/world/story20260503-8991782</id>
-        <link href="https://www.zaobao.com/news/world/story20260503-8991782"/>
-        <updated>2026-05-03T15:52:06.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦检察官星期天说，调查人员已找到明确证据，指闯美国白宫记者晚宴的枪手，确实射中一名特勤局特工。
-美国联邦检察官皮罗星期天（5月3日）接受美国有线电视新闻网（CNN）访问时说，调查人员现在可以明确指出，击中这名特工的子弹是来自枪手艾伦（Cole Tomas Allen，31岁）的枪火。“我们现已证实，被告所持的莫斯伯格泵动式霰弹枪发射的一颗铅弹，已嵌入这名特工防弹背心的纤维中。”
-她补充说：“这绝对是他的子弹，他击中那名特勤局特工。他当时完全打算杀死他以及任何阻碍他刺杀美国总统的人。”
-上星期六（4月25日）晚上，艾伦持枪企图闯入在华盛顿希尔顿酒店举行的白宫记者协会晚宴，出席活动的特朗普、副总统万斯等政要紧急撤离，艾伦随后被制伏逮捕。他日前已被控被控企图刺杀总统特朗普等多项罪名。 
-调查人员公布了事发时的部分监控录像。在录像中，艾伦冲过酒店内的一处安检站，并将枪口对准一名特勤局特工，这名特工在艾伦跑出画面时向他开了数枪。
-皮罗称，未来将公布更多视频，包括艾伦跑出画面后发生的情况。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国伦敦发生枪击案造成四人受伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260503-8991706</id>
-        <link href="https://www.zaobao.com/news/world/story20260503-8991706"/>
-        <updated>2026-05-03T15:10:30.000Z</updated>
-        <summary type="html"><![CDATA[英国伦敦南部发生一起无差别枪击事件，造成四人受伤送院。
-英国天空新闻报道，这起事件发生在星期六（5月3日）凌晨，伦敦南部的布里克斯顿发生一起“无差别枪击事件”，所有受害者都有枪伤。
-一名25岁男子伤势严重有生命危险，另外三名分别为21岁、47岁和70岁的伤者则没有生命危险。
-警方说，正在调查约一小时后在附近发生的一起持刀伤人案件是否与这起枪击案有关。
-据报道，警方周六凌晨1时14分（新加坡时间早上8时14分）接获报案称，在布里克斯顿科尔德哈伯巷（Coldharbour Lane）有人从车内开枪；凌晨2时17分，又接到报案称附近埃克巷（Acre Lane）发生持刀伤人事件。
-在埃克巷，一名33岁男子被发现身中多刀，已送院治疗，伤势严重。
-警方称，目前未逮捕任何人，并正努力追查肇事者。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥地利北部营地“战争遗物”爆炸 致五名儿童受伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260503-8991675</id>
-        <link href="https://www.zaobao.com/news/world/story20260503-8991675"/>
-        <updated>2026-05-03T14:45:46.000Z</updated>
-        <summary type="html"><![CDATA[奥地利北部营地篝火下的“战争遗物”爆炸，导致五名年龄介于10至14岁的儿童受伤。
-路透社报道，奥地利警方星期天（5月3日）说，这起事件发生在星期六（2日）晚上，位于上奥地利州弗赖施塔特附近的圣奥斯瓦尔德村（St Oswald bei Freistadt）。这个地区经常有青少年团体露营，受伤儿童则是来自上奥地利州其他地区的团体。
-警方声明指出，爆炸发生后，警方检查了相邻的一个火坑，发现了另一个含有爆炸物的物体，同样被描述为“战争遗物”，随后召来了拆弹小组进行处理。
-声明说：“目前正在调查这些战争遗物是如何出现在篝火区域下方的。”
-警方说，目前尚不清楚这些儿童的伤势严重程度，他们已被送往附近林茨市的一家儿童医院。
-虽然奥地利仍不时发现二战时期的炸弹，尤其是在建筑施工挖掘过程中，但像星期六这样的事故实属罕见。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就业市场严峻 欧美年轻人继续深造求突围]]></title>
-        <id>https://www.zaobao.com/news/world/story20260503-8965693</id>
-        <link href="https://www.zaobao.com/news/world/story20260503-8965693"/>
-        <updated>2026-05-03T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦彭博讯）受全球经济动荡、人工智能（AI）迅速发展以及就业竞争加剧的多重影响下，欧美越来越多年轻人选择攻读硕士学位，希望在数十年来最严峻的就业市场中突围而出。
-22岁的政治系学生韦斯顿-爱德华兹因为没能获得一家历史旅游公司的实习机会，而决定继续攻读政治传播硕士。他说：“如果连实习机会都落空了，那我毕业后找到工作的希望就很渺茫，我显然需要一份更出色的履历。”
-韦斯顿-爱德华兹只是欧美成千上万选择继续深造的年轻人中的一员。官方数据显示，今年以来，美国法学院申请人数较过去四年平均水平激增32%。
-欧洲去年有四分之三的商科硕士项目申请人数超过前一年。英国授课型研究生课程的收生人数在经历多年下滑后，2024-25学年的入学人数增长了8%。
-那些能为学生打开通往金融业等传统优势行业大门的实用型学位尤其受欢迎，伦敦贝叶斯商学院（The Bayes Business School）的研究生申请人数在2025-26学年增长近10%，增速较往年加快。
-不过，对许多学生来说，他们申请研究生课程的关键在于这是否有助于就业，凸显了许多学生并非出于学术兴趣而继续深造的现象。
-韦斯顿-爱德华兹说：“就业能力绝对是首要因素。现在很多人读硕士，更多是因为就业市场的状况，而非个人对提升学术水平的渴望。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎波罗热核电站外部辐射控制实验室遭无人机袭击]]></title>
-        <id>https://www.zaobao.com/news/world/story20260503-8991600</id>
-        <link href="https://www.zaobao.com/news/world/story20260503-8991600"/>
-        <updated>2026-05-03T14:07:51.000Z</updated>
-        <summary type="html"><![CDATA[扎波罗热核电站星期天向国际原子能机构通报称，一架无人机袭击了核电站外部辐射监测实验室。
-路透社报道，国际原子能机构（IAEA）星期天（5月3日）说，目前未接获人员伤亡报告，且尚不清楚有关实验室是否受损。这个实验室位于核电站周边范围之外。
-国际原子能机构总干事格罗西说，现场的IAEA团队已要求进入实验室进行调查，并重申任何发生在核设施附近的袭击都可能构成核安全风险。
-扎波罗热核电站是欧洲最大核电站，靠近乌克兰南部战线，2022年起被俄军占领。四年战争期间，俄乌多次指责对方发动袭击，称此举将引发核灾难。
-俄罗斯方面星期天声称，乌克兰军队发动了这次的无人机袭击，但表明扎波罗热核电站继续正常运行。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
