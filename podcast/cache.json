@@ -296,6 +296,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "69f504fe8dd960ac61214b8a",
+          "author": null,
+          "description": "Former senior US national security official Miles Taylor shares a personal account that raises a broader civic concern: the growing cost of dissent in American public life. Drawing on his experience inside government and living the consequences of speaking openly, he says that the real threat to US democracy isn't the politicians or hard-liners — it's the two-thirds of Americans who don’t speak up. (This talk contains mature language.)\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/milestaylor",
+          "publishedOn": "2026-05-04T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The rising cost of dissent in America | Miles Taylor",
+          "itunes": {
+            "duration": "21:05"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69f504fe8dd960ac61214b8a/media.mp3",
+            "length": "20342640",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "69f3767b8beeba5310f90cba",
           "author": null,
           "description": "What if your hardest emotional challenges could be solved by talking to a stranger? A person who has gone through the exact same situation or something very similar. That’s the premise of Proxy, a podcast that investigates your niche emotional conundrums with host Yowei Shaw. In this episode, Yowei and Chris talk about the power of knowing you’re not the only person going through something, however specific. Whether it’s losing your job, a friend breakup, or an alternate version of your life that you can’t let go of, Yowei has a method to make it all make more sense.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
@@ -957,24 +975,6 @@
           "enclosure": {
             "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d030dcf57702d2d99c9ca6/media.mp3",
             "length": "18979439",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "69cfd5e11d7024f1a73d7c63",
-          "author": null,
-          "description": "Tenelle Porter’s job is to study humility. Specifically, intellectual humility, the idea that we might be wrong or mistaken about some of our beliefs. Tenelle talks with Chris about why she thinks intellectual humility is so important, how to cultivate it, and why it’s the missing piece in so many conversations these days. Whether it’s in politics, academia or social media, Tenelle argues discovering you are wrong doesn’t have to be a painful realization, rather it can lead to positive discovery.\n\nFor the full text transcript, visit go.ted.com/BHTranscripts\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "https://audiocollective.ted.com/",
-          "publishedOn": "2026-04-05T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Sunday Pick: What to do when your beliefs are challenged (w/ Tenelle Porter) | from How to Be a Better Human",
-          "itunes": {
-            "duration": "35:53"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69cfd5e11d7024f1a73d7c63/media.mp3",
-            "length": "34547183",
             "type": "audio/mpeg"
           },
           "imageUrl": null

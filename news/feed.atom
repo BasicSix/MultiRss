@@ -2,198 +2,326 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T14:10:52.378Z</updated>
+    <updated>2026-05-04T19:46:05.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Where Silence Learns to Sing]]></title>
-        <id>1x-3568124</id>
-        <link href="https://1x.com/photo/3568124"/>
-        <updated>2026-05-04T14:10:08.933Z</updated>
-        <summary type="html"><![CDATA[Where Silence Learns to Sing by Leechee Z]]></summary>
+        <title type="html"><![CDATA[Unspoken Stories]]></title>
+        <id>1x-3555652</id>
+        <link href="https://1x.com/photo/3555652"/>
+        <updated>2026-05-04T19:45:19.281Z</updated>
+        <summary type="html"><![CDATA[Unspoken Stories by Marco Latino]]></summary>
         <author>
-            <name>Leechee Z</name>
+            <name>Marco Latino</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Estern Blue Bird]]></title>
-        <id>1x-3568171</id>
-        <link href="https://1x.com/photo/3568171"/>
-        <updated>2026-05-04T14:10:08.931Z</updated>
-        <summary type="html"><![CDATA[Estern Blue Bird by Leeli Higgins]]></summary>
+        <title type="html"><![CDATA[deq]]></title>
+        <id>1x-3567416</id>
+        <link href="https://1x.com/photo/3567416"/>
+        <updated>2026-05-04T19:45:19.267Z</updated>
+        <summary type="html"><![CDATA[deq by Mehmet]]></summary>
         <author>
-            <name>Leeli Higgins</name>
+            <name>Mehmet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mundari wrestlers]]></title>
-        <id>1x-3538692</id>
-        <link href="https://1x.com/photo/3538692"/>
-        <updated>2026-05-04T14:10:08.928Z</updated>
-        <summary type="html"><![CDATA[Mundari wrestlers by Trevor Cole]]></summary>
+        <title type="html"><![CDATA[The Weight of the Shift]]></title>
+        <id>1x-3569096</id>
+        <link href="https://1x.com/photo/3569096"/>
+        <updated>2026-05-04T19:45:19.242Z</updated>
+        <summary type="html"><![CDATA[The Weight of the Shift by David Bennion]]></summary>
         <author>
-            <name>Trevor Cole</name>
+            <name>David Bennion</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[quiet murderous intent]]></title>
-        <id>1x-3568115</id>
-        <link href="https://1x.com/photo/3568115"/>
-        <updated>2026-05-04T14:10:08.920Z</updated>
-        <summary type="html"><![CDATA[quiet murderous intent by Ryuta Suzuki]]></summary>
+        <title type="html"><![CDATA[At the Edge of Light]]></title>
+        <id>1x-3569425</id>
+        <link href="https://1x.com/photo/3569425"/>
+        <updated>2026-05-04T19:45:19.230Z</updated>
+        <summary type="html"><![CDATA[At the Edge of Light by konikonikei]]></summary>
         <author>
-            <name>Ryuta Suzuki</name>
+            <name>konikonikei</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jumping]]></title>
-        <id>1x-3568873</id>
-        <link href="https://1x.com/photo/3568873"/>
-        <updated>2026-05-04T14:10:08.917Z</updated>
-        <summary type="html"><![CDATA[Jumping by Ronald Bergkamp]]></summary>
+        <title type="html"><![CDATA[Ghepardo]]></title>
+        <id>1x-3568432</id>
+        <link href="https://1x.com/photo/3568432"/>
+        <updated>2026-05-04T19:45:19.223Z</updated>
+        <summary type="html"><![CDATA[Ghepardo by Paolorossi]]></summary>
         <author>
-            <name>Ronald Bergkamp</name>
+            <name>Paolorossi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solitude in Stillness]]></title>
-        <id>1x-3566850</id>
-        <link href="https://1x.com/photo/3566850"/>
-        <updated>2026-05-04T14:10:08.912Z</updated>
-        <summary type="html"><![CDATA[Solitude in Stillness by URANUS  FILM]]></summary>
+        <title type="html"><![CDATA[Red-crowned Crane 2]]></title>
+        <id>1x-3569713</id>
+        <link href="https://1x.com/photo/3569713"/>
+        <updated>2026-05-04T19:45:19.217Z</updated>
+        <summary type="html"><![CDATA[Red-crowned Crane 2 by john r huang]]></summary>
         <author>
-            <name>URANUS FILM</name>
+            <name>john r huang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3564689</id>
-        <link href="https://1x.com/photo/3564689"/>
-        <updated>2026-05-04T14:10:08.909Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <title type="html"><![CDATA[The man with the pigeons]]></title>
+        <id>1x-3568904</id>
+        <link href="https://1x.com/photo/3568904"/>
+        <updated>2026-05-04T19:45:19.211Z</updated>
+        <summary type="html"><![CDATA[The man with the pigeons by Marcel Wege]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Marcel Wege</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Osprey In Action]]></title>
-        <id>1x-3567091</id>
-        <link href="https://1x.com/photo/3567091"/>
-        <updated>2026-05-04T14:10:08.905Z</updated>
-        <summary type="html"><![CDATA[Osprey In Action by Victor Wang]]></summary>
+        <title type="html"><![CDATA[The Hitchhiker]]></title>
+        <id>1x-3569754</id>
+        <link href="https://1x.com/photo/3569754"/>
+        <updated>2026-05-04T19:45:19.196Z</updated>
+        <summary type="html"><![CDATA[The Hitchhiker by Jose C. Lobato]]></summary>
         <author>
-            <name>Victor Wang</name>
+            <name>Jose C. Lobato</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will]]></title>
-        <id>1x-3545319</id>
-        <link href="https://1x.com/photo/3545319"/>
-        <updated>2026-05-04T14:10:08.897Z</updated>
-        <summary type="html"><![CDATA[Will by Christian Kieffer]]></summary>
+        <title type="html"><![CDATA[Taquile beauty]]></title>
+        <id>1x-3566571</id>
+        <link href="https://1x.com/photo/3566571"/>
+        <updated>2026-05-04T19:45:19.181Z</updated>
+        <summary type="html"><![CDATA[Taquile beauty by Marco Tagliarino]]></summary>
         <author>
-            <name>Christian Kieffer</name>
+            <name>Marco Tagliarino</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rising]]></title>
-        <id>1x-3567247</id>
-        <link href="https://1x.com/photo/3567247"/>
-        <updated>2026-05-04T14:10:08.895Z</updated>
-        <summary type="html"><![CDATA[Rising by Hiro Tanaka]]></summary>
+        <title type="html"><![CDATA[Suspended Stillness]]></title>
+        <id>1x-3564183</id>
+        <link href="https://1x.com/photo/3564183"/>
+        <updated>2026-05-04T19:45:19.151Z</updated>
+        <summary type="html"><![CDATA[Suspended Stillness by Kerekes Szilárd]]></summary>
         <author>
-            <name>Hiro Tanaka</name>
+            <name>Kerekes Szilárd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Abyss Gaze]]></title>
-        <id>1x-3558372</id>
-        <link href="https://1x.com/photo/3558372"/>
-        <updated>2026-05-04T14:10:08.890Z</updated>
-        <summary type="html"><![CDATA[The Abyss Gaze by Tetsuji Yoshida]]></summary>
+        <title type="html"><![CDATA[Layered Elegance]]></title>
+        <id>1x-3568872</id>
+        <link href="https://1x.com/photo/3568872"/>
+        <updated>2026-05-04T19:45:19.138Z</updated>
+        <summary type="html"><![CDATA[Layered Elegance by Stefan Lenz]]></summary>
         <author>
-            <name>Tetsuji Yoshida</name>
+            <name>Stefan Lenz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Penguins on the Iceberg]]></title>
-        <id>1x-3568336</id>
-        <link href="https://1x.com/photo/3568336"/>
-        <updated>2026-05-04T14:10:08.887Z</updated>
-        <summary type="html"><![CDATA[The Penguins on the Iceberg by Raymond Ren Rong Liu]]></summary>
+        <title type="html"><![CDATA[On the Verge of Spring]]></title>
+        <id>1x-3569421</id>
+        <link href="https://1x.com/photo/3569421"/>
+        <updated>2026-05-04T19:45:19.131Z</updated>
+        <summary type="html"><![CDATA[On the Verge of Spring by Genki Uehara]]></summary>
         <author>
-            <name>Raymond Ren Rong Liu</name>
+            <name>Genki Uehara</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unyielding]]></title>
-        <id>1x-3565061</id>
-        <link href="https://1x.com/photo/3565061"/>
-        <updated>2026-05-04T14:10:08.884Z</updated>
-        <summary type="html"><![CDATA[Unyielding by Hamza Qarooni]]></summary>
+        <title type="html"><![CDATA[rainy]]></title>
+        <id>1x-3569694</id>
+        <link href="https://1x.com/photo/3569694"/>
+        <updated>2026-05-04T19:45:19.115Z</updated>
+        <summary type="html"><![CDATA[rainy by Damijan Sedevcic]]></summary>
         <author>
-            <name>Hamza Qarooni</name>
+            <name>Damijan Sedevcic</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[White-necked Jacobin #1]]></title>
-        <id>1x-3555451</id>
-        <link href="https://1x.com/photo/3555451"/>
-        <updated>2026-05-04T14:10:08.875Z</updated>
-        <summary type="html"><![CDATA[White-necked Jacobin #1 by Hai Lin 雪原]]></summary>
+        <title type="html"><![CDATA[Yosemite Fire Fall]]></title>
+        <id>1x-3569353</id>
+        <link href="https://1x.com/photo/3569353"/>
+        <updated>2026-05-04T19:45:19.050Z</updated>
+        <summary type="html"><![CDATA[Yosemite Fire Fall by Spring Zhang]]></summary>
         <author>
-            <name>Hai Lin 雪原</name>
+            <name>Spring Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Chicken1]]></title>
-        <id>1x-3568458</id>
-        <link href="https://1x.com/photo/3568458"/>
-        <updated>2026-05-04T14:10:08.858Z</updated>
-        <summary type="html"><![CDATA[Apple Chicken1 by Andy Wong]]></summary>
+        <title type="html"><![CDATA[Gold medal gymnast]]></title>
+        <id>1x-3569254</id>
+        <link href="https://1x.com/photo/3569254"/>
+        <updated>2026-05-04T19:45:18.859Z</updated>
+        <summary type="html"><![CDATA[Gold medal gymnast by Jeffrey C. Sink]]></summary>
         <author>
-            <name>Andy Wong</name>
+            <name>Jeffrey C. Sink</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[River roars]]></title>
-        <id>1x-3569029</id>
-        <link href="https://1x.com/photo/3569029"/>
-        <updated>2026-05-04T14:10:08.852Z</updated>
-        <summary type="html"><![CDATA[River roars by GENNARO DI NOTO]]></summary>
+        <title type="html"><![CDATA[The Eternal Knot]]></title>
+        <id>1x-3560331</id>
+        <link href="https://1x.com/photo/3560331"/>
+        <updated>2026-05-04T19:45:18.850Z</updated>
+        <summary type="html"><![CDATA[The Eternal Knot by Cong Lin]]></summary>
         <author>
-            <name>GENNARO DI NOTO</name>
+            <name>Cong Lin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunday]]></title>
-        <id>1x-3567829</id>
-        <link href="https://1x.com/photo/3567829"/>
-        <updated>2026-05-04T14:10:08.682Z</updated>
-        <summary type="html"><![CDATA[Sunday by Hemanta Swain]]></summary>
+        <title type="html"><![CDATA[Classical Beauty]]></title>
+        <id>1x-3568954</id>
+        <link href="https://1x.com/photo/3568954"/>
+        <updated>2026-05-04T19:45:18.841Z</updated>
+        <summary type="html"><![CDATA[Classical Beauty by Peter Schade]]></summary>
         <author>
-            <name>Hemanta Swain</name>
+            <name>Peter Schade</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spanish Lady 3]]></title>
-        <id>1x-3391522</id>
-        <link href="https://1x.com/photo/3391522"/>
-        <updated>2026-05-04T14:10:08.678Z</updated>
-        <summary type="html"><![CDATA[Spanish Lady 3 by Rafael L. Bardají]]></summary>
+        <title type="html"><![CDATA[Maehyangri Peace Memorial]]></title>
+        <id>1x-3568456</id>
+        <link href="https://1x.com/photo/3568456"/>
+        <updated>2026-05-04T19:45:18.828Z</updated>
+        <summary type="html"><![CDATA[Maehyangri Peace Memorial by Jaeseok Lim]]></summary>
         <author>
-            <name>Rafael L. Bardají</name>
+            <name>Jaeseok Lim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facade - Crete, Greece]]></title>
-        <id>1x-3568645</id>
-        <link href="https://1x.com/photo/3568645"/>
-        <updated>2026-05-04T14:10:08.622Z</updated>
-        <summary type="html"><![CDATA[Facade - Crete, Greece by Arnon Orbach]]></summary>
+        <title type="html"><![CDATA[portrait]]></title>
+        <id>1x-3569708</id>
+        <link href="https://1x.com/photo/3569708"/>
+        <updated>2026-05-04T19:45:18.806Z</updated>
+        <summary type="html"><![CDATA[portrait by Łukasz Pietrzak]]></summary>
         <author>
-            <name>Arnon Orbach</name>
+            <name>Łukasz Pietrzak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市访澳洲 推进日澳经济安保合作框架]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996561</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996561"/>
+        <updated>2026-05-04T15:47:55.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗五月黄金周访问澳大利亚，同澳洲总理阿尔巴尼斯发表了关键矿产以及能源合作的联合声明。两国领导人也就亚太“航行自由”发表声明，双方将稳步推进安全领域合作。
+霍尔木兹海峡的封锁以及中国对稀土元素的出口限制，导致日本的资源和能源安全面临挑战。高市星期一（5月4日）在堪培拉同阿尔巴尼斯举行会谈后说，全球石油供应紧张正在对亚太地区造成巨大冲击。
+高市说，两国将迅速采取行动，加强自主性和韧性，以确保能源供应稳定。
+根据联合声明，两国将加强合作以实现供应链多元化，作为提升两国经济安全关系的核心支柱。双方选定了六个优先投资和生产项目，其中包括用作永磁体原材料的稀土元素和用作LED及半导体基板原材料的镓。
+澳洲不但稀土资源丰富，还是液化天然气（LNG）和煤炭的稳定供应国，分别占日本进口量的约40%和煤炭的约70%。在能源安全合作上，两国协议将支持液化天然气、煤炭和液体燃料的流通，应对不合理的进出口限制。
+声明也强调，将推动两国均为成员国的《跨太平洋伙伴关系协定》以加强基于规则的国际经济秩序。
+高市在联合记者会上指出，日澳建立了堪称“准联盟“”的关系。“我们将继续谱写新的历史，为这种合作开辟新的天地。在日益严峻和复杂的国际形势下，日本和澳洲愿为维护地区稳定发挥引领作用。”
+阿尔巴尼斯则表达了愿在多领域加强与日本合作，他说：“处于动荡且充满挑战的全球经济形势下，两国作为值得信赖的朋友和伙伴的关系才显得至关重要。我非常高兴我们能够在广泛领域加强特殊战略伙伴关系，为本地区带来和平与稳定。”
+这次访问，日本也宣布将加强与澳洲在情报合作等网络安全领域的合作，其中一项是通过信息共享和利用人工智能（AI）来应对识别威胁方面的挑战。
+《朝日新闻》指出，澳洲是“五眼联盟”的情报共享机制成员国，被认为拥有顶尖的情报能力。高市拟设立国家情报局，加强情报能力建设，以作为构建威慑力量的政策。与澳洲实现信息分享，有助于加强日本在收集国际战略信息的能力。
+日本政府4月取消对杀伤性国防装备的出口限制，澳洲有意采购日本最上级改进型驱逐舰。高市此行也抓住机会表达了要与澳洲强化防务合作。 
+高市说：“有关合作不但能使双方防御能力进一步提升，也有利于推动两国的国防工业领域。安全合作是日澳牢固关系的基础，（日本）要利用澳洲的地理优势，进一步加强防务合作。”
+高市在访澳前，也访问了越南。在总结一系列外交成果时，她说：“日本、越南和澳洲就加强具体合作达成共识，共同致力于增强彼此的韧性和自主性，这将使整个地区更加强大与繁荣。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美军助受困船只离开海峡 伊朗称将视为违反停火]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8995413</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8995413"/>
+        <updated>2026-05-04T15:38:52.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美国军方周一按总统特朗普指示，开始为协助受困商船安全驶出霍尔木兹海峡的“自由计划”提供支援。伊朗警告，美国在海峡的任何干预行为都属违反停火协议，外国武装部队若试图靠近或进入海峡，将遭到打击。
+伊朗媒体周一报道，一艘试图穿越霍尔木兹海峡的美国海军护卫舰遭导弹攻击，被迫折返，但美国否认有军船遇袭。
+特朗普星期天（5月3日）在社交媒体上宣布，美国将于中东时间周一（4日）上午展开一项名为“自由计划”（Project Freedom）的行动，引导被困在霍尔木兹海峡的船只离开这条运输要道。 
+特朗普说，受困船只来自世界各国，其中绝大多数国家与中东战争没有任何牵连。他写道：“为了伊朗、中东与美国的利益，我们已告知这些国家，我们将引导它们的船只与船员安全地离开受限水域。”
+特朗普称，这项行动是代表“美国与中东国家，尤其是伊朗采取的人道主义举措”。他指出，许多受困船只的食物和其他物资已所剩无几。
+他警告，如果这项人道主义行动遭到任何阻挠，美国将以强硬手段应对。
+美国此举引起伊朗强烈不满。伊朗议会国家安全和外交政策委员会主席阿齐兹周一在社媒平台X上写道：“美国对霍尔木兹海峡新海事管理制度的任何干涉，都将被视为违反停火协议。”
+伊朗武装部队哈塔姆安比亚中央总部高级官员阿卜杜拉希同日警告，伊朗将打击任何试图接近或进入霍尔木兹海峡的外国武装力量。
+新华社星期一引述伊朗塔斯尼姆通讯社消息报道，伊朗伊斯兰革命卫队称，过去数小时没有任何商船或油轮通过霍尔木兹海峡。
+
+美军否认有军舰遭伊朗导弹击中
+
+伊朗军方周一稍晚时称，已发出“迅速而果断的警告”，阻止美国和以色列驱逐舰进入霍尔木兹海峡。据法尔斯通讯社报道，一艘美国海军护卫舰无视伊朗伊斯兰革命卫队要它停下的警告，之后在贾斯克（Jask）岛附近被两枚导弹击中。 
+美国中央司令部否认有美国海军舰艇被击中。司令部还说，美国海军导弹驱逐舰此前为支援自由计划穿越霍尔木兹海峡，目前正在阿拉伯湾执行任务。“作为第一步，已有两艘悬挂美国国旗的商船成功通过霍尔木兹海峡，并正安全地继续航行。” 
+美国中央司令部星期天发声明宣布，出动1万5000名军事人员、100多架陆基和海基飞机，以及军舰和无人机支援自由计划。
+声明称，这是一项防御性任务。声明也提到美国上周宣布成立的“海事自由建构”，称这项结合外交行动与军事协调的倡议将在自由计划中发挥重要作用。
+《华尔街日报》引述匿名美国官员报道，自由计划暂不涉及美国海军护航，而是一个由各国、保险公司和航运组织参与的协调机制。
+
+称美方重开海峡行动框架不明 马克龙：法国不参与
+
+法国总统马克龙周一说，法国不会参与任何在他看来框架不明的军事行动。他呼吁美国和伊朗以协调一致的方式重开霍尔木兹海峡。
+英国海上贸易行动办公室（UKMTO）说，由于持续的军事行动，霍尔木兹海峡的海上安全威胁级别仍然极高。　　
+另一方面，伊朗已通过巴基斯坦收到美方对伊方14点谈判方案的回应，并正在审议。
+伊朗外交部发言人巴加埃周一说，美国必须采取合理立场，放弃对伊朗的过分要求。他也指有关美伊谈判核问题的报道多为猜测，强调现阶段双方只会就彻底结束战争谈判。
+特朗普星期天则说，美方代表正与伊朗积极磋商，这些磋商有望为各方带来积极成果。
+美国财长贝森特同日称，美国的经济封锁已让伊朗领导层感到“窒息”。他告诉福克斯新闻：“他们无力支付士兵的薪水。这是一场真正的经济封锁，而且已经波及政府的各个部门。”
+美国国家经济委员会主任哈塞特也称，伊朗经济正处于极端灾难的边缘，“他们正在经历恶性通货膨胀，而且开始出现饥荒”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊媒：伊朗否认过去数小时有船只通过霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996960</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996960"/>
+        <updated>2026-05-04T15:34:02.000Z</updated>
+        <summary type="html"><![CDATA[伊朗媒体报道，伊朗伊斯兰革命卫队否认过去数小时有任何商船或油轮通过霍尔木兹海峡，并称美方的说法是纯粹的谎言。
+伊朗伊斯兰共和国广播电视台星期一（5月4日）报道，革命卫队公关部门当天表明，过去数小时没有任何商船或穿越霍尔木兹海峡，美国所谓已有船只通行的说法“毫无根据、完全是谎言”。
+报道称，任何革命卫队海军既定原则的海上行动，都会面临严重风险，违规船只会遭到武力拦截。
+美军中央司令部当天早些时候在社媒发文宣称，两艘悬挂美国国旗的商船已通过霍尔木兹海峡。
+贴文还说，美国海军的导弹驱逐舰通过霍尔木兹海峡后，正在阿拉伯湾执行任务，积极协助恢复商船通航工作。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因霍尔木兹海峡被封锁 美国成最大石油出口国]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8994971</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8994971"/>
+        <updated>2026-05-04T15:12:47.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿彭博电）霍尔木兹海峡遭封锁，中东多数原油运不出去，美国石油成了抢手货，也因此超越沙特阿拉伯，再次成为全球第一大原油出口国。
+过去九个星期，美国各地油田和储油设施向全球出口了超过2亿5000万桶原油。然而，在出口创纪录的同时，美国国内的库存也迅速下降，原油和燃料总库存已连续四周减少，跌破历史平均水平。尽管美国石油生产商努力维持产能，但专家普遍质疑，这么大规模的出货能持续多久。
+这是个影响全球的问题。实际上，近期美国石油出口虽稳定，但仍不足以弥补因霍尔木兹海峡封锁而造成的供应短缺。基准的布伦特原油价格自美伊战争爆发以来已上涨约50%，上周更是突破每桶126美元（约160新元），创下2022年以来的最高水平。如今美国的原油出口量可能已接近极限，使全球争夺原油的竞争白热化。
+在美国国内，能源导致的通货膨胀问题预计将对11月的中期选举产生重大影响。当零售汽油价格飙升，选民肯定会质疑为何这么多的石油被运往国际市场。
+目前，美国的汽油平均零售价已超过每加仑4.40美元。2022年，俄罗斯入侵乌克兰后的几个月，美国无铅汽油平均零售价一度超过每加仑5美元。在接下来中期选举前的几个月，这是个值得关注的关键价位。
+美伊战争期间，大量美国石油流向亚洲。亚洲炼油商此前的主要供应来源是波斯湾，但这场战争迫使他们不得不转向美国买油。
+埃克森美孚和雪佛龙等石油巨头也面临着中东业务中断的困境。雪佛龙首席执行官沃斯上星期五（5月1日）说，全球能源系统正承受着“极大压力”。康菲石油公司前一天也警告，石油“严重短缺”迫在眉睫。
+尽管油价飙升，美国的钻井公司却不愿增产，因为市场走向难以预测。自战争爆发以来，美国石油的日产量已减少约10万桶。
+
+交易员：美石油出口量已近极限　白宫料迟早限制出口
+
+交易员指出，由于基础设施和航运限制，原油持续从美国墨西哥湾沿岸输出的总量已逐渐接近实际极限。官方公布的产能通常接近每日1000万桶，但交易员认为，实际的稳定产能上限可能更接近目前的每日600万桶，只是在某些短暂高峰期，产能可能接近每日700万桶。
+这方面的瓶颈主要在于海上运输，可用的船舶以及成本高昂的海上驳运作业（即在船舶之间运输石油）限制了装载量。
+在产出没有增加的情况下，出口增长直接导致国内库存减少。美国原油和石油产品的总储备已连续四周下降，减少了5200万桶。
+道明证券大宗商品策略师麦凯说，由于战争仍未结束，库存收缩的趋势预计将持续，5月份的库存降幅可能达到数百万桶。可是，知情人士透露，特朗普政府官员已一再排除会限制美国石油或成品油出口的可能。
+目前，美国汽油的平均零售价比战争前高出1美元以上，作为经济命脉的柴油售价上涨了近2美元。6月到9月是美国人夏季驾车出游的季节，预计燃料需求还会递增。
+特朗普政府已采取一些措施来抑制能源通胀，包括豁免一项已沿用百年的海事法以简化境内石油运输，并允许在汽油中掺入更多乙醇。但这方面的政策工具毕竟有限，因此交易员推测白宫最终可能限制出口。
+ClearView能源公司的布克说：“在油价每加仑4美元时被否决的糟糕方案，在油价达到每加仑6美元时或许会被重新考虑。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国一船只在霍尔木兹海峡爆炸起火]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996843</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996843"/>
+        <updated>2026-05-04T15:06:22.000Z</updated>
+        <summary type="html"><![CDATA[韩国当局说，一艘由韩国公司运营的船舶，在霍尔木兹海峡发生爆炸并起火，目前没有人员伤亡。
+韩国外交部星期一（5月4日）向新华社确认，一艘由韩国公司运营的船只，当天下午在霍尔木兹海峡内侧阿联酋附近海域发生爆炸并起火，当前尚无人员伤亡。这艘船悬挂巴拿马国旗，当时正停泊在出事海域。
+韩联社当天早些时候报道，韩国声称正在核实有关一艘悬挂韩国国旗的船只在霍尔木兹海峡遭袭的情况。
+韩国航运公司HMM发言人告诉路透社，公司旗下一艘散货船在霍尔木兹海峡的机舱发生火灾，起火原因仍在调查中；公司称没有人员伤亡的报告。
+美伊和平谈判进程仍无突破，霍尔木兹海峡形势依然紧张。美国军方星期一说，两艘美国海军导弹驱逐舰已进入波斯湾，以突破伊朗封锁；另有两艘美国舰艇已通过霍尔木兹海峡。
+伊朗方面此前声称，已阻止一艘美国军舰进入波斯湾。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰警方搜查数十名涉贪征兵官]]></title>
+        <id>https://www.zaobao.com/news/world/story20260504-8996727</id>
+        <link href="https://www.zaobao.com/news/world/story20260504-8996727"/>
+        <updated>2026-05-04T14:51:17.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰警方在16个地区对数十名涉及腐败的现任及前任征兵官员进行搜查。
+路透社报道，乌克兰国家警察星期一（5月4日）说，在搜查行动中查获现金、汽车和电单车，并对非法致富和虚假申报资产等违法行为提起150多项行政指控。
+警方在声明中说：“这些行动不仅是为了揭露个别腐败事件，更旨在系统性地清除征兵领域的滥用职权行为。”
+俄乌战争2022年2月爆发以来，乌军一直面临兵力短缺问题。有报道称，一些官员收受贿赂，允许士兵免服兵役，或允许适龄男性违反禁令逃离出境。
+路透社报道称，乌克兰军队在兵力和装备上普遍处于劣势，加上训练不足、腐败盛行以及征兵官作风强硬，还有前线残酷的消耗战，民众的参军热情大打折扣。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -500,98 +628,6 @@ Senior U.S. official denies a U.S. ship was hit by Iranian missiles
 其中一名美国官员说，美国军舰将停留在霍尔木兹海峡“附近区域”，以便在必要时阻止伊朗军方对通过海峡的商业船只发动袭击。
 两名官员还说，美军将向商业船只提供有关霍尔木兹海峡最优海上航线的信息，特别是在涉及使用未被伊朗军方布设水雷的航道方面。
 《华尔街日报》同日报道，一名美国高级官员说，特朗普宣布的引导被困船只通过霍尔木兹海峡行动，并不涉及由美国军舰为这些船只提供护航。这名官员称，特朗普的新举措是一套“旨在协调经霍尔木兹海峡航运交通的运作机制”，参与协调的主体包括各国政府、保险公司和航运组织。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不服金建希贪污案二审判决 韩独检组提起抗诉]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8993535</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8993535"/>
-        <updated>2026-05-04T05:57:37.000Z</updated>
-        <summary type="html"><![CDATA[负责调查韩国前总统尹锡悦夫人金建希弊案的独立检察组（独检组），不服金建希涉嫌贪污受贿案二审判决，星期一（5月4日）向最高法院提起抗诉。
-韩联社报道，韩国二审法院4月28日对金建希涉嫌贪污受贿案进行判决，判处金建希有期徒刑四年，罚款5000万韩元（约4万3260新元），没收金建希所持价值6220万韩元的格拉夫项链，并追缴2094万韩元。二审刑量虽然重于一审判处的有期徒刑一年八个月，但远不及独检组请求的15年。
-金建希方面4月30日也向最高法院提起了上诉。
-二审法院当时认定，金建希参与操纵德意志汽车股价的罪名部分成立，她从统一教处受贿、违反《特定犯罪加重处罚法》的罪名全部成立。但对于金建希从政治掮客明泰均处免费获得民调服务，违反《政治资金法》的指控，二审维持一审无罪判决。
-据推测，在终审庭审上，金建希方面很可能主张前两项罪名并不成立，独检组则将主张二审法院对后一项罪名的判决存在事实认定错误，误解法理。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋正式退出石油输出国组织]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8993416</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8993416"/>
-        <updated>2026-05-04T04:39:20.000Z</updated>
-        <summary type="html"><![CDATA[石油输出国组织（OPEC，简称油盟）星期天（5月3日）发布声明，确认阿拉伯联合酋长国已正式退出油盟。
-新华社报道，油盟秘书处已收到阿联酋能源部长马兹鲁伊致油盟现任部长理事会主席的信函，信中宣布阿联酋决定退出油盟，这一决定自2026年5月1日起生效。
-此前，阿联酋于4月28日宣布，自5月1日起退出油盟及油盟与其他石油生产国组成的油盟+（OPEC+）。
-石油输出国组织成立于1968年，总部设在科威特，旨在促进各成员国之间的合作，努力保持合理油价等。油盟成员包括沙特阿拉伯、卡塔尔、科威特、阿尔及利亚、巴林、埃及、伊拉克等国家。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霍尔木兹海峡航运停滞 美国成全球第一大原油出口国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8993181</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8993181"/>
-        <updated>2026-05-04T04:00:17.000Z</updated>
-        <summary type="html"><![CDATA[由于霍尔木兹海峡近乎关闭，过去九个星期，美国各地油田和储油设施向全球出口超过2亿5000万桶原油。
-彭博社报道，这使得美国超越了沙特阿拉伯，再次成为全球第一大原油出口国。
-不过，在美国石油出口创纪录的同时，美国国内库存正在迅速下降，原油和燃料总库存已连续四周减少，跌破历史平均水平。与此同时，美国石油生产商也难以跟上步伐。
-许多能源专家质疑，美国如此规模的出货量还能持续多久。
-能源通胀预计将在美国11月中期选举中成为重要议题，随着零售汽油价格不断飙升，一些选民将质疑政府为何把大量原油运往海外。
-华盛顿战略与国际研究中心高级研究员西格尔说：“油轮不断来运走我们的石油，但一旦大量石油输出美国，供需平衡预计将趋紧。”
-他说：“我们这么消耗库存是在给自己挖坑。”
-报道指，这是一个具有全球影响的问题。虽然最近几周美国原油出口维持稳定，但依然无法弥补因为霍尔木兹海峡被封锁而造成的供应短缺。
-作为关键基准的布伦特原油价格，自美以伊战争爆发以来已上涨约50%，上周更突破每桶126美元（约160新元），创下2022年以来的最高水平。如果美国的原油出货量现已接近极限，原油市场的竞争将会更加激烈。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哥伦比亚“怪兽卡车”表演失控撞人群 死亡人数增至三人]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992294</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992294"/>
-        <updated>2026-05-04T02:48:11.000Z</updated>
-        <summary type="html"><![CDATA[哥伦比亚发生“怪兽卡车”冲撞人群事故，造成至少两人死亡，多人受伤。
-路透社报道，这起车祸发生在星期天（5月3日），事发地点为哥伦比亚南部城市波帕扬（Popayan）一场展览活动。
-另据新华社报道，当地媒体发布的视频显示，怪兽卡车表演跳跃障碍物后失控，径直冲向观众区域，一名未成年人当场死亡，另有两人送院后不治身亡。
-最初统计约有15人受伤，但随后这一数字迅速升至约40人，伤者被分送至波帕扬市多家医疗机构接受救治。
-波帕扬市长说，怪兽卡车越过障碍物后未能及时刹车，撞向人群。
-当局早前说，有至少两人死亡，37人受伤。
-哥伦比亚《观察家报》引述波帕扬一名官员说，其中一名死者是一名10岁女童。
-怪兽卡车（Monster Truck）是一种经高度改装的皮卡车，以巨型轮胎、超高底盘、强劲引擎为特色。源自1970年代末的美国，常用于特技表演和竞速比赛。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国前纽约市长朱利安尼入院 发言人称他情况危急]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992755</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992755"/>
-        <updated>2026-05-04T02:35:25.000Z</updated>
-        <summary type="html"><![CDATA[美国前纽约市长朱利安尼入院，朱利安尼的发言人说，他“情况危急但稳定”。朱利安尼曾担任美国总统特朗普的私人律师。
-路透社报道，朱利安尼发言人古德曼星期天（5月3日）发表声明说：“朱利安尼市长是一位斗士，他一生坚定不移地面对每一个挑战，现在他以同样的斗志与病魔对抗。我们恳请大家和我们一起为‘美国市长’朱利安尼祈祷。”
-古德曼没有提供朱利安尼病情及何时入院的细节。
-特朗普3日晚在Truth Social发文，称朱利安尼是“纽约市史上最好的市长”，并指他受到“激进左翼”民主党人的恶劣对待。
-2001年美国遭遇九一一恐怖袭击时，朱利安尼担任纽约市长。现年81岁的朱利安尼在九一一恐袭发生时的应对表现备受赞誉，并赢得“美国市长”的称号。
-朱利安尼后来担任特朗普的私人律师，致力于协助特朗普推翻2020年总统选举结果，但最终失败。朱利安尼还因此在美国两个州面临刑事诉讼，并被选举工作人员起诉诽谤。朱利安尼否认有任何不当行为。
-朱利安尼去年在新罕布什尔州发生车祸，曾住院治疗。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列设立应对无人机威胁专项]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8992038</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8992038"/>
-        <updated>2026-05-04T02:01:14.000Z</updated>
-        <summary type="html"><![CDATA[以色列总理内坦亚胡说，他已于数周前下令设立一个应对无人机威胁的“专门项目”。
-内坦亚胡于星期天（5月3日）的视频讲话中透露，他将在当天收到设立应对无人机专项的进展报告。
-他并未透露项目更多细节，只说项目进展仍需要时间，以色列正在努力。
-内坦亚胡还说，以色列正在采购共计两个中队的美制F-35和F-15IA战机。未来十年，以色列将向国防预算追加3500亿新谢克尔（约合1514亿新元），用于在以本土生产弹药，确保不再依赖外国。此外，以色列将研发“由以色列制造的突破性飞机”。
-新华社引述《以色列时报》报道，无人机已成为黎巴嫩真主党对付以军的重要武器，且“被证明难以拦截”。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
