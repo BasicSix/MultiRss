@@ -2,198 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T19:46:05.388Z</updated>
+    <updated>2026-05-05T03:22:01.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Unspoken Stories]]></title>
-        <id>1x-3555652</id>
-        <link href="https://1x.com/photo/3555652"/>
-        <updated>2026-05-04T19:45:19.281Z</updated>
-        <summary type="html"><![CDATA[Unspoken Stories by Marco Latino]]></summary>
+        <title type="html"><![CDATA[Threshold Geometry]]></title>
+        <id>1x-3570101</id>
+        <link href="https://1x.com/photo/3570101"/>
+        <updated>2026-05-05T03:21:16.965Z</updated>
+        <summary type="html"><![CDATA[Threshold Geometry by Hiroxxxx]]></summary>
         <author>
-            <name>Marco Latino</name>
+            <name>Hiroxxxx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[deq]]></title>
-        <id>1x-3567416</id>
-        <link href="https://1x.com/photo/3567416"/>
-        <updated>2026-05-04T19:45:19.267Z</updated>
-        <summary type="html"><![CDATA[deq by Mehmet]]></summary>
+        <title type="html"><![CDATA[Dubai Under a Borrowed Moon]]></title>
+        <id>1x-3568979</id>
+        <link href="https://1x.com/photo/3568979"/>
+        <updated>2026-05-05T03:21:16.956Z</updated>
+        <summary type="html"><![CDATA[Dubai Under a Borrowed Moon by txules]]></summary>
         <author>
-            <name>Mehmet</name>
+            <name>txules</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Weight of the Shift]]></title>
-        <id>1x-3569096</id>
-        <link href="https://1x.com/photo/3569096"/>
-        <updated>2026-05-04T19:45:19.242Z</updated>
-        <summary type="html"><![CDATA[The Weight of the Shift by David Bennion]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3562573</id>
+        <link href="https://1x.com/photo/3562573"/>
+        <updated>2026-05-05T03:21:16.953Z</updated>
+        <summary type="html"><![CDATA[Untitled by Aliace/uesan]]></summary>
         <author>
-            <name>David Bennion</name>
+            <name>Aliace/uesan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At the Edge of Light]]></title>
-        <id>1x-3569425</id>
-        <link href="https://1x.com/photo/3569425"/>
-        <updated>2026-05-04T19:45:19.230Z</updated>
-        <summary type="html"><![CDATA[At the Edge of Light by konikonikei]]></summary>
+        <title type="html"><![CDATA[Hollow]]></title>
+        <id>1x-3570023</id>
+        <link href="https://1x.com/photo/3570023"/>
+        <updated>2026-05-05T03:21:16.950Z</updated>
+        <summary type="html"><![CDATA[Hollow by Wael Onsy]]></summary>
         <author>
-            <name>konikonikei</name>
+            <name>Wael Onsy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ghepardo]]></title>
-        <id>1x-3568432</id>
-        <link href="https://1x.com/photo/3568432"/>
-        <updated>2026-05-04T19:45:19.223Z</updated>
-        <summary type="html"><![CDATA[Ghepardo by Paolorossi]]></summary>
+        <title type="html"><![CDATA[Nearly Falling]]></title>
+        <id>1x-3566131</id>
+        <link href="https://1x.com/photo/3566131"/>
+        <updated>2026-05-05T03:21:16.947Z</updated>
+        <summary type="html"><![CDATA[Nearly Falling by Þorsteinn H. Ingibergsson]]></summary>
         <author>
-            <name>Paolorossi</name>
+            <name>Þorsteinn H. Ingibergsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red-crowned Crane 2]]></title>
-        <id>1x-3569713</id>
-        <link href="https://1x.com/photo/3569713"/>
-        <updated>2026-05-04T19:45:19.217Z</updated>
-        <summary type="html"><![CDATA[Red-crowned Crane 2 by john r huang]]></summary>
+        <title type="html"><![CDATA[gold necklace]]></title>
+        <id>1x-3568595</id>
+        <link href="https://1x.com/photo/3568595"/>
+        <updated>2026-05-05T03:21:16.943Z</updated>
+        <summary type="html"><![CDATA[gold necklace by NingYun Ye]]></summary>
         <author>
-            <name>john r huang</name>
+            <name>NingYun Ye</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The man with the pigeons]]></title>
-        <id>1x-3568904</id>
-        <link href="https://1x.com/photo/3568904"/>
-        <updated>2026-05-04T19:45:19.211Z</updated>
-        <summary type="html"><![CDATA[The man with the pigeons by Marcel Wege]]></summary>
+        <title type="html"><![CDATA[Transparent Strata]]></title>
+        <id>1x-3570146</id>
+        <link href="https://1x.com/photo/3570146"/>
+        <updated>2026-05-05T03:21:16.924Z</updated>
+        <summary type="html"><![CDATA[Transparent Strata by 大山　儀高]]></summary>
         <author>
-            <name>Marcel Wege</name>
+            <name>大山 儀高</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hitchhiker]]></title>
-        <id>1x-3569754</id>
-        <link href="https://1x.com/photo/3569754"/>
-        <updated>2026-05-04T19:45:19.196Z</updated>
-        <summary type="html"><![CDATA[The Hitchhiker by Jose C. Lobato]]></summary>
+        <title type="html"><![CDATA[Southern Aurora New Zealand and Vertical Milky Way]]></title>
+        <id>1x-3568465</id>
+        <link href="https://1x.com/photo/3568465"/>
+        <updated>2026-05-05T03:21:16.921Z</updated>
+        <summary type="html"><![CDATA[Southern Aurora New Zealand and Vertical Milky Way by Zhang Dong]]></summary>
         <author>
-            <name>Jose C. Lobato</name>
+            <name>Zhang Dong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taquile beauty]]></title>
-        <id>1x-3566571</id>
-        <link href="https://1x.com/photo/3566571"/>
-        <updated>2026-05-04T19:45:19.181Z</updated>
-        <summary type="html"><![CDATA[Taquile beauty by Marco Tagliarino]]></summary>
+        <title type="html"><![CDATA[Bottanicum]]></title>
+        <id>1x-3569902</id>
+        <link href="https://1x.com/photo/3569902"/>
+        <updated>2026-05-05T03:21:16.918Z</updated>
+        <summary type="html"><![CDATA[Bottanicum by Robert Buergisser]]></summary>
         <author>
-            <name>Marco Tagliarino</name>
+            <name>Robert Buergisser</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suspended Stillness]]></title>
-        <id>1x-3564183</id>
-        <link href="https://1x.com/photo/3564183"/>
-        <updated>2026-05-04T19:45:19.151Z</updated>
-        <summary type="html"><![CDATA[Suspended Stillness by Kerekes Szilárd]]></summary>
+        <title type="html"><![CDATA[dont look up]]></title>
+        <id>1x-3570034</id>
+        <link href="https://1x.com/photo/3570034"/>
+        <updated>2026-05-05T03:21:16.914Z</updated>
+        <summary type="html"><![CDATA[dont look up by Dmitrii Rabeev]]></summary>
         <author>
-            <name>Kerekes Szilárd</name>
+            <name>Dmitrii Rabeev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Layered Elegance]]></title>
-        <id>1x-3568872</id>
-        <link href="https://1x.com/photo/3568872"/>
-        <updated>2026-05-04T19:45:19.138Z</updated>
-        <summary type="html"><![CDATA[Layered Elegance by Stefan Lenz]]></summary>
+        <title type="html"><![CDATA[Tifore]]></title>
+        <id>1x-3570094</id>
+        <link href="https://1x.com/photo/3570094"/>
+        <updated>2026-05-05T03:21:16.909Z</updated>
+        <summary type="html"><![CDATA[Tifore by Dmitriy Yevtushyk]]></summary>
         <author>
-            <name>Stefan Lenz</name>
+            <name>Dmitriy Yevtushyk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Verge of Spring]]></title>
-        <id>1x-3569421</id>
-        <link href="https://1x.com/photo/3569421"/>
-        <updated>2026-05-04T19:45:19.131Z</updated>
-        <summary type="html"><![CDATA[On the Verge of Spring by Genki Uehara]]></summary>
+        <title type="html"><![CDATA[Mom and me ..Svalbard]]></title>
+        <id>1x-3568701</id>
+        <link href="https://1x.com/photo/3568701"/>
+        <updated>2026-05-05T03:21:16.882Z</updated>
+        <summary type="html"><![CDATA[Mom and me ..Svalbard by Shobhit Chawla]]></summary>
         <author>
-            <name>Genki Uehara</name>
+            <name>Shobhit Chawla</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rainy]]></title>
-        <id>1x-3569694</id>
-        <link href="https://1x.com/photo/3569694"/>
-        <updated>2026-05-04T19:45:19.115Z</updated>
-        <summary type="html"><![CDATA[rainy by Damijan Sedevcic]]></summary>
+        <title type="html"><![CDATA[Between the River and Infinity]]></title>
+        <id>1x-3513246</id>
+        <link href="https://1x.com/photo/3513246"/>
+        <updated>2026-05-05T03:21:16.878Z</updated>
+        <summary type="html"><![CDATA[Between the River and Infinity by Jorge Pimenta]]></summary>
         <author>
-            <name>Damijan Sedevcic</name>
+            <name>Jorge Pimenta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yosemite Fire Fall]]></title>
-        <id>1x-3569353</id>
-        <link href="https://1x.com/photo/3569353"/>
-        <updated>2026-05-04T19:45:19.050Z</updated>
-        <summary type="html"><![CDATA[Yosemite Fire Fall by Spring Zhang]]></summary>
+        <title type="html"><![CDATA[Dorze women portrait drinking at a tavern]]></title>
+        <id>1x-3524817</id>
+        <link href="https://1x.com/photo/3524817"/>
+        <updated>2026-05-05T03:21:16.556Z</updated>
+        <summary type="html"><![CDATA[Dorze women portrait drinking at a tavern by Francisco Mendoza Ruiz]]></summary>
         <author>
-            <name>Spring Zhang</name>
+            <name>Francisco Mendoza Ruiz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gold medal gymnast]]></title>
-        <id>1x-3569254</id>
-        <link href="https://1x.com/photo/3569254"/>
-        <updated>2026-05-04T19:45:18.859Z</updated>
-        <summary type="html"><![CDATA[Gold medal gymnast by Jeffrey C. Sink]]></summary>
+        <title type="html"><![CDATA[The Church]]></title>
+        <id>1x-3568916</id>
+        <link href="https://1x.com/photo/3568916"/>
+        <updated>2026-05-05T03:21:16.550Z</updated>
+        <summary type="html"><![CDATA[The Church by Svetlana Kirzh]]></summary>
         <author>
-            <name>Jeffrey C. Sink</name>
+            <name>Svetlana Kirzh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Eternal Knot]]></title>
-        <id>1x-3560331</id>
-        <link href="https://1x.com/photo/3560331"/>
-        <updated>2026-05-04T19:45:18.850Z</updated>
-        <summary type="html"><![CDATA[The Eternal Knot by Cong Lin]]></summary>
+        <title type="html"><![CDATA[Eyes on Earth]]></title>
+        <id>1x-3560371</id>
+        <link href="https://1x.com/photo/3560371"/>
+        <updated>2026-05-05T03:21:16.545Z</updated>
+        <summary type="html"><![CDATA[Eyes on Earth by Yongnan Li （李永男）]]></summary>
         <author>
-            <name>Cong Lin</name>
+            <name>Yongnan Li （李永男）</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Classical Beauty]]></title>
-        <id>1x-3568954</id>
-        <link href="https://1x.com/photo/3568954"/>
-        <updated>2026-05-04T19:45:18.841Z</updated>
-        <summary type="html"><![CDATA[Classical Beauty by Peter Schade]]></summary>
+        <title type="html"><![CDATA[Industrial poetry : #04]]></title>
+        <id>1x-3570089</id>
+        <link href="https://1x.com/photo/3570089"/>
+        <updated>2026-05-05T03:21:16.537Z</updated>
+        <summary type="html"><![CDATA[Industrial poetry : #04 by Eric Chatelain Photography]]></summary>
         <author>
-            <name>Peter Schade</name>
+            <name>Eric Chatelain Photography</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maehyangri Peace Memorial]]></title>
-        <id>1x-3568456</id>
-        <link href="https://1x.com/photo/3568456"/>
-        <updated>2026-05-04T19:45:18.828Z</updated>
-        <summary type="html"><![CDATA[Maehyangri Peace Memorial by Jaeseok Lim]]></summary>
+        <title type="html"><![CDATA[Ruppell's Robin Chat]]></title>
+        <id>1x-3570172</id>
+        <link href="https://1x.com/photo/3570172"/>
+        <updated>2026-05-05T03:21:16.526Z</updated>
+        <summary type="html"><![CDATA[Ruppell's Robin Chat by Ahmed Sobhi]]></summary>
         <author>
-            <name>Jaeseok Lim</name>
+            <name>Ahmed Sobhi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[portrait]]></title>
-        <id>1x-3569708</id>
-        <link href="https://1x.com/photo/3569708"/>
-        <updated>2026-05-04T19:45:18.806Z</updated>
-        <summary type="html"><![CDATA[portrait by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[An old man with many stories to tell]]></title>
+        <id>1x-3485651</id>
+        <link href="https://1x.com/photo/3485651"/>
+        <updated>2026-05-05T03:21:16.504Z</updated>
+        <summary type="html"><![CDATA[An old man with many stories to tell by CarlosMartins]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
+            <name>CarlosMartins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商船在霍尔木兹海峡爆炸起火 韩国称无人员伤亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8998340</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8998340"/>
+        <updated>2026-05-05T03:14:58.000Z</updated>
+        <summary type="html"><![CDATA[韩国外交部证实，一艘韩国船只在霍尔木兹海峡发生爆炸和起火，这是自中东冲突爆发以来，韩国滞留在这个地区的商船首次遭受损失。
+综合彭博社和韩联社报道，据韩国外交部消息，星期一（5月4日）晚8时40分左右，在霍尔木兹海峡内侧、阿联酋附近海域停泊的一艘由韩国海运企业运营的中型散货船发生爆炸并起火，政府正就是否遭到攻击等情况展开核实。
+这艘韩国营运的“HMM Namu”号当时共载有24人，其中包括六名韩国籍船员，事故未造成人员伤亡。
+韩国外交部第二次官金珍我主持紧急会议时说，政府对这起事故“深表关切”，并强调必须找出事故原因，防止类似事件再次发生。声明称，首尔方面已做好准备，“随时采取迅速行动，保障韩国船员的生命安全”。
+营运这艘中型散装货船的韩国航运公司HMM说，船上的火灾是从机舱开始的，船员经过四个小时的努力将火势扑灭。
+韩国政府已收到情报称这艘船遭到攻击，但仍在调查中。韩联社援引HMM公司一位官员的话说：“目前尚未确认是外部袭击还是船体内部问题导致的爆炸。”
+HMM计划调派拖船，将受损船舶转移至附近的迪拜港，相关作业预计需耗时数日。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌各自宣布停火日 莫斯科警告若违停火将报复基辅]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8998225</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8998225"/>
+        <updated>2026-05-05T02:51:35.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯星期一宣布，将于5月8日至9日与乌克兰实施单方面停火，届时俄罗斯将举行年度二战胜利日纪念活动，并威胁称，若乌克兰违反停火，将对基辅发动“大规模导弹袭击”。
+法新社报道，乌克兰随即宣布从星期三（5月6日）起实施停火，并直言，指望乌克兰在俄罗斯军事节日遵守停火是“不严肃的”。
+乌克兰官员称，俄罗斯星期一（4日）的袭击在乌克兰各地造成九人死亡，而一架乌克兰无人机则在夜间撞上了莫斯科一个高档社区的一座高层建筑。
+俄罗斯国防部发文称：“根据俄罗斯武装力量最高统帅普京的决定，已宣布从5月8日至9日停火……我们希望乌克兰方面也能效仿。”
+俄罗斯每年都会在红场举行盛大的阅兵式，以纪念二战胜利日。
+乌克兰总统泽连斯基周一则说，为了让莫斯科举行庆祝活动而停火是“不严肃的”，并称俄罗斯担心乌克兰无人机会“在红场上空盘旋”。
+泽连斯基在社媒X平台发文称：“截至今天，尚未收到任何关于停火方式的正式请求，尽管俄罗斯社交媒体上宣称这么做。”
+他补充说：“为此，我们宣布从5月5日至6日夜间零时开始实施停火。在剩余时间内，确保停火生效是切实可行的。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邮轮汉坦病毒疫情：发病者增至七人 确诊增至两人]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8998075</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8998075"/>
+        <updated>2026-05-05T02:32:14.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织（WHO）说，截至星期一（5月4日），洪迪厄斯号邮轮上已有七人发病，其中两人确诊感染汉坦病毒，另外五人为疑似病例。
+此前世卫组织证实，在大西洋上航行的洪迪厄斯号（MV Hondius）邮轮出现汉坦病毒（hantavirus）感染，截至3日已有一起确诊病例、五起疑似病例。六名患者中，三人死亡，一人在南非接受重症监护治疗。
+洪迪厄斯号为荷兰“泛海探险”（Oceanwide Expeditions）旗下的极地探险船。约三周前从阿根廷出发，载有约150名乘客。
+汉坦病毒可通过啮齿动物的粪便和尿液经空气中传播。世卫组织说，在极少数情况下，汉坦病毒可在人与人之间传播。据美国疾病控制与预防中心（CDC）统计，汉坦病毒的早期症状类似流感，可导致心肺功能衰竭，约40%的病例最终死亡。
+汉坦病毒目前没有特效药，因此治疗重点在于支持性治疗，包括让重症患者使用呼吸机。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋油轮在霍尔木兹海峡遇袭 卡塔尔强烈谴责]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8998003</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8998003"/>
+        <updated>2026-05-05T02:15:48.000Z</updated>
+        <summary type="html"><![CDATA[一艘由阿拉伯联合酋长国阿布扎比国家石油公司（ADNOC）运营的油轮在通过霍尔木兹海峡时遭无人机袭击，卡塔尔称此举严重违反国际法和航行自由原则，表示强烈谴责。
+新华社报道，卡塔尔外交部星期一（5月4日）发表声明说，卡塔尔坚决反对将霍尔木兹海峡作为施压工具，呼吁无条件重新开放海峡，并强调这一重要水道的航行自由是既定原则，不容妥协。
+声明说，持续关闭海峡将危及本地区国家的重大利益。
+卡塔尔外交部也重申支持阿联酋为保护自身资产所采取的一切措施。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普未明指伊朗违反停火 称“交火不激烈”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8997713</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8997713"/>
+        <updated>2026-05-05T01:57:17.000Z</updated>
+        <summary type="html"><![CDATA[伊朗在美国海军协助受困商船安全驶出霍尔木兹海峡首日，袭击了霍尔木兹海峡附近的商船和阿拉伯联合酋长国的石油基础设施。美国总统特朗普似有意淡化伊朗行动的后果，未明确指伊朗违反了美伊停火协议。
+特朗普星期一（5月4日）接受美国广播公司（ABC）的电话采访时，被问及美伊停火协议是否遭到破坏。
+他说：“交火并不激烈。你要知道，海峡内的船只正在移动。我们昨晚已护送了好几艘船，都是大型船只。没有开火。或许刚刚发生了一些交火。我正在了解情况。”
+在过去数小时里，伊朗在霍尔木兹海峡附近向一艘韩国货船开火，还向阿联酋发射了导弹和无人机。而美国中央司令部说，美军摧毁了六艘伊朗快艇，并拦截了一些伊朗导弹和无人机。
+特朗普告诉ABC：“伊朗最好祈祷停火协议继续有效。对他们来说，最好的结果就是我们维持停火协议。”
+访员问，违反停火协议会怎样？
+特朗普说：“我会让你们知道。”他说：“我们刚得知这件事，我们会查明真相。韩国应该介入。被击中的是一艘韩国船只。我认为，如果你的船被击中了，你应该立即派一些人去。”
+“我们现在对大家非常好。我们正在保护全世界。”
+谈到伊朗向阿联酋发射导弹和无人机，特朗普说：“大部分都被击落了。仅一个未被拦截。损失不大。”
+访员问：“所以我们不应反应过度？”
+他说：“反应过度对他们非常不利，不是对我不利。”
+访员再问：“这一切对结束战争的前景意味着什么？”
+特朗普说：“一切都在我们的控制之下。我们无论怎样都会赢。你知道为什么吗？因为我永远是赢家。你在很久以前就明白这点了。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普警告伊朗勿向美国船开火 否则伊军将被“彻底清除”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8997640</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8997640"/>
+        <updated>2026-05-05T01:02:47.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普提醒伊朗军队，如果他们胆敢袭击位于霍尔木兹海峡或波斯湾的美国船只，他们将“在地球上被彻底清除”。
+特朗普星期一（5月4日）接受福克斯新闻电话采访时发出这个警告，但他同时也说，伊朗谈判代表现在“更容易被操控”，在美国对伊朗港口实施封锁并持续施压下，伊方已“展现出一定的灵活性”。
+特朗普上月也曾在社媒平台发出“整个文明将被毁灭”的警告。
+被问及美军战备情况时，特朗普说，目前只有两条路，要么伊朗本着诚意达成协议，要么美国最终将不得不重启军事行动。
+他说，美军各项战备工作正在紧张进行中，所有基地物资储备充足，美军可随时调动并使用这些资源。
+4日下午，特朗普在Truth Social说，伊朗当天向包括一艘韩国货船在内的多艘船只开火。美军击沉了伊朗七艘小型快艇。除韩国货船外，目前在霍尔木兹海峡未见其他船只受损。
+美国中央司令部则说，陆军直升机摧毁了六艘伊朗军用快艇。
+阿拉伯联合酋长国同日指责伊朗无人机袭击了阿联酋最大的石油储存区、富查伊拉石油工业区，引发火灾并造成三名印度公民受伤。这是自4月初美伊达成停火协议以来，伊朗首次发动此类袭击。
+伊朗外交部长阿拉格齐5日凌晨在社媒X平台发文说，美国应保持警惕，避免再次被“不怀好意者”拖入泥潭，阿联酋也应提高警惕。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫附近发生枪击 持械可疑人员被特工开枪击中]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8997586</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8997586"/>
+        <updated>2026-05-05T00:26:54.000Z</updated>
+        <summary type="html"><![CDATA[美国特勤局人员在白宫外围巡逻时发现一名可疑人员，此人向特工开枪，随后被特工开枪击中。
+路透社报道，特勤局副局长奎因指特工发现这名男子时，觉得他形迹可疑，似乎持有枪支。他在特工靠近时拔腿逃跑，还向特工的方向开枪。
+嫌疑人中弹后被送往医院。媒体指他的伤势稳定。
+奎因说，一名路过的青少年被嫌疑人射出的子弹擦伤，没有生命危险，正在医院接受治疗。
+这起事件导致白宫短暂封锁，事发附近区域的道路关闭。
+奎因说，副总统万斯的车队在事发不久前经过这一地区，没有迹象表明嫌疑人意图接近万斯的车队。
+枪击事件的具体情况尚不清楚。现场缴获一件武器。但还不清楚除警察外，是否还有其他人开枪。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊外长：美国应避免被“不怀好意者”再次拖入泥潭]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8997476</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8997476"/>
+        <updated>2026-05-04T23:37:21.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外交部长阿拉格齐说，当对话在巴基斯坦推动下正在取得进展时，美国应保持警惕，避免再次被“不怀好意者”拖入冲突泥潭，阿联酋也应如此。
+阿拉格齐星期二（5月5日）在社媒X平台发文称，当前霍尔木兹海峡的局势表明，政治危机无法通过军事手段解决。美方在霍尔木兹海峡推进的所谓“自由计划”（Project Freedom）将变成“死结计划”（Project Deadlock）。
+阿拉伯联合酋长国3日称，阿方防空系统拦截了12枚弹道导弹、三枚巡航导弹及四架从伊朗发射的无人机。
+阿联酋指责伊朗发动的无人机袭击导致富查伊拉石油工业区（阿联酋最大石油储存区）发生火灾，造成三名印度公民受伤。这是自4月初美伊达成停火协议以来，伊朗首次发动此类袭击。
+美国总统特朗普3日在Truth Social宣布，美国将于中东当地时间4日上午在霍尔木兹海峡开始疏导行动，“引导”被困船只驶离海峡。
+特朗普将这项名为“自由计划”的疏导行动定性为“人道主义行动”。美军4日说，作为疏导行动的第一步，两艘悬挂美国国旗的商船已成功通过霍尔木兹海峡，美军击沉六艘试图阻挠商船航行的伊朗小型船只。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波斯湾再现袭击 美伊停火协议岌岌可危]]></title>
+        <id>https://www.zaobao.com/news/world/story20260505-8997411</id>
+        <link href="https://www.zaobao.com/news/world/story20260505-8997411"/>
+        <updated>2026-05-04T23:25:13.000Z</updated>
+        <summary type="html"><![CDATA[波斯湾地区星期一（5月4日）再度发生袭击事件，美国与伊朗的临时停火协议岌岌可危。阿拉伯联合酋长国称遭到伊朗无人机袭击，而美国军方表示击落了射向霍尔木兹海峡内的船只的导弹和无人机。与此同时，伊朗把美国总统特朗普协助受困于海峡船只的“自由计划”斥之为“死结计划”。
+综合《纽约时报》和英国广播公司（BBC）报道，阿联酋当局说，阿方防空系统拦截了12枚弹道导弹、三枚巡航导弹及四架从伊朗发射的无人机。
+阿联酋指责伊朗发动的无人机袭击阿联酋最大的石油储存区、富查伊拉石油工业区，引发火灾并造成三名印度公民受伤。这是自4月初美伊达成停火协议以来，伊朗首次发动此类袭击。
+另据阿曼国家通讯社报道，阿曼的布哈市也遭到袭击，有两人受伤，但未说明袭击者身份。
+美国海军星期一开始协助受困商船安全驶出霍尔木兹海峡，美国中央司令部说，美国海军的“海鹰”直升机和陆军的AH-64“阿帕奇”武装直升机摧毁了威胁商船航行的伊朗小型船只。
+美国总统特朗普在社媒平台贴文说，美军在试图打通霍尔木兹海峡时袭击了七艘伊朗“小型船只”，并指伊朗“袭击了一些无关联国家的船只”，包括一艘韩国货船。美国中央司令部则说，陆军直升机摧毁了六艘伊朗军用快艇。 
+伊朗外长阿拉格齐星期二（5日）凌晨说，霍尔木兹海峡的局势清楚表明，政治危机无法通过军事手段解决。
+阿拉格齐在社媒X平台上说，巴基斯坦的斡旋努力取得进展，“美国应该警惕被别有用心的人拖回泥潭。阿联酋也一样。”
+目前尚不清楚4日的袭击是否表明美伊停火协议已经失效，战争已重燃。伊朗官方既未证实也未否认恢复袭击，一名高级军官否认伊朗船只被击沉。
+另一方面，航运公司马士基集团（Maersk）证实，一艘马士基商船4日在美国军方的护送下已驶出波斯湾。然而伊朗坚称霍尔木兹海峡仍然关闭，并表示已向美国驱逐舰鸣枪示警。华盛顿方面否认有美国军舰遭到袭击。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-05-04T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月5日 枫叶音乐盒 览影 OmniPlay 一款原生开发的海报墙播放器，GitHub 5月1日 硬核指南 亲测！电影、追剧、二次元、听歌、小说、游戏资源都能白嫖，真的很好用！ PlainApp 在网页上控制手机，免费且不限量。可在电脑上进行文件传输、发送短信和查看照]]></summary>
+        <author>
+            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
@@ -236,7 +396,8 @@
 美军否认有军舰遭伊朗导弹击中
 
 伊朗军方周一稍晚时称，已发出“迅速而果断的警告”，阻止美国和以色列驱逐舰进入霍尔木兹海峡。据法尔斯通讯社报道，一艘美国海军护卫舰无视伊朗伊斯兰革命卫队要它停下的警告，之后在贾斯克（Jask）岛附近被两枚导弹击中。 
-美国中央司令部否认有美国海军舰艇被击中。司令部还说，美国海军导弹驱逐舰此前为支援自由计划穿越霍尔木兹海峡，目前正在阿拉伯湾执行任务。“作为第一步，已有两艘悬挂美国国旗的商船成功通过霍尔木兹海峡，并正安全地继续航行。” 
+美国中央司令部否认有美国海军舰艇被击中。司令部还说，美国海军导弹驱逐舰此前为支援自由计划穿越霍尔木兹海峡，目前正在阿拉伯湾执行任务。 
+“作为第一步，已有两艘悬挂美国国旗的商船成功通过霍尔木兹海峡，并正安全地继续航行。” 
 美国中央司令部星期天发声明宣布，出动1万5000名军事人员、100多架陆基和海基飞机，以及军舰和无人机支援自由计划。
 声明称，这是一项防御性任务。声明也提到美国上周宣布成立的“海事自由建构”，称这项结合外交行动与军事协调的倡议将在自由计划中发挥重要作用。
 《华尔街日报》引述匿名美国官员报道，自由计划暂不涉及美国海军护航，而是一个由各国、保险公司和航运组织参与的协调机制。
@@ -491,155 +652,6 @@ Senior U.S. official denies a U.S. ship was hit by Iranian missiles
 他也指责美国和以色列给霍尔木兹海峡带来不安全因素，以及制造影响全球的问题。他呼吁国际社会追究这两个国家的责任。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋：退出油盟非孤立之举 不针对任何国家]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8995379</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8995379"/>
-        <updated>2026-05-04T09:36:36.000Z</updated>
-        <summary type="html"><![CDATA[阿拉伯联合酋长国说，退出石油输出国组织（OPEC，简称油盟）的决定并不针对任何人。
-油盟星期天（5月3日）发布声明，确认阿联酋已正式退出。法新社报道，阿联酋国家石油公司（ADNOC）首席执行官贾贝尔星期一（4日）表明，退出油盟旨在聚焦国家优先事项和阿联酋经济。
-阿联酋于4月28日宣布，自5月1日起退出油盟及油盟与其他石油生产国组成的油盟+（OPEC+）。
-自去年12月因也门问题公开决裂以来，波斯湾国家之间的密切伙伴关系受到考验，但兼任阿联酋工业与先进技术部长的贾贝尔说，退出油盟的决定并非针对任何国家，也不是孤立之举。
-阿联酋是油盟第四大产油国，它的退出对油盟控制油价的能力造成打击。分析人士指出，此举也进一步加剧阿联酋与沙特阿拉伯之间本就因也门问题而持续的紧张关系；两国在油盟产量配额问题上，也长期存在分歧。
-贾贝尔强调，退出油盟“符合我们的国家利益和长期战略目标，契合我们的工业、经济及发展愿景，并使阿联酋更有能力加速投资、扩大规模并创造价值”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄远东煤矿山体滑坡 八名矿工遇难]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994958</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994958"/>
-        <updated>2026-05-04T08:37:53.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯远东一座煤矿日前发生山体滑坡，已有八人遇难，搜救行动已经结束。
-新华社报道，俄罗斯远东马加丹州（Magadan Oblast）的一座露天煤矿4月30日发生山体滑坡，多名矿工被埋。
-州长诺索夫说，截至星期一（5月4日），已在山体滑坡区域找到八名遇难者遗体。
-俄罗斯紧急情况部同日宣布，这次搜救行动已结束。
-《莫斯科时报》报道，山体滑坡事故造成至少八名矿工被困，官方称事故原因是永久冻土融化。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼日本签署防务合作协议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994885</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994885"/>
-        <updated>2026-05-04T08:23:48.000Z</updated>
-        <summary type="html"><![CDATA[印度尼西亚与日本签署防务合作协议，两国国防部长强调在全球动荡局势下维护地区和平及稳定的必要性。
-《雅加达环球报》报道，印尼防长夏弗里星期一（5月4日）与日本防长小泉进次郎会晤，双方同意大幅加强在国防工业领域的合作，并签署一项防务合作协议。
-日本政府4月底取消长期禁止出口致命武器的限制，但规定任何武器出口都应仅限于与日本签署防务协议的国家，包括印度尼西亚。
-夏弗里与小泉在联合记者会上表明，双方对防务工业合作表现出兴趣，但并未说明印尼有意引进何种类型的国防装备。
-夏弗里在协议签署仪式前告诉媒体，这份文件有望成为加强双方合作的工具，两国也会在人员培训方面建立更紧密的伙伴关系，同时兼顾各自的国家利益。
-小泉说，鉴于当前伊朗战争仍在进行，有必要通过新协议加强防务关系。
-“我们都是海洋国家，秉持相同的价值观。因此，双方的合作不仅对两国，而且对整个地区的防务与和平都会作出重大贡献。”
-曾任国防部长的印尼总统普拉博沃，正积极推进升级国内老旧武器系统的计划。仅在2026年，印尼的国防预算拨款就高达就337万亿印尼盾（约247亿新元）。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚行启动融资计划 协助亚太开发关键矿物供应链]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994605</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994605"/>
-        <updated>2026-05-04T08:02:43.000Z</updated>
-        <summary type="html"><![CDATA[（撒马尔罕综合电）亚洲开发银行星期天启动一项新的融资计划，旨在协助亚洲和太平洋地区的国家开发用于清洁能源、电池、电动汽车和数码技术所需关键矿物的供应链。 
-亚行声明说，这个计划将协助亚洲国家筹备项目，并为关键矿物的加工、制造和回收基础设施提供资金支持。
-亚行行长神田真人星期天（5月3日）在亚行年会上说：“亚洲和太平洋地区不应只是原材料的来源，这个地区也应抓住这些矿物所提供的就业、技术和价值。”
-他指出：“这项机制关乎紧迫性和公平性：现在就建立负责任的供应链，这样我们的发展中成员国就能在先进制造业中竞争，并在国内创造机会。”
-韩国进出口银行和韩国贸易保险公司（K-SURE）已各签署了5亿美元（约6亿3700万新元）的备忘录，成为这项机制的首批合作伙伴；日本和英国也为项目早期工作提供了少量赠款。
-亚行也宣布，到了2035年，亚行将向两项倡议投入高达700亿美元的资金支持，旨在实现亚太地区电网互联、扩大跨境电力贸易并加强宽带接入。
-其中，亚行将统筹500亿美元用于跨境电力基础设施建设，并统筹200亿美元为数码廊道、数据基础设施等提供资金支持。
-神田真人说：“电网和数码介入将决定亚太地区的未来……通过跨境连接电力网和数码网络，我们可以降低成本、拓展机遇，并为数亿人提供可靠的电力和数码接入服务。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遭美军扣留伊朗货船船员交送巴基斯坦 即将移交回伊朗]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994606</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994606"/>
-        <updated>2026-05-04T07:49:41.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦外交部说，美国已将一艘伊朗集装箱船上扣留的22名船员撤离到巴基斯坦，之后会将他们移交给伊朗当局。
-路透社报道，悬挂国旗的“图斯卡”号（Touska）4月在阿曼湾伊朗恰巴哈尔港（Chabahar）附近海域，遭美军登船和扣押。
-巴基斯坦外交部星期一（5月4日）说，这艘船在完成必要维修后，会转移到巴基斯坦领海，以便归还给船东。
-伊斯兰堡称，此举是“增进信任的措施”。
-图斯卡号隶属于伊朗伊斯兰共和国航运公司，这家公司在华盛顿制裁名单上。
-美军中央司令部在登船事件发生时说，图斯卡号船员在长达六小时内未遵守多次警告，而且船只违反美国封锁令。
-德黑兰则谴责这次事件非法且违反国际法，要求立即放船、放人。
-美伊4月中旬在调解国巴基斯坦举行和平谈判，但未能达成最终协议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吕特：北约已听进特朗普的意见 正落实双边基地使用协议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994511</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994511"/>
-        <updated>2026-05-04T07:38:16.000Z</updated>
-        <summary type="html"><![CDATA[北约秘书长吕特说，欧洲各国已领会美国总统特朗普的信息，目前正确保有关军事基地使用的协议得到落实。
-特朗普指责部分北约国家不配合美方对伊朗的军事行动，也对欧洲盟友感到不满，五角大楼上周还宣布计划从德国撤军5000人。
-路透社报道，吕特星期一（5月4日）说：“美方的确有些失望，但欧洲各国已经听进去（特朗普的意见）了，现在正确保所有双边基地协议得到落实。”
-北约成员国西班牙说，境内的军事基地不能用于对伊朗的战争。
-吕特则表明，黑山、克罗地亚、罗马尼亚、葡萄牙、希腊、意大利、英国、法国和德国等其他成员国，正在落实关于使用基地和提供其他后勤支持的要求。
-吕特还说，越来越多的欧洲国家正在波斯湾附近预先部署扫雷舰等资产，以备“下一阶段”之需。
-多个欧洲国家说，一旦战争结束，它们愿意参与帮助确保霍尔木兹海峡航行自由的行动。
-美国宣布削减驻德美军人数的消息，也引起欧盟领导人的注意。欧盟外交与安全政策高级代表卡拉斯星期一说，美方宣布这个计划的时机令人意外。
-卡拉斯说：“我认为这说明我们确实必须加强北约的欧洲支柱，而且必须采取更多行动。”
-她强调：“美军驻扎在欧洲不仅是为了保护欧洲的利益，也是为了保护美国的利益。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗武装部队警告美军 勿接近或进入霍尔木兹海峡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994161</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994161"/>
-        <updated>2026-05-04T07:22:36.000Z</updated>
-        <summary type="html"><![CDATA[伊朗武装部队警告美军不要接近或进入霍尔木兹海峡。
-新华社报道，伊朗武装部队哈塔姆安比亚中央总部（Khatam al-Anbiya）高级官员星期一（5月4日）说：“我们警告任何外国武装力量，特别是侵略成性的美国军队，若意图接近或进入霍尔木兹海峡，将遭到打击。”
-美国中央司令部3日在社交媒体宣布，将于4日开始支持特朗普总统主导、面向霍尔木兹海峡被困船只的疏导行动。美方军事支持包括出动导弹驱逐舰、100多架陆基和海基飞机、无人机，以及1万5000名军人。 
-另据美国新闻网站Axios报道，两名美国官员说，疏导被困船只的行动不一定包括美军舰艇直接护送商业船只。其中一名美国官员说，美国军舰将停留在霍尔木兹海峡“附近区域”，以便在必要时阻止伊朗军方对通过海峡的商业船只发动袭击。
-特朗普3日早前在Truth Social贴文说，多个国家请求美国帮助它们的船只脱困。这项名为“自由计划”的行动旨在帮助那些完全没有做错任何事的个人、公司和国家。受困海峡的船员众多，食物和其他必需品即将耗尽。
-特朗普说：“如果这一人道主义进程受到任何形式的干扰，那我们将不得不采取强硬措施予以应对。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦与伊朗通话 促中东和平对话]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8994091</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8994091"/>
-        <updated>2026-05-04T06:45:04.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦外交部4日发表声明说，巴基斯坦副总理兼外交部长达尔星期天（5月3日）晚与伊朗外交部长阿拉格齐通电话，讨论中东地区形势以及巴基斯坦为维护地区和平与稳定所作的外交努力。
-新华社报道，达尔重申巴方对促进伊朗和美国建设性接触的持续承诺，并强调对话与外交仍是和平解决各种问题、实现本地区乃至更广泛地区持久和平与稳定的唯一可行途径。
-阿拉格齐对巴基斯坦在各方之间发挥的建设性作用及作出的真诚调解努力表示赞赏。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美官员：霍尔木兹海峡护航倡议或不包美舰直接护送]]></title>
-        <id>https://www.zaobao.com/news/world/story20260504-8993789</id>
-        <link href="https://www.zaobao.com/news/world/story20260504-8993789"/>
-        <updated>2026-05-04T06:04:43.000Z</updated>
-        <summary type="html"><![CDATA[美国新闻网站Axios星期天（5月3日）引述两名美国官员的话报道，美国总统特朗普当天宣布的“引导”被困船只通过霍尔木兹海峡的行动，不一定包括美军舰艇直接护送商业船只。
-其中一名美国官员说，美国军舰将停留在霍尔木兹海峡“附近区域”，以便在必要时阻止伊朗军方对通过海峡的商业船只发动袭击。
-两名官员还说，美军将向商业船只提供有关霍尔木兹海峡最优海上航线的信息，特别是在涉及使用未被伊朗军方布设水雷的航道方面。
-《华尔街日报》同日报道，一名美国高级官员说，特朗普宣布的引导被困船只通过霍尔木兹海峡行动，并不涉及由美国军舰为这些船只提供护航。这名官员称，特朗普的新举措是一套“旨在协调经霍尔木兹海峡航运交通的运作机制”，参与协调的主体包括各国政府、保险公司和航运组织。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月推荐]]></title>
-        <id>/archives/2026nian-5yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
-        <updated>2026-04-30T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月1日 硬核指南 亲测！电影、追剧、二次元、听歌、小说、游戏资源都能白嫖，真的很好用！ PlainApp 在网页上控制手机，免费且不限量。可在电脑上进行文件传输、发送短信和查看照片。无需注册，100%开源 以上网站、软件均收集于网络，其内容数据与本站点无关，其正确性、]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
