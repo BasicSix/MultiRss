@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T08:16:08.664Z</updated>
+    <updated>2026-05-05T19:26:21.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why social health is key to happiness and longevity | Kasley Killam (re-release)]]></title>
+        <id>69fa05321353c87e11cf660c</id>
+        <link href="http://go.ted.com/kasleykillam"/>
+        <updated>2026-05-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You know it's important to take care of your physical and mental health. But what about your social health? Social scientist Kasley Killam shows how feeling a sense of belonging and connection has concrete benefits to your overall health — and explains why it may be the missing key to living a longer and happier life.
+
+This episode originally aired in 2025.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rising cost of dissent in America | Miles Taylor]]></title>
         <id>69f504fe8dd960ac61214b8a</id>
