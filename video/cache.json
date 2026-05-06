@@ -320,12 +320,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCefuY8ao6vYFRqbTNcuj3aA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PazgLP1tDb4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PazgLP1tDb4",
+          "publishedOn": "2026-05-06T11:28:59.000Z",
+          "wordCount": null,
+          "title": "【AI编程】10分钟上手Claude Code，新手也能轻松实现AI编程 | 10 Mins Master Claude Code! Easy AI Coding for Beginners🚀",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/_eaxu_auPes",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_eaxu_auPes",
           "publishedOn": "2026-05-02T23:40:19.000Z",
-          "wordCount": 2103,
+          "wordCount": 2124,
           "title": "【免费AI剪辑】弃用剪映！Kdenlive+Whisper 免费AI字幕 安装与配置 | Bye CapCut — Kdenlive + Whisper Just Saved My Sanity✨",
           "imageUrl": null
         },
@@ -355,7 +365,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "publishedOn": "2026-04-23T12:10:03.000Z",
-          "wordCount": 2213,
+          "wordCount": 2182,
           "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
           "imageUrl": null
         },
@@ -365,7 +375,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2159,
+          "wordCount": 2144,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -385,7 +395,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 2129,
+          "wordCount": 2177,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -415,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxRMXySGRwA",
           "publishedOn": "2026-04-10T22:00:22.000Z",
-          "wordCount": 2546,
+          "wordCount": 2208,
           "title": "【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨",
           "imageUrl": null
         },
@@ -435,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2175,
+          "wordCount": 2128,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         },
@@ -457,16 +467,6 @@
           "publishedOn": "2026-04-08T04:45:08.000Z",
           "wordCount": null,
           "title": "【AI Manus】丝滑拿捏Manus 8分钟解锁懂你的AI自动化助手 | Effortless Mastery: Unlock Your Manus AI Assistant in 8 Mins😎⚡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=giW4Flej49k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=giW4Flej49k",
-          "publishedOn": "2026-04-07T04:45:03.000Z",
-          "wordCount": null,
-          "title": "【AI资讯】4分钟搞定！跨区充值省大钱与白嫖LTX AI视频剪辑 | 4 Mins to Save Big on AI & Get a Free AI Video Editor LTX!😎⚡",
           "imageUrl": null
         }
       ]
