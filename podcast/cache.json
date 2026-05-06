@@ -978,24 +978,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69d030dcf57702d2d99c9ca6",
-          "author": null,
-          "description": "What does Parkinson's smell like? Ask nurse Joy Milne. Born with a hypersensitive nose, she spent a lifetime learning to recognize diseases through their scents. When she smelled Parkinson's on her husband years before his diagnosis, she decided to put her gift to the test. Today, her extraordinary nose has been translated into a non-invasive test — helping researchers diagnose what was right under their noses all along.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/joymilne",
-          "publishedOn": "2026-04-06T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The nurse who can smell Parkinson’s | Joy Milne",
-          "itunes": {
-            "duration": "19:40"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d030dcf57702d2d99c9ca6/media.mp3",
-            "length": "18979439",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
