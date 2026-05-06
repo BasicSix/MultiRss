@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T14:23:10.458Z</updated>
+    <updated>2026-05-06T19:50:24.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How moms shape the world | Anna Malaika Tubbs (re-release)]]></title>
+        <id>69fa07a282781c7c4576eeab</id>
+        <link href="https://go.ted.com/64Zc"/>
+        <updated>2026-05-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mothers undeniably impact and shape history -- but their stories are often left out or misrepresented, says sociologist and author Anna Malaika Tubbs. This erasure limits policies to support mothers and their essential roles in society. Citing the remarkable lives of Alberta King, Louise Little and Berdis Baldwin (the mothers of Martin Luther King Jr., Malcolm X and James Baldwin, respectively), Tubbs emphasizes the need to shift the perspective on motherhood at a cultural level -- to better reflect the presence, power and influence of moms as our first leaders, caretakers and teachers. "Would the world be different today if we had been telling their stories all along?" she asks.
+
+(This episode originally aired in 2022.)
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/69f3626b7de62670b720bb01</id>

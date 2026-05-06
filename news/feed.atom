@@ -2,198 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T14:23:56.383Z</updated>
+    <updated>2026-05-06T19:51:10.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Spiraling up...]]></title>
-        <id>1x-3571958</id>
-        <link href="https://1x.com/photo/3571958"/>
-        <updated>2026-05-06T14:23:12.381Z</updated>
-        <summary type="html"><![CDATA[Spiraling up... by Liping Wang]]></summary>
+        <title type="html"><![CDATA[The blossom by the Sumida River]]></title>
+        <id>1x-3548205</id>
+        <link href="https://1x.com/photo/3548205"/>
+        <updated>2026-05-06T19:50:24.402Z</updated>
+        <summary type="html"><![CDATA[The blossom by the Sumida River by Hidekyun]]></summary>
         <author>
-            <name>Liping Wang</name>
+            <name>Hidekyun</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Territory]]></title>
-        <id>1x-3560322</id>
-        <link href="https://1x.com/photo/3560322"/>
-        <updated>2026-05-06T14:23:12.374Z</updated>
-        <summary type="html"><![CDATA[Territory by Siyu_Wei APA]]></summary>
+        <title type="html"><![CDATA[Great ape]]></title>
+        <id>1x-3555689</id>
+        <link href="https://1x.com/photo/3555689"/>
+        <updated>2026-05-06T19:50:24.384Z</updated>
+        <summary type="html"><![CDATA[Great ape by Kaisyakuji Yushi]]></summary>
         <author>
-            <name>Siyu_Wei APA</name>
+            <name>Kaisyakuji Yushi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3564691</id>
-        <link href="https://1x.com/photo/3564691"/>
-        <updated>2026-05-06T14:23:12.289Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <title type="html"><![CDATA[Emerald Song]]></title>
+        <id>1x-3555259</id>
+        <link href="https://1x.com/photo/3555259"/>
+        <updated>2026-05-06T19:50:24.380Z</updated>
+        <summary type="html"><![CDATA[Emerald Song by Robert Zhang]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Robert Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3570697</id>
-        <link href="https://1x.com/photo/3570697"/>
-        <updated>2026-05-06T14:23:12.286Z</updated>
-        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
+        <title type="html"><![CDATA[Through the Balustrade]]></title>
+        <id>1x-3555441</id>
+        <link href="https://1x.com/photo/3555441"/>
+        <updated>2026-05-06T19:50:24.377Z</updated>
+        <summary type="html"><![CDATA[Through the Balustrade by Kieron Long]]></summary>
         <author>
-            <name>Atsuyuki Watanabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhianna]]></title>
-        <id>1x-3568946</id>
-        <link href="https://1x.com/photo/3568946"/>
-        <updated>2026-05-06T14:23:12.284Z</updated>
-        <summary type="html"><![CDATA[Rhianna by Christian Kurz]]></summary>
-        <author>
-            <name>Christian Kurz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing with duck]]></title>
-        <id>1x-3569450</id>
-        <link href="https://1x.com/photo/3569450"/>
-        <updated>2026-05-06T14:23:12.281Z</updated>
-        <summary type="html"><![CDATA[Playing with duck by Rawisyah Aditya]]></summary>
-        <author>
-            <name>Rawisyah Aditya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertex Velocity]]></title>
-        <id>1x-3571252</id>
-        <link href="https://1x.com/photo/3571252"/>
-        <updated>2026-05-06T14:23:12.271Z</updated>
-        <summary type="html"><![CDATA[Vertex Velocity by Stefan Lenz]]></summary>
-        <author>
-            <name>Stefan Lenz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Private Moment]]></title>
-        <id>1x-3571675</id>
-        <link href="https://1x.com/photo/3571675"/>
-        <updated>2026-05-06T14:23:12.259Z</updated>
-        <summary type="html"><![CDATA[A Private Moment by Charlotte Zhang]]></summary>
-        <author>
-            <name>Charlotte Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stairway]]></title>
-        <id>1x-3560058</id>
-        <link href="https://1x.com/photo/3560058"/>
-        <updated>2026-05-06T14:23:12.256Z</updated>
-        <summary type="html"><![CDATA[Stairway by Yan Zhao]]></summary>
-        <author>
-            <name>Yan Zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three charming old women]]></title>
-        <id>1x-3571193</id>
-        <link href="https://1x.com/photo/3571193"/>
-        <updated>2026-05-06T14:23:12.254Z</updated>
-        <summary type="html"><![CDATA[Three charming old women by Jose C. Lobato]]></summary>
-        <author>
-            <name>Jose C. Lobato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patronage]]></title>
-        <id>1x-3571254</id>
-        <link href="https://1x.com/photo/3571254"/>
-        <updated>2026-05-06T14:23:12.251Z</updated>
-        <summary type="html"><![CDATA[Patronage by Robert Buergisser]]></summary>
-        <author>
-            <name>Robert Buergisser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emperor penguins in Antarctica]]></title>
-        <id>1x-3564203</id>
-        <link href="https://1x.com/photo/3564203"/>
-        <updated>2026-05-06T14:23:12.248Z</updated>
-        <summary type="html"><![CDATA[Emperor penguins in Antarctica by HJ Yang]]></summary>
-        <author>
-            <name>HJ Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**Faces that live… Tales of man and nature in rural Yemen**]]></title>
-        <id>1x-3571270</id>
-        <link href="https://1x.com/photo/3571270"/>
-        <updated>2026-05-06T14:23:12.245Z</updated>
-        <summary type="html"><![CDATA[**Faces that live… Tales of man and nature in rural Yemen** by Basil Alsaidi]]></summary>
-        <author>
-            <name>Basil Alsaidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunset Path to Silence]]></title>
-        <id>1x-3569440</id>
-        <link href="https://1x.com/photo/3569440"/>
-        <updated>2026-05-06T14:23:12.243Z</updated>
-        <summary type="html"><![CDATA[Sunset Path to Silence by Jianmei Wang]]></summary>
-        <author>
-            <name>Jianmei Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Silent Workshop]]></title>
-        <id>1x-3565823</id>
-        <link href="https://1x.com/photo/3565823"/>
-        <updated>2026-05-06T14:23:12.240Z</updated>
-        <summary type="html"><![CDATA[The Silent Workshop by Rahav Yosi]]></summary>
-        <author>
-            <name>Rahav Yosi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slider]]></title>
-        <id>1x-3569962</id>
-        <link href="https://1x.com/photo/3569962"/>
-        <updated>2026-05-06T14:23:12.228Z</updated>
-        <summary type="html"><![CDATA[Slider by Nishida]]></summary>
-        <author>
-            <name>Nishida</name>
+            <name>Kieron Long</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3569457</id>
-        <link href="https://1x.com/photo/3569457"/>
-        <updated>2026-05-06T14:23:12.225Z</updated>
-        <summary type="html"><![CDATA[Untitled by Val dOrcia photography]]></summary>
+        <id>1x-3572076</id>
+        <link href="https://1x.com/photo/3572076"/>
+        <updated>2026-05-06T19:50:24.352Z</updated>
+        <summary type="html"><![CDATA[Untitled by Ibrahim Nabeel]]></summary>
         <author>
-            <name>Val dOrcia photography</name>
+            <name>Ibrahim Nabeel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[She Does Not Yield]]></title>
-        <id>1x-3571277</id>
-        <link href="https://1x.com/photo/3571277"/>
-        <updated>2026-05-06T14:23:12.143Z</updated>
-        <summary type="html"><![CDATA[She Does Not Yield by Eitetsu Araki]]></summary>
+        <title type="html"><![CDATA[Suspended Between Earth and Sky]]></title>
+        <id>1x-3570960</id>
+        <link href="https://1x.com/photo/3570960"/>
+        <updated>2026-05-06T19:50:24.348Z</updated>
+        <summary type="html"><![CDATA[Suspended Between Earth and Sky by Yaniv Cohen]]></summary>
         <author>
-            <name>Eitetsu Araki</name>
+            <name>Yaniv Cohen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[溺]]></title>
-        <id>1x-3543922</id>
-        <link href="https://1x.com/photo/3543922"/>
-        <updated>2026-05-06T14:23:12.077Z</updated>
-        <summary type="html"><![CDATA[溺 by Kurosaki Sangan]]></summary>
+        <title type="html"><![CDATA[The landing]]></title>
+        <id>1x-3443001</id>
+        <link href="https://1x.com/photo/3443001"/>
+        <updated>2026-05-06T19:50:24.343Z</updated>
+        <summary type="html"><![CDATA[The landing by Dirk Koster]]></summary>
         <author>
-            <name>Kurosaki Sangan</name>
+            <name>Dirk Koster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remnants of Memories]]></title>
+        <id>1x-3563808</id>
+        <link href="https://1x.com/photo/3563808"/>
+        <updated>2026-05-06T19:50:24.331Z</updated>
+        <summary type="html"><![CDATA[Remnants of Memories by Kaoru Suzuki]]></summary>
+        <author>
+            <name>Kaoru Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Milky Way at Milford Sound, New Zealand]]></title>
+        <id>1x-3568464</id>
+        <link href="https://1x.com/photo/3568464"/>
+        <updated>2026-05-06T19:50:24.326Z</updated>
+        <summary type="html"><![CDATA[The Milky Way at Milford Sound, New Zealand by Zhang Dong]]></summary>
+        <author>
+            <name>Zhang Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the branch]]></title>
+        <id>1x-3557567</id>
+        <link href="https://1x.com/photo/3557567"/>
+        <updated>2026-05-06T19:50:24.319Z</updated>
+        <summary type="html"><![CDATA[On the branch by Els Keurlinckx]]></summary>
+        <author>
+            <name>Els Keurlinckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunting]]></title>
+        <id>1x-3564479</id>
+        <link href="https://1x.com/photo/3564479"/>
+        <updated>2026-05-06T19:50:24.312Z</updated>
+        <summary type="html"><![CDATA[Hunting by Tomoyuki Fujikawa]]></summary>
+        <author>
+            <name>Tomoyuki Fujikawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path]]></title>
+        <id>1x-3563352</id>
+        <link href="https://1x.com/photo/3563352"/>
+        <updated>2026-05-06T19:50:24.307Z</updated>
+        <summary type="html"><![CDATA[The Path by Lipinghu]]></summary>
+        <author>
+            <name>Lipinghu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Mountains]]></title>
+        <id>1x-3571188</id>
+        <link href="https://1x.com/photo/3571188"/>
+        <updated>2026-05-06T19:50:24.301Z</updated>
+        <summary type="html"><![CDATA[Sky Mountains by Chao Feng 天馬]]></summary>
+        <author>
+            <name>Chao Feng 天馬</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3570733</id>
+        <link href="https://1x.com/photo/3570733"/>
+        <updated>2026-05-06T19:50:24.256Z</updated>
+        <summary type="html"><![CDATA[Untitled by M. Emre Erol]]></summary>
+        <author>
+            <name>M. Emre Erol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water carrier bee (5)]]></title>
+        <id>1x-3572062</id>
+        <link href="https://1x.com/photo/3572062"/>
+        <updated>2026-05-06T19:50:24.246Z</updated>
+        <summary type="html"><![CDATA[Water carrier bee (5) by Klaus Bittner]]></summary>
+        <author>
+            <name>Klaus Bittner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Tree of Quiraing]]></title>
+        <id>1x-3568242</id>
+        <link href="https://1x.com/photo/3568242"/>
+        <updated>2026-05-06T19:50:24.212Z</updated>
+        <summary type="html"><![CDATA[The Last Tree of Quiraing by joy pingwei pan]]></summary>
+        <author>
+            <name>joy pingwei pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3570664</id>
+        <link href="https://1x.com/photo/3570664"/>
+        <updated>2026-05-06T19:50:24.103Z</updated>
+        <summary type="html"><![CDATA[Untitled by Cicy Chen]]></summary>
+        <author>
+            <name>Cicy Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3570689</id>
+        <link href="https://1x.com/photo/3570689"/>
+        <updated>2026-05-06T19:50:24.092Z</updated>
+        <summary type="html"><![CDATA[Untitled by Washiful Majid]]></summary>
+        <author>
+            <name>Washiful Majid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPMaster level medium]]></title>
+        <id>1x-3572069</id>
+        <link href="https://1x.com/photo/3572069"/>
+        <updated>2026-05-06T19:50:24.065Z</updated>
+        <summary type="html"><![CDATA[PPMaster level medium by Łukasz Pietrzak]]></summary>
+        <author>
+            <name>Łukasz Pietrzak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗议会高官：美媒称接近达成协议“像是美国愿望清单”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260506-9008581</id>
+        <link href="https://www.zaobao.com/news/world/story20260506-9008581"/>
+        <updated>2026-05-06T15:32:34.000Z</updated>
+        <summary type="html"><![CDATA[伊朗议会国家安全与外交政策委员会发言人雷扎伊说，美媒有关美伊接近达成协议的报道“像是一份美国的愿望清单，而非现实”。 
+新华社报道，雷扎伊星期三（5月6日）在社交媒体上说，美国在这场他们正在失败的战争中，得不到他们在面对面谈判中未能得到的东西。如果美方不选择妥协、不作出必要让步，而且自身或代理力量采取任何挑衅行动，伊朗将作出严厉回应。
+伊朗外交部发言人巴加埃也在社媒引述国际法院的解释说，“谈判”这一概念至少要求双方真诚地尝试讨论，以期解决争端，因此谈判需要“善意”，不是争论，也不是命令、欺骗、勒索或胁迫。
+美国新闻网站Axios星期三早些时候引述美国官员与消息人士报道，白宫认为，美伊就一份14点谅解备忘录已接近达成共识。这份单页备忘录旨在结束战争，并为更详细的核问题谈判设定框架。美国预计伊朗将在接下来48小时内对一些要点做出回应。
+美国总统特朗普同天在社媒写道：“假设伊朗同意履行已谈好的条件，而这或许是一个很大假设，传奇的史诗怒火行动将结束，高效的封锁将使霍尔木兹海峡对包括伊朗在内的所有人开放。” 
+不过，他也警告，如果伊朗不达成协议，美国将恢复对它的轰炸，规模和力度将比之前更大。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国有线电视新闻网CNN创办人逝世 享年87岁]]></title>
+        <id>https://www.zaobao.com/news/world/story20260506-9008357</id>
+        <link href="https://www.zaobao.com/news/world/story20260506-9008357"/>
+        <updated>2026-05-06T14:33:01.000Z</updated>
+        <summary type="html"><![CDATA[美国亿万富翁、媒体大亨特纳去世，享年87岁。 
+特纳（Ted Turner）星期三（5月6日）逝世。他2018年接受媒体访问时曾说，他被诊断患有路易体失智症（Dementia with Lewy bodies），此后基本淡出公众视野。这种疾病类似阿尔茨海默病，但症状较轻。
+特纳于1980年创办了美国有线电视新闻网（CNN），彻底改变了电视新闻行业。
+CNN董事长兼首席执行官汤普森发声明说：“特纳是一名全身心投入、尽职尽责的领导者，他勇敢无畏，总是敢于相信自己的直觉和判断。他过去是，现在是，将来也永远是CNN的精神领袖。”
+美国总统特朗普在社媒发文，称赞特纳是广播史上最伟大的人物之一。“他也是我的朋友。每当我需要他的时候，他总是在那里，总是愿意为正义而战！”
+在事业巅峰时期，特纳是广播界的巨头之一。他将特纳广播公司打造为传媒巨擘，开创“超级电视台”（superstation）概念，并推出了TBS、TNT、Cartoon Network和Turner Classic Movies等频道。
+他通过创办美国首个24小时新闻频道，从根本上改变了电视新闻的形式和速度，并为福克斯新闻（FOX News）和MSNBC电台（现称MS Now）等竞争对手铺平道路。
+他也活跃于慈善和环保领域。1998年，他向联合国捐赠10亿美元（约12亿6900万新元），成立联合国基金会。他也与前参议员纳恩共同创立核威胁倡议组织，致力于防止大规模杀伤性武器扩散。
+他曾于2008年出版自传《Call Me Ted》。据福布斯估计，他的净资产约为28亿美元。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -609,38 +642,6 @@ Axios补充说，根据目前的版本，该备忘录将宣布结束该地区的
 卫生部指出，瑞士出现更多病例的可能性不大，患者的妻子也没有出现症状，但“出于谨慎起见正在进行自我隔离”。
 自上周六以来，大西洋上航行的洪迪厄斯号（MV Hondius）游轮已出现七起确诊或疑似汉坦病毒（hantavirus）感染病例。 
 其中，一对荷兰夫妇和一名德国公民已死亡，一名英国人则已从船上移送到南非接受重症监护。另三起疑似病例仍在船上，其中一人轻微发烧。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙逐步淘汰核能重新引发争论]]></title>
-        <id>https://www.zaobao.com/news/world/story20260506-9004940</id>
-        <link href="https://www.zaobao.com/news/world/story20260506-9004940"/>
-        <updated>2026-05-06T08:55:57.000Z</updated>
-        <summary type="html"><![CDATA[（马德里综合电）西班牙计划在2035年关闭所有核电站，但去年全国大停电以及当前中东战事引发的燃料供应短缺危机，使逐步淘汰核能重新受到争论。 
-西班牙现有五个核电站，位于西部的阿尔马拉斯核电站最大，发电量占全国约7%。首相桑切斯领导的左翼社会党政府主张淘汰核能，推动可再生能源发展，已于2019年宣布，阿尔马拉斯的两座核反应堆将分别于2027年和2028年关闭。
-拥有这个核电站的三家西班牙能源公司最初同意这个时间表，但他们现在认为让核反应堆运行至2030年，能增强能源供给保障能力并有助于稳定电价。政府预计将在10月底前决定是否推迟停运核反应堆。
-反对关闭阿尔马拉斯核电站的人士去年成立一个行动小组，意在通过基层压力迫使政府重新考虑核电站的关闭时间表。
-行动小组领头人卡斯蒂利亚说，关闭核电站将摧毁周边几十个社区的居民生计。这个核电站估计贡献埃斯特雷马杜拉自治区约5%的经济产出，直接和间接支持多达4000份工作。
-阿尔马拉斯核电站技术运营办公室主管奥维耶多说，核电站还可以继续运营数年，而且核电供应稳定，不像风电、太阳能等可再生能源那样发电量不稳定。
-欧盟委员会也敦促成员国不要过早关闭核设施，但桑切斯政府致力于落实绿色能源议程，即在2030年将可再生能源发电占比从目前的60%提高至81%。
-绿色和平组织西班牙分会发言人坎普斯说，桑切斯政府必须顶住压力，因为若允许阿尔马拉斯核电站延长运行至2030年，估计将流失多达260亿欧元（约388亿新元）的可再生能源投资。
-西班牙最迟将在明年6月举行大选，新崛起的极右翼政党呼声党（Vox）和主流保守派在野的人民党已达成初步协议组成右翼联盟，挑战桑切斯领导的左翼政府。
-反对弃核的右翼联盟表明，一旦获胜，他们将维持阿尔马拉斯核电站的运营。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后视摄像头画面延迟 特斯拉在美国召回20多万辆车]]></title>
-        <id>https://www.zaobao.com/news/world/story20260506-9005668</id>
-        <link href="https://www.zaobao.com/news/world/story20260506-9005668"/>
-        <updated>2026-05-06T08:33:36.000Z</updated>
-        <summary type="html"><![CDATA[由于后视摄像头显示存在问题，美国电动汽车巨头特斯拉决定召回超过20万辆汽车。
-路透社报道，美国国家公路交通安全局星期三（5月6日）说，特斯拉会在美国召回21万8868辆汽车，型号涉及部分Model 3、Model Y、Model S和Model X。 
-召回车辆的后视摄像头画面显示，可能在挂入倒挡时出现延迟，从而影响驾驶员的视野，增加碰撞风险。
-据报道，特斯拉已通过空中无线升级软件更新来解决这个问题。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
