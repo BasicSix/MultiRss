@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T19:50:24.703Z</updated>
+    <updated>2026-05-07T03:31:23.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1664,19 +1664,6 @@ Claude 、Gemini 亦有帮助
 ——]]></summary>
         <author>
             <name>半拿铁 | 商业沉浮录</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The art and science of wine tasting | Qian Janice Wang]]></title>
-        <id>69d3cab907bc2cbfc7b2174e</id>
-        <link href="http://go.ted.com/qianjanicewang"/>
-        <updated>2026-04-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[No two people taste wine the same way, and science is starting to show us why. Sensory scientist Qian Janice Wang explores why experts and beginners experience complexity so differently — revealing that what makes a wine great may have less to do with what's in the glass and more to do with what's happening in your brain.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>

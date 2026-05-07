@@ -995,24 +995,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69d3cab907bc2cbfc7b2174e",
-          "author": null,
-          "description": "No two people taste wine the same way, and science is starting to show us why. Sensory scientist Qian Janice Wang explores why experts and beginners experience complexity so differently — revealing that what makes a wine great may have less to do with what's in the glass and more to do with what's happening in your brain.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/qianjanicewang",
-          "publishedOn": "2026-04-07T15:00:00.000Z",
-          "wordCount": null,
-          "title": "The art and science of wine tasting | Qian Janice Wang",
-          "itunes": {
-            "duration": "15:39"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d3cab907bc2cbfc7b2174e/media.mp3",
-            "length": "15031902",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
