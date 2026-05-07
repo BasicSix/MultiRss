@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T08:39:00.123Z</updated>
+    <updated>2026-05-07T14:22:48.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.5 Instant 正式发布！免费可用，实测到底强多少？OpenAI 五大升级一次看懂！ | 零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=krEDel3aGGw</id>
+        <link href="https://www.youtube.com/watch?v=krEDel3aGGw"/>
+        <updated>2026-05-07T13:06:41.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【免费AI剪辑】免费真香，新手2分钟搞定Kdenlive剪辑自动字幕 | Free Auto Subtitles in Kdenlive in 2 Mins✨]]></title>
         <id>https://www.youtube.com/shorts/MPOHxLbaDb4</id>
@@ -326,15 +335,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>科技梦星云</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再傻傻订阅一堆AI了！这个工具1个顶5个，帮你省下$1000月 | Skywork实测 | 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=S5CF--dRwws</id>
-        <link href="https://www.youtube.com/watch?v=S5CF--dRwws"/>
-        <updated>2026-04-09T12:00:54.000Z</updated>
-        <author>
-            <name>零度解说</name>
         </author>
     </entry>
     <entry>
