@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T14:22:48.626Z</updated>
+    <updated>2026-05-07T19:46:32.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What really won the trillion-dollar Supreme Court case | Neal Kumar Katyal]]></title>
+        <id>69fca6b32ba0ef2cca7b6f6d</id>
+        <link href="http://go.ted.com/nealkumarkatyal"/>
+        <updated>2026-05-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In November 2025, Neal Kumar Katyal was asked to do what no US Supreme Court litigator had ever done: convince the justices to strike down a sitting president's signature initiative. After enlisting the help of four unlikely coaches — and one secret weapon he hasn't told anyone about until now — he walked into the courtroom ready for anything. What he discovered about winning and connecting might just change how you think about performing under pressure.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How moms shape the world | Anna Malaika Tubbs (re-release)]]></title>
         <id>69fa07a282781c7c4576eeab</id>
