@@ -6,6 +6,23 @@
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/5e74b52c418a84a046ecaceb",
       "articles": [
         {
+          "id": "https://www.xiaoyuzhoufm.com/episode/69fd9f99082bdcee39afe485",
+          "author": null,
+          "description": "黑客之家（Hacker House）是一种创业者合住空间——一群正在写代码、做产品或早期创业的人，住在同一屋檐下，一起吃饭、写代码、见投资人、做 demo。上世纪 90 年代，硅谷第一批程序员就开始把租来的房子变成写代码的地方，在同一屋檐下孵化想法、互相激励。最近几年，伴随着 AI 热潮，Hacker House 开始从「合租房」演化成一种新型的超早期投资机构——它提供的不只是床位，而是人脉网络、融资通道、和一种能让人专注到极致的创业氛围。\n\n这期节目，我们走访了旧金山的知名 Hacker House 孵化器 The Residency，带回了一手的观察与采访。今天的 Hacker House 到底有哪些不同的玩法？Hacker House 靠什么赚钱，这个模式在商业上能走得通吗？它在整个硅谷创业生态里到底扮演了什么角色？\n\n节目中提到的 Hacker House ：The Residency，HF Zero（House Fund Zero），AGI House，Accelr8，Frontier Tower\n\n本期人物 \n丁教 Diane，「声动活泼」联合创始人、「科技早知道」主播\n\n时间轴\n00:12 什么是 Hacker House？从合租房到创业生态位\n\n\n一群正在写代码、做产品或创业的人合住在一起，介于合租房和小型孵化器之间\n\na16z 年度报告将其列为科技创业生态的重要趋势，触发了这期节目\n\n\n04:30 三种模式图谱：自发合租、品牌收租、股权置换\n\n\nHacker House 分三类：朋友自发合租、有品牌有组织但只收租金、以股权换资源的新型孵化机构\n\n只有股权型才能捕获创业公司的长期价值，也是正在快速增长的方向\n\n\n05:57 草根实验：Accelr8 和 Frontier Tower 的两种赌注\n\n\nAccelerate 靠收租起家，拒绝 VC 融资，正在把模…",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69fd9f99082bdcee39afe485",
+          "publishedOn": "2026-05-08T08:30:00.000Z",
+          "wordCount": null,
+          "title": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10",
+          "itunes": {
+            "duration": "0:39:31"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/5e74b52c418a84a046ecaceb/lhkr4EaYTVlauAYvhlBqVq8883n1.mp3",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaoyuzhoufm.com/episode/69f1ac85486881676b2cc14a",
           "author": null,
           "description": "刚刚结束的 Google Cloud Next 大会创下历届新高，这期节目，我们也带着第一手的现场观察回来：Google Cloud CEO Thomas Kurian 在 Keynote 上说出 「the era of the pilot is over, the era of the agent is here」。我们今年最强烈的感受之一就是「One Google」的战略，在其它厂商都在拼模型的时候，Google 几乎没怎么聊模型，而是在传达自己整合底层算力到上层应用野心。\n大会的另一个主题是「落地」：当模型的能力早已远远跑在企业实际能用上的能力前面，落地的瓶颈不在技术，而是要克服将 AI 嵌入到现有工作流中的挑战与摩擦。自动化的 Multi-agent 系统已经在哪些场景落地？Agent 落地的安全问题要如何解决？当大厂把全栈一层层往上吃，创业公司还有没有机会？我们今天的节目就带来来自拉斯维加斯的一手观察。\n\n本期人物 \n丁教 Diane，「声动活泼」联合创始人、「科技早知道」主播\nYaxian，「科技早知道」主播\n\n主要话题\n00:00 32000 人挤爆拉斯维加斯：Google Cloud Next 已经不是 ToB 大会了\n02:47 去年大家在问 「怎样打造一个 agent」，今年已经在做 agent 的系统化管理\n04:48 One Google：从算力到应用打通的全栈策略\n10:33 TPU 第一次拆分训练和推理：AI 工作负载已经精细到这种程度\n13:25 「Pilot 时代结束了，Agent时代真正到来」，Google 内部 75% 的新代码已由 AI 生成\n17:07 「Problem First 」mindset：从写代码到描述问题，开发者的工作变了\n22:54 落地比技术更难：Capability overhang 才是今年行业的真问题\n28:20 Agentic Defense 与 「龙虾热」：Agent 的安全困局\n30:31 全栈是双刃剑：什么都做的反面是什么都不深\n32:00 创业公司的出路：Service as a software，Day one 全球化收费\n38:00 李飞飞：不要老问AI 来了人的瓶颈是什么，多聊聊人的机会是什么\n\n「Knock Knock 世界」\n英国国防部门请「科幻作家」来写小说，这背后是什么原因？收听链接👉sourl.co\n在「Knock Knock 世界」里，听到全球新鲜事，还能成为「全球观察员」，报选题、参加选题会。2026 年的节目正在持续更新。\n\n幕后制作\n监制：Yaxian\n后期：迪卡\n运营：George \n设计：饭团\n\n商业合作\n声动活泼商业化小队，点击链接直达声动商务会客厅（sourl.cn ），也可发送邮件至 business@shengfm.cn 联系我们。\n\n加入声动活泼\n声动活泼正在招聘全职商务运营经理、早咖啡内容实习生和社群实习生，如果你也对播客行业的内容制作感兴趣，欢迎点击招聘入口点击招聘入口\n\n关于声动活泼\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n我们还有这些播客：声动早咖啡、声东击西、吃喝玩乐了不起、反潮流俱乐部、泡腾 VC、商业WHY酱、跳进兔子洞 、不止金钱\n欢迎在即刻、微博等社交媒体上与我们互动，搜索 声动活泼 即可找到我们。\n期待你给我们写邮件，邮箱地址是：ting@sheng.fm\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。",
@@ -80,6 +97,23 @@
       "feedUrl": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62694abdb221dd5908417d1e",
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e",
       "articles": [
+        {
+          "id": "https://www.xiaoyuzhoufm.com/episode/69fd9db2e1eb34a939fa0377",
+          "author": null,
+          "description": "※ 本期有《玛蒂尔达》音乐剧门票的专属优惠和纵横四海的周边礼品哦～\n从社交边界的“精神减负”，到亲密关系里的“觉醒与祛魅”；从职场里如何“有技巧地真诚”，到家庭中如何停止“相爱相杀”。人际互动有那么多复杂、困惑的课题，但从小到大，也没人正儿八经教过我们啊？\n所以本期《纵横四海》，我们来读斯坦福商学院 50 年来最受欢迎的选修课：《深度关系》，开启一场自我觉察之旅。\n我会聊聊那些让人“小小震惊”的真相：为什么你越努力维持形象，别人离你越远？为什么出于好心的建议，会让对方恼怒？为什么善于表达脆弱，反而让人无法展露脆弱？\n我也会提供让你对深度关系的创建恢复信心的实操，让你快速学会真正的共情，学会“提供情绪价值”，学会怎么不把天聊死，学会建立关系中的边界，和冲突的处理。无论你是社达还是社恐，是理性派还是感性派，每个人都能通过这套框架，创建真正的深度关系。\n如果你正处在对爱情、友情和亲情中的相处感到疑惑，或想要把某些关系推近一步，就来试试这个课程的诸多小妙招吧～\n---------------------------\n欢迎在以下平台关注我们：\n携隐Melody：小红书🍠 | 微博🧣 | 即刻🟡 | 公众号💚\n纵横四海：小红书🍠 | 微博🧣 | 即刻🟡\n---------------------------\n🎙️ 本期节目由「七幕人生」特别赞助播出\n\n🎫 深圳站专属购票优惠：580-980票档单张77折~\n购票链接➡ ticket.antank.cn\n\n🎫 苏州、武汉、长沙 购票链接 ➡️ ticket.antank.cn\n\n5.23 下午6点《玛蒂尔达》音乐剧深圳场下午场演出结束后，我们将举办《玛蒂尔达》映后交流活动，Melody 也会来到现场，和大家一起聊聊《玛蒂尔达》~\n📌 参与说明：\n购买 5.23 深圳场 下午两点半 下午场《玛蒂尔达》音乐剧门票的听友，可在演出结束后直接参与映后交流活动。\n购买深圳场其他场次门票的听友，也可提前预约报名；如现场仍有剩余名额，同样可以参与交流🙋\n报名方式：\n想参加的朋友，需通过「纵横四海」渠道购买《玛蒂尔达》音乐剧门票，并将包含「姓名 + 电话」的购票截图私信发送给 Mario（微信 ID：xymario）进行报名。\n购票后添加 Mario，备注「七幕」，还可领取本期限量徽章一枚✌️\nPS：演后交流座位有限，预约满额后将截止报名～\n\n📝 时间轴：\n\n00:06:47 拒绝无效社交：判断一段关系值不值得深交，就看这 6 根金标准\n\n00:09:07 别再自我保护了：那个从不展示“真实自我”的人，注定只能拥有浅层连接\n\n00:29:08 用“15%冒险法则”，在复杂世界里守住那个珍贵的自己\n\n00:50:57 那些让你“别带情绪”的人，其实正在对你行使隐蔽的权力霸凌\n\n01:11:04 颠覆认知：真正的脆弱不是软弱，而是当你对反馈“不再掌控”时依然选择坦诚\n\n01:44:20 情绪价值 ≠ 情绪劳役，它是让对方感到自己像宇宙一样，值得人深度好奇\n\n01:56:15 别等“小刺”扎成“内伤”：在关系崩盘前及时止损\n\n02:09:26 三层现实模型：为什么你们这么容易吵架？\n\n02:34:40 边界的重要性：留在球网的这一边\n\n02:45:57 人真的能改变吗？性格很难变，但行为和互动回路可以\n\n03:05:33 当关系开始失衡：无声的委屈如果得不到真正的倾听，关系就会逐渐枯萎\n\n03:33:44 哪怕关系破裂，好奇心、行为反馈、脆弱表露这三件套也能让它起死回生\n\n03:45:30 当社交压力撞上内心底线，我决定鼓起勇气说“不”\n\n04:09:33 征集问题回答\n\n\n🎵 片头/尾曲：Naughty - Matilda",
+          "link": "https://www.xiaoyuzhoufm.com/episode/69fd9db2e1eb34a939fa0377",
+          "publishedOn": "2026-05-08T12:00:02.000Z",
+          "wordCount": null,
+          "title": "EP81《深度关系》：如何“给情绪价值”？包教包会",
+          "itunes": {
+            "duration": "4:29:11"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/62694abdb221dd5908417d1e/lhLUUOZH_eAtwQzG2dtQ_uJK-ecH.m4a",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.xiaoyuzhoufm.com/episode/69eb32bd1e94ae69210ebaeb",
           "author": null,
