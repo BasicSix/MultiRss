@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T13:58:12.657Z</updated>
+    <updated>2026-05-08T19:23:50.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All it takes is 10 mindful minutes | Andy Puddicombe (re-release)]]></title>
+        <id>69fca8e3051b78474ecc42d1</id>
+        <link href="http://go.ted.com/ydXi1A"/>
+        <updated>2026-05-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When is the last time you did absolutely nothing for 10 whole minutes? Not texting, talking or even thinking? Mindfulness expert Andy Puddicombe describes the transformative power of doing just that: Refreshing your mind for 10 minutes a day, simply by being mindful and experiencing the present moment. (No need for incense or sitting in uncomfortable positions.)
+
+(This episode originally aired in 2012)
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EP81《深度关系》：如何“给情绪价值”？包教包会]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/69fd9db2e1eb34a939fa0377</id>
