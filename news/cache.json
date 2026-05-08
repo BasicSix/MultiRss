@@ -53,6 +53,86 @@
       "siteUrl": "https://www.zaobao.com/realtime/world",
       "articles": [
         {
+          "id": "https://www.zaobao.com/news/world/story20260508-9017295",
+          "author": null,
+          "description": "俄罗斯南部13座机场因无人机袭击暂停运营。\n路透社报道，俄罗斯交通部星期五（5月8日）说：“负责管理俄罗斯南部空中交通的顿河畔罗斯托夫（Rostov-on-Don）中心已暂时中止运作，因为乌克兰无人机袭击了‘俄罗斯南部空中导航’分部的行政大楼。”\n俄罗斯交通部说，事件未造成人员伤亡。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9017295",
+          "publishedOn": "2026-05-08T07:24:27.000Z",
+          "wordCount": 668,
+          "title": "俄罗斯南部13座机场因无人机袭击暂停运营",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/ffc4fc61901833b1645da06a65309e0d7b8b38c526b0c9ecca95bb1ecc2a0191"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9017463",
+          "author": null,
+          "description": "日本多地，包括市区近日接连有熊出没，日媒报道称是冬眠结束后“春熊”活跃所致。\n共同社报道指，岩手、山形两县星期四（5月7日）相继发生疑似熊袭事件。岩手县八幡平市和山形县酒田市的山林中共发现两具遗体，两县警方把熊袭可能性也纳入调查范围。\n据报山形县朝日町有一名老汉（70岁）上山采野菜时遭熊袭击，面颊骨折。\n日本官方初步统计数据显示，日本去年共有238人因遭熊袭击受伤，其中13人死亡，伤亡人数写下新高纪录。 \n日媒此前报道指，自去年夏季以来，熊的活动范围与往年相比明显更向人类生活圈靠近。已有超过七成的熊袭击人事件发生在市区或居民区，引发民众对出行安全的担忧。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9017463",
+          "publishedOn": "2026-05-08T07:22:14.000Z",
+          "wordCount": 670,
+          "title": "冬眠结束后“春熊”活跃 日本出现疑似熊袭致死事件",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/f4da48f08ea8dd22448880595ca9dae01495183ff108f5d6fcaad36752e2aed2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016956",
+          "author": null,
+          "description": "海事分析公司温沃德说，霍尔木兹海峡附近水域安全形势持续紧张，大量商业船只因担忧军事冲突、电子干扰及遭锁定风险，选择关闭船舶自动识别系统，转入“暗航”状态。\n新华社报道，总部位于英国的温沃德（Windward）星期四（5月7日）发布报告说，4月19日至5月3日期间，霍尔木兹海峡及周边水域“暗船”活动激增近600%。5月5日，卫星识别到海峡区域有167艘商业规模船舶，其中146艘关闭了船舶自动识别系统。\n报告称，卫星图像显示，近日多艘船舶在关闭船舶自动识别系统的情况下穿越海峡。\n5月7日，在霍尔木兹海峡北部拉腊克岛附近获取的卫星图像中发现九艘长度超过150米、未发送船舶自动识别系统信号的商业船只，其中包括超大型油轮、集装箱船、化学品运输船。这些船只分别朝波斯湾内外航行，表明海峡航运并未中断，但正逐渐脱离传统可视化监测体系。\n分析人士认为，部分船只关闭船舶自动识别系统，是为了避免在当前美国对伊朗海上封锁和地区军事对峙背景下暴露航迹；也有一些运营商出于安全考虑，试图降低被跟踪、锁定甚至遭袭击的风险。\n报告还说，5月6日获取的卫星图像显示，39艘伊朗伊斯兰革命卫队快艇组成编队，在霍尔木兹海峡向西航行。分析认为，在海上可见性持续下降背景下，如此规模的快艇协同行动显示出伊朗对海峡的管控力度。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016956",
+          "publishedOn": "2026-05-08T06:50:31.000Z",
+          "wordCount": 550,
+          "title": "分析公司：霍尔木兹海峡“暗航”船只激增",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/15ff12b3fde67070e5f62df905b384507a3381685e9ab4d24ab3fc964f1739a2"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016919",
+          "author": null,
+          "description": "德国财政部长克林拜尔说，美国政府对伊朗发动的“不负责任的战争”导致能源价格飙升，令德国经济和公共财政遭受重大打击。\n新华社报道，克林拜尔星期四（5月7日）接受多家媒体采访时说，中东战事导致德国税收收入预期下调，进而拖累经济增长。\n他引述一项数据说，由于当前中东紧张局势加剧能源价格上涨，今后经济放缓的可能性上升，导致德国未来五年税收预期下调约875亿欧元（约1303亿新元）。\n克林拜尔说，数据体现了德国目前面临的“严重不确定性”，凸显持续加强危机管理的重要性。他说，德国需聚焦投资与改革以增强经济韧性，减轻外部风险可能带来的冲击。\n德国总理默茨此前说，美国在没有制定任何战略的情况下对伊朗发起军事行动，导致进退两难，正遭遇伊朗方面的“羞辱”。\n美国总统特朗普对默茨的言论表达不满。特朗普称，默茨“根本不知道自己在说什么”，德国现在“无论是在经济还是其他方面都表现得如此糟糕”。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016919",
+          "publishedOn": "2026-05-08T05:52:17.000Z",
+          "wordCount": 680,
+          "title": "德国财长指美国发动“不负责任战争”冲击德经济",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/5669f7b1ad76e231d60643c6023c477c1ee13b5950430edff15be683e830ca14"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016693",
+          "author": null,
+          "description": "英国《金融时报》星期五（5月8日）报道，美国和南非已就潜在的资源合作协议展开初步磋商。\n美国和南非的磋商领域包括采矿、能源、基础设施。\n报道引述多名与会者的话称，约25名美国和南非官员6日在约翰内斯堡举行会议，讨论矿产合作事宜。\n这是今年这两个关系紧张的国家举行的最高级别会议。\n路透社未能立即核实《金融时报》报道。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016693",
+          "publishedOn": "2026-05-08T05:24:27.000Z",
+          "wordCount": 667,
+          "title": "英媒：美国南非就矿产合作进行初步磋商",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/70193166a396d369e3ce4fcc3889322f76539dad34a8c123a43d0031c3e2f96f"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016529",
+          "author": null,
+          "description": "日本福井县的关西电力公司美浜核电站3号机组星期五（5月8日）凌晨因蒸汽泄漏而暂停运转。\n共同社报道，关西电力公司提供的信息说，8日凌晨4时许（新加坡时间8日凌晨3时许），美浜核电站3号机组的高压蒸汽机周边发现蒸汽泄漏，约15分钟后被手动关停。\n关西电力公司说，蒸汽中未检出放射性物质。\n美浜核电站3号机组1976年开始运行，2011年福岛核事故后暂时关停，2021年重启运行。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016529",
+          "publishedOn": "2026-05-08T04:52:56.000Z",
+          "wordCount": 661,
+          "title": "日本一核电机组因蒸汽泄漏暂停运转",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/aa7c91f9f0e0f154d3066095e3d19a46d327bfb16da279a85779b19f117eb96a"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016121",
+          "author": null,
+          "description": "卡塔尔首相兼外交部长穆罕默德与巴基斯坦总理谢里夫通电话时说，各方应积极回应当前调解努力，为美国与伊朗重启谈判创造条件，以达成全面、可持续的和平协议。\n新华社报道，卡塔尔外交部星期四（5月7日）发表声明说，穆罕默德当天在与谢里夫通话时重申，卡塔尔坚定支持通过和平方式解决危机，并赞赏巴基斯坦及其他调解方为推动美国和伊朗达成停火所作努力。\n双方还讨论了两国合作及加强合作的途径，并就地区最新局势以及巴基斯坦为推动局势降温、促进地区安全与稳定所作努力交换意见。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016121",
+          "publishedOn": "2026-05-08T03:55:28.000Z",
+          "wordCount": 666,
+          "title": "卡塔尔首相呼吁各方为美伊重启谈判创造条件",
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/e49d30f0f7895949dec1ee5571aa35b8cebd1fa70934e4c72eccbf9ccaa3dd3a"
+        },
+        {
+          "id": "https://www.zaobao.com/news/world/story20260508-9016203",
+          "author": null,
+          "description": "阿拉伯联合酋长国的防空系统正在应对来自伊朗的导弹和无人机。\n法新社报道，阿联酋国防部星期五（5月8日）在X平台发文说：“阿联酋防空系统目前正在拦截来自伊朗的导弹和无人机袭击。”\n阿联酋国防部还说，全国各地听到的声音是防空系统拦截导弹和无人机的声响。\n数小时之前，美国中央司令部发表声明说，美国海军三艘导弹驱逐舰在霍尔木兹海峡驶往阿曼湾时，拦截了伊朗的无端袭击，并以自卫打击予以回击。 \n声明指伊朗军方发射了多枚导弹和无人机，还出动小型船只，但没有美军舰艇被击中。\n美国中央司令部强调，“不寻求局势升级，但仍保持部署状态，随时准备保护美军”。\n本周早些时候，阿联酋指伊朗向阿方发射导弹和无人机，但伊朗方面否认。",
+          "link": "https://www.zaobao.com/news/world/story20260508-9016203",
+          "publishedOn": "2026-05-08T03:40:56.000Z",
+          "wordCount": 687,
+          "title": "阿联酋称正在应对伊朗导弹和无人机袭击",
+          "imageUrl": "https://www.zaobao.com.sg/_web2/assets/social-share.png"
+        },
+        {
           "id": "https://www.zaobao.com/news/world/story20260508-9015538",
           "author": null,
           "description": "朝鲜领导人金正恩视察了崔贤号驱逐舰，并要求按计划于6月中旬移交海军服役。\n新华社引述朝中社星期五（5月8日）报道，金正恩7日乘坐崔贤号驱逐舰，并参观驱逐舰综合指挥所和武器系统控制舱等多个战斗值勤空间和要素，了解舰艇作战准备情况。\n金正恩对驱逐舰作战服役前各系统试验顺利进展予以高度评价。\n金正恩还特别强调有关新建海军基地的重要任务。",
@@ -119,7 +199,7 @@
           "link": "https://www.zaobao.com/news/world/story20260508-9015051",
           "publishedOn": "2026-05-07T23:00:19.000Z",
           "wordCount": 697,
-          "title": "中东冲突升级 美军称对伊朗无端敌对行动实施报复打击",
+          "title": "中东冲突升级 美伊霍尔木兹海峡再交火",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0a4f86851702dc7c276e93e6d87965d42af5d4bb881dfe027f6690b99a5083c9"
         },
         {
@@ -211,86 +291,6 @@
           "wordCount": 687,
           "title": "美国考虑开采军事基地下石油 补充石油储备",
           "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/24d1a61de30133b04f56ffb8fceab8edb890acbacbe5e11bb050ee7c79529539"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9013122",
-          "author": null,
-          "description": "在伊朗评估美国提出的一项结束近10周战争的新方案之际，油价一度跌破每桶100美元，天然气价格也大幅下挫。\n基准布伦特原油一度下跌12%，至每桶96.75美元（123.25新元）；WTI原油跌幅最高达13%。\n欧洲天然气价格一度暴跌14%。不过，美国总统特朗普星期三（5月6日）在社交媒体真相社交上发文说，如果伊朗不同意，“轰炸将重新开始”后，油气价格随后收复了约一半跌幅。\n彭博社引述知情人士称，如果伊朗接受，美国提出的一页纸谅解备忘录将推动霍尔木兹海峡逐步重新开放，并解除美国对伊朗港口的封锁。但知情人士称，目前尚未达成任何协议，关于伊朗核计划的详细谈判将在后续阶段展开。 \n这一潜在突破的消息（最早由Axios报道）发布之际，特朗普正面临越来越大的压力，要求结束这场美国与以色列自2月底发起的战争。\n此前，这一关键海峡冲突曾推高油价，并引发市场对美伊停火可能破裂的担忧。中国也加入国际外交压力，呼吁尽快结束冲突。\n知情人士说，伊朗预计将在未来两天内通过调解方巴基斯坦，对美国提出的方案作出回应。\n瑞银分析师斯陶诺沃（Giovanni Staunovo）说：“油价目前更多是在对市场情绪的变化作出反应，而不是由供需基本面驱动，这主要是受到美伊可能达成协议消息的影响。市场仍不清楚何时能够恢复通过霍尔木兹海峡的运输。”\n自2月底冲突爆发以来，原油价格已上涨约40%，数亿桶来自波斯湾的原油被切断、无法进入全球市场。当前这一关键航道的运输受到“双重封锁”：伊朗阻碍航运，而美国则阻止船只进入伊朗港口。\n在实物供需方面，美国政府星期三公布的数据显示，美国原油库存继续下降，这加剧了市场对西方供应缓冲空间接近极限的担忧。随着海外买家越来越依赖美国原油来弥补中东供应中断，美国库存数据正受到密切关注。\n美国能源信息管理局数据显示，在强劲的柴油需求推动下，上周美国成品油出口创下纪录新高。\n伊朗星期三说，新规程下霍尔木兹海峡的安全通行将得到保障。在北京举行的会谈中，中国外交部长王毅敦促伊朗外长阿拉格齐继续推进谈判，称“重启战端更不可取”。此时距离特朗普预计于5月14日至15日访华仅剩数日。 \n特朗普星期二说，美国将暂停为船只护航通过霍尔木兹海峡的行动，以观察是否能够与伊朗达成协议。他称这一决定是在巴基斯坦（作为美伊谈判调解方）以及其他国家的请求下作出的。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9013122",
-          "publishedOn": "2026-05-07T10:43:35.000Z",
-          "wordCount": 695,
-          "title": "伊朗评估美国止战新方案 油气价格双双重挫",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/eb6d989e00eaae2d8bc435cff83f81524accf0a426773325494435afca6c2611"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9013068",
-          "author": null,
-          "description": "暴发汉坦病毒疫情的豪华游轮运营商说，所有出现汉坦病毒症状的乘客，都已从洪迪厄斯号（MV Hondius）游轮撤离，船上已无症状感染者。 \n法新社报道，总部位于荷兰的泛海探险公司星期四（5月7日）发表上述声明。\n声明补充说：“三名染疫乘客中，两名有症状，一名无症状。三人都已接受医疗专业人员的照护。”\n洪迪厄斯号游轮已从西非国家佛得角驶往西班牙加纳利群岛。船上约100名乘客和船员会在那里接受监测，之后获准乘飞机回家。 \n世界卫生组织上星期六（2日）宣布，洪迪厄斯号游轮上暴发汉坦病毒疫情，造成三人死亡。尽管世卫强调疫情公共风险仍然很低，但游轮一直受到国际关注和警戒。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9013068",
-          "publishedOn": "2026-05-07T10:33:09.000Z",
-          "wordCount": 687,
-          "title": "船东：洪迪厄斯号游轮染疫乘客均已撤离",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a6b671388285aaa8248bc8a8aa22e7be9b6e1ffef48d8a59bc1053c6983d1493"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9012529",
-          "author": null,
-          "description": "荷兰卫生部说，一名荷兰女子因出现疑似汉坦病毒（hantavirus）感染症状，已送往阿姆斯特丹一家医院接受治疗。 \n荷兰广播公司RTL引述卫生部星期四（5月7日）发布的消息说，这名女子是荷兰皇家航空公司（KLM）的一名空姐，她曾与一名在约翰内斯堡死于汉坦病毒感染的女子有过接触。\n路透社报道，世界各国紧急追踪在洪迪厄斯号（MV Hondius）游轮暴发汉坦病毒疫情后，于非洲岛国佛得角（Cape Verde）海岸附近离船的人员，以防止疫情扩散。 \n此次疫情已导致洪迪厄斯号游轮上的三人死亡，其中包括一对荷兰夫妇和一名德国公民。世界卫生组织说，另有八人疑似感染病毒，其中包括一名瑞士公民。\n荷兰政府星期三说，在疫情暴发前，约有40名乘客在游轮前往佛得角途中停靠的圣赫勒拿岛（Santa Helena）下船。\n目前，这些乘客中许多人的下落仍然不明。其中一名下船者是4月11日在船上去世的荷兰男子的妻子。她本人也感染了病毒，在抵达荷兰之前去世。\n荷兰皇家航空公司（KLM）星期三说，由于这名女子的病情恶化，他们已于4月25日在约翰内斯堡将她接下飞机。\n在受害者体内发现的病毒已确认为安第斯毒株（Andean strain），可通过密切接触在人与人之间传播。\n专家强调，病毒的传染性极低，但此次疫情已引起卫生部门的高度警惕。\n美国疾病控制与预防中心（CDC）星期三说，正在密切监测船上美国旅客的情况，并补充说，目前美国公众面临的风险极低。\n法国外交部长巴罗星期四说，一名法国公民曾与一名患病者有过接触，但目前未出现症状。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9012529",
-          "publishedOn": "2026-05-07T09:44:22.000Z",
-          "wordCount": 705,
-          "title": "各国追踪感染汉坦病毒的游轮乘客 荷兰一女子疑似染病",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/62477cbf858690993406bcc149eed488a442d30fc846bf525af5d5889f60002c"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9012303",
-          "author": null,
-          "description": "中东媒体引述消息人士的话报道，伊朗和美国已就缓解美国海上封锁以换取霍尔木兹海峡逐步重新开放达成共识。不过消息尚未得到美伊证实。\n新华社也引述伊朗媒体星期四（5月7日）的报道说，伊朗港口与海事组织已向位于霍尔木兹海峡及邻近水域的所有船只发布正式通知，伊朗将为它们提供食品、燃料、医疗及有限维修等服务。\n通知说，船只可通过甚高频16频道联系最近的伊朗港口交管部门请求援助。通知将在三天内每天重复播报三次。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9012303",
-          "publishedOn": "2026-05-07T09:01:34.000Z",
-          "wordCount": 658,
-          "title": "中东媒体：伊美已就缓解美国海上封锁达成共识",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/03ca3b5e2bc232e60a252123216678a5666822c00f8a6b17b51a7230046f1897"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9011529",
-          "author": null,
-          "description": "（悉尼综合电）澳大利亚将要求大型天然气公司保留20%的出口天然气，供国内使用，以防止能源短缺并协助降低能源费用。\n这项计划将从2027年7月起实施，不影响现有合同。\n澳洲能源部长鲍恩星期四（5月7日）说：“我们一直在采取行动，通过投资可靠且自主可控的可再生能源，并把更多天然气留在国内，来保护澳洲民众免受全球能源冲击影响。”\n他指出，这项政策旨在使国内天然气市场形成“适度的供过于求”局面，从而迫使能源价格下降。“这将对价格形成下行压力，也会在一定程度上使澳洲天然气不再受国际价格飙升的影响。”\n澳洲是世界上最大的液化天然气出口国之一，它的海外天然气出口量超过国内消费量。\n澳洲是新加坡最大的液化天然气来源国，供应新加坡超过30%的需求；日本也有约40%的液化天然气来自澳洲。\n鲍恩试图淡化外界对这一决定可能伤害贸易伙伴的担忧。\n他表明：“我们不会影响任何现有合同……我们已同贸易伙伴进行密切磋商，确保国际社会充分理解，澳洲始终会是可靠的能源供应国。”\n澳洲制造业联盟首席执行官伊德对政府的计划表示支持。他在声明中说：“在全国保留20%天然气的计划将有助于支持制造业投资、能源转型以及后代的能源安全。”\n不过智库澳大利亚研究所认为，这是解决高能源价格的错误解决方案，并呼吁对天然气出口征税。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9011529",
-          "publishedOn": "2026-05-07T08:23:09.000Z",
-          "wordCount": 688,
-          "title": "防止能源短缺 澳洲将要求出口商预留20%天然气供内需",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/0e9e828f09532a74ab7a541de138b123f400dcefb7b417e0922765cee95c6517"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9011217",
-          "author": null,
-          "description": "所罗门群岛议会周四通过一项针对总理马内莱的不信任动议。\n马内莱（Jeremiah Manele）此前表明，若动议获得通过，他将辞去总理职务。目前他将继续留任，直至被总督免职。\n所罗门群岛议会星期四（5月7日）举行特别会议，审议由所罗门群岛人民第一党议员科洛吉托提出的不信任动议。\n会议投票结果显示，在议会50名议员中，26人支持、22人反对，另有两名议员缺席会议。赞成票达到宪法规定的26票门槛，动议正式通过。\n亲华派的马内莱曾于2019年以外长身份前往中国正式宣布与北京建交。\n近年来，所罗门群岛一直被视为北京在南太平洋最亲密的伙伴和支持者之一，这个战略位置重要的群岛的领导人更迭受到西方外交官的密切关注。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9011217",
-          "publishedOn": "2026-05-07T06:52:45.000Z",
-          "wordCount": 683,
-          "title": "所罗门群岛议会通过对总理不信任动议",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/a5d05358947c1977b2f776e2b7dcf2a2bd6d79609263bbb9de35a0799199f902"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9010860",
-          "author": null,
-          "description": "美国官员透露，特朗普政府突然叫停旨在引导受困船只离开霍尔木兹海峡的“自由计划”，是因为沙特阿拉伯反对这项计划，并威胁要禁止美军使用沙特空域。\n特朗普星期二（5月5日）在社媒宣布自由计划短期暂停，称此举是应巴基斯坦和其他国家要求，同时考虑到美国对伊朗行动取得的巨大军事成功，以及美伊代表在达成全面的最终协议方面取得的重大进展。\n但据美国全国广播公司（NBC）引述两名美国官员报道，特朗普上星期天（3日）突然在社媒发文宣布启动自由计划，令波斯湾盟友感到意外。\n据透露，特朗普公布计划后才与阿曼当局协调，并在美军启动行动后才与卡塔尔领导人对话。\n报道指，此举激怒了沙特领导层，作为回应，沙特告知美国，将禁止美军飞机从沙特首都利雅德东南部的苏丹王子空军基地起飞，美军飞机也不得飞越沙特领空。\n美国官员透露，特朗普同沙特王储兼首相默罕默德通电话，但还是未能解决问题，这迫使特朗普不得不暂停自由计划，让沙特恢复美军对关键空域的使用权。\n美军在沙特的苏丹王子空军基地部署战机、加油机和防空系统，除了获准从沙特基地起飞外，沙特也允许美军驻扎在邻国的飞机飞越该基地，以支援伊朗战事。\n一名美国官员直言，由于地理因素，美军需与区域伙伴合作才能利用边境空域，在展开自由行动期间，军机对保护船舰至关重要，它们实际上提供了一层防御保护伞。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9010860",
-          "publishedOn": "2026-05-07T06:04:04.000Z",
-          "wordCount": 691,
-          "title": "消息：美突叫停“自由计划” 因沙特威胁禁用空域",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/41fa389a206bb9152c8488ded22e2deea1aa80bd0f01fbfe00e2232ec13cd5c9"
-        },
-        {
-          "id": "https://www.zaobao.com/news/world/story20260507-9010336",
-          "author": null,
-          "description": "国际货币基金组织（IMF）欧洲部副主任贝格尔（Helge Berger）周三说，面对中东战事引发能源价格上涨，欧盟应采取更有针对性的纾困措施，把重点放在帮扶脆弱家庭等方面。\n新华社消息，欧洲媒体星期三（5月6日）报道称，贝格尔认为，如果能源价格高企局面持续，许多欧洲国家政府需要把纾困措施设计得更加精准。\n贝格尔指出，能源价格上涨会向市场释放节约能源和转向替代能源的信号，政府不应过度削弱这一价格信号，而应通过定向补贴等方式帮助最需要扶持的群体。\n随着中东战事延宕，欧洲因能源价格高企而受到的冲击越加明显。\nIMF预测，受中东局势引发的能源危机影响，2026年欧洲经济增长将放缓，通胀也将上升。如果负面影响持续，欧盟经济可能会濒临衰退。\n国际能源署（IEA）署长比罗尔上月警告，伊朗战争带来的危机已成为历史上规模最大的能源安全威胁，它的影响远超1973年和1979年两次石油危机，以及2022年俄乌冲突导致的天然气危机的总和。",
-          "link": "https://www.zaobao.com/news/world/story20260507-9010336",
-          "publishedOn": "2026-05-07T04:12:14.000Z",
-          "wordCount": 696,
-          "title": "IMF：欧盟能源补贴政策应更具针对性",
-          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/bfefe24006f1f652cef9e02f911818e2b6889f515bb3810a0a83f37316320e8d"
         }
       ]
     },
@@ -315,7 +315,7 @@
           "description": "家族有糖尿病史、醫師說飲食運動四個字接不住的糖前讀者該不該戴 CGM？自費戴兩次後，4 派專家分歧攤開來：73% 健康人飆升其實是 3 個來源混的數字、Means 跟 Attia 揭露對齊度反向、台灣健保不蓋糖前自費 NT$2,200，戴兩次後的判斷。",
           "link": "https://ducorn.com/cgm-prediabetes",
           "publishedOn": "2026-04-25T11:27:47.000Z",
-          "wordCount": 1419,
+          "wordCount": 1415,
           "title": "糖尿病前期不是病人，也不是健康人：我自費戴兩次 CGM 後看懂的中間地帶",
           "imageUrl": "https://ducorn.com/images/og/cgm-prediabetes.webp"
         },
@@ -325,7 +325,7 @@
           "description": "3 年 22 倍是真的，Saylor 的持股也是真的，Chanos 的配對交易也是真的。這篇不是買賣或放空建議，而是把四組專業判斷擺在同一個問題上：你買 MSTR 時，站在什麼結構位置？",
           "link": "https://ducorn.com/mstr-leverage-game",
           "publishedOn": "2026-04-24T01:15:56.000Z",
-          "wordCount": 1711,
+          "wordCount": 1704,
           "title": "買 MSTR 前先想清楚：你的對手盤是誰",
           "imageUrl": "https://ducorn.com/images/og/mstr-leverage-game.webp"
         },
@@ -335,7 +335,7 @@
           "description": "國中前該不該給小孩手機？電話手錶還是智慧型？學校 2025 年禁手機後怎麼辦？《失控的焦慮世代》的四大建議對有餘裕家長是安慰、對累爆家長是審判、對補習文化家長是失焦。手機只解釋 0.4% 的青少年憂鬱變異。跨六位學者攤開育兒書的階級政治，給你三個數字找到自己家的判斷框架。",
           "link": "https://ducorn.com/anxious-generation-debunked",
           "publishedOn": "2026-04-18T15:51:18.000Z",
-          "wordCount": 918,
+          "wordCount": 924,
           "title": "焦慮的世代救不了你家小孩：三種家長讀同一本書的三種結果",
           "imageUrl": "https://ducorn.com/images/og/anxious-generation-debunked.webp"
         },
@@ -345,7 +345,7 @@
           "description": "0050 台積電佔比 62%，S&P 500 前七大佔 33%。被動投資發明者 Bogle 死前警告權力集中，Green 說定價的人消失了，Asness 說效率下降主因是社群媒體。三方量的是不同的東西，你的退休金正走在路上，要算的是你離退休還有幾年。",
           "link": "https://ducorn.com/passive-investing-paradox",
           "publishedOn": "2026-04-17T01:35:35.000Z",
-          "wordCount": 936,
+          "wordCount": 928,
           "title": "被動投資悖論：當所有人都不用想，誰在幫你的股價定價？",
           "imageUrl": "https://ducorn.com/images/og/passive-investing-paradox.webp"
         },
@@ -355,7 +355,7 @@
           "description": "股板說 TQQQ 定期定額七年勝率 100%。但那個七年的起點是 2012，換成 1999 起點做模擬，TQQQ 年化 5.62% 輸 QQQ 的 9.37%，最大回撤 99.91%。同一個工具差 13 年結論相反。這是起點的遊戲，進場日期你選不了。",
           "link": "https://ducorn.com/tqqq-leverage",
           "publishedOn": "2026-04-15T01:53:09.000Z",
-          "wordCount": 1870,
+          "wordCount": 1867,
           "title": "TQQQ 三倍槓桿放大了什麼？進場日期決定結論的遊戲",
           "imageUrl": "https://ducorn.com/images/og/tqqq-leverage.webp"
         },
@@ -375,7 +375,7 @@
           "description": "40 歲轉行回到月薪 5 萬，五年內跟原軌跡的累計薪差約 450 萬台幣。AIER 說 82% 中年轉職者兩年追回，但台灣公司年資只採計 5 年，49 歲工程師 9 個月零回應。一派說轉型是認知重新配置，另一派說你放棄了不可轉移的市場稀缺性，兩派說的根本不是同一件事。",
           "link": "https://ducorn.com/career-pivot-cost",
           "publishedOn": "2026-04-10T08:01:31.000Z",
-          "wordCount": 868,
+          "wordCount": 864,
           "title": "職涯的複利效應：中年轉型，你放棄的東西值多少錢？",
           "imageUrl": "https://ducorn.com/images/og/career-pivot-cost.webp"
         },
@@ -385,7 +385,7 @@
           "description": "Cochrane 統合分析說 168 斷食跟普通節食一樣有效，Fung 說傳統節食幾乎必定失敗。那個 91% 心臟病風險嚇到一堆人的研究有致命的方法缺陷。兩邊量的是不同的東西，跟誰對誰錯無關——成功的原因從來不是胰島素理論，是終於有了一個不用每餐做決定的規則。",
           "link": "https://ducorn.com/intermittent-fasting",
           "publishedOn": "2026-04-09T13:16:18.000Z",
-          "wordCount": 988,
+          "wordCount": 981,
           "title": "168斷食：六本書和五個研究吵了十年，我站這邊",
           "imageUrl": "https://ducorn.com/images/og/intermittent-fasting.webp"
         }
@@ -397,270 +397,270 @@
       "siteUrl": "https://1x.com/gallery/latest/awarded",
       "articles": [
         {
-          "id": "1x-3573858",
-          "author": "Ovi D. Pop",
-          "description": "Time for pray by Ovi D. Pop",
-          "link": "https://1x.com/photo/3573858",
-          "publishedOn": "2026-05-08T03:27:19.491Z",
-          "wordCount": 375,
-          "title": "Time for pray",
-          "enclosure": {
-            "url": "https://1x.com/images/user/d08cf8cea945a3ec04c39ab83ffbc519-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/d08cf8cea945a3ec04c39ab83ffbc519-hd4.jpg"
-        },
-        {
-          "id": "1x-3573866",
-          "author": "Frank Bruynseraede",
-          "description": "Towering waves by Frank Bruynseraede",
-          "link": "https://1x.com/photo/3573866",
-          "publishedOn": "2026-05-08T03:27:19.487Z",
+          "id": "1x-3564527",
+          "author": "Takiko Hirai",
+          "description": "Click beetle by Takiko Hirai",
+          "link": "https://1x.com/photo/3564527",
+          "publishedOn": "2026-05-08T07:46:38.430Z",
           "wordCount": 368,
-          "title": "Towering waves",
+          "title": "Click beetle",
           "enclosure": {
-            "url": "https://1x.com/images/user/aa6e39216e674751a0118981d79ae86a-hd4.jpg",
+            "url": "https://1x.com/images/user/0c09100dcac3d3c6444385cc5dbc841a-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/aa6e39216e674751a0118981d79ae86a-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/0c09100dcac3d3c6444385cc5dbc841a-hd4.jpg"
         },
         {
-          "id": "1x-3570959",
-          "author": "Rucsandra Silvia Calin",
-          "description": "Strawberries in water by Rucsandra Silvia Calin",
-          "link": "https://1x.com/photo/3570959",
-          "publishedOn": "2026-05-08T03:27:19.485Z",
-          "wordCount": 375,
-          "title": "Strawberries in water",
+          "id": "1x-3574545",
+          "author": "Marco Latino",
+          "description": "Rachele by Marco Latino",
+          "link": "https://1x.com/photo/3574545",
+          "publishedOn": "2026-05-08T07:46:38.424Z",
+          "wordCount": 336,
+          "title": "Rachele",
           "enclosure": {
-            "url": "https://1x.com/images/user/d3c577cd3b60164fef498ce5cc5ac4c4-hd2.jpg",
+            "url": "https://1x.com/images/user/763615932cd30b8b40f181e6032635e1-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/d3c577cd3b60164fef498ce5cc5ac4c4-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/763615932cd30b8b40f181e6032635e1-hd2.jpg"
         },
         {
-          "id": "1x-3573857",
-          "author": "KOIKI",
-          "description": "Ran Himemiya by KOIKI",
-          "link": "https://1x.com/photo/3573857",
-          "publishedOn": "2026-05-08T03:27:19.482Z",
-          "wordCount": 335,
-          "title": "Ran Himemiya",
+          "id": "1x-3574577",
+          "author": "Marie-anne Stas",
+          "description": "Lily of the Valley by Marie-anne Stas",
+          "link": "https://1x.com/photo/3574577",
+          "publishedOn": "2026-05-08T07:46:38.419Z",
+          "wordCount": 345,
+          "title": "Lily of the Valley",
           "enclosure": {
-            "url": "https://1x.com/images/user/be29439511c659939b652b76236f9118-hd4.jpg",
+            "url": "https://1x.com/images/user/28582f91733c33b142649bed8ac89f67-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/be29439511c659939b652b76236f9118-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/28582f91733c33b142649bed8ac89f67-hd4.jpg"
         },
         {
-          "id": "1x-3570030",
+          "id": "1x-3573548",
+          "author": "Jesus Concepcion Alvarado",
+          "description": "SUNSET OVER THE SEA by Jesus Concepcion Alvarado",
+          "link": "https://1x.com/photo/3573548",
+          "publishedOn": "2026-05-08T07:46:38.412Z",
+          "wordCount": 349,
+          "title": "SUNSET OVER THE SEA",
+          "enclosure": {
+            "url": "https://1x.com/images/user/0ae2c72d5975d30b04ca8f73ea93c7a9-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/0ae2c72d5975d30b04ca8f73ea93c7a9-hd4.jpg"
+        },
+        {
+          "id": "1x-3572831",
+          "author": "Roberto Corinaldesi",
+          "description": "Synchronicity of Absence by Roberto Corinaldesi",
+          "link": "https://1x.com/photo/3572831",
+          "publishedOn": "2026-05-08T07:46:38.408Z",
+          "wordCount": 342,
+          "title": "Synchronicity of Absence",
+          "enclosure": {
+            "url": "https://1x.com/images/user/2468bd581da5752c30b7868e1840849e-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/2468bd581da5752c30b7868e1840849e-hd4.jpg"
+        },
+        {
+          "id": "1x-3550667",
+          "author": "Elena Molina",
+          "description": "curiosity and happy about the encounter too, Yorubaland (Nigeria) by Elena Molina",
+          "link": "https://1x.com/photo/3550667",
+          "publishedOn": "2026-05-08T07:46:38.300Z",
+          "wordCount": 389,
+          "title": "curiosity and happy about the encounter too, Yorubaland (Nigeria)",
+          "enclosure": {
+            "url": "https://1x.com/images/user/d743a0dac8d4cc6fe8d6a046704b83ea-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/d743a0dac8d4cc6fe8d6a046704b83ea-hd4.jpg"
+        },
+        {
+          "id": "1x-3572084",
+          "author": "Ramiz Sahin",
+          "description": "Spring fields by Ramiz Sahin",
+          "link": "https://1x.com/photo/3572084",
+          "publishedOn": "2026-05-08T07:46:38.292Z",
+          "wordCount": 368,
+          "title": "Spring fields",
+          "enclosure": {
+            "url": "https://1x.com/images/user/aff485ad0f217a5cebd8f71c0838d2ba-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/aff485ad0f217a5cebd8f71c0838d2ba-hd4.jpg"
+        },
+        {
+          "id": "1x-3571297",
+          "author": "Zipi Raviv",
+          "description": "Rest between the dance by Zipi Raviv",
+          "link": "https://1x.com/photo/3571297",
+          "publishedOn": "2026-05-08T07:46:38.286Z",
+          "wordCount": 374,
+          "title": "Rest between the dance",
+          "enclosure": {
+            "url": "https://1x.com/images/user/b041ab31628eb1163d70c6a5f7163c10-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/b041ab31628eb1163d70c6a5f7163c10-hd4.jpg"
+        },
+        {
+          "id": "1x-3574385",
+          "author": "tianhuayu",
+          "description": "Harvest by tianhuayu",
+          "link": "https://1x.com/photo/3574385",
+          "publishedOn": "2026-05-08T07:46:38.277Z",
+          "wordCount": 361,
+          "title": "Harvest",
+          "enclosure": {
+            "url": "https://1x.com/images/user/dbc5cae7877fa9fa92c7d65a024fc6d8-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/dbc5cae7877fa9fa92c7d65a024fc6d8-hd4.jpg"
+        },
+        {
+          "id": "1x-3572105",
+          "author": "Louise Xie",
+          "description": "Outstanding by Louise Xie",
+          "link": "https://1x.com/photo/3572105",
+          "publishedOn": "2026-05-08T07:46:38.271Z",
+          "wordCount": 365,
+          "title": "Outstanding",
+          "enclosure": {
+            "url": "https://1x.com/images/user/28f6231fbb49e6f173e7e289608f4d5c-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/28f6231fbb49e6f173e7e289608f4d5c-hd2.jpg"
+        },
+        {
+          "id": "1x-3501822",
+          "author": "YANGYING",
+          "description": "The Lone Tree and the Tide by YANGYING",
+          "link": "https://1x.com/photo/3501822",
+          "publishedOn": "2026-05-08T07:46:38.266Z",
+          "wordCount": 347,
+          "title": "The Lone Tree and the Tide",
+          "enclosure": {
+            "url": "https://1x.com/images/user/18e0ae4f259fd7d2e59e05a4ad522c3f-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/18e0ae4f259fd7d2e59e05a4ad522c3f-hd2.jpg"
+        },
+        {
+          "id": "1x-3571168",
           "author": "James Zhen Yu",
-          "description": "赤霞涟漪 by James Zhen Yu",
-          "link": "https://1x.com/photo/3570030",
-          "publishedOn": "2026-05-08T03:27:19.471Z",
+          "description": "极境之线 by James Zhen Yu",
+          "link": "https://1x.com/photo/3571168",
+          "publishedOn": "2026-05-08T07:46:38.261Z",
+          "wordCount": 369,
+          "title": "极境之线",
+          "enclosure": {
+            "url": "https://1x.com/images/user/44463e9f32f966bccf3d8dc056a3b9f8-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/44463e9f32f966bccf3d8dc056a3b9f8-hd4.jpg"
+        },
+        {
+          "id": "1x-3574443",
+          "author": "Shobhit Chawla",
+          "description": "Hi Mom I am back. by Shobhit Chawla",
+          "link": "https://1x.com/photo/3574443",
+          "publishedOn": "2026-05-08T07:46:38.248Z",
+          "wordCount": 348,
+          "title": "Hi Mom I am back.",
+          "enclosure": {
+            "url": "https://1x.com/images/user/e8cc84b172fd56d0cb8d3e7620c916e2-hd2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/e8cc84b172fd56d0cb8d3e7620c916e2-hd2.jpg"
+        },
+        {
+          "id": "1x-3575906",
+          "author": "Carlos Lopes Franco",
+          "description": "s/t by Carlos Lopes Franco",
+          "link": "https://1x.com/photo/3575906",
+          "publishedOn": "2026-05-08T07:46:38.243Z",
           "wordCount": 340,
-          "title": "赤霞涟漪",
+          "title": "s/t",
           "enclosure": {
-            "url": "https://1x.com/images/user/e3732afad53c1d641efa5fa01940c3cf-hd4.jpg",
+            "url": "https://1x.com/images/user/5d2ba1df215085eeb945e01c30b3eafb-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/e3732afad53c1d641efa5fa01940c3cf-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/5d2ba1df215085eeb945e01c30b3eafb-hd4.jpg"
         },
         {
-          "id": "1x-3571617",
-          "author": "Giovanni Cavalli",
-          "description": "An interesting little girl. Street portrait by Giovanni Cavalli",
-          "link": "https://1x.com/photo/3571617",
-          "publishedOn": "2026-05-08T03:27:19.468Z",
-          "wordCount": 351,
-          "title": "An interesting little girl. Street portrait",
-          "enclosure": {
-            "url": "https://1x.com/images/user/183ed266c73753893a171da9d4a25cf0-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/183ed266c73753893a171da9d4a25cf0-hd4.jpg"
-        },
-        {
-          "id": "1x-3544595",
-          "author": "Simoon",
-          "description": "Herds at Dusk by Simoon",
-          "link": "https://1x.com/photo/3544595",
-          "publishedOn": "2026-05-08T03:27:19.464Z",
-          "wordCount": 338,
-          "title": "Herds at Dusk",
-          "enclosure": {
-            "url": "https://1x.com/images/user/bc668c1925d7cc12364dc41d730e2a22-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/bc668c1925d7cc12364dc41d730e2a22-hd4.jpg"
-        },
-        {
-          "id": "1x-3570735",
-          "author": "M. Emre Erol",
-          "description": "Untitled by M. Emre Erol",
-          "link": "https://1x.com/photo/3570735",
-          "publishedOn": "2026-05-08T03:27:19.462Z",
-          "wordCount": 340,
+          "id": "1x-3564693",
+          "author": "Joxe Inazio Kuesta Garmendia",
+          "description": "Untitled by Joxe Inazio Kuesta Garmendia",
+          "link": "https://1x.com/photo/3564693",
+          "publishedOn": "2026-05-08T07:46:38.233Z",
+          "wordCount": 344,
           "title": "Untitled",
           "enclosure": {
-            "url": "https://1x.com/images/user/d0362dae0235c888f575c8ca4a4a89c2-hd2.jpg",
+            "url": "https://1x.com/images/user/e4baa77e22c37f86499db4ea1307be43-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/d0362dae0235c888f575c8ca4a4a89c2-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/e4baa77e22c37f86499db4ea1307be43-hd4.jpg"
         },
         {
-          "id": "1x-3573435",
-          "author": "Toshifumi Tanaka",
-          "description": "Deer by Toshifumi Tanaka",
-          "link": "https://1x.com/photo/3573435",
-          "publishedOn": "2026-05-08T03:27:19.451Z",
-          "wordCount": 365,
-          "title": "Deer",
+          "id": "1x-3573136",
+          "author": "URANUS FILM",
+          "description": "Solitude in Stillness by URANUS  FILM",
+          "link": "https://1x.com/photo/3573136",
+          "publishedOn": "2026-05-08T07:46:38.225Z",
+          "wordCount": 342,
+          "title": "Solitude in Stillness",
           "enclosure": {
-            "url": "https://1x.com/images/user/3b74bbf579a7869d9eec084f7d745476-hd2.jpg",
+            "url": "https://1x.com/images/user/3cad4d7fbf5dd438235347c154431b90-hd2.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/3b74bbf579a7869d9eec084f7d745476-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/3cad4d7fbf5dd438235347c154431b90-hd2.jpg"
         },
         {
-          "id": "1x-3562589",
-          "author": "HJ Yang",
-          "description": "Snow monkey in Japan by HJ Yang",
-          "link": "https://1x.com/photo/3562589",
-          "publishedOn": "2026-05-08T03:27:19.439Z",
+          "id": "1x-3573849",
+          "author": "Zeren Gu",
+          "description": "Hands of the Desert by Zeren Gu",
+          "link": "https://1x.com/photo/3573849",
+          "publishedOn": "2026-05-08T07:46:37.970Z",
           "wordCount": 374,
-          "title": "Snow monkey in Japan",
+          "title": "Hands of the Desert",
           "enclosure": {
-            "url": "https://1x.com/images/user/2bb5d25d8fedfe471570415bfa2cea6c-hd4.jpg",
+            "url": "https://1x.com/images/user/62ee093b901fe538051c0c35cf3ec675-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/2bb5d25d8fedfe471570415bfa2cea6c-hd4.jpg"
+          "imageUrl": "https://1x.com/images/user/62ee093b901fe538051c0c35cf3ec675-hd4.jpg"
         },
         {
-          "id": "1x-3574212",
-          "author": "Tore Johansson",
-          "description": "Hidden beauty by Tore Johansson",
-          "link": "https://1x.com/photo/3574212",
-          "publishedOn": "2026-05-08T03:27:19.429Z",
+          "id": "1x-3573261",
+          "author": "Songlin Xu",
+          "description": "In harmony with a flying scarf by Songlin Xu",
+          "link": "https://1x.com/photo/3573261",
+          "publishedOn": "2026-05-08T07:46:37.949Z",
+          "wordCount": 351,
+          "title": "In harmony with a flying scarf",
+          "enclosure": {
+            "url": "https://1x.com/images/user/7dbe97f044b5a2bb1580f75ac9e04967-hd4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://1x.com/images/user/7dbe97f044b5a2bb1580f75ac9e04967-hd4.jpg"
+        },
+        {
+          "id": "1x-3573854",
+          "author": "Christopher Méthot",
+          "description": "Sans titre by Christopher Méthot",
+          "link": "https://1x.com/photo/3573854",
+          "publishedOn": "2026-05-08T07:46:37.920Z",
           "wordCount": 339,
-          "title": "Hidden beauty",
+          "title": "Sans titre",
           "enclosure": {
-            "url": "https://1x.com/images/user/3a6e5ef5957f28a0d5149bffdcd48e7c-hd4.jpg",
+            "url": "https://1x.com/images/user/c0c8fef2516d06870c31064c2f594a0b-hd4.jpg",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://1x.com/images/user/3a6e5ef5957f28a0d5149bffdcd48e7c-hd4.jpg"
-        },
-        {
-          "id": "1x-3573172",
-          "author": "Jacob (Jian) Xu",
-          "description": "Ember in Balance by Jacob (Jian) Xu",
-          "link": "https://1x.com/photo/3573172",
-          "publishedOn": "2026-05-08T03:27:19.274Z",
-          "wordCount": 375,
-          "title": "Ember in Balance",
-          "enclosure": {
-            "url": "https://1x.com/images/user/26290fc99649abeb8d10586d54df66e3-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/26290fc99649abeb8d10586d54df66e3-hd4.jpg"
-        },
-        {
-          "id": "1x-3560723",
-          "author": "Trevor Cole",
-          "description": "Sunset in a cattle camp by Trevor Cole",
-          "link": "https://1x.com/photo/3560723",
-          "publishedOn": "2026-05-08T03:27:19.267Z",
-          "wordCount": 348,
-          "title": "Sunset in a cattle camp",
-          "enclosure": {
-            "url": "https://1x.com/images/user/0a3f7a6751f79b0fb23383184f4d9154-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/0a3f7a6751f79b0fb23383184f4d9154-hd4.jpg"
-        },
-        {
-          "id": "1x-3574021",
-          "author": "Eddie",
-          "description": "Life by Eddie",
-          "link": "https://1x.com/photo/3574021",
-          "publishedOn": "2026-05-08T03:27:19.262Z",
-          "wordCount": 332,
-          "title": "Life",
-          "enclosure": {
-            "url": "https://1x.com/images/user/7dea227bdc3d8c1abc8a40b83b95e928-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/7dea227bdc3d8c1abc8a40b83b95e928-hd2.jpg"
-        },
-        {
-          "id": "1x-3574345",
-          "author": "Ash Page",
-          "description": "ROY'S by Ash Page",
-          "link": "https://1x.com/photo/3574345",
-          "publishedOn": "2026-05-08T03:27:19.257Z",
-          "wordCount": 365,
-          "title": "ROY'S",
-          "enclosure": {
-            "url": "https://1x.com/images/user/d2c1f18b6f30c8e18e050688dc83cb17-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/d2c1f18b6f30c8e18e050688dc83cb17-hd2.jpg"
-        },
-        {
-          "id": "1x-3574162",
-          "author": "Nancy Mu",
-          "description": "The Eye of the North by Nancy Mu",
-          "link": "https://1x.com/photo/3574162",
-          "publishedOn": "2026-05-08T03:27:19.245Z",
-          "wordCount": 377,
-          "title": "The Eye of the North",
-          "enclosure": {
-            "url": "https://1x.com/images/user/3b6c05ff883b2bb2bf63e4abfe5b7dd4-hd4.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/3b6c05ff883b2bb2bf63e4abfe5b7dd4-hd4.jpg"
-        },
-        {
-          "id": "1x-3574164",
-          "author": "Primož Kožuh",
-          "description": "On the road again by Primož Kožuh",
-          "link": "https://1x.com/photo/3574164",
-          "publishedOn": "2026-05-08T03:27:19.238Z",
-          "wordCount": 374,
-          "title": "On the road again",
-          "enclosure": {
-            "url": "https://1x.com/images/user/70e9c9e21fef82648eb891e40236a50d-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/70e9c9e21fef82648eb891e40236a50d-hd2.jpg"
-        },
-        {
-          "id": "1x-3553225",
-          "author": "Lipinghu",
-          "description": "The Kiss by Lipinghu",
-          "link": "https://1x.com/photo/3553225",
-          "publishedOn": "2026-05-08T03:27:19.231Z",
-          "wordCount": 364,
-          "title": "The Kiss",
-          "enclosure": {
-            "url": "https://1x.com/images/user/a1de02f90420dcd9af6ba55759240cc7-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/a1de02f90420dcd9af6ba55759240cc7-hd2.jpg"
-        },
-        {
-          "id": "1x-3564410",
-          "author": "Sherry Huang",
-          "description": "Waiting for the right one by Sherry Huang",
-          "link": "https://1x.com/photo/3564410",
-          "publishedOn": "2026-05-08T03:27:19.218Z",
-          "wordCount": 348,
-          "title": "Waiting for the right one",
-          "enclosure": {
-            "url": "https://1x.com/images/user/106e910c15e41b50a51cb496cd808a06-hd2.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://1x.com/images/user/106e910c15e41b50a51cb496cd808a06-hd2.jpg"
+          "imageUrl": "https://1x.com/images/user/c0c8fef2516d06870c31064c2f594a0b-hd4.jpg"
         }
       ]
     },
@@ -687,6 +687,233 @@
           "publishedOn": "2026-04-30T01:19:00.000Z",
           "wordCount": 246,
           "title": "2026年4月推荐",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "微信搬运工 - Telegram Channel",
+      "feedUrl": "https://basicsix-my-rsshub-hq.hf.space/telegram/channel/wxbyg",
+      "siteUrl": "https://t.me/s/wxbyg",
+      "articles": [
+        {
+          "id": "https://t.me/wxbyg/7290",
+          "author": null,
+          "description": "这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。 | 原文\nTelegraph\n这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。\nDeepSeek V4 还是挺顶的。 100 万 token 上下文、思维链推理、价格打到骨折，模型本身的实力没得说。 你用网页版聊天，V4 的编程能力根本发挥不出来。 你不能让它直接改文件、跑命令、Git 管理，只能复制粘贴来回复制粘贴，效率很低。 没有类似 Claude Code 的体验。 所以有人用 Rust 从零写了一个终端原生的编程 Agent，专门对接 DeepSeek V4。 你可以理解为 DeepSeek 原生的终端 Coding Agent。 01 开源项目简介 DeepSeek-TUI…",
+          "link": "https://t.me/wxbyg/7290",
+          "publishedOn": "2026-05-08T04:10:23.000Z",
+          "wordCount": null,
+          "title": "这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7289",
+          "author": null,
+          "description": "菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是\"额叶\" | 原文\nTelegraph\n菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是\"额叶\"\n一位获得过数学界诺贝尔奖的老教授，刚刚发了一篇让人沉默的论文。 David Mumford，菲尔兹奖得主、哈佛与布朗大学荣誉教授，5月4日在arXiv上传了一篇新论文，题为《AI与人类的能动性》。 他不写代码，不跑实验，不比榜单。他只是认真地问了一个问题： 为什么现在这些AI，依然没有真正的\"能动性\"？ 这个问题，比它看起来要深得多。 AI其实不理解\"真实世界\"这四个字 Mumford开篇就给出了一个很多人不愿承认的判断： 迄今为止，大语言模型回答了问题，写了文章，解决了描述清晰的难题。但它们没有做过的…",
+          "link": "https://t.me/wxbyg/7289",
+          "publishedOn": "2026-05-08T00:01:25.000Z",
+          "wordCount": null,
+          "title": "菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是\"额叶\" | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7288",
+          "author": null,
+          "description": "【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程 | 原文\nTelegraph\n【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程\n ━━━━━━━━━━━━━━━━━━━━  ◆ 引子：169 期少讲了什么  ━━━━━━━━━━━━━━━━━━━━ 前面在第 169 期【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习，我们跟着一个 token 走完了 DeepSeek V4 的全部前向传播路径——从 embedding 查表到 61 层 Transformer，每一步标维度、标矩阵乘法，一个不漏。 但走完之后我越想越觉得少了一个视角。 169 期关心的是维度怎么变：7168 → 1536 → 65536…",
+          "link": "https://t.me/wxbyg/7288",
+          "publishedOn": "2026-05-07T23:35:48.000Z",
+          "wordCount": null,
+          "title": "【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7287",
+          "author": null,
+          "description": "【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习(2) | 原文\nTelegraph\n【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习\n我们要预测的是\"是\"后面跟什么。所以只需要第 5 个 token（\"是\"）的 hidden state——它经过 61 层 Transformer 已经\"看过\"了前面所有 token，它的 hidden state 里编码了\"中国的首都是\"的全部上下文信息。把这个 hidden state 过 lm_head，投影出来的 129280 个分数就是下一个 token（第 6 个）的概率分布。 logits_last [129280]   ← \"是\"之后每个候选 token 的分数  ━━━━━━━━━━━━━━━━━━━━…",
+          "link": "https://t.me/wxbyg/7287",
+          "publishedOn": "2026-05-07T23:33:31.000Z",
+          "wordCount": null,
+          "title": "【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习(2) | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7286",
+          "author": null,
+          "description": "【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习(1) | 原文\nTelegraph\n【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习\n ━━━━━━━━━━━━━━━━━━━━  ◆ 今天干什么  ━━━━━━━━━━━━━━━━━━━━ 今天这篇是一个\"总复习\"——拿一句\"中国的首都是\"作为输入，一步一步走完 DeepSeek V4-Pro 的整条前向传播路径，从文字变成 token ID，到 embedding，到 61 层 Transformer，到最后 softmax 采样出\"北京\"。每一步都标维度变化，一个矩阵乘法都不漏。 先看一张全流程图，心里有个整体印象： 这篇会涉及我们之前讲过的很多零件。如果你对以下内容不太熟悉，建议先翻一翻对应的期数：…",
+          "link": "https://t.me/wxbyg/7286",
+          "publishedOn": "2026-05-07T23:33:30.000Z",
+          "wordCount": null,
+          "title": "【一个token的旅程】Deepseek V4预测\"中国的首都是\"的全流程总复习(1) | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7285",
+          "author": null,
+          "description": "给中国开出天价转播费的FIFA，到底多有钱？ | 原文\nTelegraph\n给中国开出天价转播费的FIFA，到底多有钱？\n文｜张恒 国际足联（FIFA）把中国划为一级高价市场，给央视开出2.5亿至3亿美元（约合18亿至21亿元人民币）转播费的事，闹得有点大了。热搜都上了好几个。之所以如此，是因为国际足联本届搞钱的胃口确实很大。 这里有5个国际足联与钱相关的细节： 一、FIFA在2023-2026周期内，设定了130亿美元总营收的目标。它将全球市场划分为三级，其中中国、印度因庞大的人口基数被划入与美国、英国并列的一级高价市场，这也是其实现总营收目标的核心市场。 二、中国市场对世界杯影响很大。2022年世界杯期间，中国观众在数…",
+          "link": "https://t.me/wxbyg/7285",
+          "publishedOn": "2026-05-07T23:06:59.000Z",
+          "wordCount": null,
+          "title": "给中国开出天价转播费的FIFA，到底多有钱？ | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7284",
+          "author": null,
+          "description": "国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖 | 原文\nTelegraph\n国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖\n ▲ 设为星标，以防失联 2026年“AI+成人玩具”持续升温。 今年4月，在上海API情趣生活展上， 搭载了AI语音功能的女性向成人玩具被首次推出； 国内多个新兴品牌发布了新款AI伴侣机器人。 根据艾媒咨询的最近数据， 中国情趣用品的市场规模已近2000亿元。 一条摄制组曾来到广东省中山市， 走访了两家头部的情趣娃娃厂商。 随着近两年ChatGPT、DeepSeek等AI技术的突飞猛进， 这些硅胶娃娃也正在经历一场悄无声息的革命： 从冷冰冰的“生理工具”进化为能够聊天的“情感伴侣”。 工作人员为我们示范加入AI对话功能的情趣娃娃…",
+          "link": "https://t.me/wxbyg/7284",
+          "publishedOn": "2026-05-07T22:26:12.000Z",
+          "wordCount": null,
+          "title": "国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7283",
+          "author": null,
+          "description": "迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快 | 原文\nTelegraph\n迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快\n图源：Unsplash / Rajesh Ram 导读： 一项迄今规模最大的古DNA研究颠覆学界既有认知：人类自农业革命以来从未停止演化，定向自然选择不仅普遍存在，更在过去一万年间明显加快。 王晓波｜撰文 《自然》杂志发表的一项古DNA研究[1]显示，农业文明出现后，人类进化的速度大大超出此前的预期。 该研究由麻省理工学院和哈佛大学布罗德研究所的遗传学家大卫·赖希（David Reich）团队领导。团队分析了近16,000个古代西欧亚人的基因组，追踪了过去18,000年间的基因频率变化，发现定向自然选择…",
+          "link": "https://t.me/wxbyg/7283",
+          "publishedOn": "2026-05-07T22:24:31.000Z",
+          "wordCount": null,
+          "title": "迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7282",
+          "author": null,
+          "description": "刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」 | 原文\nTelegraph\n刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」\n刚刚，OpenAI 放出了三个全新的实时语音模型，其中一个翻译模型，能把 70 多种语言实时翻译成 13 种语言输出，每分钟成本 2 毛钱。 同声传译这个行业，现在可能，要迎来它的终局了。",
+          "link": "https://t.me/wxbyg/7282",
+          "publishedOn": "2026-05-07T21:09:00.000Z",
+          "wordCount": null,
+          "title": "刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7281",
+          "author": null,
+          "description": "北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年 | 原文\nTelegraph\n北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年\n2026年1月15日，青海省德令哈市人民法院的一纸判决，为一起发生在一年半前的惨烈车祸画上了一个充满争议的句号。法院一审认定，20岁的女大学生小露犯交通肇事罪，判处有期徒刑四年。然而，这个判决并未平息风波，反而因其核心事实——“谁是事发时的驾驶员”——存在巨大争议，引发了社会的广泛关注与讨论。 一场毕业旅行，两死一伤的悲剧 时间回溯到2024年7月，刚刚结束大一学业的北京工商大学学生小露，与同校师姐小静、首都体育学院学生小田，三名年轻女孩怀揣着对“青甘大环线”的向往，在兰州租下一辆白色SUV，开启了期待已久的毕业旅行。…",
+          "link": "https://t.me/wxbyg/7281",
+          "publishedOn": "2026-05-07T17:04:31.000Z",
+          "wordCount": null,
+          "title": "北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7280",
+          "author": null,
+          "description": "在群聊中训练暴力：“赛博性犯罪”，呈现新特征 | 原文\nTelegraph\n在群聊中训练暴力：“赛博性犯罪”，呈现新特征\n ▲ 德国慕尼黑地方法院，钟某接受审判。(图片由AI辅助生成) 全文共5073字，阅读大约需要13分钟",
+          "link": "https://t.me/wxbyg/7280",
+          "publishedOn": "2026-05-07T11:00:07.000Z",
+          "wordCount": null,
+          "title": "在群聊中训练暴力：“赛博性犯罪”，呈现新特征 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7279",
+          "author": null,
+          "description": "德国版“N号房”：加密群组中的性侵暗网 | 原文\nTelegraph\n德国版“N号房”：加密群组中的性侵暗网\n ▲ 德国巴伐利亚，一种液体被秘密加入饮品，展现了迷奸药的危险。（视觉中国 / 图） 全文共5431字，阅读大约需要13分钟",
+          "link": "https://t.me/wxbyg/7279",
+          "publishedOn": "2026-05-07T11:00:06.000Z",
+          "wordCount": null,
+          "title": "德国版“N号房”：加密群组中的性侵暗网 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7278",
+          "author": null,
+          "description": "全嘻嘻——一个北大网红的崛起 | 原文\nTelegraph\n全嘻嘻——一个北大网红的崛起\n作者：请关注 来源：J的第二曲线 文章已获授权 那是在2022年的时候，我还远在广东，做着第一份工作，突然有一天打开微博热搜，看到了全嘻嘻的一条视频《北大毕业10年后，1个起点，3种结局》，现在这条视频还置顶在她的微博里。 从那一天开始，我就关注了这个独特的灵魂。也跟随着另外两位室友佳佳、世中，感受着她们的人生故事。后来几乎看了她每周五更新的所有视频。 我总是对人充满了好奇。 如果要用一句话概括全嘻嘻是一个怎样的人，我会说：她是一个从不糊弄自己的人。 B站/全嘻嘻部分作品 全嘻嘻是北大毕业的，这是她最大…",
+          "link": "https://t.me/wxbyg/7278",
+          "publishedOn": "2026-05-07T09:31:35.000Z",
+          "wordCount": null,
+          "title": "全嘻嘻——一个北大网红的崛起 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7277",
+          "author": null,
+          "description": "大反转！马斯克牵手对手 Dario，Anthropic 与 SpaceX 罕见合作 | 原文\nTelegraph\n大反转！马斯克牵手对手 Dario，Anthropic 与 SpaceX 罕见合作\nAnthropic 和马斯克的 SpaceX，官宣合作了。 Anthropic 官宣 这大概是最近最大反转的一条新闻：Anthropic 将使用 SpaceX 位于孟菲斯的 Colossus 1 超算集群的全部算力，超过 22 万块 NVIDIA GPU，涵盖 H100、H200 和最新的 GB200 加速器。",
+          "link": "https://t.me/wxbyg/7277",
+          "publishedOn": "2026-05-07T05:04:00.000Z",
+          "wordCount": null,
+          "title": "大反转！马斯克牵手对手 Dario，Anthropic 与 SpaceX 罕见合作 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7276",
+          "author": null,
+          "description": "T大姚班的男同学变成了宾大的女老师？ | 原文\nTelegraph\nT大姚班的男同学变成了宾大的女老师？\n众所周知，因为我文采斐然、才华横溢，写TOP高校的文章屡次被删除。写一篇删一篇，甚至连五一放假期间他们都不放过我。 我服了，我认输，我不敢写了。我们写国外的大学总没问题吧？ 今天发现著名的美国高校宾夕法尼亚大学（University of Pennsylvania）即将迎来一位美女助理教授，名字的拼音是Jiayuan Mao。 注意我标红的She & her，小学英语程度的朋友也一定知道这就说明这是一位女助理教授。 这位女老师的中文名字是茅佳源，她在中国读上海高中和清华大学姚班的时候，还是个男生。 茅佳…",
+          "link": "https://t.me/wxbyg/7276",
+          "publishedOn": "2026-05-07T04:57:08.000Z",
+          "wordCount": null,
+          "title": "T大姚班的男同学变成了宾大的女老师？ | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7275",
+          "author": null,
+          "description": "突发，马斯克xAI解散了！22万张GPU忍痛全给Claude | 原文\nTelegraph\n突发，马斯克xAI解散了！22万张GPU忍痛全给Claude\n新智元报道 编辑：桃子 定慧 【新智元导读】今天，马斯克官宣解散xAI并入SpaceX。同时，他把全球最强超算Colossus 1，全部租给OpenAI死对头Claude。一边在法庭要罢免奥特曼，一边给对手送算力，老马这波釜底抽薪绝了。 太突然了！xAI没了。 就在刚刚，马斯克官宣：xAI直接解散，并入SpaceXAI，成为旗下一款AI产品。 一句话，一个公司消失了。 几乎同时，SpaceX和Anthropic联合官宣： 租下Colossus 1全部算力，22万块GPU，300+兆瓦计算能力，几天内上线Claude推理。…",
+          "link": "https://t.me/wxbyg/7275",
+          "publishedOn": "2026-05-07T04:19:11.000Z",
+          "wordCount": null,
+          "title": "突发，马斯克xAI解散了！22万张GPU忍痛全给Claude | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7274",
+          "author": null,
+          "description": "屏幕的另一侧，有1000个人在瓦解孩子的自制力 | 专访 | 原文\nTelegraph\n屏幕的另一侧，有1000个人在瓦解孩子的自制力 | 专访\n采写 | 实习记者 邓乔尹 编辑 | 徐鲁青 姜妍 当孩子放下手机，世界随之在其眼中变得无聊，这几乎是今天无数家庭共有的日常困境。家长们一边担心孩子的屏幕时间过长，一边又不得不借助它换来片刻安静；孩子们盯着屏幕时聚精会神，一旦设备被拿走，便茫然不知所措，甚至情绪崩溃。 我们通常把这归结为自控力不足，或者父母管教不当。但在苏珊·林看来，这样的解释恰恰是科技公司最乐于看到的。 苏珊·林（Susan Linn）是美国心理学家、哈佛医学院精神病学讲师，也是“无广告童年运动”的创始人，长期研究创造性游戏及商业营销…",
+          "link": "https://t.me/wxbyg/7274",
+          "publishedOn": "2026-05-07T03:09:57.000Z",
+          "wordCount": null,
+          "title": "屏幕的另一侧，有1000个人在瓦解孩子的自制力 | 专访 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7273",
+          "author": null,
+          "description": "“红灯区小姐”的独白，这本书能出版算是个奇迹！ | 原文\nTelegraph\n“红灯区小姐”的独白，这本书能出版算是个奇迹！\n“红灯区里的小姐”这个称呼，在大多数人眼中，她们的形象可能来自街坊八卦或电影中的深夜小巷。 她们的工作与“性”和“道德”挂钩，常聚集在黑夜笼罩的地下场所，游走于灰色地带间。 哪些真，哪些假，我们无从得知。 但如今，一群社会学家耗时数十年深入“红灯区”对上千位“xing工作者”展开了田野性调查，并将她们真实的生存状况和情感都完整地呈现在这本《我在现场》当中。 这些社会学家们与“小姐”同吃同住同劳动，实现了真正的“我在现场”，并将她们所讲述的内容客观地呈现出来。 正如潘绥铭教授说过的，“小姐”们跟任何其它行…",
+          "link": "https://t.me/wxbyg/7273",
+          "publishedOn": "2026-05-07T03:09:30.000Z",
+          "wordCount": null,
+          "title": "“红灯区小姐”的独白，这本书能出版算是个奇迹！ | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7272",
+          "author": null,
+          "description": "做AI的年轻人，被前司「追债」 | 原文\nTelegraph\n做AI的年轻人，被前司「追债」\nAI领域的人才，正在体验他们的黄金时代。 4月16日，《人工智能产业人才发展报告（2025~2026）》发布，报告由中国劳动和社会保障科学研究院联合中国就业促进会牵头编撰，其中提到：中国AI人才缺口超580万人，其中核心技术岗位缺口超80万人。 如此巨大的人才缺口，让各行业对于AI人才的争夺，进入白热化。 2025年，为了打造智能实验室，美国互联网巨头Meta向AI研究人员开出了「4年3亿美元」的薪酬包。中国的互联网大厂、明星科技公司，以及众多虎视眈眈的资本，正以薪资翻倍、增发股票期权等方式砸钱抢人。在…",
+          "link": "https://t.me/wxbyg/7272",
+          "publishedOn": "2026-05-07T03:07:37.000Z",
+          "wordCount": null,
+          "title": "做AI的年轻人，被前司「追债」 | 原文",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://t.me/wxbyg/7271",
+          "author": null,
+          "description": "旧金山街头的垃圾桶为何高达两万美元一个？ | 原文\nTelegraph\n旧金山街头的垃圾桶为何高达两万美元一个？\n在美国，有一个城市能把换垃圾桶搞成一场旷日持久的舞台剧。耗时近十年，花掉纳税人逾55万美元，直到今年4月，第一批新垃圾桶才上街。但数量，还不到3000个老桶的零头。 这个城市，就是旧金山。 2018年，旧金山市公共工程部（DPW）拍板：必须换掉全市街头那3000多个老垃圾桶。这些绿色铁桶用了将近二十年，不是不能用，而是问题太多。桶口开口过大，方便翻找；铰链不断损坏；锁头形同虚设。有人推倒它们，有人在上面涂鸦，有人直接点火烧。 更常见的景象是：桶外堆的垃圾比桶里还多。披萨盒、旧衣服、破家具，散落一地。 换桶，势在必行。…",
+          "link": "https://t.me/wxbyg/7271",
+          "publishedOn": "2026-05-06T16:09:54.000Z",
+          "wordCount": null,
+          "title": "旧金山街头的垃圾桶为何高达两万美元一个？ | 原文",
+          "itunes": {},
           "imageUrl": null
         }
       ]
