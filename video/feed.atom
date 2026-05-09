@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T08:00:57.817Z</updated>
+    <updated>2026-05-09T13:24:28.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome 被曝偷偷下载 4GB AI 模型！你电脑正在后台跑 AI？附彻底禁止方法！｜零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=2hWbV2aJpQA</id>
+        <link href="https://www.youtube.com/watch?v=2hWbV2aJpQA"/>
+        <updated>2026-05-09T12:40:05.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.5 Instant 免费开放！速度、中文、代码全变强？实测告诉你答案！ | 零度解说]]></title>
         <id>https://www.youtube.com/watch?v=krEDel3aGGw</id>
@@ -297,15 +306,6 @@
         <updated>2026-04-13T05:00:28.000Z</updated>
         <author>
             <name>科技梦星云</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[删掉 OpenClaw！Hermes Agent 才是真王炸，一键本地部署 + TG接入全教程（避坑指南） | 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=gi7HV2WHxBs</id>
-        <link href="https://www.youtube.com/watch?v=gi7HV2WHxBs"/>
-        <updated>2026-04-11T13:03:46.000Z</updated>
-        <author>
-            <name>零度解说</name>
         </author>
     </entry>
     <entry>

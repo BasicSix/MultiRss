@@ -2,198 +2,346 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T08:01:00.440Z</updated>
+    <updated>2026-05-09T13:25:13.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[net_12]]></title>
-        <id>1x-3567033</id>
-        <link href="https://1x.com/photo/3567033"/>
-        <updated>2026-05-09T08:00:56.720Z</updated>
-        <summary type="html"><![CDATA[net_12 by yein]]></summary>
+        <title type="html"><![CDATA[Angler]]></title>
+        <id>1x-3575904</id>
+        <link href="https://1x.com/photo/3575904"/>
+        <updated>2026-05-09T13:24:27.687Z</updated>
+        <summary type="html"><![CDATA[Angler by Takanori Tominaga]]></summary>
         <author>
-            <name>yein</name>
+            <name>Takanori Tominaga</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Glimpse of a Dream]]></title>
-        <id>1x-3573823</id>
-        <link href="https://1x.com/photo/3573823"/>
-        <updated>2026-05-09T08:00:56.700Z</updated>
-        <summary type="html"><![CDATA[Glimpse of a Dream by Fruitcap]]></summary>
+        <title type="html"><![CDATA[Arabian Woodpecker]]></title>
+        <id>1x-3573655</id>
+        <link href="https://1x.com/photo/3573655"/>
+        <updated>2026-05-09T13:24:27.685Z</updated>
+        <summary type="html"><![CDATA[Arabian Woodpecker by Wagdy]]></summary>
         <author>
-            <name>Fruitcap</name>
+            <name>Wagdy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abstract still life with glassware on a colored background]]></title>
-        <id>1x-3562690</id>
-        <link href="https://1x.com/photo/3562690"/>
-        <updated>2026-05-09T08:00:56.692Z</updated>
-        <summary type="html"><![CDATA[Abstract still life with glassware on a colored background by Brig Barkow]]></summary>
+        <title type="html"><![CDATA[When the Sky Takes Over]]></title>
+        <id>1x-3576087</id>
+        <link href="https://1x.com/photo/3576087"/>
+        <updated>2026-05-09T13:24:27.682Z</updated>
+        <summary type="html"><![CDATA[When the Sky Takes Over by Daveluongo]]></summary>
         <author>
-            <name>Brig Barkow</name>
+            <name>Daveluongo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Fashionable Ascent VI]]></title>
-        <id>1x-3569604</id>
-        <link href="https://1x.com/photo/3569604"/>
-        <updated>2026-05-09T08:00:56.687Z</updated>
-        <summary type="html"><![CDATA[A Fashionable Ascent VI by Elizabeth Allen]]></summary>
+        <title type="html"><![CDATA[琥珀双镜]]></title>
+        <id>1x-3571105</id>
+        <link href="https://1x.com/photo/3571105"/>
+        <updated>2026-05-09T13:24:27.680Z</updated>
+        <summary type="html"><![CDATA[琥珀双镜 by James Zhen Yu]]></summary>
         <author>
-            <name>Elizabeth Allen</name>
+            <name>James Zhen Yu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forodhani night market I (Tanzanie, Zanzibar)]]></title>
-        <id>1x-3280440</id>
-        <link href="https://1x.com/photo/3280440"/>
-        <updated>2026-05-09T08:00:56.682Z</updated>
-        <summary type="html"><![CDATA[Forodhani night market I (Tanzanie, Zanzibar) by Laure Blagojevic]]></summary>
+        <title type="html"><![CDATA[Love present]]></title>
+        <id>1x-3576091</id>
+        <link href="https://1x.com/photo/3576091"/>
+        <updated>2026-05-09T13:24:27.606Z</updated>
+        <summary type="html"><![CDATA[Love present by Ling Zhang]]></summary>
         <author>
-            <name>Laure Blagojevic</name>
+            <name>Ling Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Galerida cristata]]></title>
-        <id>1x-3573949</id>
-        <link href="https://1x.com/photo/3573949"/>
-        <updated>2026-05-09T08:00:56.676Z</updated>
-        <summary type="html"><![CDATA[Galerida cristata by Eldad Levin]]></summary>
+        <title type="html"><![CDATA[Silent Balance]]></title>
+        <id>1x-3549065</id>
+        <link href="https://1x.com/photo/3549065"/>
+        <updated>2026-05-09T13:24:27.602Z</updated>
+        <summary type="html"><![CDATA[Silent Balance by Robert Zhang]]></summary>
         <author>
-            <name>Eldad Levin</name>
+            <name>Robert Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flux of Time]]></title>
-        <id>1x-3575601</id>
-        <link href="https://1x.com/photo/3575601"/>
-        <updated>2026-05-09T08:00:56.669Z</updated>
-        <summary type="html"><![CDATA[Flux of Time by Tomoaki Katsuba]]></summary>
+        <title type="html"><![CDATA[Blush]]></title>
+        <id>1x-3543717</id>
+        <link href="https://1x.com/photo/3543717"/>
+        <updated>2026-05-09T13:24:27.588Z</updated>
+        <summary type="html"><![CDATA[Blush by Cong Lin]]></summary>
         <author>
-            <name>Tomoaki Katsuba</name>
+            <name>Cong Lin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Pointed and the Bulbous]]></title>
-        <id>1x-3575053</id>
-        <link href="https://1x.com/photo/3575053"/>
-        <updated>2026-05-09T08:00:56.661Z</updated>
-        <summary type="html"><![CDATA[The Pointed and the Bulbous by Peter Ebel]]></summary>
+        <title type="html"><![CDATA[Curves]]></title>
+        <id>1x-3575827</id>
+        <link href="https://1x.com/photo/3575827"/>
+        <updated>2026-05-09T13:24:27.583Z</updated>
+        <summary type="html"><![CDATA[Curves by Frank Bruynseraede]]></summary>
         <author>
-            <name>Peter Ebel</name>
+            <name>Frank Bruynseraede</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mondeval]]></title>
-        <id>1x-3561973</id>
-        <link href="https://1x.com/photo/3561973"/>
-        <updated>2026-05-09T08:00:56.656Z</updated>
-        <summary type="html"><![CDATA[Mondeval by Stefan Condik]]></summary>
+        <title type="html"><![CDATA[Colorful Stairs]]></title>
+        <id>1x-3573296</id>
+        <link href="https://1x.com/photo/3573296"/>
+        <updated>2026-05-09T13:24:27.579Z</updated>
+        <summary type="html"><![CDATA[Colorful Stairs by R Suguri]]></summary>
         <author>
-            <name>Stefan Condik</name>
+            <name>R Suguri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tiny elegance]]></title>
-        <id>1x-3575787</id>
-        <link href="https://1x.com/photo/3575787"/>
-        <updated>2026-05-09T08:00:56.651Z</updated>
-        <summary type="html"><![CDATA[tiny elegance by Hilda van der Lee]]></summary>
+        <title type="html"><![CDATA[Mid-Air Defiance]]></title>
+        <id>1x-3576100</id>
+        <link href="https://1x.com/photo/3576100"/>
+        <updated>2026-05-09T13:24:27.571Z</updated>
+        <summary type="html"><![CDATA[Mid-Air Defiance by Frank Ma]]></summary>
         <author>
-            <name>Hilda van der Lee</name>
+            <name>Frank Ma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Please take care not to catch a cold]]></title>
-        <id>1x-3385684</id>
-        <link href="https://1x.com/photo/3385684"/>
-        <updated>2026-05-09T08:00:56.644Z</updated>
-        <summary type="html"><![CDATA[Please take care not to catch a cold by LILY PHOTOGRAPHY]]></summary>
+        <title type="html"><![CDATA[Light meet silence]]></title>
+        <id>1x-3557573</id>
+        <link href="https://1x.com/photo/3557573"/>
+        <updated>2026-05-09T13:24:27.564Z</updated>
+        <summary type="html"><![CDATA[Light meet silence by Els Keurlinckx]]></summary>
         <author>
-            <name>LILY PHOTOGRAPHY</name>
+            <name>Els Keurlinckx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metro Station]]></title>
-        <id>1x-3570799</id>
-        <link href="https://1x.com/photo/3570799"/>
-        <updated>2026-05-09T08:00:56.629Z</updated>
-        <summary type="html"><![CDATA[Metro Station by Yan Zhao]]></summary>
+        <title type="html"><![CDATA[Midday in Havana.]]></title>
+        <id>1x-3576052</id>
+        <link href="https://1x.com/photo/3576052"/>
+        <updated>2026-05-09T13:24:27.559Z</updated>
+        <summary type="html"><![CDATA[Midday in Havana. by Itzik Einhorn]]></summary>
         <author>
-            <name>Yan Zhao</name>
+            <name>Itzik Einhorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lut]]></title>
-        <id>1x-3570493</id>
-        <link href="https://1x.com/photo/3570493"/>
-        <updated>2026-05-09T08:00:56.621Z</updated>
-        <summary type="html"><![CDATA[Lut by João Pedro Navarro Maranhão]]></summary>
+        <title type="html"><![CDATA[rushing down]]></title>
+        <id>1x-3575958</id>
+        <link href="https://1x.com/photo/3575958"/>
+        <updated>2026-05-09T13:24:27.548Z</updated>
+        <summary type="html"><![CDATA[rushing down by Louise Xie]]></summary>
         <author>
-            <name>João Pedro Navarro Maranhão</name>
+            <name>Louise Xie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Tulip]]></title>
-        <id>1x-3575816</id>
-        <link href="https://1x.com/photo/3575816"/>
-        <updated>2026-05-09T08:00:56.616Z</updated>
-        <summary type="html"><![CDATA[Blue Tulip by Svetlana Povarova Ree]]></summary>
+        <title type="html"><![CDATA[Twists and turns]]></title>
+        <id>1x-3576221</id>
+        <link href="https://1x.com/photo/3576221"/>
+        <updated>2026-05-09T13:24:27.541Z</updated>
+        <summary type="html"><![CDATA[Twists and turns by Rana Jabeen]]></summary>
         <author>
-            <name>Svetlana Povarova Ree</name>
+            <name>Rana Jabeen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gazing at the horizon from the window]]></title>
-        <id>1x-3550695</id>
-        <link href="https://1x.com/photo/3550695"/>
-        <updated>2026-05-09T08:00:56.609Z</updated>
-        <summary type="html"><![CDATA[gazing at the horizon from the window by Elena Molina]]></summary>
+        <title type="html"><![CDATA[Frozen Tension]]></title>
+        <id>1x-3570187</id>
+        <link href="https://1x.com/photo/3570187"/>
+        <updated>2026-05-09T13:24:27.536Z</updated>
+        <summary type="html"><![CDATA[Frozen Tension by Ling Jiang]]></summary>
         <author>
-            <name>Elena Molina</name>
+            <name>Ling Jiang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Donkey foal, 1 week old]]></title>
-        <id>1x-3575853</id>
-        <link href="https://1x.com/photo/3575853"/>
-        <updated>2026-05-09T08:00:56.602Z</updated>
-        <summary type="html"><![CDATA[Donkey foal, 1 week old by Gert van den Bosch]]></summary>
+        <title type="html"><![CDATA["EDGE OF SILENT WILDERNESS"]]></title>
+        <id>1x-3575989</id>
+        <link href="https://1x.com/photo/3575989"/>
+        <updated>2026-05-09T13:24:27.237Z</updated>
+        <summary type="html"><![CDATA["EDGE OF SILENT WILDERNESS" by Adam Pachula]]></summary>
         <author>
-            <name>Gert van den Bosch</name>
+            <name>Adam Pachula</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Standing on one leg]]></title>
-        <id>1x-3575855</id>
-        <link href="https://1x.com/photo/3575855"/>
-        <updated>2026-05-09T08:00:56.578Z</updated>
-        <summary type="html"><![CDATA[Standing on one leg by Offer Ellbogen]]></summary>
+        <title type="html"><![CDATA[SVALBARD, NORTHWEST CORNER -79111]]></title>
+        <id>1x-3576111</id>
+        <link href="https://1x.com/photo/3576111"/>
+        <updated>2026-05-09T13:24:27.224Z</updated>
+        <summary type="html"><![CDATA[SVALBARD, NORTHWEST CORNER -79111 by Raimondo Restelli]]></summary>
         <author>
-            <name>Offer Ellbogen</name>
+            <name>Raimondo Restelli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue]]></title>
-        <id>1x-3575027</id>
-        <link href="https://1x.com/photo/3575027"/>
-        <updated>2026-05-09T08:00:56.273Z</updated>
-        <summary type="html"><![CDATA[Blue by Peter Schade]]></summary>
+        <title type="html"><![CDATA[#67]]></title>
+        <id>1x-3576496</id>
+        <link href="https://1x.com/photo/3576496"/>
+        <updated>2026-05-09T13:24:27.218Z</updated>
+        <summary type="html"><![CDATA[#67 by babalson]]></summary>
         <author>
-            <name>Peter Schade</name>
+            <name>babalson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bridge arch with lantern]]></title>
-        <id>1x-3575099</id>
-        <link href="https://1x.com/photo/3575099"/>
-        <updated>2026-05-09T08:00:56.256Z</updated>
-        <summary type="html"><![CDATA[Bridge arch with lantern by Stephan Rückert]]></summary>
+        <title type="html"><![CDATA[The Oculus]]></title>
+        <id>1x-3575114</id>
+        <link href="https://1x.com/photo/3575114"/>
+        <updated>2026-05-09T13:24:27.201Z</updated>
+        <summary type="html"><![CDATA[The Oculus by Arne Jansen]]></summary>
         <author>
-            <name>Stephan Rückert</name>
+            <name>Arne Jansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国民航机在丹佛机场起飞时撞到行人]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9023456</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9023456"/>
+        <updated>2026-05-09T12:33:52.000Z</updated>
+        <summary type="html"><![CDATA[一架从美国丹佛市国际机场起飞的航班在起飞时撞到跑道上的一名行人，至少一名乘客受伤。
+丹佛国际机场（Denver International Airport）星期五（5月8日）发布声明说：“边疆航空（Frontier Airlines ）4345航班报告称，在起飞过程中撞到一名行人”，时间约为晚上11时19分（新加坡时间星期六下午1时19分）。
+美国广播公司新闻网（ABC News）引述一名不愿透露姓名的官员的话报道，被撞者“至少部分身体被其中一个发动机吞噬”。目前尚不清楚伤情。
+法新社引述机场方面说：“发动机曾短暂起火，但已被丹佛消防部门迅速扑灭”。
+机场方面说，紧急救援人员已赶到现场，并用巴士将乘客送往航站楼。据美国广播公司新闻网报道，至少一名乘客受轻伤。
+边疆航空公司告诉法新社，事发时这架空客A321客机正准备飞往洛杉矶（Los Angeles）国际机场。
+边疆航空公司的声明说：“机舱内出现烟雾，飞行员随即中止起飞。出于安全考虑，乘客随后通过滑梯安全撤离。”公司称，这架空客A321客机载有224名乘客和七名机组人员。
+该航空公司补充道：“我们正在与机场和其他安全部门协调，调查这起事件并收集更多信息。我们对此深感悲痛。”
+据丹佛国际机场方面称，美国国家运输安全委员会已接到通知，丹佛国际机场17L跑道将在调查期间保持封闭。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经济不平等加剧气候致死风险 欧洲每年多10万余人死于酷暑严寒]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9023376</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9023376"/>
+        <updated>2026-05-09T12:13:41.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦讯）最新研究发现，经济不平等导致欧洲每年因酷暑和严寒造成的死亡人数增加10多万人。
+英国《卫报》报道，研究指出，如果全欧洲能将不平等水平降至与欧洲最平等地区斯洛文尼亚的程度，每年因气温相关的死亡人数将减少多达30%，相当于保住10万9866条生命。
+研究员发现，高温和严寒致死率居高不下，与受害者的物质匮乏程度、贫困状况以及无力负担房屋供暖等生活困难指标高度相关。这意味着极端气候对人类的威胁并非一视同仁，经济弱势群体承受更高的生命风险。
+这是首次有研究量化社会经济困难对欧洲气候死亡率的影响。研究人员通过对比不同区域的匮乏程度得出显著结论：若将欧洲的严重物质与社交匮乏程度，降至全欧最低的瑞士中部水平，每年可减少5万9000人死于气候变化；若提高至全欧物质与社交匮乏程度最高的罗马尼亚东南部水平，则会使10万9866人死于气候变化。
+研究员指出，为减少酷暑和严寒的致死率，欧洲各国应当向弱势群体提供短期救济，长远来看，更须要减少结构性不平等。
+欧盟科学家警告，欧洲大陆未能有效适应气候变化。科学家上个月发现，自1990年代中以来，欧洲气温每10年上升0.56摄氏度，升温速度高于世界其他地区。
+欧盟气候监测机构哥白尼气候变化服务局上个月发布报告指出，今年4月是全球历来第三热的4月，西班牙等一些国家则经历了有史以来最热的4月。
+厄尔尼诺现象的回归可能异常强劲，人们不禁担心欧洲今年夏季将遭受高温酷暑侵袭。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国公布首批UFO档案 160余份绝密文件揭示半世纪“空中异象”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9022671</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9022671"/>
+        <updated>2026-05-09T10:58:32.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国五角大楼根据总统特朗普的指示，星期五公布第一批记录不明飞行物（UFO）目击报告的机密档案。这批横跨80多年的文件再次引发全球对外星生命的猜测，也令美国政府对超自然现象的调查重回舆论焦点。
+战争部网站周五（5月8日）公布160多份此类文件，涵盖从1940年代至今的目击记录，包括飞碟、圆盘及各种球形飞行物。这些档案来自联邦调查局、国务院、国家航空航天局和五角大楼。 
+战争部长赫格塞斯发声明说：“这些被列为机密的档案，长期以来引发各种合理的怀疑和猜测。现在，是时候让美国民众亲自审视这些记录了。”
+特朗普今年2月指示各联邦机构甄别并公开相关文件，称这是为了回应公众对地外文明的浓厚兴趣。
+解密文件显示，最早的官方目击报告可追溯至1947年12月。近年的一份报告则记录了2023年发生的数起异常事件，包含七名联邦雇员的证词。在其中一起事件中，三个联邦执法特工小组成员分别描述天空出现橙色光球，并发射出较小的红色光球。
+专家：证实“现象”存在 未证实“外星人”
+
+尽管解密文件包含一些已知目击事件的从未公开视频，但科学界态度依然审慎。专家说，这些档案没有提供外星技术或外星生命存在的确凿证据。
+哈佛大学天体物理学家勒布指出，政府公开记录说明这些现象并非凭空猜测，而是具有实证基础的课题。
+不明空中现象调查员韦斯特说，此次披露的信息与拜登政府时期大体一致。
+独立记者基恩表示，此次公布表明，特朗普政府仍有很多关于不明空中现象的信息应该公开。
+《纽约时报》2017年刊登基恩与他人联合采访的一篇报道，揭露五角大楼的不明空中现象秘密项目。这篇报道后来促使国会推动给不明飞行物体档案解密。
+基恩说：“我想，我们已证明不明空中现象的存在，但这并不意味我们已经证明它们是外星人或地外生命，或者我们知道它们是什么。”
+
+舆论质疑特朗普为转移焦点
+
+有批评者认为，这是美国政府为了转移人们对特朗普政治困境的注意力，包括美伊战事，以及民众要求公布更多与已故性罪犯爱泼斯坦相关文件的压力。
+两名众议员伯切特和卢娜对政府公开文件表示欢迎，他们都是解密不明飞行物档案的支持者。卢娜说，预计约30天后还将有一批新的资料公布。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美拟调高H-1B签证工资门槛 外籍毕业生留美职场路恐受阻]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9023090</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9023090"/>
+        <updated>2026-05-09T10:46:29.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿彭博电）美国特朗普政府计划大幅提高H-1B签证最低工资门槛，一些城市如旧金山的入门级工程师薪资标准将上调近30%至16万2000美元，这意味着聘用外籍人才的成本将增加。
+据移民数据公司Lawfully and Threshold估算，在新政策实施的首12个月内，聘用外国白领人才的大型企业须承担至少180亿美元（约228亿新元）的成本。在三年内，即大多数现有H-1B签证将不得不按更高标准续签后，企业的年度成本可能高达430亿美元。
+H-1B签证是外籍白领人才进入美国就业和居留的主要管道。根据特朗普政府先前发布的工资建议说明，H-1B持有人平均年薪比同职位美国员工低约1万美元，提高H-1B最低工资门槛，可防止企业利用H-1B聘用较低薪的外籍员工，压低美国本土员工的工资。支持者认为这有助于恢复就业市场公平竞争，确保H-1B发挥其既定目的，即引进的是美国缺乏的高技能人才。
+新门槛会增加企业的人力成本，最终可能会有雇主不愿支付这额外费用，而减少年轻人才的机会。目前已经开始有雇主为此减少以H-1B签证聘请入门级和经验较少的外籍员工。影响范围并不限于科技业，也包括金融、医疗、土木工程、学术研究、教育等长期利用H-1B引进外国人才的行业。
+Lawfully and Threshold部门主管雷诺兹指出，H-1B项目可能会转变为仅适用于值得高薪聘用的高技能外国人才，估计提供H-1B签证数量最多的前500名雇主‌‌‌的中位数工资成本将增加大约1300万美元。
+移民法律事务所合伙人麦纳指出，一些公司可能会因工资成本上升而把工作转移到海外，但须要留在美国本土运营的企业尤其是制造业公司，将被迫以更高薪资聘请所需的人才。 
+提高H-1B最低工资门槛预料将对赴美深造的外国学生产生最大冲击，他们大多攻读电脑工程或其他科学相关科系。过去20多年来，这类学生一般毕业后可留在美国工作一至三年，然后由雇主申请H-1B。通过此渠道在美国建立事业、成为商业巨人的包括谷歌母公司Alphabet首席执行官皮查伊和微软首席执行官纳德拉。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“加勒比公主号”暴发诺如病毒疫情 115人腹泻和呕吐]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9022912</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9022912"/>
+        <updated>2026-05-09T10:37:44.000Z</updated>
+        <summary type="html"><![CDATA[据美国疾病控制与预防中心（CDC）消息，公主邮轮公司旗下的“加勒比公主”号（Caribbean Princess）游轮暴发诺如病毒（norovirus）疫情，目前已有102名乘客和13名船员报告出现症状，包括腹泻和呕吐。
+美国疾控中心是星期四（5月7日）接获通报，当时该游轮正处于4月28日至5月11日的航程中。这是今年迄今为止报告的第四起游轮肠胃疾病疫情。根据数据，该游轮共有3116名乘客和1131名船员。
+美国广播公司（ABC）报道，游轮地图网站CruiseMapper显示，该游轮目前位于西北大西洋，正驶往多米尼加共和国的普拉塔港（Puerto Plata）。预计将于5月11日抵达美国佛罗里达州卡纳维拉尔港（Port Canaveral）。
+公主游轮公司的声明说，“可以确认，在4月28日从埃弗格雷斯港（Port Everglades）出发的“加勒比公主”号航程中，有少数乘客报告出现轻微肠胃不适症状。”
+声明还说：“我们迅速对船上所有区域进行了消毒，并在整个航程中增加了额外的消毒措施。加勒比公主号将于5月11日抵达卡纳维拉尔港，之后将进行全面的清洁和消毒，再展开下一个航程。”
+诺如病毒非常常见，尤其是在游轮上，它与目前大西洋游轮“洪迪厄斯”号（MV Hondius）游轮上的汉坦病毒（hantavirus）疫情没有任何关联。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯胜利日阅兵 普京说俄军与“北约支持的侵略势力”对抗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9022682</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9022682"/>
+        <updated>2026-05-09T09:02:44.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯总统普京在纪念卫国战争胜利81周年阅兵活动上说，参加特别军事行动的俄军正在与“北约支持的侵略势力”对抗，他们仍在前进。
+由于乌克兰方面的威胁，俄罗斯星期六（5月9日）举行了近年来规模最小的胜利日阅兵式。这场自二战以来欧洲最致命的冲突已持续四年多，莫斯科军队在乌克兰的胜利仍遥遥无期。
+据国家电视台报道，阅兵式于莫斯科时间上午10时（新加坡时间下午3时）后不久开始，士兵们手持俄罗斯国旗进入红场。5月9日在红场举行的阅兵式旨在庆祝苏联战胜纳粹德国，并缅怀在战争中牺牲的2700万苏联公民，其中包括许多乌克兰人。以往的阅兵式会展示俄罗斯庞大的军队，包括其可携带核弹头的洲际弹道导弹，但今年的阅兵式上没有坦克或其他军事装备驶过红场。
+路透社报道，参与阅兵式的士兵和水兵，其中一些人曾在乌克兰服役。战斗机将飞越克里姆林宫上空，普京夫妇向无名烈士墓敬献鲜花前，普京发表讲话。
+法新社引述普京说，俄罗斯在乌克兰的士兵正在与一支由整个北大西洋公约组织支持的“侵略势力”作战，他们仍在前进，并称俄罗斯军队的事业是“正义的”。
+克里姆林宫助手尤里·乌沙科夫告诉记者：“总的来说，一切都照常进行，除了展示军事装备。”此次阅兵式近二十年来俄罗斯首次没有展示任何军事装备。
+此前，俄罗斯和乌克兰互相指责对方违反了各自单方面宣布的停火协议。美国总统特朗普宣布，从星期六到星期一停火三天，克里姆林宫和基辅方面都支持这一停火协议。双方还同意交换1000名战俘。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暴发汉坦疫情游轮现六确诊病例 世卫称对一般民众风险低]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9022374</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9022374"/>
+        <updated>2026-05-09T08:49:05.000Z</updated>
+        <summary type="html"><![CDATA[（日内瓦综合电）世界卫生组织星期五（5月8日）确认，出现汉坦病毒疫情的游轮目前出现六起确诊病例，两起疑似病例，并强调病毒对一般民众构成的风险极低。
+世卫在声明中说：“截至5月8日，共报告八起病例，其中包括三起死亡病例（致死率38%）。有六起病例经实验室检测确诊为汉坦病毒感染，所有病例均被确认为感染安第斯病毒（Andes virus）。”
+世卫评估认为，病毒对全球人口构成的风险较低，船上乘客和船员的感染风险为中等。世卫将继续监测流行病学形势，更新风险评估。
+不过，西班牙和南大西洋岛屿特里斯坦-达库尼亚群岛（Tristan da Cunha）却传出有另两起疑似病例，加剧人们对病毒可能广泛传播的担忧。
+西班牙一名32岁女子出现与汉坦病毒感染相符的症状，此前曾在一趟航班与一名确诊并已去世的荷兰女子相隔两排就座。
+特里斯坦-达库尼亚的疑似病例则曾是暴发疫情游轮洪迪厄斯号（Hondius）的乘客，游轮曾于4月13日至15日期间停靠在这个岛屿。
+不过，世卫病毒威胁技术官员勒冈指出：“根据此次疫情的传播动态，以及病毒在船上和已下船人员之间的传播与未传播情况，我们仍认为对一般人群的风险较低。”
+世卫总干事谭德塞星期六（9日）抵达西班牙的特内里费岛（Tenerife），协助协调汉坦病毒感染乘客的疏散工作。洪迪厄斯号预计将于星期天（10日）在特内里费岛靠岸。
+消息人士说，谭德塞将陪同西班牙卫生部长和内政部长前往当地指挥所，确保行政部门、卫生监管部门以及计划中的监测和应对方案的实施之间保持协调。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲车企拟向中国伙伴脱售厂房 专家：或加速中企蚕食欧洲市场]]></title>
+        <id>https://www.zaobao.com/news/world/story20260509-9022517</id>
+        <link href="https://www.zaobao.com/news/world/story20260509-9022517"/>
+        <updated>2026-05-09T08:21:48.000Z</updated>
+        <summary type="html"><![CDATA[（巴黎综合电）欧洲汽车巨头斯泰兰蒂斯正在考虑将西班牙一家闲置工厂的部分股权，脱售给它的中国合资企业零跑汽车。若此举落实，将是欧洲主流车企首次将车厂转售给中国业者。
+有分析警告，脱售车厂给中国业者的趋势虽然在短期内有助欧洲汽车工业保住工作，但在长期无疑将助长中国业者在当地的竞争力，让欧洲车企更居于下风。
+斯泰兰蒂斯（Stellantis）星期五（5月8日）披露，考虑将马德里车厂脱售给零跑汽车国际（Leapmotor International）。后者是由斯泰兰蒂斯与中国的零跑汽车合资组成，分别持股51%和49%。
+据彭博社报道，斯泰兰蒂斯同时也考虑把它在法国、德国和意大利的三家车厂，脱售给另一个长期合作伙伴中国东风汽车。
+此外，美国福特汽车星期四（7日）也确认，正在和中国吉利汽车探讨，转让它在西班牙瓦伦西亚一家车厂的部分股权。
+德国汽车巨头大众汽车（Volkswagen，也称福士伟根） 也在与中国伙伴洽谈类似方案。集团首席执行长布鲁姆（Olver Blume）坦言，“最糟糕且伤害最大的选项是关闭工厂”。
+这番表态凸显欧洲车企一直未能从冠病疫情的打击中完全恢复过来，欧洲车企如今的运作平均只达到最高产能的一半左右。
+与此同时，中国车企的技术快速跃进且生产成本更低，给欧洲车企带来显著挑战，比亚迪、名爵、奇瑞、吉利、零跑、小鹏和Jaecoo等中国品牌三年前在欧洲还名不见经传，如今已占有约9%的整体汽车销量以及约14%的电动车销量。
+由于在欧洲装配的汽车可获欧盟给予关税和销售优惠，因此中国车企近年纷纷探讨在欧洲投产。奇瑞带头在2023年收购日产汽车在巴塞罗那的一家车厂，计划每年生产20万辆汽车。
+法国汽车零部件制造商OPmobility首席执行长布雷尔 （Felicie Burelle）认为，与其受困于产能过剩，将车厂卖给中国业者是“明智之举”。
+法国波尔多大学的汽车工业专家朱利安（Bernard Jullien）则警告：“这等同于为强大的对手提供一个强力加速器，加速渗透我们的市场。这种纯为一己之利的策略，最终将摧毁欧洲的汽车制造业。”
+朱利安认为，唯有通过立法才能阻止欧洲车企继续脱售车厂给中国业者。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -227,32 +375,6 @@
 世卫组织总干事谭德塞7日说，本轮疫情涉及的汉坦病毒种类是安第斯病毒（Andes virus），这种病毒发现于拉丁美洲，是目前已知唯一能够在人与人之间有限传播的汉坦病毒种类。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果和英特尔，分手六年后，又「在一起」了 | 原文]]></title>
-        <id>https://t.me/wxbyg/7299</id>
-        <link href="https://t.me/wxbyg/7299"/>
-        <updated>2026-05-09T03:41:36.000Z</updated>
-        <summary type="html"><![CDATA[苹果和英特尔，分手六年后，又「在一起」了 | 原文
-Telegraph
-苹果和英特尔，分手六年后，又「在一起」了
-攻守之势异也。 作者｜桦林舞王 编辑｜靖宇 2020 年 6 月 22 日，苹果 WWDC 的虚拟舞台上，蒂姆·库克宣布了一个让整个 PC 行业震动的决定——Mac 将抛弃英特尔，全面转向自研芯片。 那一刻，一段长达 15 年的合作关系被判了死刑。 六年后的今天，苹果和英特尔又坐到了一张桌上。只不过这次，角色完全反转了——不再是苹果用英特尔设计的芯片，而是英特尔给苹果代工，生产苹果自己设计的芯片。 这个故事，比任何商业教科书都精彩。 01 一段 15 年婚姻的破裂 时间回到 2005 年。乔布斯在 WWDC…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000万投入OpenAI，赚回100倍？AI时代最离谱的一笔投资，被一所公立大学押中了 | 原文]]></title>
-        <id>https://t.me/wxbyg/7298</id>
-        <link href="https://t.me/wxbyg/7298"/>
-        <updated>2026-05-09T02:59:30.000Z</updated>
-        <summary type="html"><![CDATA[2000万投入OpenAI，赚回100倍？AI时代最离谱的一笔投资，被一所公立大学押中了 | 原文
-Telegraph
-2000万投入OpenAI，赚回100倍？AI时代最离谱的一笔投资，被一所公立大学押中了
-密歇根大学可能成了AI时代最大的“捡漏者”之一。 根据马斯克与Sam Altman相关诉讼中披露的一份文件，这所公立大学的捐赠基金，早在OpenAI还没真正爆红之前，就向OpenAI早期融资投入了2000万美元。 这笔钱投得非常早。 那时候，微软还没有向OpenAI砸下数十亿美元，ChatGPT也还没有发布，生成式AI热潮更没有席卷全球。 换句话说，密歇根大学是在OpenAI还远远没有成为AI时代核心公司之前，就提前上了车。 而现在，这笔投资可能带来惊人的回报。 文件显示，密歇根大学当初投入2000万美…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -478,58 +600,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[几个月 vibe coding 实践——少用羸弱模型 | 原文]]></title>
-        <id>https://t.me/wxbyg/7297</id>
-        <link href="https://t.me/wxbyg/7297"/>
-        <updated>2026-05-08T21:26:37.000Z</updated>
-        <summary type="html"><![CDATA[几个月 vibe coding 实践——少用羸弱模型 | 原文
-Telegraph
-几个月 vibe coding 实践——少用羸弱模型
-不要用羸弱 AI 这个全文最重要的一点。目前真正能干好活的只有 Codex 和 Claude。 使用羸弱 AI 的代价就是——一次又一次的返工，不断消耗自己时间和精力。极强的负反馈，会让你极其疲惫而进度始终没有推进。而且国产普遍没多模态无法识图，token 输出速度极慢，甚至还要排队。 之前 8、9 月的时候 qwen-coder 免费每天 2000 次调用，当时用的是真红温，调用 Edit 工具都能连续失败 10 几次。不过免费的也就不要求太多了。不太清楚现在 qwen 写代码能力怎么样（现在 qwen…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找失散的母亲 | 原文]]></title>
-        <id>https://t.me/wxbyg/7296</id>
-        <link href="https://t.me/wxbyg/7296"/>
-        <updated>2026-05-08T20:20:50.000Z</updated>
-        <summary type="html"><![CDATA[寻找失散的母亲 | 原文
-Telegraph
-寻找失散的母亲
-这几年，我接触过很多领养了中国孩子的美国家庭，也分享过许多他们的故事。 在这个过程中，我收到了许多问题。比较普遍的是下面这两个： “这些孩子为什么被遗弃？” “他们既然被遗弃，为什么长大之后还要寻找亲生父母？” 珍娜寻亲的故事，可以瞥见这两个问题的一点答案。这个刚出生就被遗弃的女孩，身世上带着的是不可磨灭的时代的烙印：贫穷、落后、愚昧，以及人在面临困境时的渺小和无力地挣扎。而这个无辜的孩子，从小到大，从没放弃寻找自己的来处，寻找生命的轨迹。 而她的母亲正珠，从云南，到广东，再到湖南，被拐卖，被改名，被囚…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离开 Claude，发现外面根本没下雨 | 原文]]></title>
-        <id>https://t.me/wxbyg/7295</id>
-        <link href="https://t.me/wxbyg/7295"/>
-        <updated>2026-05-08T18:46:07.000Z</updated>
-        <summary type="html"><![CDATA[离开 Claude，发现外面根本没下雨 | 原文
-Telegraph
-离开 Claude，发现外面根本没下雨
-跟大家分享一些最近好玩的事儿，看起来似乎毫无关联，但又都神奇地关联到了一起。 先是 Claude Code 用得越来越痛苦。封号、限流、KYC，各种折腾，各种浪费时间。 有人在 Reddit 发了长帖，说自己试了十几种绕过检测的方法，每一步都记录得很详细。 下面有人回了一句：你试过 GPT 5.5 和 Codex 吗。 他去试了一下，结果真的又便宜又好用，还不用折腾。 原来离开 Claude，才发现外面根本没有下雨。 有一家公司在做一个多模态理解的项目。团队调了三个月，各种工具各种工程往上叠，效果一直搞不好。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[座椅防夹是不好做，但车企们也别这么凑合吧。。。 | 原文]]></title>
-        <id>https://t.me/wxbyg/7294</id>
-        <link href="https://t.me/wxbyg/7294"/>
-        <updated>2026-05-08T17:46:31.000Z</updated>
-        <summary type="html"><![CDATA[座椅防夹是不好做，但车企们也别这么凑合吧。。。 | 原文
-Telegraph
-座椅防夹是不好做，但车企们也别这么凑合吧。。。
-最近，关于零重力座椅在折叠时，有没有防夹的问题，网上一大波人吵起来了。 起因是有人发了个关于享界 S9 的视频，一位小朋友坐副驾没系安全带，然后主驾语音控制展开后排零重力座椅，经二次确认后，这时候副驾座椅开始折叠，并没有识别到副驾有人。 然后主驾用语音喊出“小艺，停止”，小艺回复“当前状态不支持暂停”，因为遇阻阻力不够，座椅仍在折叠。 这段视频涉及到两个问题，一是座椅有没有防夹，二是能不能在折叠过程中语音暂停。 很快，鸿蒙智行官方做了回应，说座椅是有防夹的，但这个视频没有达到防夹功能的触发阈值。至于这个阈值具体是多少，官方并没有说。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[乌克兰与俄罗斯互相发动无人机攻击 停火建议似难落实]]></title>
         <id>https://www.zaobao.com/news/world/story20260508-9020533</id>
         <link href="https://www.zaobao.com/news/world/story20260508-9020533"/>
@@ -575,197 +645,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗媒体：武装部队与美船只再发生“零星冲突”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9020436</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9020436"/>
-        <updated>2026-05-08T15:14:30.000Z</updated>
-        <summary type="html"><![CDATA[伊朗媒体报道称，尽管已达成停火协议，但伊朗再次在霍尔木兹海峡与美国海军发生“零星冲突”。
-法尔斯通讯社星期五（5月8）报道称：“过去一个小时里，伊朗武装部队与美国船只在霍尔木兹海峡发生零星冲突。”
-另据美国军方说，美军向两艘试图违反美国对伊朗港口封锁的伊朗籍油轮开火，使其丧失航行能力。
-美国中央司令部在社交媒体X网站上发布消息称，从航空母舰从“布什”号（USS George H.W. Bush）起飞的一架美国海军F/A-18“超级大黄蜂”战斗机“向两艘油轮的烟囱发射精确制导武器，阻止了这些不服从封锁的船只进入伊朗”。中央司令部指这两艘油轮试图进入位于阿曼湾的伊朗港口。该消息还附有对这两艘船只进行打击的视频。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🖼 榴莲买家恶意仅退款，被行政拘留]]></title>
-        <id>https://t.me/wxbyg/7291</id>
-        <link href="https://t.me/wxbyg/7291"/>
-        <updated>2026-05-08T15:14:06.000Z</updated>
-        <summary type="html"><![CDATA[榴莲买家恶意仅退款，被行政拘留
-文｜姜北
-为了190元冷冻榴莲的 “仅退款” 纠纷，河南濮阳商家直接开启 “硬核维权”模式，开启跨省维权之路。他两次驱车赶往山东德州买家所在地取证，往返里程达1600公里，自掏五千多元路费，只为讨回公道。
-据媒体报道，该商家遭遇德州买家袁某某恶意 “仅退款”，对方以榴莲果肉霉变为由申请退款却不退货。商家核对发货监控后，发现对方提供的霉变照片与自家货品特征不符，判断其刻意编造理由、薅平台规则漏洞。
-抵达买家住处附近后，商家在垃圾桶中找到自家榴莲外包装，却未发现所谓变质果肉。而袁某某态度强硬，坚称霉变果肉已单独丢弃，拒不承认恶意骗款。
-5月8日，事件迎来明确结局，该商家发布视频表示，涉案人员袁某某因虚构事实骗取退款，已被依法行政拘留。
-类似的事并不罕见。浙江一个卖家，为了9块9的短袖被“仅退款”，坐了9个小时火车追到山东。上海一个卖家，为了12双不到100块的袜子，花了3500块钱开车到河南。当下电商平台上，类似恶意“仅退款”、虚构问题薅羊毛的行为屡有发生，既消耗商家信任，也扰乱电商秩序。
-这样的恶意碰瓷不该反复上演。
-图片来源：视频截图]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出口受阻原材料供应链中断 中东局势冲击日本车企利润]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9019835</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9019835"/>
-        <updated>2026-05-08T15:05:42.000Z</updated>
-        <summary type="html"><![CDATA[日本汽车业正遭受中东局势动荡的冲击，面临出口受阻和原材料供应链中断的双重挑战。调查发现，许多与汽车业相关联的中小企业已陷入困境，促使以汽车产业为主的地方城市启动了紧急贷款计划。
-伊朗封锁霍尔木兹海峡导致多艘日本运输船滞留海上，大量日本出口的新车和二手车无法运抵阿联酋等中转站，从而切断了日本汽车销往非洲和欧洲的销售链。
-最大汽车制造商丰田（Toyota）周五（5月8日）在业务报告记者会上说，3月下旬至4月期间，丰田对中东地区的汽车出口量减半。此外，由于关键原材料石脑油和树脂供应短缺，公司生产计划已受到影响。公司预计截至2027年3月的财年净利润将为3万亿日元（约242亿新元），较上一财年下降22%。
-不过，由于混合动力汽车广受欢迎，丰田首次实现了销售额突破50万亿日元大关。为此，丰田计划提高混合动力汽车的产能，并重组生产模式以促进零件标准化。此外还计划加强非汽车业务，例如生产机器人。
-同样受到中东局势动荡影响的，还有日本汽车零部件制造业集中的冈山县。调查显示，超过40%的当地中小企业和逾半数汽车相关企业已受到冲击。约九成的当地中小企业指出，原油和原材料价格飙升导致成本增加。
-冈山县知事茨木龙太对此表达担忧，称“如果问题持续下去，影响范围恐怕会进一步扩大”。
-为应对当前严峻形势，冈山县已宣布启动“经济波动对策基金”，设立紧急贷款计划以提供财政支持。计划将于5月1日至7月31日期间实施，年利率不超过1.65%。
-分析人士指出，即使在美伊冲突爆发之前，日系汽车的利润已呈现下滑趋势，这主要归因于美国高额关税政策的影响，以及中国电动汽车价格竞争。为突破中美两大主要市场增长的停滞，日系汽车制造商积极将生产重心转向新兴国家。例如，丰田汽车此前已公布计划在印度新建三家汽车组装厂，目标是到2030年代将公司在印度的产能提高两倍，达到100万辆。目前，印度已成为继中国和美国之后的世界第三大汽车市场。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊再交火 危及脆弱停火协议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9020070</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9020070"/>
-        <updated>2026-05-08T14:56:07.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／德黑兰综合电）美国和伊朗军队再次在霍尔木兹海峡交火，此次的火力虽然与之前一样有限，但双方一再在停火期间交手，令各方越发担忧这一纸停火协议还能维系多久。
-双方最新的交火发生在当地时间星期四（5月7日）晚上至隔天凌晨。伊朗指责美国违反停火协议，在霍尔木兹海峡袭击一艘伊朗油轮和另一艘进入海峡的船只。美方则指伊朗袭击通过霍尔木兹海峡的三艘美国驱逐舰，因此采取自卫行动，向伊朗境内的军事目标发动攻击。
-美军中央司令部过后在社交媒体X平台发文说，伊朗军队向三艘美国驱逐舰发射多枚导弹，并出动无人机和小艇攻击，但驱逐舰没有被击中。这三艘驱逐舰是特鲁克斯顿号（USS Truxtun）、拉斐尔·佩拉尔塔号（USS Rafael Peralta）和梅森号（USS Mason）。
-美军随即对发动攻击的伊朗军事设施进行还击，包括导弹与无人机发射阵地，也袭击伊朗南部一处海军检查站。
-美国总统特朗普星期四在自己的社媒平台Truth Social称，与伊朗的停火协议仍然有效，这次只是个“小小的警告”。他说：“如果伊朗不尽快签署协议，未来的打击会更猛烈。”
-伊朗外交部星期五发声明，强烈谴责美军袭击伊朗两艘油轮和霍尔木兹海峡沿岸多个地点，并强调伊朗军队决心捍卫国家领土和主权。
-此前有消息称美国向伊朗递交一份仅一页的停战备忘录，重点是伊朗重开霍尔木兹海峡，美国解除对伊朗港口的封锁。另有知情者说，伊朗将在这两天通过调解方巴基斯坦作出回应。
-虽然伊朗官方媒体称，这是媒体的揣测，以及为营造氛围的报道，但沙特阿拉伯媒体星期五也引述外交消息报道，预计伊朗星期五会作出回应。报道指出，美伊就霍尔木兹海峡安全通行问题达成一致“已近在咫尺”。
-霍尔木兹海峡的形势不容乐观。全球航运情报媒体《劳氏日报》（Lloyd’s List）星期五报道，伊朗已成立一个机构，专责审批船舶要通过霍尔木兹海峡的申请并收费。
-报道说：“（伊朗的）波斯湾海峡管理局已推出新框架，要求船只在航行前获得通行许可并缴交通行费。它们必须向管理局提交船只所有权、保险和船员的详细资料以及前行航线。”
-美国也联合波斯湾盟国向联合国施压，要联合国要求伊朗解除对霍尔木兹海峡的封锁。
-根据美国和巴林星期四提出的有关决议，伊朗必须停止袭击和威胁在霍尔木兹海峡航行的商船，并命令伊朗不得收取通行费以及说明布雷的具体位置。议案也要求开辟人道主义通道以便运输化肥，缓解全球粮食短缺的风险。
-据外交消息，拥有否决权的俄罗斯已经表明，它将否决这项决议。
-联合国国际海事组织星期四报告，由于伊朗封锁霍尔木兹海峡，至今仍有大约1500艘船和大约2万名船员受困在波斯湾地区。
-国际海事组织秘书长多明格斯在巴拿马举行的美洲海事大会上说，这些船员都是无辜的，“被他们无法控制的地缘政治局势所困”。他过后对记者透露，近期霍尔木兹海峡发生30多起袭击事件，导致10名海员死亡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国银行劫持人质事件结束 无人受伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9020234</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9020234"/>
-        <updated>2026-05-08T14:43:36.000Z</updated>
-        <summary type="html"><![CDATA[德国西部城市辛齐格（Sinzig）一家储蓄银行分行发生的劫持人质事件已经结束，警方解救了两名人质，两人安然无恙，但嫌疑人已逃脱。
-法新社引述警方星期五（5月8日）发布的声明说，警察进入了这家银行分行，但没有找到任何嫌疑人。警方补充说，调查人员目前认为，“作案者在将人质锁进金库后，立即以目前未知的方式逃离了现场”。
-此前，路透社引述警方说，事件发生在新加坡时间下午3时，地点位于莱茵兰-普法尔茨州辛齐格市（Rhineland-Palatinate ）中心，其中一名人质为运钞车司机。当时警方展开大规模行动，并封锁了大片区域。在匪徒挟持人质期间，警方一直假设有多名嫌疑人作案。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国贸易法院裁定特朗普全球关税10%无效]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9019725</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9019725"/>
-        <updated>2026-05-08T13:43:23.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿/纽约综合电）美国国际贸易法院裁定，总统特朗普向全球征收10%关税的法律依据不成立，必须对提告的进口商退还已缴纳的关税。这个法院判决再次对特朗普政府的关税政策造成打击。
-贸易法院的法官星期四（5月7日）以2比1的表决结果，批准一项撤销关税的请求。提起诉讼的是一群小企业和20多个主要由民主党领导的州政府。
-法院下令在五天内执行判决，但这道庭令只是禁止政府对兴诉的两家公司和华盛顿州执行这项关税政策，其余20多个州政府因未提交有力证据证明全球进口关税对各州直接造成伤害，法院裁定这些州没有诉讼资格。
-尽管如此，这个裁决可说是开启一扇大门，未来可能出现更多撤销关税的诉讼结果。到截稿为止，未知联邦政府是否会就此裁决提出上诉。
-特朗普今年2月援引《1974年贸易法》第122条向各国广征10%关税。这项条款允许政府在特定条件下加征关税，期限最长150天，适用情况包括纠正严重的国际贸易赤字或阻止美元出现大幅贬值。这10%关税从2月24日开始，预计持续到7月24日。
-由小型企业组成的联盟“我们支付关税”（We Pay the Tariffs）提供的数据显示，单是3月份，美国海关依据第122条征收约80亿美元（约101亿新元）的关税。联盟总干事安东尼说：“今天的裁决对于被这些非法税收压垮的小企业来说，无疑是个好消息。”
-参与兴诉的一家公司的首席执行官福尔曼透露，自关税生效以来，公司几乎每天都得支付相关费用，累计已超过10万美元。
-
-特朗普限欧盟最迟7月4日批准贸易协议
-
-法庭下判后，媒体记者问特朗普对此有何看法时，他说：“我们有两名激进的左翼法官投了反对票，所以我对判决不感到意外……但我们总是会找其他办法来征税。”
-特朗普当天在社交媒体发文说，欧盟最迟必须在7月4日批准与美国达成的贸易协议，否则将面临更高关税。他说，他同欧盟委员会主席冯德莱恩通电话后，同意让欧盟最迟在美国独立日履行协定，否则关税就立即大幅上调。
-他上周曾恫言，如果欧盟不履行与美国的双边贸易协议，美国将把欧盟的汽车关税从15%提高至25%。
-根据双方去年7月达成的协议，欧盟将把对美国工业品的关税降至零，并对某些美国农产品和海产品提供免税配额，但审批协议的立法程序在欧洲议会进展缓慢。
-欧洲议会内部多个党团的议员拒绝在缺乏保障机制的前提下仓促放行，要求在协议中加入多项保障条款，例如在美国违反协议或征收新税时须保护欧盟的利益、在美国威胁欧盟领土完整时可立即冻结协议等。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋：拦截来自伊朗的导弹和无人机 三人受伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9019988</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9019988"/>
-        <updated>2026-05-08T13:24:55.000Z</updated>
-        <summary type="html"><![CDATA[阿拉伯联合酋长国说，阿联酋防空系统拦截了来自伊朗的两枚弹道导弹和三架无人机，三人受伤。
-新华社引述阿联酋国防部星期五（5月8日）发表的声明说，自伊朗对阿联酋发动袭击以来，阿联酋防空系统已累计拦截551枚弹道导弹、29枚巡航导弹和2263架无人机。上述袭击共造成13人死亡、230人受伤。
-阿联酋国防部说，军方已做好充分准备应对各种威胁，将坚决应对任何危害国家安全的行为，以维护国家主权、安全和稳定。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜加速常规武器现代化 新型155毫米自行火炮射程瞄准首尔]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9019520</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9019520"/>
-        <updated>2026-05-08T13:14:33.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜在宪法中删除“祖国统一”等表述、正式制度化“敌对两国”路线后，随即展开针对韩国的军事威慑行动，不仅宣布今年内将在边境部署射程覆盖首尔的新型155毫米自行平曲射炮，还由领导人金正恩携女儿金珠爱登上新型驱逐舰，在西海北方界线（NLL）附近展示作战能力。分析认为，朝鲜正通过修宪与军事行动同步推进，对韩施压的同时加快常规武器现代化。
-朝中社周五（5月8日）报道，金正恩周三（6日）视察重要军需企业时，检查了今年内将部署至前线部队的新型155毫米自行平曲射炮生产情况。朝鲜媒体称，该武器具备“极高机动性和火力打击能力”，射程已突破60公里。外界将它称为“朝鲜版K9自行火炮”。
-分析认为，若部署于军事分界线附近，首尔及首都圈大部分地区都将被纳入直接打击范围。金正恩还明确要求，今年内将该武器部署至“南部边境”远程炮兵部队，被解读为对韩国首都圈释放更强烈军事威慑信号。
-同一天，金正恩还视察了装甲武器研究所及军工企业生产的新型主战坦克、发射车等装备，并强调要“以最尖端水平完成技术改造，建立现代化生产与管理体系”。
-朝鲜随后于周四（7日）再次公开军事活动。朝中社报道，金正恩携女儿金珠爱登上即将服役的5000吨级新型驱逐舰“崔贤”号，视察机动性能综合评估试验，并下令于下月中旬正式移交海军。金珠爱不仅站在甲板纪念照中央，还陪同军官聚餐，进一步凸显其“白头血统”象征意义。
-朝中社周四（5月7日）拍摄并发布的照片显示，金正恩携女儿金珠爱登上即将服役的5000吨级新型驱逐舰“崔贤”号。（法新社）
-            
-庆南大学远东问题研究所教授林乙出说，金珠爱频繁陪同视察战略武器，具有“接班人教育”意味，而“崔贤”号试验则显示朝鲜正以军事力量支撑修宪后的“敌对两国”路线。
-韩军与专家认为，朝鲜近期密集公开新型武器，反映它正在系统推进常规战力升级。
-韩国国防安全论坛秘书长申钟宇说，朝鲜现役自行火炮大多仍采用手动操作方式，而此次公开的新型自行火炮，可能已实现自动化升级，并通过强化炮身结构提升远程炮击能力。
-他指出，继核导力量之后，朝鲜近期又在坦克、自行火炮等核心常规武器体系上接连展示现代化成果，同时也试图借此对外展现新型武器的量产能力。
-事实上，俄乌战争后，朝鲜常规武器升级步伐明显加快。去年10月阅兵式上，朝鲜首次公开155毫米自行平曲射炮；今年3月又公开新型坦克“天马-20”训练画面。分析认为，朝鲜持续展示新型常规武器，意在强化对首尔及首都圈核心设施的“精密打击”能力。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厄尔尼诺叠加中东战争影响 恐加剧亚洲通胀]]></title>
-        <id>https://www.zaobao.com/news/world/story20260508-9018090</id>
-        <link href="https://www.zaobao.com/news/world/story20260508-9018090"/>
-        <updated>2026-05-08T12:32:07.000Z</updated>
-        <summary type="html"><![CDATA[（雅加达彭博电）中东战争带来的石油供应冲击未消，厄尔尼诺现象接踵而至，各国气温飙升、天气干旱，食品成本随之上涨，亚洲面临新一轮通货膨胀威胁。
-最新数据显示，受运输、物流和公用事业成本上升推动，亚洲大部分地区的通胀率已升至数年来的高位。涨幅最大的是菲律宾和巴基斯坦，分别飙到7.2%和11%。
-下半年的厄尔尼诺现象会带来更干燥、更炎热的天气，进而推高食品成本，而亚洲食品市场容易受到价格冲击和实际收入缩水的压力，因此各国通胀压力可能加剧。
-牛津经济研究院经济学家萨穆丁研判，2026年亚洲的食品通胀率会上升。“地缘政治风险、化肥市场中断以及气候不确定性的叠加，表明未来几个季度的整体食品通常风险可能继续居高不下。”
-他指出，如果各国政府为保护国内粮食供应而实施出口限制，恐怕会加重这些威胁。
-专家警告，食品价格的上行压力，可能要到今年下半年才会更加明显，因为近期中东冲突导致的化肥成本上涨，需要一些时间才能反映在食品价格上。
-国际货币基金组织（IMF）预计，到明年，亚洲通胀率可能高出多达4个百分点；亚洲开发银行则将今年亚洲地区的居民消费价格（CPI）预测从3.6%上调至5.2%。
-
-亚洲多国通胀形势不佳 新加坡目前保持稳定
-
-印度尼西亚第一季经济增长加快至三年来的最高水平，但更强烈的厄尔尼诺干旱天气，可能带来下行风险，印尼经济活动或将放缓。
-受厄尔尼诺现象影响，印度、越南及中国部分地区的水电发电量也在减少，可能因此更依赖煤炭和天然气，从而推高电价。
-印度季风期的降雨对于国内农业产量至关重要。印度央行警告，若季风减弱，可能影响作物产量并推高食品价格。高温天气下，农民还可能被迫增加使用柴油驱动灌溉系统，并更频密开冷气，食品成本水涨船高。
-经济相对更发达的亚洲国家也面临类似通胀压力。根据彭博经济研究，日本近期食品价格通胀虽然有所缓解，但主食大米的价格在3月仍上涨6.8%。食品价格高企或促使日本央行在厄尔尼诺现象到来之前，于6月就启动加息。
-不过目前看来，在强劲人工智能驱动经济增长的新加坡，预计通胀可保持稳定。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。 | 原文]]></title>
-        <id>https://t.me/wxbyg/7290</id>
-        <link href="https://t.me/wxbyg/7290"/>
-        <updated>2026-05-08T04:10:23.000Z</updated>
-        <summary type="html"><![CDATA[这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。 | 原文
-Telegraph
-这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。
-DeepSeek V4 还是挺顶的。 100 万 token 上下文、思维链推理、价格打到骨折，模型本身的实力没得说。 你用网页版聊天，V4 的编程能力根本发挥不出来。 你不能让它直接改文件、跑命令、Git 管理，只能复制粘贴来回复制粘贴，效率很低。 没有类似 Claude Code 的体验。 所以有人用 Rust 从零写了一个终端原生的编程 Agent，专门对接 DeepSeek V4。 你可以理解为 DeepSeek 原生的终端 Coding Agent。 01 开源项目简介 DeepSeek-TUI…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是"额叶" | 原文]]></title>
-        <id>https://t.me/wxbyg/7289</id>
-        <link href="https://t.me/wxbyg/7289"/>
-        <updated>2026-05-08T00:01:25.000Z</updated>
-        <summary type="html"><![CDATA[菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是"额叶" | 原文
-Telegraph
-菲尔兹奖数学家的最新论文：现在的AI缺的不是智力，是"额叶"
-一位获得过数学界诺贝尔奖的老教授，刚刚发了一篇让人沉默的论文。 David Mumford，菲尔兹奖得主、哈佛与布朗大学荣誉教授，5月4日在arXiv上传了一篇新论文，题为《AI与人类的能动性》。 他不写代码，不跑实验，不比榜单。他只是认真地问了一个问题： 为什么现在这些AI，依然没有真正的"能动性"？ 这个问题，比它看起来要深得多。 AI其实不理解"真实世界"这四个字 Mumford开篇就给出了一个很多人不愿承认的判断： 迄今为止，大语言模型回答了问题，写了文章，解决了描述清晰的难题。但它们没有做过的…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 395 期）：软件开发的第三种方式]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html"/>
@@ -793,123 +672,6 @@ Telegraph
 如今，很多程序员就是…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程 | 原文]]></title>
-        <id>https://t.me/wxbyg/7288</id>
-        <link href="https://t.me/wxbyg/7288"/>
-        <updated>2026-05-07T23:35:48.000Z</updated>
-        <summary type="html"><![CDATA[【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程 | 原文
-Telegraph
-【Deepseek的流形约束】一个 token 从球面滑到单纯形的旅程
- ━━━━━━━━━━━━━━━━━━━━  ◆ 引子：169 期少讲了什么  ━━━━━━━━━━━━━━━━━━━━ 前面在第 169 期【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习，我们跟着一个 token 走完了 DeepSeek V4 的全部前向传播路径——从 embedding 查表到 61 层 Transformer，每一步标维度、标矩阵乘法，一个不漏。 但走完之后我越想越觉得少了一个视角。 169 期关心的是维度怎么变：7168 → 1536 → 65536…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习(2) | 原文]]></title>
-        <id>https://t.me/wxbyg/7287</id>
-        <link href="https://t.me/wxbyg/7287"/>
-        <updated>2026-05-07T23:33:31.000Z</updated>
-        <summary type="html"><![CDATA[【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习(2) | 原文
-Telegraph
-【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习
-我们要预测的是"是"后面跟什么。所以只需要第 5 个 token（"是"）的 hidden state——它经过 61 层 Transformer 已经"看过"了前面所有 token，它的 hidden state 里编码了"中国的首都是"的全部上下文信息。把这个 hidden state 过 lm_head，投影出来的 129280 个分数就是下一个 token（第 6 个）的概率分布。 logits_last [129280]   ← "是"之后每个候选 token 的分数  ━━━━━━━━━━━━━━━━━━━━…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习(1) | 原文]]></title>
-        <id>https://t.me/wxbyg/7286</id>
-        <link href="https://t.me/wxbyg/7286"/>
-        <updated>2026-05-07T23:33:30.000Z</updated>
-        <summary type="html"><![CDATA[【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习(1) | 原文
-Telegraph
-【一个token的旅程】Deepseek V4预测"中国的首都是"的全流程总复习
- ━━━━━━━━━━━━━━━━━━━━  ◆ 今天干什么  ━━━━━━━━━━━━━━━━━━━━ 今天这篇是一个"总复习"——拿一句"中国的首都是"作为输入，一步一步走完 DeepSeek V4-Pro 的整条前向传播路径，从文字变成 token ID，到 embedding，到 61 层 Transformer，到最后 softmax 采样出"北京"。每一步都标维度变化，一个矩阵乘法都不漏。 先看一张全流程图，心里有个整体印象： 这篇会涉及我们之前讲过的很多零件。如果你对以下内容不太熟悉，建议先翻一翻对应的期数：…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给中国开出天价转播费的FIFA，到底多有钱？ | 原文]]></title>
-        <id>https://t.me/wxbyg/7285</id>
-        <link href="https://t.me/wxbyg/7285"/>
-        <updated>2026-05-07T23:06:59.000Z</updated>
-        <summary type="html"><![CDATA[给中国开出天价转播费的FIFA，到底多有钱？ | 原文
-Telegraph
-给中国开出天价转播费的FIFA，到底多有钱？
-文｜张恒 国际足联（FIFA）把中国划为一级高价市场，给央视开出2.5亿至3亿美元（约合18亿至21亿元人民币）转播费的事，闹得有点大了。热搜都上了好几个。之所以如此，是因为国际足联本届搞钱的胃口确实很大。 这里有5个国际足联与钱相关的细节： 一、FIFA在2023-2026周期内，设定了130亿美元总营收的目标。它将全球市场划分为三级，其中中国、印度因庞大的人口基数被划入与美国、英国并列的一级高价市场，这也是其实现总营收目标的核心市场。 二、中国市场对世界杯影响很大。2022年世界杯期间，中国观众在数…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖 | 原文]]></title>
-        <id>https://t.me/wxbyg/7284</id>
-        <link href="https://t.me/wxbyg/7284"/>
-        <updated>2026-05-07T22:26:12.000Z</updated>
-        <summary type="html"><![CDATA[国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖 | 原文
-Telegraph
-国产AI情趣娃娃：记住你的喜好，也会关照你的怪癖
- ▲ 设为星标，以防失联 2026年“AI+成人玩具”持续升温。 今年4月，在上海API情趣生活展上， 搭载了AI语音功能的女性向成人玩具被首次推出； 国内多个新兴品牌发布了新款AI伴侣机器人。 根据艾媒咨询的最近数据， 中国情趣用品的市场规模已近2000亿元。 一条摄制组曾来到广东省中山市， 走访了两家头部的情趣娃娃厂商。 随着近两年ChatGPT、DeepSeek等AI技术的突飞猛进， 这些硅胶娃娃也正在经历一场悄无声息的革命： 从冷冰冰的“生理工具”进化为能够聊天的“情感伴侣”。 工作人员为我们示范加入AI对话功能的情趣娃娃…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快 | 原文]]></title>
-        <id>https://t.me/wxbyg/7283</id>
-        <link href="https://t.me/wxbyg/7283"/>
-        <updated>2026-05-07T22:24:31.000Z</updated>
-        <summary type="html"><![CDATA[迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快 | 原文
-Telegraph
-迄今最大规模古基因组研究：农业革命后，人类进化的速度显著加快
-图源：Unsplash / Rajesh Ram 导读： 一项迄今规模最大的古DNA研究颠覆学界既有认知：人类自农业革命以来从未停止演化，定向自然选择不仅普遍存在，更在过去一万年间明显加快。 王晓波｜撰文 《自然》杂志发表的一项古DNA研究[1]显示，农业文明出现后，人类进化的速度大大超出此前的预期。 该研究由麻省理工学院和哈佛大学布罗德研究所的遗传学家大卫·赖希（David Reich）团队领导。团队分析了近16,000个古代西欧亚人的基因组，追踪了过去18,000年间的基因频率变化，发现定向自然选择…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」 | 原文]]></title>
-        <id>https://t.me/wxbyg/7282</id>
-        <link href="https://t.me/wxbyg/7282"/>
-        <updated>2026-05-07T21:09:00.000Z</updated>
-        <summary type="html"><![CDATA[刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」 | 原文
-Telegraph
-刚刚，OpenAI 放出三个语音模型，顺便杀死了「同传」
-刚刚，OpenAI 放出了三个全新的实时语音模型，其中一个翻译模型，能把 70 多种语言实时翻译成 13 种语言输出，每分钟成本 2 毛钱。 同声传译这个行业，现在可能，要迎来它的终局了。]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年 | 原文]]></title>
-        <id>https://t.me/wxbyg/7281</id>
-        <link href="https://t.me/wxbyg/7281"/>
-        <updated>2026-05-07T17:04:31.000Z</updated>
-        <summary type="html"><![CDATA[北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年 | 原文
-Telegraph
-北京三位女大学生青海自驾游两死一伤，伤者一审被判入刑4年
-2026年1月15日，青海省德令哈市人民法院的一纸判决，为一起发生在一年半前的惨烈车祸画上了一个充满争议的句号。法院一审认定，20岁的女大学生小露犯交通肇事罪，判处有期徒刑四年。然而，这个判决并未平息风波，反而因其核心事实——“谁是事发时的驾驶员”——存在巨大争议，引发了社会的广泛关注与讨论。 一场毕业旅行，两死一伤的悲剧 时间回溯到2024年7月，刚刚结束大一学业的北京工商大学学生小露，与同校师姐小静、首都体育学院学生小田，三名年轻女孩怀揣着对“青甘大环线”的向往，在兰州租下一辆白色SUV，开启了期待已久的毕业旅行。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在群聊中训练暴力：“赛博性犯罪”，呈现新特征 | 原文]]></title>
-        <id>https://t.me/wxbyg/7280</id>
-        <link href="https://t.me/wxbyg/7280"/>
-        <updated>2026-05-07T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[在群聊中训练暴力：“赛博性犯罪”，呈现新特征 | 原文
-Telegraph
-在群聊中训练暴力：“赛博性犯罪”，呈现新特征
- ▲ 德国慕尼黑地方法院，钟某接受审判。(图片由AI辅助生成) 全文共5073字，阅读大约需要13分钟]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -1054,34 +816,6 @@ Telegraph
         <summary type="html"><![CDATA[40 歲轉行回到月薪 5 萬，五年內跟原軌跡的累計薪差約 450 萬台幣。AIER 說 82% 中年轉職者兩年追回，但台灣公司年資只採計 5 年，49 歲工程師 9 個月零回應。一派說轉型是認知重新配置，另一派說你放棄了不可轉移的市場稀缺性，兩派說的根本不是同一件事。]]></summary>
         <author>
             <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
-        <updated>2026-04-09T23:17:13.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-今年就将启用的腾讯总部园区，俗称"企鹅岛"，里面不仅包括办公楼，还有多幢公寓楼。（via）
-axios 投毒与好莱坞式骗术
-上周，著名软件库 axios 被投毒了。黑客拿到了发布令牌，直接发了一个新版本，里面加入了木马。
-
-软件投毒不是新鲜事，新鲜的是发布令牌怎么泄漏的。背后的故事简直是好莱坞电影，根本防不胜防。
-axios 属于使用最广泛的 JS 软件库之一，每周下载量接近1亿次，所以这次投毒的感染面很大。
-
-而且，木马的恶性程度很高。根据官方的清除说明，如果不幸中毒，机器上所有的密钥、令牌和凭证都要作废。这个木马会扫描所有目录，收集密钥，然后发出去。
-大家要知道，像 axios 这种超级流行的软件库，每个环节都有完整防护，每一行代码都被严格审查。这次攻击完全是一场精心策划的社会工程，把这些防护都攻破了。
-攻击目标选定首席维护者 Jason Saayman。据本人透露，事件过程是这样的。
-他们根据我的情况量身定制了这一流程，具体做法如下：
-他们冒充某公司的创始人联系我，不仅克隆了该公司创始人的外貌，还克隆了该公司本身。
-他们随后邀请我加入一个真实的 Slack 工作区。这个工作区使用了该公司的品牌标识，名称也十分可信。Slack 的工作区设计得非常精巧，他们设有专门的频道来分享 LinkedIn 上的帖子。我猜这些 LinkedIn 帖子最终会发布到该公司的真实账号上，整体效果非常逼真。他们甚至还创建了一些我推测是该公司团队成员以及其他一些开源软件维护者的虚假账号。
-他们安排了一次与我的会面，目的是进行沟通。会议是在微软 Teams 上进行的。参会人员似乎是一群人。
-会议指出我系统上的某些东西…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
