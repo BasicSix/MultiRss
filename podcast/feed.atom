@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T19:23:50.996Z</updated>
+    <updated>2026-05-09T03:26:27.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1619,63 +1619,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The anti-CEO playbook | Hamdi Ulukaya (re-release)]]></title>
-        <id>69d3cbf907bc2cbfc7b2dab8</id>
-        <link href="https://go.ted.com/C9DR"/>
-        <updated>2026-04-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Profit, money, shareholders: these are the priorities of most companies today. But at what cost? In an appeal to corporate leaders worldwide, Chobani founder Hamdi Ulukaya calls for an end to the business playbook of the past -- and shares his vision for a new, "anti-CEO playbook" that prioritizes people over profits. "This is the difference between profit and true wealth," he says.
-
-This episode originally aired in 2020.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克要建「芯片超级工厂」，数据中心为什么想「上天」？| S10E06]]></title>
-        <id>https://www.xiaoyuzhoufm.com/episode/69d7685024a6ea4a54f34cce</id>
-        <link href="https://www.xiaoyuzhoufm.com/episode/69d7685024a6ea4a54f34cce"/>
-        <updated>2026-04-09T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[2026 年 1 月，马斯克向 FCC 提交申请，要发射 100 万颗数据中心卫星。3 月，他又宣布 Terafab，一座由特斯拉和 SpaceX 联手建设的芯片工厂，目标是每年生产相当于全球现有所有晶圆厂产能总和 20 倍的 AI 算力，其中 80% 专门为太空设计。与此同时，Google CEO 桑达尔·皮柴说他毫不怀疑"十年后太空会成为建数据中心的常规方式"。
-这场竞赛里也有中国的身影。2025 年 11 月，北京市科委发布太空数据中心"三步走"规划，计划在 700-800 公里晨昏轨道建设超 GW 级算力系统，第一代试验星"辰光一号"已完成研制，2026 年初准备发射。
-为什么要去太空搞数据中心？很简单，地球上的电力、水资源还有土地审批速度都已经无法满足 AI 发展的需求。那太空呢？永远的晴天、天然散热、物理隔离——听起来完美。但也有 Sam Altman 在另一边说，现在把数据中心放太空「太荒谬」。马斯克说两三年，Altman 说十年都不行，我们这期节目就来拆解，太空数据中心究竟行不行。
-
-本期人物 
-丁教 Diane，「声动活泼」联合创始人、「科技早知道」主播
-Yaxian，「科技早知道」主播
-
-主要话题
-04:07 地球上的数据中心，已经建不下去了
-
-
-到2030年，电力消耗将翻倍，新买的设备没电用
-
-数据中心获批难上加难
-
-全球数据中心用水量已达 5600 亿升，几年内将翻倍到 1.2 万亿升
-
-
-08:39 太空的物理优势：永远晴天，散热免费
-
-
-晨昏轨道可实现近乎 100% 太阳照射，能量效率是地面太阳能的 40 倍
-
-深空散热靠辐射而非空气，理论上可以省掉地面数据中心 40% 的散热能耗
-
-
-11:31 Sam Altman 为什么说这事"ridiculous"
-
-
-散热虽不用水，但万卡集群需要的散热面积相当于一个小镇
-
-太空中的硬件坏了无法维修，变成…]]></summary>
-        <author>
-            <name>What's Next｜科技早知道</name>
         </author>
     </entry>
 </feed>
