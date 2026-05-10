@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T03:38:30.915Z</updated>
+    <updated>2026-05-10T08:12:10.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday Pick: How Adam Grant uses data and intuition to make life decisions | from WorkLife with Molly Graham]]></title>
+        <id>69fcad53c117aa79bf322414</id>
+        <link href="https://audiocollective.ted.com/"/>
+        <updated>2026-05-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of us assume data-driven people make data-driven decisions. Not quite. Adam Grant has built a career helping others think more clearly — but when it comes to his own career, the most important calls he’s made didn’t have clear data behind them. So how did he decide? In this first episode of WorkLife with Molly Graham, Adam joins Molly to talk about how he actually navigates uncertainty — the four questions he asks before committing to any big project, what he calls “deliberate then dive”, and how he measures success when the numbers don’t tell the whole story.
+
+Featured guest
+
+Follow Adam on Instagram, LinkedIn, and at adamgrant.net/
+Subscribe to Adam’s substack
+
+
+Connect with the team
+
+Follow Molly on Instagram, LinkedIn, and at glueclub.com/
+Subscribe to Molly’s Substack Lesson
+Watch WorkLife videos on YouTube at TEDAudioCollective
+Follow TED on X, Instagram, Facebook, LinkedIn, and TikTok
+
+
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forget the corporate ladder — winners take risks | Molly Graham (re-release and interview)]]></title>
         <id>69fcaadb2ba0ef2cca7dda3d</id>
