@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T09:47:20.439Z</updated>
+    <updated>2026-05-11T15:18:26.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waymo's case for a driverless future | Tekedra Mawakana, Sal Khan]]></title>
+        <id>6a01ec336304701dd8353fe8</id>
+        <link href="http://go.ted.com/tekedramawakana"/>
+        <updated>2026-05-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if we could solve the problem of fatal car accidents? Waymo co-CEO Tekedra Mawakana joins TED's Sal Khan to explore why fully autonomous vehicles (where you never have to touch the wheel) could end the dangerous status quo of traffic deaths. She makes the case for why self-driving cars are more than a tech novelty — they're an urgently needed upgrade that could make the world safer for everyone.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday Pick: How Adam Grant uses data and intuition to make life decisions | from WorkLife with Molly Graham]]></title>
         <id>69fcad53c117aa79bf322414</id>

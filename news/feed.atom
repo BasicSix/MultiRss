@@ -2,198 +2,440 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T09:48:06.491Z</updated>
+    <updated>2026-05-11T15:19:12.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[uber]]></title>
-        <id>1x-3578258</id>
-        <link href="https://1x.com/photo/3578258"/>
-        <updated>2026-05-11T09:47:22.301Z</updated>
-        <summary type="html"><![CDATA[uber by Łukasz Pietrzak]]></summary>
+        <title type="html"><![CDATA[Beyond Age]]></title>
+        <id>1x-3578020</id>
+        <link href="https://1x.com/photo/3578020"/>
+        <updated>2026-05-11T15:18:27.385Z</updated>
+        <summary type="html"><![CDATA[Beyond Age by Ilana Lam]]></summary>
         <author>
-            <name>Łukasz Pietrzak</name>
+            <name>Ilana Lam</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[horsefly]]></title>
-        <id>1x-3578428</id>
-        <link href="https://1x.com/photo/3578428"/>
-        <updated>2026-05-11T09:47:22.299Z</updated>
-        <summary type="html"><![CDATA[horsefly by hiro]]></summary>
+        <title type="html"><![CDATA[Freedom..]]></title>
+        <id>1x-3577881</id>
+        <link href="https://1x.com/photo/3577881"/>
+        <updated>2026-05-11T15:18:27.372Z</updated>
+        <summary type="html"><![CDATA[Freedom.. by Peter Elling-Jordt]]></summary>
         <author>
-            <name>hiro</name>
+            <name>Peter Elling-Jordt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Veins of the Desert]]></title>
-        <id>1x-3578065</id>
-        <link href="https://1x.com/photo/3578065"/>
-        <updated>2026-05-11T09:47:22.296Z</updated>
-        <summary type="html"><![CDATA[Veins of the Desert by ANNA AN]]></summary>
+        <title type="html"><![CDATA[2025_11]]></title>
+        <id>1x-3577942</id>
+        <link href="https://1x.com/photo/3577942"/>
+        <updated>2026-05-11T15:18:27.367Z</updated>
+        <summary type="html"><![CDATA[2025_11 by Rainer Neumann]]></summary>
         <author>
-            <name>ANNA AN</name>
+            <name>Rainer Neumann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chapel of Song/诗之礼堂]]></title>
-        <id>1x-3578199</id>
-        <link href="https://1x.com/photo/3578199"/>
-        <updated>2026-05-11T09:47:22.294Z</updated>
-        <summary type="html"><![CDATA[Chapel of Song/诗之礼堂 by konglingming]]></summary>
+        <title type="html"><![CDATA[Indigo Bunting in the Field]]></title>
+        <id>1x-3576644</id>
+        <link href="https://1x.com/photo/3576644"/>
+        <updated>2026-05-11T15:18:27.358Z</updated>
+        <summary type="html"><![CDATA[Indigo Bunting in the Field by Molly Fu (APA)]]></summary>
         <author>
-            <name>konglingming</name>
+            <name>Molly Fu (APA)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a bunch of tulips]]></title>
-        <id>1x-3578420</id>
-        <link href="https://1x.com/photo/3578420"/>
-        <updated>2026-05-11T09:47:22.291Z</updated>
-        <summary type="html"><![CDATA[a bunch of tulips by Hilda van der Lee]]></summary>
+        <title type="html"><![CDATA[The gather]]></title>
+        <id>1x-3567341</id>
+        <link href="https://1x.com/photo/3567341"/>
+        <updated>2026-05-11T15:18:27.355Z</updated>
+        <summary type="html"><![CDATA[The gather by Lorenzo Grifantini]]></summary>
         <author>
-            <name>Hilda van der Lee</name>
+            <name>Lorenzo Grifantini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Osprey Express]]></title>
-        <id>1x-3578220</id>
-        <link href="https://1x.com/photo/3578220"/>
-        <updated>2026-05-11T09:47:22.289Z</updated>
-        <summary type="html"><![CDATA[Osprey Express by Kenneth-Wei Zeng]]></summary>
+        <title type="html"><![CDATA[Sawfly]]></title>
+        <id>1x-3571924</id>
+        <link href="https://1x.com/photo/3571924"/>
+        <updated>2026-05-11T15:18:27.350Z</updated>
+        <summary type="html"><![CDATA[Sawfly by Takiko Hirai]]></summary>
         <author>
-            <name>Kenneth-Wei Zeng</name>
+            <name>Takiko Hirai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trio]]></title>
-        <id>1x-3553187</id>
-        <link href="https://1x.com/photo/3553187"/>
-        <updated>2026-05-11T09:47:22.284Z</updated>
-        <summary type="html"><![CDATA[Trio by Lipinghu]]></summary>
+        <title type="html"><![CDATA[Tidal Trees]]></title>
+        <id>1x-3578094</id>
+        <link href="https://1x.com/photo/3578094"/>
+        <updated>2026-05-11T15:18:27.346Z</updated>
+        <summary type="html"><![CDATA[Tidal Trees by Aidong Ning]]></summary>
         <author>
-            <name>Lipinghu</name>
+            <name>Aidong Ning</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3564699</id>
-        <link href="https://1x.com/photo/3564699"/>
-        <updated>2026-05-11T09:47:22.280Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <title type="html"><![CDATA[Jimei Rail Station]]></title>
+        <id>1x-3578292</id>
+        <link href="https://1x.com/photo/3578292"/>
+        <updated>2026-05-11T15:18:27.336Z</updated>
+        <summary type="html"><![CDATA[Jimei Rail Station by Jiahong Zeng]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Jiahong Zeng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perfect Seat]]></title>
-        <id>1x-3578064</id>
-        <link href="https://1x.com/photo/3578064"/>
-        <updated>2026-05-11T09:47:22.277Z</updated>
-        <summary type="html"><![CDATA[Perfect Seat by Xiaohong Zhang]]></summary>
+        <title type="html"><![CDATA[Farmer]]></title>
+        <id>1x-3578436</id>
+        <link href="https://1x.com/photo/3578436"/>
+        <updated>2026-05-11T15:18:27.331Z</updated>
+        <summary type="html"><![CDATA[Farmer by Ahmed Fahmy]]></summary>
         <author>
-            <name>Xiaohong Zhang</name>
+            <name>Ahmed Fahmy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eastern bluebird]]></title>
-        <id>1x-3559982</id>
-        <link href="https://1x.com/photo/3559982"/>
-        <updated>2026-05-11T09:47:22.267Z</updated>
-        <summary type="html"><![CDATA[Eastern bluebird by Steven Haddix]]></summary>
+        <title type="html"><![CDATA[Girl in Red]]></title>
+        <id>1x-3571948</id>
+        <link href="https://1x.com/photo/3571948"/>
+        <updated>2026-05-11T15:18:27.327Z</updated>
+        <summary type="html"><![CDATA[Girl in Red by Serge Melesan]]></summary>
         <author>
-            <name>Steven Haddix</name>
+            <name>Serge Melesan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lut]]></title>
-        <id>1x-3577139</id>
-        <link href="https://1x.com/photo/3577139"/>
-        <updated>2026-05-11T09:47:22.264Z</updated>
-        <summary type="html"><![CDATA[lut by João Pedro Navarro Maranhão]]></summary>
+        <title type="html"><![CDATA[Blue Nuthatch Trio]]></title>
+        <id>1x-3578307</id>
+        <link href="https://1x.com/photo/3578307"/>
+        <updated>2026-05-11T15:18:27.324Z</updated>
+        <summary type="html"><![CDATA[Blue Nuthatch Trio by tianhuayu]]></summary>
         <author>
-            <name>João Pedro Navarro Maranhão</name>
+            <name>tianhuayu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoned Space 2]]></title>
-        <id>1x-3578442</id>
-        <link href="https://1x.com/photo/3578442"/>
-        <updated>2026-05-11T09:47:22.262Z</updated>
-        <summary type="html"><![CDATA[Abandoned Space 2 by Kevin Christonar]]></summary>
+        <title type="html"><![CDATA[Corvus Corone - Carrion Crow]]></title>
+        <id>1x-3578476</id>
+        <link href="https://1x.com/photo/3578476"/>
+        <updated>2026-05-11T15:18:27.320Z</updated>
+        <summary type="html"><![CDATA[Corvus Corone - Carrion Crow by Mathilde Guillemot]]></summary>
         <author>
-            <name>Kevin Christonar</name>
+            <name>Mathilde Guillemot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Silence Grazes]]></title>
-        <id>1x-3575833</id>
-        <link href="https://1x.com/photo/3575833"/>
-        <updated>2026-05-11T09:47:22.259Z</updated>
-        <summary type="html"><![CDATA[Where Silence Grazes by Dawn X W]]></summary>
+        <title type="html"><![CDATA[Robin]]></title>
+        <id>1x-3578321</id>
+        <link href="https://1x.com/photo/3578321"/>
+        <updated>2026-05-11T15:18:27.307Z</updated>
+        <summary type="html"><![CDATA[Robin by Allan Wallberg]]></summary>
         <author>
-            <name>Dawn X W</name>
+            <name>Allan Wallberg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beautiful Library]]></title>
-        <id>1x-3578222</id>
-        <link href="https://1x.com/photo/3578222"/>
-        <updated>2026-05-11T09:47:22.250Z</updated>
-        <summary type="html"><![CDATA[Beautiful Library by washiphoto]]></summary>
+        <title type="html"><![CDATA[Dicentra Spectabilis]]></title>
+        <id>1x-3574731</id>
+        <link href="https://1x.com/photo/3574731"/>
+        <updated>2026-05-11T15:18:27.304Z</updated>
+        <summary type="html"><![CDATA[Dicentra Spectabilis by Lotte Grønkjær]]></summary>
         <author>
-            <name>washiphoto</name>
+            <name>Lotte Grønkjær</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diva #1]]></title>
-        <id>1x-3578407</id>
-        <link href="https://1x.com/photo/3578407"/>
-        <updated>2026-05-11T09:47:22.246Z</updated>
-        <summary type="html"><![CDATA[Diva #1 by Massimiliano De Viti]]></summary>
+        <title type="html"><![CDATA[Flamingo Serenade]]></title>
+        <id>1x-3578251</id>
+        <link href="https://1x.com/photo/3578251"/>
+        <updated>2026-05-11T15:18:27.288Z</updated>
+        <summary type="html"><![CDATA[Flamingo Serenade by Ken Liang]]></summary>
         <author>
-            <name>Massimiliano De Viti</name>
+            <name>Ken Liang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asia]]></title>
-        <id>1x-3574548</id>
-        <link href="https://1x.com/photo/3574548"/>
-        <updated>2026-05-11T09:47:22.215Z</updated>
-        <summary type="html"><![CDATA[Asia by Marco Latino]]></summary>
+        <title type="html"><![CDATA[Dahlia]]></title>
+        <id>1x-3577812</id>
+        <link href="https://1x.com/photo/3577812"/>
+        <updated>2026-05-11T15:18:27.285Z</updated>
+        <summary type="html"><![CDATA[Dahlia by Lotte Grønkjær]]></summary>
         <author>
-            <name>Marco Latino</name>
+            <name>Lotte Grønkjær</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Sanctuary]]></title>
-        <id>1x-3578071</id>
-        <link href="https://1x.com/photo/3578071"/>
-        <updated>2026-05-11T09:47:22.042Z</updated>
-        <summary type="html"><![CDATA[Blue Sanctuary by Koki]]></summary>
+        <title type="html"><![CDATA[Suave]]></title>
+        <id>1x-3578464</id>
+        <link href="https://1x.com/photo/3578464"/>
+        <updated>2026-05-11T15:18:27.168Z</updated>
+        <summary type="html"><![CDATA[Suave by Cristian Pavel]]></summary>
         <author>
-            <name>Koki</name>
+            <name>Cristian Pavel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are they expressing?]]></title>
-        <id>1x-3578081</id>
-        <link href="https://1x.com/photo/3578081"/>
-        <updated>2026-05-11T09:47:22.039Z</updated>
-        <summary type="html"><![CDATA[What are they expressing? by Amy Greytak (Xiaoyu Sun)]]></summary>
+        <title type="html"><![CDATA[A Solitary House Among Stones]]></title>
+        <id>1x-3578554</id>
+        <link href="https://1x.com/photo/3578554"/>
+        <updated>2026-05-11T15:18:27.163Z</updated>
+        <summary type="html"><![CDATA[A Solitary House Among Stones by Marko Klavs]]></summary>
         <author>
-            <name>Amy Greytak (Xiaoyu Sun)</name>
+            <name>Marko Klavs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Because it's summer!]]></title>
-        <id>1x-3577737</id>
-        <link href="https://1x.com/photo/3577737"/>
-        <updated>2026-05-11T09:47:22.027Z</updated>
-        <summary type="html"><![CDATA[Because it's summer! by HilameX]]></summary>
+        <title type="html"><![CDATA[Green Lacewing]]></title>
+        <id>1x-3578177</id>
+        <link href="https://1x.com/photo/3578177"/>
+        <updated>2026-05-11T15:18:27.108Z</updated>
+        <summary type="html"><![CDATA[Green Lacewing by Ryo Iura]]></summary>
         <author>
-            <name>HilameX</name>
+            <name>Ryo Iura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫记者晚宴枪手对所有指控拒不认罪]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032533</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032533"/>
+        <updated>2026-05-11T14:47:13.000Z</updated>
+        <summary type="html"><![CDATA[在白宫记者协会晚宴上试图枪杀美国总统特朗普的男子，对所有指控均不认罪。
+路透社报道，31岁的加利福尼亚州男子艾伦（Cole Allen）星期一（5月11日）出席庭审，拒绝对所有指控认罪。他在法庭上没有发言，由辩护律师代为抗辩。
+这是艾伦被捕后，首次在华盛顿联邦法院出庭。
+艾伦在4月底的白宫记协晚宴上向一名美国特勤局特工开枪，企图袭击特朗普和其他政府官员但未遂。他被控谋杀总统未遂、袭击联邦官员和枪支犯罪。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普拒绝伊朗提案 美伊停战增变数]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032251</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032251"/>
+        <updated>2026-05-11T14:39:58.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／德黑兰综合电）美国总统特朗普断然拒绝伊朗为结束战争提出的条件，这使美伊达成暂时停火协议一个月后再度开战的可能性升高。
+特朗普星期天（5月10日）针对伊朗提出的停战条件做出反应，他在社交媒体平台Truth Social写道：“我不喜欢，完全无法接受。”
+特朗普没有透露伊朗新提案的内容。不过，伊朗官方媒体报道，伊方通过调解方巴基斯坦，对美国提出的停战方案做出了回应，重点条件是停止所有战线的战争，尤其是黎巴嫩边界战线。
+伊朗外交部发言人巴加埃星期一（11日）说，伊朗的要求包括结束整个地区的战争、美国解除海上封锁以及解冻伊朗的海外资产。“我们没有要求任何让步。我们唯一要求的是伊朗的合法权利。” 
+另据《华尔街日报》引述消息报道，伊朗愿意稀释部分高浓铀，将其余转移至第三国。不过，它要求获得保证，万一谈判失败，转移的铀归还伊朗。它也明确排除了拆除核设施的可能性。
+以色列总理内坦亚胡在哥伦比亚广播公司（CBS）星期天播出的访谈中说，必须清除伊朗的浓缩铀库存和拆除核设施，战争才可能结束。 
+谈到以色列和美国的关系时，他说，以色列如今已经独当一面，因此对美国的依赖应降至零，使美国从援助方转成伙伴。他希望在未来10年逐步结束美国对以军的财政支持。
+“我们应该逐步减少对五角大楼军事支持的依赖。现在就开始，在10年内完成这个工作”。
+按现有计划，美国在2018年至2028年间，每年向以色列提供38亿美元（约48亿2000万新元）的军事援助。
+另一方面，伊朗警告英国和法国，如果它们向霍尔木兹海峡派遣军舰，伊朗将采取“果断而直接”的回应。
+副外长加里巴巴迪星期天说，无论在战争还是和平时期，只有伊朗能保障霍尔木兹海峡的安全，不准任何其他国家介入。任何以保护航运为名的外来军事部署，只会加剧危机，把霍尔木兹海峡军事化。
+法国先前宣布，派戴高乐号航空母舰前往红海和亚丁湾，英国也表明将配合行动增派军舰。
+法国总统马克龙星期天在肯尼亚首都内罗毕访问时澄清，法国从未计划在霍尔木兹海峡部署海军，法国只是要针对如何让船只安全通过海峡，同伊朗进行协调。
+他说，法国反对任何一方进行封锁，也反对让船只为通过海峡而支付任何过路费。
+英国政府当天宣布，英法将在星期二（12日）主持多国防长会议，讨论恢复霍尔木兹海峡贸易流通的军事计划。据英国说，有40多个国家将派官员出席这个国际会议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[94人已撤离汉坦病毒游轮 一法国人一美国人检测结果呈阳]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032209</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032209"/>
+        <updated>2026-05-11T14:23:58.000Z</updated>
+        <summary type="html"><![CDATA[（马德里综合电）94人已从出现汉坦病毒疫情的游轮撤离，其中一名法国人和一名美国人的病毒检测结果呈阳性。
+这艘洪迪厄斯号游轮星期天（5月10日）在西班牙加那利群岛靠岸，其中94人已撤离并乘专机返回各自的国家。
+五名法国乘客中，有一人在回国航班上出现感染症状，她后来检测呈阳性，病情正在恶化。目前，所有乘客已被隔离，并将接受医学检测和健康评估。
+另外，17名被遣返的美国人中，一人的检测呈轻度阳性，另一人则出现轻微症状。这两名乘客乘飞机返回美国时，被安排呆在生物隔离舱内。 
+美国疾病控制与预防中心说，从游轮撤离的美国乘客不一定会被隔离，并敦促美国民众对汉坦病毒保持冷静，因为这不是冠病。不过，世界卫生组织总干事谭德塞指出，美国采取的灵活措施可能会存在风险。 
+另有24名乘客将于稍迟时候撤离，其中18人将飞往荷兰，另六人飞往澳大利亚。澳洲政府说，六名澳洲乘客目前没有出现症状，但落地后会立刻转移到隔离中心接受为期三周的初步观察。
+
+              
+5月10日，从游轮撤离的英国人，回国后乘坐当局安排的巴士，前往医院接受检查。（路透社）
+            
+撤离行动结束后，30名船员将随游轮返回船只所属国荷兰。届时所有人员将下船，包括仍停放在船上太平间的已故德国人。之后，这艘船将进行彻底消毒。
+世卫组织建议，从星期天起对所有乘客和船员进行为期42天的隔离。
+这艘游轮载有23个国家的147名乘客和船员。这次行动距离游轮从阿根廷南部启航已过去41天，而距离首起感染病例出现也过去九天。截至目前，游轮乘客中已有三人死于汉坦病毒感染。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本安保三文件是否列中国为“威胁” 执政党内部分歧]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032041</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032041"/>
+        <updated>2026-05-11T14:12:48.000Z</updated>
+        <summary type="html"><![CDATA[日本计划年底修订三份主要安保相关文件，对于是否在文件中把中国列为“威胁”，执政党内部存在分歧，一部分人士持强硬立场，另一些则考虑到双边关系，主张采取更为克制的表述。
+执政的自民党与联盟伙伴维新会正分别整理安保三文件的修订重点，预计在6月上旬前提出草案。为此，当局已成立专家小组，负责为修订工作提供意见。 
+据时事通讯社报道，自民党内部正就中国及日本周边局势展开讨论，部分人士主张对中国采取强硬立场，建议在文件中明确写入“威胁”一词。但党内也出现慎重观点，认为鉴于日本首相高市早苗此前就潜在台湾危机发表言论踩到中国红线，若此次再使用“威胁”一词，恐将引发中国更强烈的反弹。
+安保三文件上次修订是在2022年。当年，美国众议院议长佩洛西访问台湾，北京向台湾周边海域发射弹道导弹，日方称部分导弹落入日本专属经济区。基于此，日本政府在三份文件中的《国防战略》，针对中方发射导弹一事，指“导弹被（日本）市民视为‘威胁’”。
+上次修订时，日本仅对朝鲜使用了强烈措辞，称它是“迫在眉睫的威胁”。据报道，当时自民党曾要求将中国军事定位为“严重的安全威胁”，但自民党当时的执政伙伴、亲华的公明党认为，此类措辞只会加剧冲突。最终，在《国家安全战略》文件中，对中国的描述采用了“严重关切”以及“迄今为止最大的战略挑战”。 
+时隔三年半，自民党内部认为中国的军事建设和海上扩张取得了显著进展。该党的安全研究会提出了几个关键考量，除了探讨美军在区域的优势下降外，还研究了中俄的战略合作，并特别关注两艘中国航母首次同时进入连接日本小笠原群岛和关岛的太平洋“第二岛链”附近海域的动向。
+主张在安保文件中以“威胁”形容中国的一位自民党官员说：“目前（的周边局势）比以前更糟了，若用同样的措辞已行不通。”
+但一位前外相认为：“如果我们明确使用‘威胁’一词，中国必然会做出反弹，我们需要另辟蹊径。”据悉，也有日本高官坦承，若写威胁，对日本毫无利益可言。
+这些谨慎的声音旨在强调，日本希望与中国发展战略互惠关系。但分析人士认为，中日要改善关系谈何容易。目前，自民党正与保守派的维新会持续推动更为保守的安保政策，加上此前修订《防卫装备移转三原则》已松绑了对外军售，这些举动都在加深中国对日本的猜忌。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自杀式袭击致15警员死 巴基斯坦向阿富汗使馆临时代办抗议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032415</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032415"/>
+        <updated>2026-05-11T14:00:53.000Z</updated>
+        <summary type="html"><![CDATA[巴基斯坦外交部召见阿富汗使馆临时代办，就巴基斯坦西部一个警方检查站日前遭自杀式汽车炸弹袭击事件，向阿方提出强烈抗议。
+新华社报道，巴基斯坦外交部星期一（5月11日）召见阿富汗驻巴使馆临时代办，就开伯尔－普什图省本努地区一处警方检查站的自杀式汽车炸弹袭击，向阿方提出强烈抗议。
+巴国外交部在一份声明中说，此次袭击造成15名警察死亡，另有四人受伤，其中包括一名平民。
+巴方在详细调查后认定，这次袭击由居住在阿富汗的恐怖分子策划。
+声明说，巴基斯坦在友好国家的斡旋下，与阿富汗政府举行多轮会谈，但阿富汗始终未能承诺或采取切实有效行动，打击境内的恐怖组织。
+声明强调，若阿富汗“继续窝藏恐怖组织”，巴基斯坦不会在国家或公民安全保障方面作出任何妥协。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美峰会周四登场 学者：特朗普不应寄望北京帮忙解决伊朗僵局]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9031877</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9031877"/>
+        <updated>2026-05-11T13:53:39.000Z</updated>
+        <summary type="html"><![CDATA[备受瞩目的中美首脑会议周四（5月14日）在北京登场。美国官员透露，特朗普总统准备促请中国居中斡旋，达成结束美伊冲突的协议。然而，政治观察家普遍认为，由于两国存在战略利益分歧，特朗普不应寄望北京能在伊朗问题上提供实质帮助。
+分析指出，特朗普难以按照自身意愿结束对伊战争，不得不转而寻求中国的外交支援。尽管中国国家主席习近平希望看到中东局势降温，但他与特朗普对于如何结束这场战争存在分歧。
+美国得克萨斯州南方卫理公会大学政治学教授吉尔森（Cal Jillson）接受《联合早报》访问时说，特朗普希望中国向伊朗施压，迫使德黑兰接受美国提出的结束冲突的条件，但估计北京不会让特朗普得偿所愿。
+他说：“中国仍然拥有石油储备，足以抵御眼前的经济压力。而且习近平也知道，美国比伊朗更渴望结束这场战争，所以他可能会让特朗普再折腾一段时间。”
+新美国安全中心高级研究员斯托克斯（Jacob Stokes）告诉《华尔街日报》：“习近平希望确保美国在中东的这场政权更迭行动被视为一场失败，而特朗普自然希望相反的结果。”
+美国国务院前中东谈判代表米勒（Aaron David Miller）认为，特朗普目前处于劣势。“特朗普失去他原本拥有的筹码，因为关税战和牵动全球神经的伊朗战争，他给了习近平不少筹码。”
+美国国际贸易法院上周裁定特朗普全球征关税的法律依据不成立，更让他在峰会前夕陷入政策被动的窘境。
+
+议程广泛：贸易、科技、AI与地缘秩序的较量
+
+美国官员透露，除了伊朗问题，此次峰会议程还涵盖贸易、科技、稀土出口管制，以及台湾问题等。
+在峰会召开前夕，中美双方都在加大施压力度。华盛顿指责北京开展大规模行动窃取美国人工智能（AI）技术，中国则命令企业不得遵守美国对伊朗石油的制裁。
+美国康奈尔大学经济学教授普拉萨德（Eswar Prasad）告诉美国消费者新闻与商业频道（CNBC），如果这次峰会演变成一场充满争议的争吵，将严重损害全球贸易并加剧地缘政治动荡。
+也有分析指出，东南亚各国密切关注美国对华商品征收的关税，相对于美国对本国商品关税的任何重大变化。
+尤索夫伊萨东南亚研究院客座资深研究员奥尔森（Stephen Olson）说：“如果中国出口商品的关税率下降，企业就没有什么商业理由把生产线从中国转移到越南等国了。”
+
+美政界车企施压 抵制中国汽车入美
+
+在美国国内，特朗普面临来自汽车产业和两党议员的巨大压力——不要向中国汽车开放市场。
+特朗普今年1月说，如果中国汽车制造商愿意在美国建厂并雇用美国人，他非常乐意让中国汽车进入美国市场。这番言论敲响美国汽车行业的警钟。
+美国车企上个月联署致函特朗普政府，指北京主导全球汽车业的企图对美国国家安全和工业基础构成直接威胁。74名民主党众议员和52名共和党众议员也罕见联名敦促特朗普阻止中国汽车进入美国市场。
+虽然商务部与贸易代表已表明中国汽车不在峰会议程内，但美国制造业联盟主席保罗（Scott Paul）担心，渴望达成巨额投资协议的特朗普可能会单方面作出让步。
+要求匿名的白宫官员告诉美国新闻网站Politico：“本届政府中最亲华的人可能就是总统本人。他一直致力于与中国达成协议。他是个渴望达成协议的人。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯塔默坚持不下台 工党议员推动9月选举新党魁]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9031999</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9031999"/>
+        <updated>2026-05-11T12:44:35.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合电）英国首相斯塔默周一发表关键的竞选式演说，在地方选举遭遇惨败后为自己辩护，力保工党党魁与首相地位。然而，此次演说未能平息党内批评者对他的质疑，要求他下台的呼声越来越高。
+斯塔默周一（5月11日）在伦敦发表讲话时说，他知道人民对英国现状、英国政治与他的领导不满。“我知道有一些人质疑我，我也知道我须要证明他们错了，而我一定会做到。”
+斯塔默承认，渐进式的改革无法满足日益不满的英国民众，他承诺在经济、对欧关系、能源等领域采取更有力的措施。
+他说，工党政府将与欧盟建立更紧密的关系，为年轻人创造更好的就业机会。
+斯塔默没有详细说明新政策和措施，而是把重点放在争取党内支持与攻击政治对手上。他警告，工党承担不起内斗的结果。
+他指责民粹主义的英国改革党与左翼政党绿党制造民怨和分裂，称“他们不是在寻求解决方案，而是寻找替罪羊”。
+斯塔默点名批评改革党领袖法拉奇是“投机分子”和“骗子”，并警告工党若应对不当，将导致“国家走上一条非常黑暗的道路”。
+工党在上周地方选举中丢失大量议席。斯塔默过后誓言继续留任，但有越来越多工党议员认为，他是时候退场了。
+
+36工党议员公开呼吁斯塔默下台
+
+曾任外交部政务次官的工党议员韦斯特（Catherine West）此前称，如果到周一仍无内阁部长站出来挑战斯塔默，她会自己尝试这么做。
+韦斯特周一形容，斯塔默的演说来得太晚、内容太无力，工党和英国现在必须进行有序的政权过渡。她说：“我正在收集工党议员的名字，以呼吁首相制定9月份选举新领导人的时间表。”
+《卫报》分析指出，从这份声明来看，韦斯特不再打算亲自上阵挑战斯塔默。她似乎希望借此举得到足够多的工党议员支持，以迫使斯塔默辞职，或激励有能力者挺身挑战斯塔默。
+根据工党规定，任何挑战者须获得至少20%或81名党内议员的支持，才能启动党魁选举程序。据天空新闻台统计，截至周一上午，公开呼吁斯塔默下台的工党议员已增至36人。
+如果斯塔默在未来几周被迫下台，英国将迎来过去十年的第七个首相，但当前工党尚未出现明显的接班人选。
+近日盛传，前副首相雷纳（Angela Rayner）或卫生部长斯特里廷（Wes Streeting）可能会尝试推翻斯塔默，但两人在党内并未得到普遍支持。
+大曼彻斯特市长伯纳姆（Andy Burnham）也被视为潜在挑战者，但他不是国会议员，暂时无法挑战斯塔默。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯塔默拟提立法 彻底实现英钢公司国有化]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9032089</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9032089"/>
+        <updated>2026-05-11T12:41:14.000Z</updated>
+        <summary type="html"><![CDATA[英国首相斯塔默说，他会提出立法，将中国控股的英国钢铁公司国有化。
+法新社报道，斯塔默在星期一（5月11日）的演讲中说：“本周（我们）会提交立法，赋予政府……全面接管英国钢铁公司国有化工作的权力。”
+英国钢铁公司的中国控股方是敬业集团。英钢去年面临财务崩溃。英国国会通过紧急法案，允许政府官员对这家公司拥有控制权，避免英国仅存的原生钢工厂关闭。
+英政府星期一发布声明说，自那时起，一直“无法与现任所有者就商业出售达成一致”。“政府认为，为英钢公有化进程提出立法，是适当的下一步举措。”
+完成国有化意味着英钢将自1988年以来首次重归英国政府所有。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查：韩国货船霍尔木兹海峡遭伊朗无人机袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9031063</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9031063"/>
+        <updated>2026-05-11T12:36:14.000Z</updated>
+        <summary type="html"><![CDATA[韩国政府的初步调查结果显示，5月4日在霍尔木兹海峡发生爆炸起火的韩国货船“NAMU”号，是遭“不明飞行器外部打击”所致。尽管韩方持续强调“不会预断攻击主体”，维持谨慎立场，但韩国军事与安保专家普遍认为，伊朗制造的自杀式无人机涉案可能性较高。
+韩国外交部发言人星期天（5月10日）公布联合调查小组首次调查结果称，事发当天有两架不明飞行器以约一分钟间隔，先后两次击中“NAMU号”船尾左舷。调查显示，受损部位外板破口宽约5米、深约7米，且破损位置位于海面上方约1至1.5米处，因此遭水雷或鱼雷攻击的可能性较低。
+调查小组已掌握拍摄到飞行体的闭路电视画面，并在现场回收飞行器发动机残骸等物证，目前正展开精密分析。由于船舶发动机等内部设备未发现异常，调查基本排除因内部缺陷引发火灾的可能性。
+韩国国防研究院研究委员刘志勋说，相较于普通侦察无人机意外碰撞，更可能是搭载爆炸物的自爆型无人机或低空海上攻击飞行器。他指出，爆炸集中于船体上部并波及机舱系统，显示飞行器应是以极低高度贴近海面后实施撞击爆炸。
+
+              
+韩国外交部星期天（5月10日）发布的照片显示，Namu号的的机舱被大火烧毁。（法新社）
+            
+多名专家推测，涉事飞行器可能属于伊朗“见证者”（Shahed）或“阿拉什”（Arashi）系列自杀式无人机。
+对此，韩国总统府国家安保室长魏圣洛周一（11日）强烈谴责针对民间船舶的攻击行为，强调任何针对民用船只的袭击都“无法正当化、绝不可容忍”。
+他说，韩国政府将通过追加调查确认攻击主体、机型及规模等信息，并根据调查结果研究必要应对措施，同时进一步加强附近海域韩国船员与船舶的安全保障。
+据了解，韩国时间4日晚8时40分左右，由韩国HMM旗下货船“NAMU”号在霍尔木兹海峡内侧、阿联酋附近海域遇袭，船体左舷发生爆炸并起火，约四小时后火势被扑灭。事发时船上共有24人，包括六名韩国船员及18名外籍船员，未造成人员伤亡。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美校园枪击嫌犯曾与ChatGPT讨论犯罪 引发AI刑责争议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9031421</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9031421"/>
+        <updated>2026-05-11T12:20:44.000Z</updated>
+        <summary type="html"><![CDATA[（纽约法新电）去年犯下美国佛罗里达州立大学校园枪击案的嫌犯，事发前曾与人工智能（AI）聊天机器人ChatGPT讨论犯罪细节，引发AI刑责与追责问题的争议。 
+去年4月，20岁的伊克纳（Phoenix Ikner）在校园开枪扫射，造成两人死亡和六人受伤。
+根据当局收集的证据，嫌犯曾询问ChatGPT哪种武器和弹药最适合实施袭击，以及何时何地才能造成最大伤亡，而ChatGPT也作出了回应。
+州总检察长乌斯迈尔对此说：“如果屏幕另一端是真人，我们会以谋杀罪起诉它。”
+不过，鉴于ChatGPT只是一个AI系统，因此当局将对相关开发商OpenAI展开刑事调查，而且不排除对该公司或员工提起诉讼的可能性。
+这起事件也将一个颇具争议的问题推上法律焦点：AI创造者是否应该为AI在犯罪甚至自杀事件中扮演的角色承担刑事责任？
+根据美国法律，当局对企业提起刑事诉讼是可能的，但相对少见。 
+上个月，普渡制药（Purdue Pharma）因在阿片类药物危机中的角色，被罚款超过50亿美元（约63亿新元）。此前，福士伟根（Volkswagen，也称大众）汽车因排放作弊丑闻被判有罪，辉瑞（Pfizer）因对抗炎药Bextra违规营销和夸大药效而被处罚，埃克森则因油轮漏油事件被判有罪。
+这些案件都有一个共同点，即涉及人为决策和违规行为。
+然而，对于这次的校园枪击案，犹他大学法学教授托克森指出：“这是产品助长犯罪，甚至‘执行犯罪’。这正是本案独特且复杂的地方。” 
+法律专家指出，最有可能的两项指控是疏忽或鲁莽，后者涉及故意选择忽视已知风险或安全义务。不过，这类指控通常被视为轻罪而非重罪，一旦罪成，刑罚也较轻，但定罪门槛很高。
+杜克大学法学教授加勒特指出，在刑事案件中，举证责任更高，检方必须在“排除合理怀疑”的标准下证明被告有罪。
+OpenAI则坚持ChatGPT不应对这起袭击负责。“我们持续加强防护措施，以识别有害意图、限制滥用，并在出现安全风险时作出适当回应。”
+对于寻求追责的人来说，民事诉讼可能是一条更可行的路径。托克森认为，这种方式或可促使企业在产品设计上更加谨慎。
+不过，美国已有多起针对AI平台的民事诉讼，其中多为自杀案件，但目前没有任何案件裁定企业承担责任。
+加勒特认为，美国政府应设立监管框架，才是“更为合理的制度”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国大学生就业难 催生创业潮]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-8906069</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-8906069"/>
+        <updated>2026-05-11T11:03:24.000Z</updated>
+        <summary type="html"><![CDATA[（纽约彭博电）美国大学毕业生就业市场低迷，促使一些大学生在完成学业前就开始创业。
+沙吉库马尔（18岁）还在卡内基梅隆大学读第一学期时，就创办人工智能（AI）咨询平台，一个月内筹得200万美元（约250万新元），最终选择暂时休学，全身投入项目。
+在美国各地高校，曾经被视为小众的本科生创业课程如今座无虚席，等候名单上还有一长串名字。约翰霍普金斯大学的一系列创业孵化项目，五年前仅收到50份申请，本学年吸引了860多名申请者。
+AI是推动创业热潮的一大原因。它大幅降低了创业门槛，加快了概念验证和原型开发的速度。同时，初级就业市场低迷，实习与入职机会减少，也促使学生转向创业。
+职业顾问指出，即使创业失败，也能充实履历，在求职市场中增加竞争力。
+风险投资家开始嗅到大学校园里的商机，通过校园访问和在领英上直接发消息等方式，积极接触本科生。
+但早期融资通常对学生不利。曾在卡内基梅隆大学创办软件初创公司的史密斯说：“他们希望以非常低的估值进入，因为你只是个大学生，根本不太懂估值意味着什么。他们会早早拿走大量股权。”
+和沙吉库马尔一样，史密斯也选择休学而非退学。辍学曾为苹果联合创办人乔布斯、微软联合创始人盖茨等知名企业家增添传奇色彩，但这一步太过极端。休学一两个学期是更理性的对冲策略，以防创业失败后还能重返校园。麻省理工学院等高校正在重新评估休学政策，并开发支持学生短期休学的项目。
+莱斯大学刘氏创新与创业构想实验室执行主任犹大说，很多学生现在看待休学的方式，就像传统学生看待海外交换一样。与其出国学习、旅行和参加派对，越来越多莱斯大学的学生创业者选择休学一学期，专注创业。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国：苏丹无人机袭击三个月致近900平民死亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260511-9031517</id>
+        <link href="https://www.zaobao.com/news/world/story20260511-9031517"/>
+        <updated>2026-05-11T10:40:01.000Z</updated>
+        <summary type="html"><![CDATA[联合国说，今年1月至4月期间，苏丹境内的无人机袭击造成至少880名平民死亡。
+法新社报道，联合国人权事务高级专员办事处（简称人权高专办）星期一（5月11日）在一份声明中说，人权高专办苏丹工作组已确定：“今年1月至4月期间，无人机袭击造成至少880名平民死亡，占所有冲突相关平民死亡人数的80%以上。”
+人权事务高级专员特克强调，武装无人机现已成为苏丹平民死亡的主要原因。
+自2023年4月以来，苏丹武装部队与准军事组织快速支援部队（RSF）爆发武装冲突，至今仍未平息。随着战乱持续，苏丹境内针对平民、市场、医院等非军事目标的无人机袭击频发，造成大量平民死亡，数百万人流离失所。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -384,41 +626,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗媒体公布德黑兰回应美方要点]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9028115</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9028115"/>
-        <updated>2026-05-11T01:50:06.000Z</updated>
-        <summary type="html"><![CDATA[新华社引述伊朗塔斯尼姆通讯社星期天（5月10日）报道，伊朗知情人士透露德黑兰回应美方的要点，其中包括要求美国财政部外国资产控制办公室在30天内撤销与伊朗石油销售的相关制裁。
-报道称，美国《华尔街日报》报道提到的伊朗回应在一些重要方面与事实不符，尤其是核问题相关内容。伊朗的回应强调，必须通过政治谅解达成协议，立即结束战争、确保不再对伊朗发动攻击，且美国必须取消制裁。
-伊朗的回应还涉及如果美国兑现某些承诺，伊朗对霍尔木兹海峡管控的变化。
-这名知情人士说，伊朗强调，在签署初步谅解协议后，美方须立即解除对伊海上封锁，且在30天内解除对伊石油销售的制裁。伊朗的回应还包括在双方达成初步谅解的基础上美方解冻伊朗资产，以及美方在30天内落实某些措施等。
-据《华尔街日报》早先报道，伊朗已就美国为结束战争提出的最新方案作出了一份长达数页的回应。伊朗在回应中提议结束战事，在美国解除海上封锁的同时，伊朗逐步开放霍尔木兹海峡，并在接下来的30天内谈判核问题。 
-《华尔街日报》称，伊朗表示愿意暂停铀浓缩活动，但暂停的期限比美国提议的20年时间要短。伊朗还拒绝拆除核设施。
-此外，伊朗提议将它的部分高浓缩铀稀释，并将剩余部分转移至第三国，但若谈判失败或美国在后续阶段退出协议，第三国须将浓缩铀归还伊朗。
-伊朗媒体10日早些时候报道，伊朗已向巴基斯坦调解方正式提交了对美国旨在结束战争的最新方案的回应。
-美国总统特朗普随后在社媒平台Truth Social发文说：“我刚看了伊朗那些所谓‘代表’的回应，我不满意——完全不可接受。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逾40国11日聚首 商讨英法牵头霍尔木兹海峡护航计划]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027974</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027974"/>
-        <updated>2026-05-11T01:14:23.000Z</updated>
-        <summary type="html"><![CDATA[超过40个国家星期一（5月11日）举行会议，概述各自将如何为一项由欧洲主导、旨在护送船只通过霍尔木兹海峡的军事计划做出贡献。这项行动将在美国和伊朗达成一项稳定的停火协议后展开。 
-彭博社报道，与会各国预计将提供排雷、护航、空中巡逻能力，作为由英国和法国领导的防御性海军任务的一部分，目的在于增强商船对通过这条关键水道的信心。
-英国国防部长希利说：“我们正在将外交协议转化为切实可行的军事计划，以恢复霍尔木兹海峡航运的信心。”
-希利将与法国国防部长鲁弗共同主持11日的会议。
-伊朗副外长加里巴巴迪前一天警告，任何此类计划将被视为美以对伊朗战争的升级，并将遭到伊朗的军事回应。
-加里巴巴迪在X平台发文说：“任何以‘保护航运’为名的域外军事部署，都无异于加剧危机，将这一关键水道军事化。只有伊朗能够保障这条海峡的安全，且不允许任何国家干涉。”
-他说，伊朗的回应将是“果断而迅速的”。
-伊朗10日向巴基斯坦调解方正式提交了对美国旨在结束战争的最新方案的回应。但美国总统特朗普称伊朗的最新回应“完全不可接受”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年5月推荐]]></title>
         <id>/archives/2026nian-5yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
@@ -426,188 +633,6 @@
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月11日 游戏下载吧 一款免费下载PC游戏的网站 COCO Downloader @投稿 聚合了多个音悦搜索源，还不错，但是需要自己下GitHub的源码来运行 5月9日 神人高校网 收录了2000+高校，不看学术排名，只看真实的评价 源仓 @投稿 一个源仓库 5月8日]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊谈判受挫 国际油价显著上涨]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027887</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027887"/>
-        <updated>2026-05-11T00:27:39.000Z</updated>
-        <summary type="html"><![CDATA[由于美国与伊朗和平谈判受挫推高市场风险溢价，国际原油期货价格在星期天（5月10日）晚些时候开始新一周交易时显著上涨。 
-新华社报道，截至美东时间10日晚上7时10分（新加坡时间11日早上7时10分），纽约商品交易所6月交货的轻质原油期货价格上涨2.91美元至每桶98.33美元（约124.68新元），涨幅为3.05%；7月交货的伦敦布伦特原油期货价格上涨3.13美元至每桶104.42美元，涨幅为3.09%。
-美国总统特朗普10日在社媒平台Truth Social发文说，他对伊朗方面的回应不满意，称“完全不可接受”。 
-据伊朗新闻电视台10日晚报道，伊朗已拒绝美国提出的方案，认为同意美国方案将意味着伊朗屈从于特朗普的过分要求。
-美国与伊朗于新加坡时间4月8日实现停火后，双方谈判多次反复，市场对双方很快达成协议和霍尔木兹海峡恢复通航的乐观预期受挫。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内坦亚胡：美以伊战争尚未结束 伊朗浓缩铀必须移除]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027853</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027853"/>
-        <updated>2026-05-11T00:09:31.000Z</updated>
-        <summary type="html"><![CDATA[以色列总理内坦亚胡说，美国和以色列对伊朗的战争“尚未结束”，因为伊朗仍有核材料需要清除。 
-彭博社报道，内坦亚胡接受美国哥伦比亚广播公司（CBS）《60分钟》节目访问时，被问及伊朗的高浓缩铀，他说：“必须进去，移除这些东西。”
-内坦亚胡说：“那里还有（高浓缩铀），我们还有工作未完成。”
-当被问及美国或以色列特种部队是否会进入伊朗清除核材料时，内坦亚胡拒绝做进一步说明。他仅说，美国总统特朗普曾表示希望进入伊朗。
-内坦亚胡告诉CBS：“我认为派地面部队是可行的。这不成问题，这是一项极其重要的任务。”
-他说，最佳方案就是与伊朗达成一项核材料协议。
-伊朗星期天（5月10日）向巴基斯坦调解方正式提交了对美国旨在结束战争的最新方案的回应。但特朗普称伊朗的最新回应“完全不可接受”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美媒：一艘美国商船在波斯湾遭伊朗无人机袭击]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027813</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027813"/>
-        <updated>2026-05-10T23:42:07.000Z</updated>
-        <summary type="html"><![CDATA[美国媒体称，一艘美国商船星期天（5月10日）在波斯湾遭到伊朗两架无人机袭击。
-新华社引述福克斯新闻数码网报道，消息人士说，遇袭美国商船被其中一架无人机击中，船上有23名船员，暂无人员受伤报告。
-报道说，遭遇袭击时，这艘船没有装载货物，停泊在卡塔尔多哈港附近。
-英国海上贸易行动办公室10日称，根据收到的报告，一艘货船在卡塔尔首都多哈附近海域行驶时，被一枚不明飞行物击中起火。
-伊朗媒体报道，在卡塔尔附近海域被击中的货船悬挂美国国旗。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊媒称美国提案“过分” 伊朗不会取悦美国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027747</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027747"/>
-        <updated>2026-05-10T23:36:54.000Z</updated>
-        <summary type="html"><![CDATA[伊朗一知情人士说，伊朗不会为了取悦美国而制定计划，只会为了维护伊朗人民的权益而制定计划。伊朗媒体称接受美国提案的过分要求，等于向美国总统特朗普“屈服”。 
-伊朗塔斯尼姆通讯社星期一（5月11日）引述这名知情人士说，当特朗普不满意时，“通常反而更好”。特朗普不愿面对现实，这是他屡次败给伊朗的原因。
-特朗普10日在社交媒体上发文说，他刚看了伊朗“那些所谓代表”对美国和平方案的最新回应，特朗普说：“我不满意——完全不可接受。” 
-路透社引述伊朗国家媒体报道，伊朗通过巴基斯坦调解方正式提交给美国的最新方案，强调美国必须赔偿伊朗的战争损失，以及伊朗对霍尔木兹海峡的主权。 
-伊朗国家媒体指，伊朗接受特朗普的过分要求意味着向他投降。
-伊朗政府运营的英语新闻电视台Press TV也称，伊朗接受美国提案等于向特朗普屈服，并指伊朗已拒绝了美国的提案。
-伊朗媒体10日早前报道，伊朗向巴基斯坦调解方正式提交了对美国旨在结束战争的最新方案的回应。
-伊朗塔斯尼姆通讯社同日报道，知情人士说，伊朗在最新回应中，要求美国财政部外国资产控制办公室在30天内撤销与伊朗石油销售相关的制裁。
-另据《华尔街日报》早前报道，伊朗提议将部分高浓缩铀库存转移给第三国，但拒绝拆除核设施。伊朗半官方通讯社塔斯尼姆通讯社指《华尔街日报》的报道“不属实”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗对美国和平方案回应 特朗普称完全不可接受]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9027708</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9027708"/>
-        <updated>2026-05-10T22:37:56.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普称伊朗对美国和平方案的最新回应“完全不可接受”。 
-特朗普星期天（5月10日）在社媒平台Truth Social发文说：“我刚看了伊朗那些所谓‘代表’的回应，我不满意——完全不可接受。”
-彭博社报道，特朗普发表上述言论后，美元兑其他主要货币延续了涨势。
-伊朗媒体当天早前报道，伊朗已向巴基斯坦调解方正式提交了对美国旨在结束战争的最新方案的回应。 
-伊朗塔斯尼姆通讯社10日引述知情人士称，伊朗在最新的回应中，要求美国财政部外国资产控制办公室在30天内撤销与伊朗石油销售相关的制裁。
-《华尔街日报》早前报道，伊朗提议将部分高浓缩铀库存转移给第三国，但拒绝拆除核设施。
-伊朗半官方通讯社塔斯尼姆通讯社称《华尔街日报》的报道“不属实”，伊朗的提议包括立即结束战争，解冻伊朗资产，停止美国对伊朗的海上封锁，保证不再对伊朗发动袭击，以及解除对伊朗的制裁，包括美国对伊朗销售石油的禁令。 
-另据路透社引述伊朗国家媒体称，伊朗的回应重点在于结束所有战线的战争，尤其是黎巴嫩的战争，并确保霍尔木兹海峡航运安全，但没有说明这条重要水道将如何或在何时重新开放。
-特朗普曾提议伊朗允许船只通过霍尔木兹海峡，而华盛顿在下个月解除对伊朗港口的封锁，随后举行核谈判。
-新西兰银行策略师王杰森说：“特朗普拒绝伊朗最新的和平计划，导致本周开局市场呈现‘避险’情绪，扭转了上周的部分价格走势。这种趋势可能会持续到早盘交易。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：两周内可打击伊朗“每一个目标”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260510-9027297</id>
-        <link href="https://www.zaobao.com/news/world/story20260510-9027297"/>
-        <updated>2026-05-10T15:52:55.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，只需两周时间就能打击伊朗境内的“每一个目标”，并称伊朗已“在军事上被击败”。
-特朗普上周接受独立记者阿特基森的采访，这段访问于星期天（5月10日）播出。
-据报道，特朗普还称北约是“纸老虎”，并指责美国的盟友未能协助打击德黑兰的行动。
-特朗普在采访中称：“他们在军事上已被击败。在他们自己看来，也许他们不知道这一点。但我认为他们心里清楚。”
-他补充说：“但这并不意味着他们已经完蛋了。”
-伊朗媒体稍早前报道，伊朗已就美国关于结束美伊冲突的最新提议作出回应。
-特朗普暗示，美军可以再进行两周行动，打击伊朗境内的每一个目标。“我们有想要打击的特定目标，我们大概完成了70%，但还有其他可能打击的目标。但即使我们不这么做，你知道，那也只是收尾工作。”
-关于北约，他说这个联盟“已被证明是纸老虎。他们并没有提供帮助”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗据报已回应美国方案 着重结束战争保障海运安全]]></title>
-        <id>https://www.zaobao.com/news/world/story20260510-9027052</id>
-        <link href="https://www.zaobao.com/news/world/story20260510-9027052"/>
-        <updated>2026-05-10T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[（德黑兰/华盛顿综合电）伊朗已通过调解方巴基斯坦，回应美国的最新停战方案。与此同时，伊朗不断强调对霍尔木兹海峡的牢固控制，凸显这个谈判筹码的重要性。 
-伊朗军方警告，配合美国对伊朗实施制裁的国家，将在通过霍尔木兹海峡时面临困难；针对伊朗油轮和商船的侵犯行为，也将招致对中东地区美国目标的猛烈打击。 
-伊朗伊斯兰共和国通讯社（IRNA）星期天（5月10日）报道，伊朗已向巴基斯坦提交对美国谈判方案的回应。据伊朗学生通讯社（ISNA）报道，伊朗的回应着重于结束战争，以及保障波斯湾与霍尔木兹海峡海上交通安全。
-IRNA星期天稍早时引述伊朗军方发言人的话说，伊朗已在海峡建立一套新的法律和安全体系，今后任何想要通过海峡的船只都必须与伊朗协调。
-发言人还警告：“那些顺从美国，对伊朗实施制裁的国家，必定会在穿越霍尔木兹海峡时面临困难。”
-此前一天，伊朗议会国家安全和外交政策委员会主席阿齐兹也在社媒上写道：“我们警告各国政府，包括巴林这样的微型国家，支持美国推动的决议将带来严重后果。霍尔木兹海峡是至关重要的生命线；不要亲手关死它的大门。”
-据法新社报道，美国和巴林起草一份联合国安理会决议，要求伊朗停止限制霍尔木兹海峡航运。
-阿齐兹星期天再度发文称：“从今天起，我们的克制已终结。任何针对我们船只的袭击，都将引发伊朗对美国船只和基地强烈而果断的回应。”
-伊朗伊斯兰革命卫队海军周六（9日）也在社交媒体平台发文警告，任何针对伊朗油轮和商船的侵犯行为，都将招致对地区内美国中心与敌方船只的猛烈打击。
-卡塔尔外交部星期天说，卡塔尔首相穆罕默德与阿拉格齐通电话时告诫，把霍尔木兹海峡当作施压工具，只会加剧波斯湾危机。
-
-伊媒：穆杰塔巴先后会见军方司令与总统
-
-伊朗法尔斯通讯社同日报道，伊朗最高领袖穆杰塔巴会见了伊朗武装部队哈塔姆安比亚中央总部司令阿卜杜拉希，向他下达新的指令。
-据报道，穆杰塔巴赞扬军队，并宣布新的措施和行动方案，以继续有力地打击敌人。
-阿卜杜拉希说，伊朗部队处于高度戒备状态，如果敌人出现任何战略错误、侵略或攻击行为，伊朗将迅速做出强有力的应对。
-报道没有说明穆杰塔巴下达的具体措施指令，以及两人是何时会面。
-穆杰塔巴在战争爆发初期受伤，至今未公开露面。伊朗总统佩泽希齐扬周四（7日）透露，他和穆杰塔巴会晤两个半小时，是首次有伊朗高官面对面会见这名新任最高领袖。 
-美国有线电视新闻网（CNN）日前报道，美国情报部门认为，尽管伊朗政权内部四分五裂，决策权归属不明，但穆杰塔巴很可能正与伊朗高级官员一道，在制定战争战略方面发挥关键作用。
-
-CNN：伊朗超强硬派系图破坏谈判
-
-CNN在周六的另一篇分析文章中称，随着美伊谈判进入关键阶段，伊朗超强硬派系“坚韧阵线”（Jebhe-ye Paydari）正试图破坏谈判，阻止协议达成。
-坚韧阵线人数虽少但具有影响力，成员自诩为1979年伊斯兰革命价值观的守护者，观察员经常形容他们是“超级革命分子”。
-这个派系把抵抗美国和以色列视为永无止境的斗争。许多成员认为，仅仅是考虑达成协议就等于投降。
-过去一个月，伊朗官员一直小心翼翼地在与美国总统特朗普谈判，以及安抚国内各派系之间取得平衡。在伊朗领导层试图对外展现团结之际，坚韧阵线却在媒体、议会和街头加大反对声量，甚至指责伊朗谈判人员通敌叛国。
-据报道，坚韧阵线的激进立场，以及试图制造分裂的做法，让伊朗保守强硬派都视它为边缘派别，也使得它日益受到孤立。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波兰前司法部长遭通缉 疑从匈牙利逃往美国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260510-9027103</id>
-        <link href="https://www.zaobao.com/news/world/story20260510-9027103"/>
-        <updated>2026-05-10T14:35:22.000Z</updated>
-        <summary type="html"><![CDATA[波兰媒体报道，波兰前司法部长焦布罗在国内面临多项刑事指控而被通缉，并被指已从匈牙利逃往美国。
-法新社报道，焦布罗（Zbigniew Ziobro）去年获得匈牙利欧尔班政府的庇护。
-波兰对焦布罗的指控包括滥用职权、领导有组织犯罪集团，以及涉嫌挪用本应用于犯罪受害者的资金购买以色列“飞马”间谍软件以监控政治对手，并可能面临最高25年的监禁。
-欧尔班领导的政党上个月在选举中败选后，　匈牙利新任总理马扎尔说，匈牙利将不在庇护其他国家通缉的人。
-波兰右翼媒体Republika星期天（5月10日）报道称，焦布罗身在美国。当地媒体公布一张据称是焦布罗在纽约机场的照片。
-波兰国家检察官办公室在社媒发文称，他们没有资料“证实嫌疑人……已经离开申根区”，并指“正在持续核实所有相关信息”。
-波兰司法部长祖雷克告诉波兰媒体，如果确认焦布罗身在美国，那么波兰将要求引渡他。
-焦布罗于2015年到2023年间担任司法部长兼总检察长。报道指，焦布罗曾任波兰极右翼政党“团结波兰”党魁，他在任期间主导了极具争议的司法改革，曾导致波兰与欧盟的关系长期恶化。
-焦布罗否认针对他的指控，并称波兰政府对保守派进行“政治迫害”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洪迪厄斯号首批疏散乘客 已飞往马德里接受隔离]]></title>
-        <id>https://www.zaobao.com/news/world/story20260510-9026779</id>
-        <link href="https://www.zaobao.com/news/world/story20260510-9026779"/>
-        <updated>2026-05-10T14:10:08.000Z</updated>
-        <summary type="html"><![CDATA[（格拉纳迪利亚德阿沃纳综合电）暴发汉坦病毒疫情游轮上的一批乘客，已从西班牙加那利群岛飞往马德里接受隔离观察。
-荷兰泛海探险公司的豪华游轮洪迪厄斯号（MV Hondius）暴发汉坦病毒疫情，三名乘客死亡。经过数日协调，船上首批撤离的乘客于星期天（5月10日）乘军机离开加那利群岛的特内里费岛，前往西班牙首都马德里。
-政府官员说，这批乘客目前没有出现任何病毒症状。不过，他们仍须在马德里的军事医院接受隔离观察。
-汉坦病毒通常由啮齿类动物传播，但在极少数情况下也可人传人。
-西班牙卫生部的报告说：“根据登船专家提供的信息，船上卫生和环境条件良好，且未发现啮齿类动物，因此通过接触船上啮齿类动物而感染的可能性不大。”
-洪迪厄斯号的乘客来自多个国家，第一批从船上撤离的是西班牙籍乘客。比利时、法国、德国、爱尔兰、美国、英国和荷兰等国，也已确认派飞机撤离本国公民。
-另据世界卫生组织星期五（8日）发布的通报，这次与邮轮相关的疫情已累计报告八例病例，包括三例死亡病例。流行病学调查显示，首例感染者可能是在阿根廷和智利旅行期间，接触受感染啮齿动物后染病，随后在邮轮上出现有限的人际传播。
-欧洲公共卫生机构建议，作为预防措施，船上所有乘客都视为高风险接触者，但普通人群面临的风险仍然较低。世卫组织则建议，自星期天起对船上乘客实施为期42天的隔离。
-世卫组织总干事谭德塞已到特内里费岛，他呼吁当地民众保持冷静，强调“这不是另一场冠病疫情”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国财长将访问日本韩国进行短暂会晤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260510-9026970</id>
-        <link href="https://www.zaobao.com/news/world/story20260510-9026970"/>
-        <updated>2026-05-10T13:48:53.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普访华前，美国财长贝森特将于星期一启程，前往日本和韩国进行一系列短暂会晤。
-路透社报道，贝森特星期天（5月10日）在社媒发文说，他将于星期二在东京会见日本首相高市早苗，并于星期三在首尔会见中国副总理何立峰。
-据报道，特朗普预计下周访华与中国国家主席习近平会面。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
