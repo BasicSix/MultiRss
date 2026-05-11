@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T19:10:09.086Z</updated>
+    <updated>2026-05-11T03:52:24.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1502,19 +1502,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[Andy Weir is the bestselling author of The Martian and Project Hail Mary. He’s known for weaving deep, carefully researched science into his novels, building intricate sci-fi worlds that have captivated millions of readers. But here’s a plot twist: Andy doesn’t actually love the act of writing itself – so how does he motivate himself to do it anyway? Adam talks with Andy about the creative process, the skills involved in discarding bad ideas, finding joy in worldbuilding and research, and why you should never be writing with a sequel in mind. 
 
 This episode originally aired on ReThinking in 2023.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A whale’s-eye-view of the ocean | Eric Stackpole]]></title>
-        <id>69d67d0f02639f375c6318ac</id>
-        <link href="http://go.ted.com/ericstackpole"/>
-        <updated>2026-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A hand-built camera with suction cups captured something no one had ever seen: two sperm whales communicating and swimming together in the deep ocean. Engineer Eric Stackpole shares the story of how a scrappy, DIY tool revealed this intimate glimpse into the lives of these giants — and makes the case that the only limit to what we can discover is what we're curious enough to explore.
 Learn more about our flagship conference happening this April at attend.ted.com/podcast
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

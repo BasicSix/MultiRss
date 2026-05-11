@@ -833,24 +833,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69d67d0f02639f375c6318ac",
-          "author": null,
-          "description": "A hand-built camera with suction cups captured something no one had ever seen: two sperm whales communicating and swimming together in the deep ocean. Engineer Eric Stackpole shares the story of how a scrappy, DIY tool revealed this intimate glimpse into the lives of these giants — and makes the case that the only limit to what we can discover is what we're curious enough to explore.\nLearn more about our flagship conference happening this April at attend.ted.com/podcast\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/ericstackpole",
-          "publishedOn": "2026-04-11T15:00:00.000Z",
-          "wordCount": null,
-          "title": "A whale’s-eye-view of the ocean | Eric Stackpole",
-          "itunes": {
-            "duration": "26:39"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69d67d0f02639f375c6318ac/media.mp3",
-            "length": "39628584",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
