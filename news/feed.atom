@@ -2,198 +2,432 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T08:46:06.814Z</updated>
+    <updated>2026-05-12T14:33:18.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Bring Food for Babies]]></title>
-        <id>1x-3578263</id>
-        <link href="https://1x.com/photo/3578263"/>
-        <updated>2026-05-12T08:45:20.902Z</updated>
-        <summary type="html"><![CDATA[Bring Food for Babies by Wanghan Li]]></summary>
+        <title type="html"><![CDATA[Huian Lady and Sun Light]]></title>
+        <id>1x-3577767</id>
+        <link href="https://1x.com/photo/3577767"/>
+        <updated>2026-05-12T14:32:32.371Z</updated>
+        <summary type="html"><![CDATA[Huian Lady and Sun Light by Jiahong Zeng]]></summary>
         <author>
-            <name>Wanghan Li</name>
+            <name>Jiahong Zeng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circles within Circles]]></title>
-        <id>1x-3576399</id>
-        <link href="https://1x.com/photo/3576399"/>
-        <updated>2026-05-12T08:45:20.888Z</updated>
-        <summary type="html"><![CDATA[Circles within Circles by Linda Wride]]></summary>
+        <title type="html"><![CDATA[Tidal Trees 2]]></title>
+        <id>1x-3578226</id>
+        <link href="https://1x.com/photo/3578226"/>
+        <updated>2026-05-12T14:32:32.362Z</updated>
+        <summary type="html"><![CDATA[Tidal Trees 2 by Aidong Ning]]></summary>
         <author>
-            <name>Linda Wride</name>
+            <name>Aidong Ning</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[W260537]]></title>
-        <id>1x-3532129</id>
-        <link href="https://1x.com/photo/3532129"/>
-        <updated>2026-05-12T08:45:20.883Z</updated>
-        <summary type="html"><![CDATA[W260537 by Allen SDCA]]></summary>
+        <title type="html"><![CDATA[El max]]></title>
+        <id>1x-3579775</id>
+        <link href="https://1x.com/photo/3579775"/>
+        <updated>2026-05-12T14:32:32.356Z</updated>
+        <summary type="html"><![CDATA[El max by Ahmed Fahmy]]></summary>
         <author>
-            <name>Allen SDCA</name>
+            <name>Ahmed Fahmy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Listen to Me Kid]]></title>
-        <id>1x-3579451</id>
-        <link href="https://1x.com/photo/3579451"/>
-        <updated>2026-05-12T08:45:20.876Z</updated>
-        <summary type="html"><![CDATA[Listen to Me Kid by Jun Zuo]]></summary>
+        <title type="html"><![CDATA[Living Light]]></title>
+        <id>1x-3563426</id>
+        <link href="https://1x.com/photo/3563426"/>
+        <updated>2026-05-12T14:32:32.350Z</updated>
+        <summary type="html"><![CDATA[Living Light by Danny O]]></summary>
         <author>
-            <name>Jun Zuo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3579509</id>
-        <link href="https://1x.com/photo/3579509"/>
-        <updated>2026-05-12T08:45:20.870Z</updated>
-        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
-        <author>
-            <name>Dan Gdalevitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[רואים בקטן]]></title>
-        <id>1x-3577621</id>
-        <link href="https://1x.com/photo/3577621"/>
-        <updated>2026-05-12T08:45:20.864Z</updated>
-        <summary type="html"><![CDATA[רואים בקטן by Miki Meir Levi]]></summary>
-        <author>
-            <name>Miki Meir Levi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Echoes]]></title>
-        <id>1x-3578387</id>
-        <link href="https://1x.com/photo/3578387"/>
-        <updated>2026-05-12T08:45:20.856Z</updated>
-        <summary type="html"><![CDATA[Silent Echoes by Hazem Swidan]]></summary>
-        <author>
-            <name>Hazem Swidan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is KEIRIN]]></title>
-        <id>1x-3578680</id>
-        <link href="https://1x.com/photo/3578680"/>
-        <updated>2026-05-12T08:45:20.833Z</updated>
-        <summary type="html"><![CDATA[This is KEIRIN by 玉島]]></summary>
-        <author>
-            <name>玉島</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crimson in the Blue Dunes]]></title>
-        <id>1x-3547548</id>
-        <link href="https://1x.com/photo/3547548"/>
-        <updated>2026-05-12T08:45:20.814Z</updated>
-        <summary type="html"><![CDATA[Crimson in the Blue Dunes by Mei Xu]]></summary>
-        <author>
-            <name>Mei Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving Orchid, Number 1]]></title>
-        <id>1x-3578560</id>
-        <link href="https://1x.com/photo/3578560"/>
-        <updated>2026-05-12T08:45:20.808Z</updated>
-        <summary type="html"><![CDATA[Moving Orchid, Number 1 by Bob Rickert]]></summary>
-        <author>
-            <name>Bob Rickert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boueni spirit]]></title>
-        <id>1x-3571940</id>
-        <link href="https://1x.com/photo/3571940"/>
-        <updated>2026-05-12T08:45:20.778Z</updated>
-        <summary type="html"><![CDATA[Boueni spirit by Serge Melesan]]></summary>
-        <author>
-            <name>Serge Melesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucuz hayatlar]]></title>
-        <id>1x-3578664</id>
-        <link href="https://1x.com/photo/3578664"/>
-        <updated>2026-05-12T08:45:20.769Z</updated>
-        <summary type="html"><![CDATA[Ucuz hayatlar by Mehmet ÇAP]]></summary>
-        <author>
-            <name>Mehmet ÇAP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Threshold of Curiosity]]></title>
-        <id>1x-3540545</id>
-        <link href="https://1x.com/photo/3540545"/>
-        <updated>2026-05-12T08:45:20.754Z</updated>
-        <summary type="html"><![CDATA[The Threshold of Curiosity by Lipinghu]]></summary>
-        <author>
-            <name>Lipinghu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slavonian Grebe]]></title>
-        <id>1x-3578564</id>
-        <link href="https://1x.com/photo/3578564"/>
-        <updated>2026-05-12T08:45:20.748Z</updated>
-        <summary type="html"><![CDATA[Slavonian Grebe by Gunnar Thor]]></summary>
-        <author>
-            <name>Gunnar Thor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban Infinity]]></title>
-        <id>1x-3577697</id>
-        <link href="https://1x.com/photo/3577697"/>
-        <updated>2026-05-12T08:45:20.741Z</updated>
-        <summary type="html"><![CDATA[Urban Infinity by Weber Marius]]></summary>
-        <author>
-            <name>Weber Marius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boiling Faith]]></title>
-        <id>1x-3578716</id>
-        <link href="https://1x.com/photo/3578716"/>
-        <updated>2026-05-12T08:45:20.726Z</updated>
-        <summary type="html"><![CDATA[Boiling Faith by Adi Gonik]]></summary>
-        <author>
-            <name>Adi Gonik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midnight call 2]]></title>
-        <id>1x-3579507</id>
-        <link href="https://1x.com/photo/3579507"/>
-        <updated>2026-05-12T08:45:20.707Z</updated>
-        <summary type="html"><![CDATA[Midnight call 2 by Adrian Donoghue]]></summary>
-        <author>
-            <name>Adrian Donoghue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Braided River 002]]></title>
-        <id>1x-3579391</id>
-        <link href="https://1x.com/photo/3579391"/>
-        <updated>2026-05-12T08:45:20.506Z</updated>
-        <summary type="html"><![CDATA[Braided River 002 by Rob Darby]]></summary>
-        <author>
-            <name>Rob Darby</name>
+            <name>Danny O</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3564700</id>
-        <link href="https://1x.com/photo/3564700"/>
-        <updated>2026-05-12T08:45:20.433Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <id>1x-3571221</id>
+        <link href="https://1x.com/photo/3571221"/>
+        <updated>2026-05-12T14:32:32.334Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dirk Koster]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Dirk Koster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare Fiat...]]></title>
+        <id>1x-3568377</id>
+        <link href="https://1x.com/photo/3568377"/>
+        <updated>2026-05-12T14:32:32.329Z</updated>
+        <summary type="html"><![CDATA[Rare Fiat... by Peter Elling-Jordt]]></summary>
+        <author>
+            <name>Peter Elling-Jordt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axel jump]]></title>
+        <id>1x-3579614</id>
+        <link href="https://1x.com/photo/3579614"/>
+        <updated>2026-05-12T14:32:32.318Z</updated>
+        <summary type="html"><![CDATA[Axel jump by Kazutoshi Ono]]></summary>
+        <author>
+            <name>Kazutoshi Ono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microchip city - the Royal Palace]]></title>
+        <id>1x-3579640</id>
+        <link href="https://1x.com/photo/3579640"/>
+        <updated>2026-05-12T14:32:32.313Z</updated>
+        <summary type="html"><![CDATA[microchip city - the Royal Palace by Udo Dittmann]]></summary>
+        <author>
+            <name>Udo Dittmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leftward extension]]></title>
+        <id>1x-3580640</id>
+        <link href="https://1x.com/photo/3580640"/>
+        <updated>2026-05-12T14:32:32.298Z</updated>
+        <summary type="html"><![CDATA[Leftward extension by MingLun Tsai (蔡明倫)]]></summary>
+        <author>
+            <name>MingLun Tsai (蔡明倫)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[foggy world]]></title>
+        <id>1x-3579809</id>
+        <link href="https://1x.com/photo/3579809"/>
+        <updated>2026-05-12T14:32:32.289Z</updated>
+        <summary type="html"><![CDATA[foggy world by swapnil deshpande]]></summary>
+        <author>
+            <name>swapnil deshpande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scenery_11]]></title>
+        <id>1x-3579674</id>
+        <link href="https://1x.com/photo/3579674"/>
+        <updated>2026-05-12T14:32:32.233Z</updated>
+        <summary type="html"><![CDATA[scenery_11 by yein]]></summary>
+        <author>
+            <name>yein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflection in Silence]]></title>
+        <id>1x-3579604</id>
+        <link href="https://1x.com/photo/3579604"/>
+        <updated>2026-05-12T14:32:32.222Z</updated>
+        <summary type="html"><![CDATA[Reflection in Silence by David Manusevich]]></summary>
+        <author>
+            <name>David Manusevich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The old maestro]]></title>
+        <id>1x-3579752</id>
+        <link href="https://1x.com/photo/3579752"/>
+        <updated>2026-05-12T14:32:32.153Z</updated>
+        <summary type="html"><![CDATA[The old maestro by Sebastian Ahlström]]></summary>
+        <author>
+            <name>Sebastian Ahlström</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awakening in Frost and Gold]]></title>
+        <id>1x-3579762</id>
+        <link href="https://1x.com/photo/3579762"/>
+        <updated>2026-05-12T14:32:32.146Z</updated>
+        <summary type="html"><![CDATA[Awakening in Frost and Gold by Danilo Bausano]]></summary>
+        <author>
+            <name>Danilo Bausano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave Balconies]]></title>
+        <id>1x-3573056</id>
+        <link href="https://1x.com/photo/3573056"/>
+        <updated>2026-05-12T14:32:32.001Z</updated>
+        <summary type="html"><![CDATA[Wave Balconies by Jasmine Zhang]]></summary>
+        <author>
+            <name>Jasmine Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swamp forest]]></title>
+        <id>1x-3579787</id>
+        <link href="https://1x.com/photo/3579787"/>
+        <updated>2026-05-12T14:32:31.986Z</updated>
+        <summary type="html"><![CDATA[Swamp forest by Nel Talen]]></summary>
+        <author>
+            <name>Nel Talen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katia]]></title>
+        <id>1x-3552569</id>
+        <link href="https://1x.com/photo/3552569"/>
+        <updated>2026-05-12T14:32:31.979Z</updated>
+        <summary type="html"><![CDATA[Katia by Yaacov]]></summary>
+        <author>
+            <name>Yaacov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerald Survivor]]></title>
+        <id>1x-3547833</id>
+        <link href="https://1x.com/photo/3547833"/>
+        <updated>2026-05-12T14:32:31.969Z</updated>
+        <summary type="html"><![CDATA[Emerald Survivor by Siyu_Wei APA]]></summary>
+        <author>
+            <name>Siyu_Wei APA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nek Bana]]></title>
+        <id>1x-3556857</id>
+        <link href="https://1x.com/photo/3556857"/>
+        <updated>2026-05-12T14:32:31.952Z</updated>
+        <summary type="html"><![CDATA[Nek Bana by Kieron Long]]></summary>
+        <author>
+            <name>Kieron Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：古巴正在寻求帮助 双方将进行对话]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9038100</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9038100"/>
+        <updated>2026-05-12T14:04:33.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期二说，古巴正在寻求帮助，“我们将进行对话”。
+路透社报道，特朗普星期二（5月12日）在社媒平台上发文说：“没有共和党人曾向我提及古巴，这是一个失败的国家，而且只有一个方向——走下坡路！古巴正在寻求帮助，我们将进行对话！！！与此同时，我正前往中国！”
+对此，白宫和美国国务院，以及古巴政府方面未作出置评。
+1月3日，美国推翻委内瑞拉总统马杜罗后，切断了委内瑞拉对古巴的石油出口。特朗普政府随后对古巴实施了新的金融制裁并扩大了现有制裁范围，同时对古巴进行石油禁运。
+特朗普本周将访华会见中国国家主席习近平。中国已敦促美方立即终止对古巴的封锁和制裁。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫：应对汉坦病毒疫情工作“还未结束”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9037956</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9037956"/>
+        <updated>2026-05-12T13:31:48.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织总干事谭德塞说，涉汉坦病毒疫情游轮洪迪厄斯号人员撤离行动完成后，目前尚未出现更大规模疫情暴发的迹象，但相关应对工作还未结束，预计未来数周仍有可能出现新增病例。
+综合新华社和法新社报道，谭德塞与西班牙首相桑切斯星期二（5月12日）在西班牙首相府蒙克洛亚宫举行联合记者会。
+谭德塞感谢西班牙政府同意接收涉疫游轮并组织人员撤离行动，同时强调目前“工作还未结束”，世卫组织将继续与相关国家紧密合作，追踪撤离人员的健康状况。
+谭德塞说，截至目前已有11例汉坦病毒病例报告，均曾是涉疫游轮上的人员，其中三人死亡；11例病例中有9例已确诊感染汉坦病毒“家族”中的安第斯病毒，另外两起为疑似病例。
+他强调，目前“尚未看到一次更大规模暴发开始的迹象”，世卫组织依然评估此次事件对全球公共卫生造成的风险“总体较低”，但考虑到病毒潜伏期较长，未来数周仍有可能出现新增病例。
+谭德塞说，世卫组织建议，所有从涉疫游轮上撤离的人员，自可能暴露在病毒感染风险的最后一日起，在指定隔离设施或居家接受42天健康监测。
+大多数国家都遵循了世卫组织的指导方针，不过美国疾病控制与预防中心（CDC）说，返回美国的游轮乘客不一定会被隔离。
+谭德塞说：“我希望他们（各国）会遵循我们提出的建议。”
+桑切斯在记者会上说，西班牙协调10架次特别航班，完成了120余名不同国籍人员的疏散工作。
+西班牙卫生部星期一（11日）说，涉疫游轮所有撤离人员均已离开西班牙特内里费岛。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩军携手现代汽车推进“机器人前线化” 应对兵力锐减布局无人作战时代]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9037390</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9037390"/>
+        <updated>2026-05-12T12:12:42.000Z</updated>
+        <summary type="html"><![CDATA[面对人口断崖式下降的冲击，韩国军方正加快引进机器人技术，积极推动军队无人化、智能化转型，以填补兵力空缺，并成为提升战斗力的重要力量。
+韩国《韩国经济新闻》5月10日独家报道，现代汽车集团与韩国陆军总部近期将正式制定包括机器人供应在内的合作方案。双方此前已举行多轮工作会议，重点讨论在侦察、搜索、警戒、补给等非战斗领域部署机器人。这意味着韩军正加快推动军队无人化、智能化转型。
+据报道，此次合作的核心装备之一，是现代汽车旗下波士顿动力（Boston Dynamics）研发的四足步行机器人“Spot”。这款机器人此前已在浦项制铁、SK能源等工业现场执行高危区域巡检任务。由于采用四足步行结构，而非传统轮式或履带方式，即使在山区、泥泞、积雪等复杂地形中，也能稳定移动。
+业界认为，机器人未来在韩军最前线一般前哨（GOP）警戒、海岸监视及山地巡逻等任务中的应用潜力尤为突出。
+除“Spot”外，现代汽车集团的移动平台“MobED”、可穿戴机器人“X-ble Shoulder”等设备，也被列为军方重点研究对象。其中，“MobED”具备自主移动、调节车身高度与倾斜角度等功能，可在士兵难以进入的区域执行侦察、运输与补给任务。类似轮式机器人目前已在俄乌战争中被广泛用于运送弹药、粮食、药品及后送伤员，被视为经过实战验证的无人化装备。
+“X-ble Shoulder”等穿戴机器人，则主要用于减轻士兵负重与体力消耗，以提升长时间任务执行效率。
+分析指出，随着人工智能与自动化技术发展，未来机器人在军队中的角色将逐渐从辅助装备扩展至重要作战支援力量。
+事实上，美中等军事强国也正积极推进军用机器人实战化。美国幽灵机器人公司开发的四足机器人“Vision 60”，目前已在多个空军基地执行警戒与侦察任务，并结合热成像与人工智能（AI）系统，对异常情况进行自主识别与判断。韩国防务企业LIG Nex1也正参与相关技术合作。
+韩军加速推进机器人部署，主要原因是兵力结构正快速萎缩。韩国常备兵力已从2020年的65万人减少至今年约45万人，预计到2040年将进一步降至35万人，仅相当于朝鲜现有兵力的三分之一左右。
+韩国国防部长安圭伯日前还提出，将最前线一般前哨兵力由目前约2万2000人缩减至6000人，并在2040年前全面改组军队结构。
+分析认为，若韩军能够在实战环境中积累机器人运用经验，不仅有助于缓解兵力不足问题，也可能推动韩国军用机器人产业提升全球竞争力。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西班牙一男游轮乘客确诊汉坦病毒 目前出现症状]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9037278</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9037278"/>
+        <updated>2026-05-12T11:57:34.000Z</updated>
+        <summary type="html"><![CDATA[西班牙卫生部星期二（5月12日）说，一名西班牙男子从暴发致命汉坦病毒疫情的游轮上撤离后，检测结果呈阳性，目前已出现症状。
+法新社报道，这名男子是从暴发汉坦病毒疫情的游轮洪迪厄斯号上撤离的120多名乘客和船员之一。此前，船上有三名乘客死亡。
+马德里一家军事医院正在隔离星期天从游轮撤离的14名西班牙人，其中除一人外，其他人的汉坦病毒检测均呈阴性。
+卫生部说：“昨天初步检测汉坦病毒呈阳性的患者已被确诊”，但未透露更多关于这名患者身份的细节。
+声明称：“昨天患者有轻微发烧和轻微呼吸道症状，但目前病情稳定，没有出现明显临床恶化。”
+据法新社对官方数据的统计，在现有患者中，已有七起确诊病例，另有一起疑似病例。
+这种罕见的安第斯病毒变种通常在啮齿动物中传播，但可在人际间传播，目前尚无疫苗或特效疗法。
+不过，卫生官员强调，这种病毒对公众健康的风险较低，并驳斥了将它与冠病疫情相提并论的说法。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李在明政策顾问主张将AI盈利派发人民 引发国内争议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9037131</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9037131"/>
+        <updated>2026-05-12T11:02:06.000Z</updated>
+        <summary type="html"><![CDATA[韩国总统李在明的首席政策幕僚金容范在社媒贴文，主张韩国民众应从半导体业者的巨额利润中分得一份“国民红利”，这番言论在韩国内部引起争议，青瓦台出面澄清帖子纯属个人意见，不涉及政府内部的政策探讨。
+经济学家出身的金容范，是李在明去年中上台后委任的总统秘书室政策室长。他星期一（5月11日）晚间在脸书发表长文，点出韩国经济增长日益专注于高科技基础建设如人工智能（AI），将造成不平等的情况恶化，企业的利润自然会集中于少部分人手中，高科技企业的财富显著增长，而中产阶层则可能被抛在后头。因此，他主张将科技企业赚取的部分巨额利润，以“人民红利”的形式分配出去。
+金容范认为，AI基础设施时代造就的红利“并不只是少数几家企业努力的成果”，而是“整个国家半世纪多以来打造的基础带来的果实”，因此，“这些成果的一部分应当结构性地归还给人民”。
+不过，金容范强调，他发表评论的用意是鼓励各方接受，AI增长趋势造就的赢家所赚来的钱，应当重新分配给那些缺乏AI相关技能或资金的阶层。接下来，各方可根据这个理念来辩论，应当制定哪些具体计划来实现这个目标。
+他列举的例子包括扶持青年创业、为乡区居民和艺术界人士提供针对性的资助，为年长人士提供退休金辅助以及投资于AI教育。
+尽管面对中东战事冲击，韩国经济在今年第一季从去年底的萎缩势头中反弹，增长了1.7%，主要动力来自科技产品如半导体出口的大幅增长。
+金容范在文中点出，韩国正处于全球国家正在面临的趋势前沿，即它的经济体日益受AI增长所主导，越来越多人会被新时代的增长拒于门外，且这个社会现象会与低生育率同时存在。
+他认为，韩国带头找寻适当方式来重新分配AI所带来的盈利，可为全世界提供一个典范，“我们如今所做的抉择，将决定韩国是走回周期性出口导向经济体的老路，还是蜕变成为全新的工业国家。”
+
+外媒指金容范言论导致股市下挫 在野党纷纷抨击
+
+金容范的言论星期二（12日）在韩国引起争议，甚至有外媒将韩国股市当天下挫归咎于此。
+韩国在野党也纷纷抨击，保守派的国民力量党领袖张东赫在脸书贴文，暗讽民主党为“共产党终于露出真面目”，称“如果企业赚很多钱，政府将强抢过来分配出去。”
+改革新党党魁李俊锡批评：“李在明政府对三星电子和SK海力士带动的半导体蓬勃增长完全没有贡献，现在却要把超越公司税的社会责任强加在企业身上。”
+青瓦台于星期二下午发表声明澄清，金容范的言论“纯属个人看法，与青瓦台的内部讨论或检讨无关”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌三日停火结束后 俄军重启无人机袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036248</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036248"/>
+        <updated>2026-05-12T10:41:41.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰官员星期二（5月12日）称，美国斡旋的停火协议失效数小时后，俄罗斯连夜向乌克兰发射了200多架无人机。
+综合路透社和法新社报道，乌克兰和俄罗斯此前同意于5月9日到11日期间停火，美国总统特朗普日前说，希望停火能够延长。尽管停火期间双方均未报告大规模袭击，但都指前线战斗仍持续，互指对方发动无人机袭击和炮击。
+乌克兰外长瑟比加在社媒平台上称，基辅曾提议延长停火，但莫斯科却反而升级了冲突。“我们曾提议莫斯科将部分停火延长至5月11日之后。然而，就在今夜，俄罗斯向乌克兰发射了200多架无人机，袭击了包括一所幼儿园在内的民用基础设施，造成至少六人受伤，一人死亡。”
+乌克兰空军称，自星期一傍晚6时起，俄罗斯共发射216架无人机，其中192架被击落或摧毁。
+克里姆林宫星期二说，为期三天的停火协议结束后，俄军已恢复在乌克兰的军事行动。
+俄罗斯媒体报道，俄罗斯国防部称，过去24小时，防空系统已击落108架无人机。
+俄罗斯总统普京上星期六（9日）在红场举行二战胜利大阅兵后，在发表讲话时暗示战争“即将结束”，但未进一步说明言下之意。
+对此，克里姆林宫发言人佩斯科夫星期二说，现在谈论结束乌克兰战争的“具体细节”还为时过早。
+他说：“和平进程方面积累的基础工作使我们能够说，结局正在临近。但在这种情况下，目前尚无法谈论任何具体细节。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴基斯坦西北部自杀式爆炸案造成九人死]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036676</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036676"/>
+        <updated>2026-05-12T09:53:59.000Z</updated>
+        <summary type="html"><![CDATA[巴基斯坦西北部发生疑似自杀式爆炸袭击，造成9人死、约30人受伤。
+综合路透社和法新社报道，这起爆炸案星期二（5月12日）发生在巴基斯坦西北部开伯尔－普什图省勒吉默尔沃德地区的一处市场。
+当地警方说，爆炸案导致包括两名警察在内的7人死亡、20人受伤。急救机构则称，这起爆炸案造成9人死亡、约30人受伤。
+警方说：“据初步报告，这名疑似自杀式袭击者在引爆身上的炸药之前，曾接近驻守在检查站的两名交通警察。”
+目前，事发区域已被封锁进行调查，尚无组织或个人声称对这次事件负责。
+巴基斯坦西北部上星期六（5月9日）曾发生另一起自杀式袭击事件。有袭击者驾驶装满炸药的车辆冲撞开伯尔－普什图省本努地区的一处警方检查站，武装分子随后对这个检查站发动无人机袭击和地面攻击，造成15名警察丧生。一个名为“巴基斯坦圣战者联盟”的武装组织已宣布对事件负责。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罐式集装箱受困波斯湾 加剧全球工业氦气短缺]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036518</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036518"/>
+        <updated>2026-05-12T09:31:59.000Z</updated>
+        <summary type="html"><![CDATA[全球运载氦气的罐式集装箱严重短缺，已显著推高价格，甚至阻断供应链，导致全球半导体业面临生产中断的风险。
+《日经亚洲》星期二（5月12日）引述业界人士报道，霍尔木兹海峡封堵导致许多用于运载工业气体的罐式集装箱被困在波斯湾地区，可能导致全球半导体业的生产中断。
+这些罐式集装箱须符合严格标准，方可运载极度低温的气体，在全球的供应商屈指可数，占据主导地位的是美国的加德纳低温技术（Gardner Cryogenics）和中国的中集安瑞科（CIMC Enric）。
+中国半导体材料制造商广州广钢气体能源有限公司一名经理向《日经亚洲》指出，氦气的供应被中东战事阻断，但一个更值得关注的隐忧是用于运输氦气的罐式集装箱也短缺，许多都受困于中东地区。
+业内人士受访时称：“就算战争结束，业者逐步开始恢复运作，阻断的情况估计也还会持续一段时期。人们只能等待战争的冲击逐渐淡化，制造商不大可能增加罐式集装箱的生产，因为这需要时间，而大家都不确定战争的冲击会持续多久，因此不愿投入更多生产。”
+美国和卡塔尔是全球前两大氦气生产国，美国占全球产量约43%，卡塔尔占33%。据加拿大科技研究机构TechInsights数据，中东战事已导致卡塔尔至少14%的氦气生产在未来一两年持续受打击。
+俄罗斯是全球第三大氦气出产国，占全球产量约9%，不过它已采取出口限制，以稳住国内供应。
+中国的气体纯化公司大连华邦化学有限公司向《日经亚洲》透露，自美伊战事爆发以来，来自卡塔尔和俄罗斯的氦气供应都受阻断，中国国内的氦气价格已暴涨数倍，一些交易的价格暴涨八九倍，甚至10倍。
+业者说：“大型晶片制造商仍可获得供应，没有议价能力的小型业者则须面对更高价格和断货的挑战。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国燃油价格居高不下 特朗普支持暂停征收汽油税]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036070</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036070"/>
+        <updated>2026-05-12T09:24:55.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普说，他支持暂停征收联邦汽油税，以应对伊朗战争导致燃油价格飙升的问题。不过，此举尚需获得美国国会批准。独立分析员指出，暂停这项税收将使政府每月损失数十亿美元收入，对消费者的实际帮助也不大。
+特朗普周一（5月11日）在白宫接受媒体采访，被问及会否暂停征收联邦汽油税时回应：“是的，我会减免（这项税收）。”
+至于将暂停征税多长时间，他说：“直到情况变得合适为止。”
+共和党籍的密苏里州参议员霍利随后提出一项立法草案，建议暂停征收联邦汽油税与联邦柴油税90天。根据草案，特朗普还可根据经济状况，决定是否把暂停期限再延长三个月。
+美国联邦汽油税和柴油税分别为每加仑18.4美分与24.4美分。截至周一，全美汽油的平均价格已升至每加仑4.52美元。
+共和党人日益担心，他们会因为油价飙高，加剧人民的生活费危机，而在11月中期选举遭到选民惩罚。
+不过，据无党派非营利组织“负责任联邦预算委员会”3月份的估算，暂停征税将导致联邦政府每月损失约35亿美元汽油和柴油税收。
+华盛顿智库“两党政策中心”税务政策主任劳茨则质疑，这项提案能为美国家庭提供多少帮助。他说，与战前相比，现在给一辆汽车加满油须花费额外18至25美元，而豁免联邦汽油税只能节省约2美元。
+特朗普周一承认，民众能因免缴汽油税省下的钱，仅占近期价格涨幅的一小部分，“但这毕竟也是钱”。
+参议院共和党领袖图恩未表明是否支持冻结征税，但他强调重新开放霍尔木兹海峡，才是降低油价的最佳方式。
+路透与益普索周一完成的民调显示，约66%的美国民众认为，特朗普至今未能清楚说明对伊朗战争的目标。
+约63%的受访者说，近期汽油价格上涨，已影响到他们的家庭财务状况，比3月中旬调查时的55%高出八个百分点。四分之三的人认为，特朗普政府对油价上涨负有一定责任。
+与此同时，约有36%的美国人认可特朗普的表现，这较4月底调查时的34%回升两个百分点，但仍低于战前的40%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传阿联酋上月攻打伊朗 愿动用军力保护自身利益]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036282</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036282"/>
+        <updated>2026-05-12T09:22:29.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／迪拜综合电）美国媒体引述消息人士的话透露，阿联酋上月初对伊朗发动了袭击，显示这个被伊朗重点打击的国家如今也直接参与中东战争。
+《华尔街日报》周一（5月11日）报道，阿联酋的军队装备精良，有西方生产的战斗机和监控网络。这次袭击表明，阿联酋愿意动用自身的军事力量，来保护它的经济实力和在中东日益增长的影响力。
+阿联酋官方至今并未公开承认曾攻打伊朗。消息人士透露，阿联酋在4月初袭击伊朗拉万岛（Lavan Island）的一座炼油厂，导致炼油厂发生大火，大部分产能数月无法恢复。
+攻击事件发生时，美伊双方尚未完全落实停火，美国对这次袭击并没有表达不满，还私下欢迎阿联酋和其他愿意参战的波斯湾国家加入行动。
+根据美国能源信息署（EIA）的数据，截至2020年，拉万岛的炼油厂是伊朗第十大炼油厂，每日处理6万桶原油。
+针对有关报道，阿联酋外交部拒绝置评，但表示阿联酋有权利对敌对行为作出反击，包括采取军事行动。美国五角大楼也拒绝置评。
+美国和伊朗是在4月8日停火，《华尔街日报》的报道没有说明攻击的日期。不过，4月8日上午，伊朗国家广播电视台（IRIB）报道称，拉万岛石油设施在当地时间早上10时遭袭击，几个小时后，阿联酋和科威特也遭到导弹和无人机袭击。
+阿联酋称，他们遭到伊朗的17枚导弹和35架无人机的袭击。而科威特军方说，他们的电力厂、海水淡化厂及石油设施都遭袭击。
+中东问题专家埃斯凡迪亚里认为，波斯湾阿拉伯国家直接打击伊朗并成为交战方，具有重要意义，“德黑兰接下来很可能要进一步离间阿联酋和其他努力调解战争的波斯湾国家之间的关系”。
+美伊战争开打前，波斯湾国家曾表示，不会允许其领空或基地被用于发动袭击。但战争爆发后，伊朗立即袭击波斯湾地区人口稠密的地方、能源基础设施和机场，试图增加邻近国家的经济损失和政治代价，并加大美国和以色列继续发动袭击的难度。
+阿联酋是被伊朗重点攻击的国家。伊朗对阿联酋发射了超过2800枚导弹和无人机，数量之多远超包括以色列在内的其他国家。
+美国常驻联合国代表沃尔兹上月初出席以色列常驻联合国代表团在纽约举办的独立日活动时证实，阿联酋使用以色列提供的铁穹（Iron Dome）导弹防御系统，击落来犯的伊朗导弹。
+另外，伊朗议会国家安全与外交政策委员会发言人雷扎伊周二说，如果伊朗再次遭受攻击，伊方会将铀浓缩至纯度高达90％的武器级铀。
+雷扎伊在社交媒体X平台发文称：“如果再次遭受攻击，伊朗的选项之一可能是将铀浓缩至90％。我们将在议会对此进行审查。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面对下台呼声 英国首相斯塔默表明不辞职]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036430</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036430"/>
+        <updated>2026-05-12T09:16:32.000Z</updated>
+        <summary type="html"><![CDATA[据报道，六名英国内阁成员将要求首相斯塔默辞职，但斯塔默表明自己不会辞职。
+路透社报道，英国负责住房、社区及地方政府事务的政务次官法恩布拉星期二（5月12日）宣布辞职，并在社媒发文呼吁英国首相斯塔默“设定有序过渡时间表”。
+据英国《每日电讯报》在星期二举行内阁会议前报道，六名英国内阁成员将要求斯塔默辞职。
+报道引述内阁消息人士称，这六名内阁成员包括内政部长马哈茂德、防长希利、能源部长米利班德、文化部长南迪、外长库珀和卫生部长斯特里廷。
+首相办公室星期二则说，斯塔默在当天举行的内阁会议上表明他不会辞职。
+声明称：“工党有挑战党魁的程序，但该程序尚未启动。国家期望我们继续执政。这就是我正在做的事，也是我们内阁必须做的事。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约快闪展出完整爱泼斯坦文件 还原与特朗普多年友谊]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9035772</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9035772"/>
+        <updated>2026-05-12T08:49:18.000Z</updated>
+        <summary type="html"><![CDATA[（纽约法新电）美国一个倡导透明度的非营利组织在纽约举办快闪展览，完整展出约350万页的爱泼斯坦文件，希望借此“唤醒公众强烈的抗议”。
+主办方将位于曼哈顿下城的翠贝卡（Tribeca）街区的展览现场布置成一个图书馆，命名为“特朗普与爱泼斯坦纪念阅读室”，并将美国司法部公布的已故性罪犯爱泼斯坦案所有3437批文件打印出来，按号码顺序排列在书架上。
+主办方在网站宣称：“当真相被打印出来历历在目，就难以被否认。”
+快展也有一个展区，呈现特朗普与爱泼斯坦之间的长期关系。两人的友谊据报持续数十年，直到2004年因为一宗房地产交易而翻脸。特朗普的名字多次出现在档案文件，但他多次否认自己涉及非法勾当。爱泼斯坦2019年在扣留所待审时死亡，死因被判定为自杀。
+快展的其中一名主办人盖瑞特（David Garrett）接受法新社访问时说，特朗普政府如何处理爱泼斯坦案文件的方式“应当引发公众强烈抗议”，司法部官员被指掩盖了特朗普与爱泼斯坦的关系。
+盖瑞特说：“我们现在尝试做的，就是协助唤起公众的抗议，追究真正的责任。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东战事冲击供应链 日本食品包装“褪色”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260512-9036130</id>
+        <link href="https://www.zaobao.com/news/world/story20260512-9036130"/>
+        <updated>2026-05-12T08:45:25.000Z</updated>
+        <summary type="html"><![CDATA[受中东局势延宕导致印刷油墨原料短缺影响，日本食品企业卡乐比公司决定，暂时将原本使用鲜艳配色设计的14款畅销商品包装改为黑白包装。
+综合路透社和日本媒体报道，卡乐比公司星期二（5月12日）宣布，将暂时把薯片等14款商品的包装改为黑白包装。采用新包装的产品将于5月25日起上架出售。
+公司强调，在无法预判中东局势未来走向的情况下，公司将把稳定供货放在首位。
+作为原油提炼过程中的关键中间产物，石脑油是生产合成树脂和有机溶剂的核心原料，而后两者是彩色印刷油墨的基础成分。受中东局势影响，国际油价上涨导致石脑油供应趋紧，彩色油墨采购尤其困难。
+据日媒报道，目前日本多家食品饮料企业均面临相同问题。伊藤火腿-米久控股公司社长浦田宽之日前称，“今后彩色包装生产可能出现困难，有可能采用黑白简单包装”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -394,259 +628,6 @@
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月12日 在线剪贴板 一个免费在线文本分享与复制工具 60s信息聚合 整合了每日简报、全网热榜、城市天气、实用数据、娱乐内容和常用工具，开源地址 5月11日 游戏下载吧 一款免费下载PC游戏的网站 COCO Downloader @投稿 聚合了多个音悦搜索源，还不错，]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国官员：涉嫌策划暴力袭击卢浮宫的男子被捕]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9033297</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9033297"/>
-        <updated>2026-05-12T01:06:45.000Z</updated>
-        <summary type="html"><![CDATA[法国消息人士透露，一名涉嫌策划暴力袭击，曾以巴黎卢浮宫为突袭目标的男子被捕。
-路透社星期一（5月11日）报道，这名男子27岁，计划加入叙利亚或莫桑比克境内的极端组织伊斯兰国。他曾试图袭击巴黎一家博物馆和犹太社区，但具体袭击目标尚未确定。
-法国《世界报》称，男子上星期四（7日）落网，曾试图袭击卢浮宫和巴黎十六区的犹太社区。
-去年10月，卢浮宫被窃贼盗走价值1亿零200万美元（约1亿2950万新元）的稀世珠宝。2023年10月7日哈马斯武装分子突袭以色列后，以色列对加沙地带发动大规模空袭和地面进攻，此后，法国乃至整个欧洲的反犹太事件飙升至历史新高。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗议长：美国须接受伊朗方案所提伊朗人民权利]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9033209</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9033209"/>
-        <updated>2026-05-12T00:38:14.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰议会议长卡利巴夫说，伊朗武装部队已做好准备，对美国任何新的军事行动予以“应有的”回应。
-《华尔街日报》报道，卡利巴夫星期二（5月12日）凌晨在X平台发表声明称：“错误的战略和错误的决策，必然导致错误的结果。”
-卡利巴夫是德黑兰的高级谈判代表，他表示伊朗已做好应对所有选项的准备，称“他们”将会大感惊讶。
-在另一篇贴文中，卡利巴夫提到伊方4月30日通过巴基斯坦调解方提交的14点谅解备忘录。
-卡利巴夫说：“美国必须接受14点方案所提的伊朗人民各项权利，别无其他选择。”
-他还警告说：“美国越是拖延时间，美国纳税人付出的代价就越大。”
-伊朗强硬派指责在谈判中扮演重要角色的伊朗温和派，包括卡利巴夫，他们认为卡利巴夫过于妥协。
-美国总统特朗普11日说，美国和伊朗的停火协议命悬一线，“严重依赖生命维持设备支撑”。他在白宫椭圆形办公室对记者表示，伊朗的最新回应是“垃圾”，他“甚至没有看完”。
-特朗普未说明美国是否会恢复对伊朗的军事打击，但他此前曾威胁称，如果伊朗领导层不接受美方条件，将采取行动。他在当天早些时候说，正在考虑恢复护航计划以协助船只通过霍尔木兹海峡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克库克预计随特朗普访华 黄仁勋据悉未入名单]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9033155</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9033155"/>
-        <updated>2026-05-12T00:02:29.000Z</updated>
-        <summary type="html"><![CDATA[一名美国官员透露，白宫邀请电动车特斯拉首席执行官马斯克、苹果公司首席执行官库克、波音公司首席执行官奥特伯格，以及其他大型企业高管陪同总统特朗普本周到中国访问。
-彭博社报道，一名白宫官员星期一（5月11日）说，高盛董事长苏德巍（David Solomon）、黑石集团联合创始人苏世民（Stephen Schwarzman）、贝莱德共同创办人芬克（Larry Fink）、花旗集团首席执行官范洁恩（Jane Fraser）、脸书母公司Meta Platforms Inc总裁麦考密克（Dina Powell McCormick），预计也将加入特朗普的代表团，参加特朗普与中国国家主席习近平举行的峰会。
-马斯克的入选是特朗普与这位世界首富修复关系的最新迹象。
-马斯克去年曾执掌负责推动缩减联邦机构规模的政府效率部（DOGE），两人后来关系破裂，还演变为公开口水战，马斯克随后离职。但两人现在已经冰释前嫌。
-中国外交部星期一确认，特朗普5月13日至15日对中国进行国事访问。
-特朗普希望此次访华能够促成一系列与北京的商业交易和采购协议。随行的十几位顶级企业高官，主要来自大型金融、科技、航空航天、农业公司。美国官员说，特朗普希望在访问期间敲定与中国成立贸易委员会的细节。
-这名官员说，通用电气总裁卡尔普、嘉吉公司总裁赛克斯、美光科技总裁梅赫罗特拉和高通总裁阿蒙预计也将赴华。
-此外，威士信用卡公司、万事达卡公司、生物科技公司因美纳（Illumina）、高意集团（Coherent Corp）的首席执行官也会随行。
-据一知情人士透露，随行名单中不包括英伟达首席执行官黄仁勋。他的缺席标志着英伟达推动向中国出口AI处理器的努力遭遇潜在挫折。
-英伟达未对报道置评。黄仁勋上周接受美国消费者新闻与商业频道（CNBC）采访时说，如果受邀，他将会参加。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称美伊停火“严重依赖生命维持设备支撑”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9033083</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9033083"/>
-        <updated>2026-05-11T23:14:11.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，美国和伊朗的停火协议命悬一线，“严重依赖生命维持设备支撑”。
-彭博社报道，特朗普星期一（5月11日）在白宫椭圆形办公室对记者表示，伊朗的最新回应是“垃圾”，他“甚至没有看完”。
-一名知情人士透露，伊朗要求华盛顿解除海上封锁并放松制裁，而且坚持对霍尔木兹海峡航运保留一定控制权。
-特朗普未说明美国是否会恢复对伊朗的军事打击，但他此前曾威胁称，如果伊朗领导层不接受美方条件，将采取行动。他在当天早些时候说，正在考虑恢复护航计划以协助船只通过霍尔木兹海峡。
-在特朗普表示美伊停火命悬一线之际，油价上涨，截至纽约时间11日中午12时08分，布伦特原油升破每桶104美元（约132新元）。美国政府考虑动用更多手段以缓解能源价格上涨对消费者的冲击。特朗普11日表示支持暂停征收汽油税。
-据美国新闻网Axios报道，三名美国官员透露，美伊谈判10日破局后，特朗普计划11日与国家安全团队会面，讨论伊朗战争下一步行动，包括可能恢复军事行动。
-上述进展标志着特朗普在结束伊朗战争方面再次受挫。这场战争引发全球能源危机，还给他本人和共和党带来严峻的国内政治风险，同时加剧了美国和中国的紧张关系。但特朗普11日说：“完全没有任何压力，我们将取得彻底胜利。”
-特朗普13日将访问北京，与中国国家主席习近平会晤。
-伊朗半官方塔斯尼姆通讯社报道，伊朗已在波斯湾部署“加迪尔”袖珍潜艇，作为霍尔木兹海峡的“隐形守护者”。这种伊朗国产潜艇具备发射反舰巡航导弹的能力，可能加剧船东对通过霍尔木兹海峡的担忧。
-一艘装载卡塔尔液化天然气的油轮11日似乎在接近霍尔木兹海峡后折返。不过，仍有一些船只成功通过，包括一艘卡塔尔船只。
-美国海军每次派遣驱逐舰通过这条关键水道都需承担数百万美元的额外成本，因为美国海军不但要加强监控，还需要战机和直升机提供支援。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工党内部下台呼声上升 英国内长促斯塔默拟定离任时间表]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9033031</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9033031"/>
-        <updated>2026-05-11T23:07:30.000Z</updated>
-        <summary type="html"><![CDATA[英国内阁出现分裂，一些部长包括内政部长马哈茂德呼吁首相斯塔默拟定辞职时间表，四名工党议员辞去部长级助理职务，加入了要求更换工党领导层的行列。
-英国广播公司（BBC）报道，目前已有70名工党议员明确呼吁斯塔默让位，这一数字还在稳步上升。
-《泰晤士报》报道，马哈茂德和其他内阁部长已向斯塔默表明，鉴于工党议员公开表达他们对上周地方选举工党遭遇最惨重失败的不满，他应考虑制定离任时间表。《卫报》称，外长库珀告诉斯塔默，他应该促成权力有序交接。
-据BBC了解，内阁对斯塔默的去留问题意见分歧，仅少数人与马哈茂德持相同立场。
-英国独立电视台（ITV）报道，斯塔默的副手拉米也敦促他制定离任时间表。
-斯塔默承诺将采取更大胆和迅速的措施以赢回支持，他说：“政府犯过错误，但在重大政治抉择上做出了正确的选择。”
-他在伦敦对党内忠实支持者发表讲话时，慷慨激昂地呼吁党内人士和选民继续支持他，避免一场“只会带来混乱”的领导权争夺，然而他的讲话似乎未能止住要他下台的声浪。
-已宣布辞职的四名部长级助理说，他们认为斯塔默并非带领工党参加2029年下届全国大选的合适人选，并希望以他们的行动触发一场可能持续数周或数月的党魁竞争。
-斯塔默在四名部长级助理辞职后迅速宣布了一系列新的人事任命，以填补多个空缺职位。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白宫记者晚宴枪手对所有指控拒不认罪]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032533</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032533"/>
-        <updated>2026-05-11T14:47:13.000Z</updated>
-        <summary type="html"><![CDATA[在白宫记者协会晚宴上试图枪杀美国总统特朗普的男子，对所有指控均不认罪。
-路透社报道，31岁的加利福尼亚州男子艾伦（Cole Allen）星期一（5月11日）出席庭审，拒绝对所有指控认罪。他在法庭上没有发言，由辩护律师代为抗辩。
-这是艾伦被捕后，首次在华盛顿联邦法院出庭。
-艾伦在4月底的白宫记协晚宴上向一名美国特勤局特工开枪，企图袭击特朗普和其他政府官员但未遂。他被控谋杀总统未遂、袭击联邦官员和枪支犯罪。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普拒绝伊朗提案 美伊停战增变数]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032251</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032251"/>
-        <updated>2026-05-11T14:39:58.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／德黑兰综合电）美国总统特朗普断然拒绝伊朗为结束战争提出的条件，这使美伊达成暂时停火协议一个月后再度开战的可能性升高。
-特朗普星期天（5月10日）针对伊朗提出的停战条件做出反应，他在社交媒体平台Truth Social写道：“我不喜欢，完全无法接受。”
-特朗普没有透露伊朗新提案的内容。不过，伊朗官方媒体报道，伊方通过调解方巴基斯坦，对美国提出的停战方案做出了回应，重点条件是停止所有战线的战争，尤其是黎巴嫩边界战线。
-伊朗外交部发言人巴加埃星期一（11日）说，伊朗的要求包括结束整个地区的战争、美国解除海上封锁以及解冻伊朗的海外资产。“我们没有要求任何让步。我们唯一要求的是伊朗的合法权利。” 
-另据《华尔街日报》引述消息报道，伊朗愿意稀释部分高浓铀，将其余转移至第三国。不过，它要求获得保证，万一谈判失败，转移的铀归还伊朗。它也明确排除了拆除核设施的可能性。
-以色列总理内坦亚胡在哥伦比亚广播公司（CBS）星期天播出的访谈中说，必须清除伊朗的浓缩铀库存和拆除核设施，战争才可能结束。 
-谈到以色列和美国的关系时，他说，以色列如今已经独当一面，因此对美国的依赖应降至零，使美国从援助方转成伙伴。他希望在未来10年逐步结束美国对以军的财政支持。
-“我们应该逐步减少对五角大楼军事支持的依赖。现在就开始，在10年内完成这个工作”。
-按现有计划，美国在2018年至2028年间，每年向以色列提供38亿美元（约48亿2000万新元）的军事援助。
-另一方面，伊朗警告英国和法国，如果它们向霍尔木兹海峡派遣军舰，伊朗将采取“果断而直接”的回应。
-副外长加里巴巴迪星期天说，无论在战争还是和平时期，只有伊朗能保障霍尔木兹海峡的安全，不准任何其他国家介入。任何以保护航运为名的外来军事部署，只会加剧危机，把霍尔木兹海峡军事化。
-法国先前宣布，派戴高乐号航空母舰前往红海和亚丁湾，英国也表明将配合行动增派军舰。
-法国总统马克龙星期天在肯尼亚首都内罗毕访问时澄清，法国从未计划在霍尔木兹海峡部署海军，法国只是要针对如何让船只安全通过海峡，同伊朗进行协调。
-他说，法国反对任何一方进行封锁，也反对让船只为通过海峡而支付任何过路费。
-英国政府当天宣布，英法将在星期二（12日）主持多国防长会议，讨论恢复霍尔木兹海峡贸易流通的军事计划。据英国说，有40多个国家将派官员出席这个国际会议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[94人已撤离汉坦病毒游轮 一法国人一美国人检测结果呈阳]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032209</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032209"/>
-        <updated>2026-05-11T14:23:58.000Z</updated>
-        <summary type="html"><![CDATA[（马德里综合电）94人已从出现汉坦病毒疫情的游轮撤离，其中一名法国人和一名美国人的病毒检测结果呈阳性。
-这艘洪迪厄斯号游轮星期天（5月10日）在西班牙加那利群岛靠岸，其中94人已撤离并乘专机返回各自的国家。
-五名法国乘客中，有一人在回国航班上出现感染症状，她后来检测呈阳性，病情正在恶化。目前，所有乘客已被隔离，并将接受医学检测和健康评估。
-另外，17名被遣返的美国人中，一人的检测呈轻度阳性，另一人则出现轻微症状。这两名乘客乘飞机返回美国时，被安排呆在生物隔离舱内。 
-美国疾病控制与预防中心说，从游轮撤离的美国乘客不一定会被隔离，并敦促美国民众对汉坦病毒保持冷静，因为这不是冠病。不过，世界卫生组织总干事谭德塞指出，美国采取的灵活措施可能会存在风险。 
-另有24名乘客将于稍迟时候撤离，其中18人将飞往荷兰，另六人飞往澳大利亚。澳洲政府说，六名澳洲乘客目前没有出现症状，但落地后会立刻转移到隔离中心接受为期三周的初步观察。
-
-              
-5月10日，从游轮撤离的英国人，回国后乘坐当局安排的巴士，前往医院接受检查。（路透社）
-            
-撤离行动结束后，30名船员将随游轮返回船只所属国荷兰。届时所有人员将下船，包括仍停放在船上太平间的已故德国人。之后，这艘船将进行彻底消毒。
-世卫组织建议，从星期天起对所有乘客和船员进行为期42天的隔离。
-这艘游轮载有23个国家的147名乘客和船员。这次行动距离游轮从阿根廷南部启航已过去41天，而距离首起感染病例出现也过去九天。截至目前，游轮乘客中已有三人死于汉坦病毒感染。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本安保三文件是否列中国为“威胁” 执政党内部分歧]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032041</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032041"/>
-        <updated>2026-05-11T14:12:48.000Z</updated>
-        <summary type="html"><![CDATA[日本计划年底修订三份主要安保相关文件，对于是否在文件中把中国列为“威胁”，执政党内部存在分歧，一部分人士持强硬立场，另一些则考虑到双边关系，主张采取更为克制的表述。
-执政的自民党与联盟伙伴维新会正分别整理安保三文件的修订重点，预计在6月上旬前提出草案。为此，当局已成立专家小组，负责为修订工作提供意见。 
-据时事通讯社报道，自民党内部正就中国及日本周边局势展开讨论，部分人士主张对中国采取强硬立场，建议在文件中明确写入“威胁”一词。但党内也出现慎重观点，认为鉴于日本首相高市早苗此前就潜在台湾危机发表言论踩到中国红线，若此次再使用“威胁”一词，恐将引发中国更强烈的反弹。
-安保三文件上次修订是在2022年。当年，美国众议院议长佩洛西访问台湾，北京向台湾周边海域发射弹道导弹，日方称部分导弹落入日本专属经济区。基于此，日本政府在三份文件中的《国防战略》，针对中方发射导弹一事，指“导弹被（日本）市民视为‘威胁’”。
-上次修订时，日本仅对朝鲜使用了强烈措辞，称它是“迫在眉睫的威胁”。据报道，当时自民党曾要求将中国军事定位为“严重的安全威胁”，但自民党当时的执政伙伴、亲华的公明党认为，此类措辞只会加剧冲突。最终，在《国家安全战略》文件中，对中国的描述采用了“严重关切”以及“迄今为止最大的战略挑战”。 
-时隔三年半，自民党内部认为中国的军事建设和海上扩张取得了显著进展。该党的安全研究会提出了几个关键考量，除了探讨美军在区域的优势下降外，还研究了中俄的战略合作，并特别关注两艘中国航母首次同时进入连接日本小笠原群岛和关岛的太平洋“第二岛链”附近海域的动向。
-主张在安保文件中以“威胁”形容中国的一位自民党官员说：“目前（的周边局势）比以前更糟了，若用同样的措辞已行不通。”
-但一位前外相认为：“如果我们明确使用‘威胁’一词，中国必然会做出反弹，我们需要另辟蹊径。”据悉，也有日本高官坦承，若写威胁，对日本毫无利益可言。
-这些谨慎的声音旨在强调，日本希望与中国发展战略互惠关系。但分析人士认为，中日要改善关系谈何容易。目前，自民党正与保守派的维新会持续推动更为保守的安保政策，加上此前修订《防卫装备移转三原则》已松绑了对外军售，这些举动都在加深中国对日本的猜忌。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自杀式袭击致15警员死 巴基斯坦向阿富汗使馆临时代办抗议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032415</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032415"/>
-        <updated>2026-05-11T14:00:53.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦外交部召见阿富汗使馆临时代办，就巴基斯坦西部一个警方检查站日前遭自杀式汽车炸弹袭击事件，向阿方提出强烈抗议。
-新华社报道，巴基斯坦外交部星期一（5月11日）召见阿富汗驻巴使馆临时代办，就开伯尔－普什图省本努地区一处警方检查站的自杀式汽车炸弹袭击，向阿方提出强烈抗议。
-巴国外交部在一份声明中说，此次袭击造成15名警察死亡，另有四人受伤，其中包括一名平民。
-巴方在详细调查后认定，这次袭击由居住在阿富汗的恐怖分子策划。
-声明说，巴基斯坦在友好国家的斡旋下，与阿富汗政府举行多轮会谈，但阿富汗始终未能承诺或采取切实有效行动，打击境内的恐怖组织。
-声明强调，若阿富汗“继续窝藏恐怖组织”，巴基斯坦不会在国家或公民安全保障方面作出任何妥协。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中美峰会周四登场 学者：特朗普不应寄望北京帮忙解决伊朗僵局]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9031877</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9031877"/>
-        <updated>2026-05-11T13:53:39.000Z</updated>
-        <summary type="html"><![CDATA[备受瞩目的中美首脑会议周四（5月14日）在北京登场。美国官员透露，特朗普总统准备促请中国居中斡旋，达成结束美伊冲突的协议。然而，政治观察家普遍认为，由于两国存在战略利益分歧，特朗普不应寄望北京能在伊朗问题上提供实质帮助。
-分析指出，特朗普难以按照自身意愿结束对伊战争，不得不转而寻求中国的外交支援。尽管中国国家主席习近平希望看到中东局势降温，但他与特朗普对于如何结束这场战争存在分歧。
-美国得克萨斯州南方卫理公会大学政治学教授吉尔森（Cal Jillson）接受《联合早报》访问时说，特朗普希望中国向伊朗施压，迫使德黑兰接受美国提出的结束冲突的条件，但估计北京不会让特朗普得偿所愿。
-他说：“中国仍然拥有石油储备，足以抵御眼前的经济压力。而且习近平也知道，美国比伊朗更渴望结束这场战争，所以他可能会让特朗普再折腾一段时间。”
-新美国安全中心高级研究员斯托克斯（Jacob Stokes）告诉《华尔街日报》：“习近平希望确保美国在中东的这场政权更迭行动被视为一场失败，而特朗普自然希望相反的结果。”
-美国国务院前中东谈判代表米勒（Aaron David Miller）认为，特朗普目前处于劣势。“特朗普失去他原本拥有的筹码，因为关税战和牵动全球神经的伊朗战争，他给了习近平不少筹码。”
-美国国际贸易法院上周裁定特朗普全球征关税的法律依据不成立，更让他在峰会前夕陷入政策被动的窘境。
-
-议程广泛：贸易、科技、AI与地缘秩序的较量
-
-美国官员透露，除了伊朗问题，此次峰会议程还涵盖贸易、科技、稀土出口管制，以及台湾问题等。
-在峰会召开前夕，中美双方都在加大施压力度。华盛顿指责北京开展大规模行动窃取美国人工智能（AI）技术，中国则命令企业不得遵守美国对伊朗石油的制裁。
-美国康奈尔大学经济学教授普拉萨德（Eswar Prasad）告诉美国消费者新闻与商业频道（CNBC），如果这次峰会演变成一场充满争议的争吵，将严重损害全球贸易并加剧地缘政治动荡。
-也有分析指出，东南亚各国密切关注美国对华商品征收的关税，相对于美国对本国商品关税的任何重大变化。
-尤索夫伊萨东南亚研究院客座资深研究员奥尔森（Stephen Olson）说：“如果中国出口商品的关税率下降，企业就没有什么商业理由把生产线从中国转移到越南等国了。”
-
-美政界车企施压 抵制中国汽车入美
-
-在美国国内，特朗普面临来自汽车产业和两党议员的巨大压力——不要向中国汽车开放市场。
-特朗普今年1月说，如果中国汽车制造商愿意在美国建厂并雇用美国人，他非常乐意让中国汽车进入美国市场。这番言论敲响美国汽车行业的警钟。
-美国车企上个月联署致函特朗普政府，指北京主导全球汽车业的企图对美国国家安全和工业基础构成直接威胁。74名民主党众议员和52名共和党众议员也罕见联名敦促特朗普阻止中国汽车进入美国市场。
-虽然商务部与贸易代表已表明中国汽车不在峰会议程内，但美国制造业联盟主席保罗（Scott Paul）担心，渴望达成巨额投资协议的特朗普可能会单方面作出让步。
-要求匿名的白宫官员告诉美国新闻网站Politico：“本届政府中最亲华的人可能就是总统本人。他一直致力于与中国达成协议。他是个渴望达成协议的人。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯塔默坚持不下台 工党议员推动9月选举新党魁]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9031999</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9031999"/>
-        <updated>2026-05-11T12:44:35.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦综合电）英国首相斯塔默周一发表关键的竞选式演说，在地方选举遭遇惨败后为自己辩护，力保工党党魁与首相地位。然而，此次演说未能平息党内批评者对他的质疑，要求他下台的呼声越来越高。
-斯塔默周一（5月11日）在伦敦发表讲话时说，他知道人民对英国现状、英国政治与他的领导不满。“我知道有一些人质疑我，我也知道我须要证明他们错了，而我一定会做到。”
-斯塔默承认，渐进式的改革无法满足日益不满的英国民众，他承诺在经济、对欧关系、能源等领域采取更有力的措施。
-他说，工党政府将与欧盟建立更紧密的关系，为年轻人创造更好的就业机会。
-斯塔默没有详细说明新政策和措施，而是把重点放在争取党内支持与攻击政治对手上。他警告，工党承担不起内斗的结果。
-他指责民粹主义的英国改革党与左翼政党绿党制造民怨和分裂，称“他们不是在寻求解决方案，而是寻找替罪羊”。
-斯塔默点名批评改革党领袖法拉奇是“投机分子”和“骗子”，并警告工党若应对不当，将导致“国家走上一条非常黑暗的道路”。
-工党在上周地方选举中丢失大量议席。斯塔默过后誓言继续留任，但有越来越多工党议员认为，他是时候退场了。
-
-36工党议员公开呼吁斯塔默下台
-
-曾任外交部政务次官的工党议员韦斯特（Catherine West）此前称，如果到周一仍无内阁部长站出来挑战斯塔默，她会自己尝试这么做。
-韦斯特周一形容，斯塔默的演说来得太晚、内容太无力，工党和英国现在必须进行有序的政权过渡。她说：“我正在收集工党议员的名字，以呼吁首相制定9月份选举新领导人的时间表。”
-《卫报》分析指出，从这份声明来看，韦斯特不再打算亲自上阵挑战斯塔默。她似乎希望借此举得到足够多的工党议员支持，以迫使斯塔默辞职，或激励有能力者挺身挑战斯塔默。
-根据工党规定，任何挑战者须获得至少20%或81名党内议员的支持，才能启动党魁选举程序。据天空新闻台统计，截至周一上午，公开呼吁斯塔默下台的工党议员已增至36人。
-如果斯塔默在未来几周被迫下台，英国将迎来过去十年的第七个首相，但当前工党尚未出现明显的接班人选。
-近日盛传，前副首相雷纳（Angela Rayner）或卫生部长斯特里廷（Wes Streeting）可能会尝试推翻斯塔默，但两人在党内并未得到普遍支持。
-大曼彻斯特市长伯纳姆（Andy Burnham）也被视为潜在挑战者，但他不是国会议员，暂时无法挑战斯塔默。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯塔默拟提立法 彻底实现英钢公司国有化]]></title>
-        <id>https://www.zaobao.com/news/world/story20260511-9032089</id>
-        <link href="https://www.zaobao.com/news/world/story20260511-9032089"/>
-        <updated>2026-05-11T12:41:14.000Z</updated>
-        <summary type="html"><![CDATA[英国首相斯塔默说，他会提出立法，将中国控股的英国钢铁公司国有化。
-法新社报道，斯塔默在星期一（5月11日）的演讲中说：“本周（我们）会提交立法，赋予政府……全面接管英国钢铁公司国有化工作的权力。”
-英国钢铁公司的中国控股方是敬业集团。英钢去年面临财务崩溃。英国国会通过紧急法案，允许政府官员对这家公司拥有控制权，避免英国仅存的原生钢工厂关闭。
-英政府星期一发布声明说，自那时起，一直“无法与现任所有者就商业出售达成一致”。“政府认为，为英钢公有化进程提出立法，是适当的下一步举措。”
-完成国有化意味着英钢将自1988年以来首次重归英国政府所有。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
