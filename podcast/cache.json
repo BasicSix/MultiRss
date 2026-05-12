@@ -214,6 +214,23 @@
       "siteUrl": "https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87",
       "articles": [
         {
+          "id": "https://www.xiaoyuzhoufm.com/episode/6a0358b3e1eb34a939468885",
+          "author": null,
+          "description": "同一个模型，为什么放在聊天框里只是“给建议”，放进 Claude Code / Codex / OpenCode 里却能读文件、改代码、跑测试，甚至完成真实任务？\n这期我们聊 Agent Harness：模型之外那套决定 AI 能不能真正干活的工程系统。它像大模型的马具和操作系统，负责工具、权限、上下文、执行环境和结果验证。\n别再只看模型了，真正让 Agent 变成产品的，可能是 Harness。\n本shownotes由 castwise.ai 制作\nPodwise - Podcast Knowledge at 10x Speed!\npodwise.ai\nApple Store 下载👉🏻 apps.apple.com\n\n硬地笔记\n00:48 Agent Harness 的概念定义与核心作用\n12:12 Harness 在工程实践中的管理范畴\n23:36 AI Coding 作为大模型工程化的练兵场\n33:42 模型能力与 Harness 生态的未来演进\n\n欢迎关注我们\n\n知识星球:t.zsxq.com\n\n官网: hardhacker.com\n\n小手册: book.hardhacker.com\n\n用爱发电不容易，请我们喝咖啡☕️: afdian.net\n\n公众号/小红书: 硬地骇客\n\n商务合作: hardhackerlabs@gmail.com\n\n另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6a0358b3e1eb34a939468885",
+          "publishedOn": "2026-05-12T16:54:56.000Z",
+          "wordCount": null,
+          "title": "EP126 Agent Harness 🏇",
+          "itunes": {
+            "duration": "0:50:05"
+          },
+          "enclosure": {
+            "url": "https://media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaoyuzhoufm.com/episode/69e669001e94ae6921be04dc",
           "author": null,
           "description": "最近「硬地骇客」收到一大波听友来信，大家集中抛出了当下独立开发者最焦虑、最纠结的12个真实问题：\n\n  \n前期没收入到底怎么熬？\n  \n为什么有idea却永远停在纸上？\n  \n产品做出来却没人用，问题出在哪？\n  \nAI时代工程师最该练什么能力？\n  \nVibe Coding这么火，是不是人人都能做产品了？\n  \n小而美App这条路还走得通吗？\n  \nAGI真的会来，那我们现在做的这些事还有意义吗？……\n\n\n这一期，我们三位主播（Saito、一啸、归归）老老实实结合自己做Podwise的真实经历和血泪教训，一条一条硬核解答，不鸡汤、不画饼，只讲最实在的思考和打法。\n\n本shownotes由 castwise.ai 制作\n\nPodwise - Podcast Knowledge at 10x Speed!\n\npodwise.ai\n\nApple Store 下载👉🏻 apps.apple.com\n\n硬地笔记\n\n00:48独立开发初期的生存策略与心态建设\n\n08:45克服想法停滞与利用 AI 提升构建效率\n\n14:35解决产品无人问津的痛点与生意思维\n\n23:56AI 时代工程师的核心竞争力与职业转型\n\n31:19文科生与设计师在 AI 时代的构建优势\n\n45:22小而美产品的生存挑战与工程维护实践\n\n1:00:36AGI 的未来展望与追求当下的意义\n\n欢迎关注我们\n\n  \n知识星球:t.zsxq.com\n  \n官网: hardhacker.com\n  \n小手册: book.hardhacker.com\n  \n用爱发电不容易，请我们喝咖啡☕️: afdian.net\n  \n公众号/小红书: 硬地骇客\n  \n商务合作: hardhackerlabs@gmail.com\n  \n另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！",
@@ -329,6 +346,24 @@
       "feedUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "siteUrl": "https://www.ted.com",
       "articles": [
+        {
+          "id": "6a01ed5d5c981a3573ea0071",
+          "author": null,
+          "description": "Creator Maya Higa is on a mission to use the internet to build the next generation of conservationists. Her virtual education center, Alveus Sanctuary, is one of the most-watched sanctuaries on Earth, with dozens of rescued animals and cameras livestreaming to a community of millions inspired to help protect the wildlife. Visit with Bean the Hawk, Winnie the Moo and more — and see what the future of conservation looks like.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/mayahiga",
+          "publishedOn": "2026-05-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The wildlife sanctuary you can visit from anywhere | Maya Higa",
+          "itunes": {
+            "duration": "11:19"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01ed5d5c981a3573ea0071/media.mp3",
+            "length": "10973039",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "6a01ec336304701dd8353fe8",
           "author": null,

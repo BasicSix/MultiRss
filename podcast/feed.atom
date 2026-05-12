@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T14:32:32.439Z</updated>
+    <updated>2026-05-12T19:57:55.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EP126 Agent Harness 🏇]]></title>
+        <id>https://www.xiaoyuzhoufm.com/episode/6a0358b3e1eb34a939468885</id>
+        <link href="https://www.xiaoyuzhoufm.com/episode/6a0358b3e1eb34a939468885"/>
+        <updated>2026-05-12T16:54:56.000Z</updated>
+        <summary type="html"><![CDATA[同一个模型，为什么放在聊天框里只是“给建议”，放进 Claude Code / Codex / OpenCode 里却能读文件、改代码、跑测试，甚至完成真实任务？
+这期我们聊 Agent Harness：模型之外那套决定 AI 能不能真正干活的工程系统。它像大模型的马具和操作系统，负责工具、权限、上下文、执行环境和结果验证。
+别再只看模型了，真正让 Agent 变成产品的，可能是 Harness。
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+
+硬地笔记
+00:48 Agent Harness 的概念定义与核心作用
+12:12 Harness 在工程实践中的管理范畴
+23:36 AI Coding 作为大模型工程化的练兵场
+33:42 模型能力与 Harness 生态的未来演进
+
+欢迎关注我们
+
+知识星球:t.zsxq.com
+
+官网: hardhacker.com
+
+小手册: book.hardhacker.com
+
+用爱发电不容易，请我们喝咖啡☕️: afdian.net
+
+公众号/小红书: 硬地骇客
+
+商务合作: hardhackerlabs@gmail.com
+
+另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！]]></summary>
+        <author>
+            <name>硬地骇客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The wildlife sanctuary you can visit from anywhere | Maya Higa]]></title>
+        <id>6a01ed5d5c981a3573ea0071</id>
+        <link href="http://go.ted.com/mayahiga"/>
+        <updated>2026-05-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Creator Maya Higa is on a mission to use the internet to build the next generation of conservationists. Her virtual education center, Alveus Sanctuary, is one of the most-watched sanctuaries on Earth, with dozens of rescued animals and cameras livestreaming to a community of millions inspired to help protect the wildlife. Visit with Bean the Hawk, Winnie the Moo and more — and see what the future of conservation looks like.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/6a02f59ce1eb34a9393fb269</id>
