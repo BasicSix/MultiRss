@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q69Ts1Hq9k8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q69Ts1Hq9k8",
+          "publishedOn": "2026-05-13T12:57:17.000Z",
+          "wordCount": null,
+          "title": "Windows 11 最完整备份与还原！重装系统后，软件数据一个不丢！别等后悔才想起！｜零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Nms56KhvIQw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-04-17T12:15:09.000Z",
           "wordCount": null,
           "title": "5分钟搭建AI助手！自动接单+自动回复，小白也能用（无需代码）｜Hostinger｜零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0dztupxdseE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0dztupxdseE",
-          "publishedOn": "2026-04-15T12:36:56.000Z",
-          "wordCount": null,
-          "title": "太爽了！Hermes Agent 发布UI了，本地对接最强开源 Gemma 4 模型+ 微信（免费无需Token）| 零度解说",
           "imageUrl": null
         }
       ]
@@ -325,7 +325,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MPOHxLbaDb4",
           "publishedOn": "2026-05-07T05:00:18.000Z",
-          "wordCount": 2108,
+          "wordCount": 2144,
           "title": "【免费AI剪辑】免费真香，新手2分钟搞定Kdenlive剪辑自动字幕 | Free Auto Subtitles in Kdenlive in 2 Mins✨",
           "imageUrl": null
         },
@@ -345,7 +345,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_eaxu_auPes",
           "publishedOn": "2026-05-02T23:40:19.000Z",
-          "wordCount": 2151,
+          "wordCount": 2221,
           "title": "【免费AI剪辑】弃用剪映！Kdenlive+Whisper 免费AI字幕 安装与配置 | Bye CapCut — Kdenlive + Whisper Just Saved My Sanity✨",
           "imageUrl": null
         },
@@ -360,22 +360,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=6oarnmJ3BHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6oarnmJ3BHY",
-          "publishedOn": "2026-04-25T12:55:09.000Z",
-          "wordCount": null,
-          "title": "【免费VPS】3分钟搞定两个免费VPS！新手也能轻松白嫖服务器 | Setup 2 Free VPS in 3 Mins! Beginner's Guide🚀",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "publishedOn": "2026-04-23T12:10:03.000Z",
-          "wordCount": 2176,
+          "wordCount": 2132,
           "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
           "imageUrl": null
         },
@@ -385,7 +375,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2149,
+          "wordCount": 2176,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -405,7 +395,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 2124,
+          "wordCount": 2146,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -435,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxRMXySGRwA",
           "publishedOn": "2026-04-10T22:00:22.000Z",
-          "wordCount": 2164,
+          "wordCount": 2140,
           "title": "【免费VPS】连签7天得小鸡,免费icmp9 vps,额外流量每日领 | 7‑Day Check‑In = Free icmp9 VPS + Daily Bonus Traffic✨",
           "imageUrl": null
         },
@@ -455,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2169,
+          "wordCount": 2103,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         },
@@ -467,6 +457,16 @@
           "publishedOn": "2026-04-09T04:45:06.000Z",
           "wordCount": null,
           "title": "【免费VPN】告别花钱！10分钟丝滑搭建BPB面板实现免费VPN自由 | Stop Paying! Easily Deploy BPB Panel for Free VPN in 10 Mins😎⚡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yT7_RG1Y46w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yT7_RG1Y46w",
+          "publishedOn": "2026-04-08T04:45:08.000Z",
+          "wordCount": null,
+          "title": "【AI Manus】丝滑拿捏Manus 8分钟解锁懂你的AI自动化助手 | Effortless Mastery: Unlock Your Manus AI Assistant in 8 Mins😎⚡",
           "imageUrl": null
         }
       ]
