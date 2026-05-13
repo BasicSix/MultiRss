@@ -2,198 +2,380 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T19:57:58.820Z</updated>
+    <updated>2026-05-13T03:44:02.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[zebra]]></title>
-        <id>1x-3578935</id>
-        <link href="https://1x.com/photo/3578935"/>
-        <updated>2026-05-12T19:57:54.554Z</updated>
-        <summary type="html"><![CDATA[zebra by Witold Ziomek]]></summary>
+        <title type="html"><![CDATA[Navajo Grandma]]></title>
+        <id>1x-3580685</id>
+        <link href="https://1x.com/photo/3580685"/>
+        <updated>2026-05-13T03:43:19.177Z</updated>
+        <summary type="html"><![CDATA[Navajo Grandma by Zeren Gu]]></summary>
         <author>
-            <name>Witold Ziomek</name>
+            <name>Zeren Gu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monolithic Eye]]></title>
-        <id>1x-3577518</id>
-        <link href="https://1x.com/photo/3577518"/>
-        <updated>2026-05-12T19:57:54.549Z</updated>
-        <summary type="html"><![CDATA[Monolithic Eye by Tetsuji Yoshida]]></summary>
+        <title type="html"><![CDATA[The Moment Before]]></title>
+        <id>1x-3580623</id>
+        <link href="https://1x.com/photo/3580623"/>
+        <updated>2026-05-13T03:43:19.166Z</updated>
+        <summary type="html"><![CDATA[The Moment Before by Lucie Gagnon]]></summary>
         <author>
-            <name>Tetsuji Yoshida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Underground]]></title>
-        <id>1x-3575202</id>
-        <link href="https://1x.com/photo/3575202"/>
-        <updated>2026-05-12T19:57:54.544Z</updated>
-        <summary type="html"><![CDATA[Underground by fotomarion]]></summary>
-        <author>
-            <name>fotomarion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue arches]]></title>
-        <id>1x-3580233</id>
-        <link href="https://1x.com/photo/3580233"/>
-        <updated>2026-05-12T19:57:54.538Z</updated>
-        <summary type="html"><![CDATA[Blue arches by Heike Wolters-Wrase]]></summary>
-        <author>
-            <name>Heike Wolters-Wrase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncu]]></title>
-        <id>1x-3579996</id>
-        <link href="https://1x.com/photo/3579996"/>
-        <updated>2026-05-12T19:57:54.535Z</updated>
-        <summary type="html"><![CDATA[Uncu by Serdar Bayram]]></summary>
-        <author>
-            <name>Serdar Bayram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挑む]]></title>
-        <id>1x-3579835</id>
-        <link href="https://1x.com/photo/3579835"/>
-        <updated>2026-05-12T19:57:54.520Z</updated>
-        <summary type="html"><![CDATA[挑む by Takako]]></summary>
-        <author>
-            <name>Takako</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mother and Baby]]></title>
-        <id>1x-3579794</id>
-        <link href="https://1x.com/photo/3579794"/>
-        <updated>2026-05-12T19:57:54.515Z</updated>
-        <summary type="html"><![CDATA[Mother and Baby by Yogesh Bhatia]]></summary>
-        <author>
-            <name>Yogesh Bhatia</name>
+            <name>Lucie Gagnon</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3580083</id>
-        <link href="https://1x.com/photo/3580083"/>
-        <updated>2026-05-12T19:57:54.510Z</updated>
-        <summary type="html"><![CDATA[Untitled by Ryota.RKP9]]></summary>
+        <id>1x-3579535</id>
+        <link href="https://1x.com/photo/3579535"/>
+        <updated>2026-05-13T03:43:19.139Z</updated>
+        <summary type="html"><![CDATA[Untitled by Val dOrcia photography]]></summary>
         <author>
-            <name>Ryota.RKP9</name>
+            <name>Val dOrcia photography</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portrait of Grace]]></title>
-        <id>1x-3579565</id>
-        <link href="https://1x.com/photo/3579565"/>
-        <updated>2026-05-12T19:57:54.504Z</updated>
-        <summary type="html"><![CDATA[Portrait of Grace by Catherine Wang]]></summary>
+        <title type="html"><![CDATA[Wonders of the Southern Sky]]></title>
+        <id>1x-3580688</id>
+        <link href="https://1x.com/photo/3580688"/>
+        <updated>2026-05-13T03:43:19.115Z</updated>
+        <summary type="html"><![CDATA[Wonders of the Southern Sky by Nikola Vukotic]]></summary>
         <author>
-            <name>Catherine Wang</name>
+            <name>Nikola Vukotic</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Labyrinth by Gijs Van Vaerenbergh]]></title>
-        <id>1x-3580268</id>
-        <link href="https://1x.com/photo/3580268"/>
-        <updated>2026-05-12T19:57:54.499Z</updated>
-        <summary type="html"><![CDATA[Labyrinth by Gijs Van Vaerenbergh by Lus Joosten]]></summary>
+        <title type="html"><![CDATA[Holdouts]]></title>
+        <id>1x-3580831</id>
+        <link href="https://1x.com/photo/3580831"/>
+        <updated>2026-05-13T03:43:19.113Z</updated>
+        <summary type="html"><![CDATA[Holdouts by Taeyoung Huh]]></summary>
         <author>
-            <name>Lus Joosten</name>
+            <name>Taeyoung Huh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The day something happened]]></title>
-        <id>1x-3580194</id>
-        <link href="https://1x.com/photo/3580194"/>
-        <updated>2026-05-12T19:57:54.486Z</updated>
-        <summary type="html"><![CDATA[The day something happened by Peter Zahorecz]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3576168</id>
+        <link href="https://1x.com/photo/3576168"/>
+        <updated>2026-05-13T03:43:19.110Z</updated>
+        <summary type="html"><![CDATA[Untitled by Songhu Yan]]></summary>
         <author>
-            <name>Peter Zahorecz</name>
+            <name>Songhu Yan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dawn of Torre Peak]]></title>
-        <id>1x-3576742</id>
-        <link href="https://1x.com/photo/3576742"/>
-        <updated>2026-05-12T19:57:54.476Z</updated>
-        <summary type="html"><![CDATA[Dawn of Torre Peak by Yongnan Li （李永男）]]></summary>
+        <title type="html"><![CDATA[From Above]]></title>
+        <id>1x-3580728</id>
+        <link href="https://1x.com/photo/3580728"/>
+        <updated>2026-05-13T03:43:19.103Z</updated>
+        <summary type="html"><![CDATA[From Above by Jeffrey Chan]]></summary>
         <author>
-            <name>Yongnan Li （李永男）</name>
+            <name>Jeffrey Chan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rhythmic Gymnastics: Club]]></title>
-        <id>1x-3578284</id>
-        <link href="https://1x.com/photo/3578284"/>
-        <updated>2026-05-12T19:57:54.468Z</updated>
-        <summary type="html"><![CDATA[Rhythmic Gymnastics: Club by Rob Li]]></summary>
+        <title type="html"><![CDATA[Lemon & Mustard Blossoms]]></title>
+        <id>1x-3580620</id>
+        <link href="https://1x.com/photo/3580620"/>
+        <updated>2026-05-13T03:43:19.089Z</updated>
+        <summary type="html"><![CDATA[Lemon & Mustard Blossoms by Fangping Zhou]]></summary>
         <author>
-            <name>Rob Li</name>
+            <name>Fangping Zhou</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruby-throated Hummingbird]]></title>
-        <id>1x-3579408</id>
-        <link href="https://1x.com/photo/3579408"/>
-        <updated>2026-05-12T19:57:54.456Z</updated>
-        <summary type="html"><![CDATA[Ruby-throated Hummingbird by Leeli Higgins]]></summary>
+        <title type="html"><![CDATA[Happy]]></title>
+        <id>1x-3580809</id>
+        <link href="https://1x.com/photo/3580809"/>
+        <updated>2026-05-13T03:43:19.087Z</updated>
+        <summary type="html"><![CDATA[Happy by Teodorescu Andreea]]></summary>
         <author>
-            <name>Leeli Higgins</name>
+            <name>Teodorescu Andreea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jamnik Mono]]></title>
-        <id>1x-3580434</id>
-        <link href="https://1x.com/photo/3580434"/>
-        <updated>2026-05-12T19:57:54.449Z</updated>
-        <summary type="html"><![CDATA[Jamnik Mono by Paul Flynn]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3564701</id>
+        <link href="https://1x.com/photo/3564701"/>
+        <updated>2026-05-13T03:43:19.085Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
         <author>
-            <name>Paul Flynn</name>
+            <name>Joxe Inazio Kuesta Garmendia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gold & Silver]]></title>
-        <id>1x-3580290</id>
-        <link href="https://1x.com/photo/3580290"/>
-        <updated>2026-05-12T19:57:54.436Z</updated>
-        <summary type="html"><![CDATA[Gold & Silver by Ahmed Sobhi]]></summary>
+        <title type="html"><![CDATA[The Golden Receiver]]></title>
+        <id>1x-3580730</id>
+        <link href="https://1x.com/photo/3580730"/>
+        <updated>2026-05-13T03:43:19.082Z</updated>
+        <summary type="html"><![CDATA[The Golden Receiver by Lius Siong]]></summary>
         <author>
-            <name>Ahmed Sobhi</name>
+            <name>Lius Siong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurasian Spoonbill (Platalea leucorodia)]]></title>
-        <id>1x-3579121</id>
-        <link href="https://1x.com/photo/3579121"/>
-        <updated>2026-05-12T19:57:54.426Z</updated>
-        <summary type="html"><![CDATA[Eurasian Spoonbill (Platalea leucorodia) by Selim Kaya]]></summary>
+        <title type="html"><![CDATA[Urban triangle]]></title>
+        <id>1x-3580613</id>
+        <link href="https://1x.com/photo/3580613"/>
+        <updated>2026-05-13T03:43:19.072Z</updated>
+        <summary type="html"><![CDATA[Urban triangle by Jurij Bizjak]]></summary>
         <author>
-            <name>Selim Kaya</name>
+            <name>Jurij Bizjak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fishers in Vietnam]]></title>
-        <id>1x-3579037</id>
-        <link href="https://1x.com/photo/3579037"/>
-        <updated>2026-05-12T19:57:54.228Z</updated>
-        <summary type="html"><![CDATA[Fishers in Vietnam by Daniel Viñe]]></summary>
+        <title type="html"><![CDATA[Quiet Symmetry]]></title>
+        <id>1x-3578142</id>
+        <link href="https://1x.com/photo/3578142"/>
+        <updated>2026-05-13T03:43:19.054Z</updated>
+        <summary type="html"><![CDATA[Quiet Symmetry by Shanrui Ren]]></summary>
         <author>
-            <name>Daniel Viñe</name>
+            <name>Shanrui Ren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A rural painter]]></title>
-        <id>1x-3580296</id>
-        <link href="https://1x.com/photo/3580296"/>
-        <updated>2026-05-12T19:57:54.189Z</updated>
-        <summary type="html"><![CDATA[A rural painter by Primož Kožuh]]></summary>
+        <title type="html"><![CDATA[A towering skyscraper.]]></title>
+        <id>1x-3580820</id>
+        <link href="https://1x.com/photo/3580820"/>
+        <updated>2026-05-13T03:43:18.821Z</updated>
+        <summary type="html"><![CDATA[A towering skyscraper. by amasachin]]></summary>
         <author>
-            <name>Primož Kožuh</name>
+            <name>amasachin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter Watchtower]]></title>
+        <id>1x-3580582</id>
+        <link href="https://1x.com/photo/3580582"/>
+        <updated>2026-05-13T03:43:18.797Z</updated>
+        <summary type="html"><![CDATA[Winter Watchtower by Ambar Saha]]></summary>
+        <author>
+            <name>Ambar Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hummingbirds]]></title>
+        <id>1x-3573378</id>
+        <link href="https://1x.com/photo/3573378"/>
+        <updated>2026-05-13T03:43:18.794Z</updated>
+        <summary type="html"><![CDATA[hummingbirds by  Fengying Long]]></summary>
+        <author>
+            <name>Fengying Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting for the bus]]></title>
+        <id>1x-3580682</id>
+        <link href="https://1x.com/photo/3580682"/>
+        <updated>2026-05-13T03:43:18.791Z</updated>
+        <summary type="html"><![CDATA[Waiting for the bus by Weiwei]]></summary>
+        <author>
+            <name>Weiwei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tidal Marks]]></title>
+        <id>1x-3577725</id>
+        <link href="https://1x.com/photo/3577725"/>
+        <updated>2026-05-13T03:43:18.712Z</updated>
+        <summary type="html"><![CDATA[Tidal Marks by Aidong Ning]]></summary>
+        <author>
+            <name>Aidong Ning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The gloomy of life]]></title>
+        <id>1x-3570583</id>
+        <link href="https://1x.com/photo/3570583"/>
+        <updated>2026-05-13T03:43:18.705Z</updated>
+        <summary type="html"><![CDATA[The gloomy of life by Auri flux]]></summary>
+        <author>
+            <name>Auri flux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太平洋岛国瑙鲁将公投 寻求更名摆脱殖民历史]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9039481</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9039481"/>
+        <updated>2026-05-13T02:46:16.000Z</updated>
+        <summary type="html"><![CDATA[太平洋岛国瑙鲁宣布将举行全民公投，更改官方名称。瑙鲁称现在的国名为殖民时代的遗物，源于“外来语言”对本土语言的扭曲。
+法新社报道，瑙鲁总统阿德昂星期二（5月12日）晚间发表声明称，瑙鲁将更名为“瑙埃罗”（Naoero），以“更忠实地尊重我们国家的传统、语言和身份”。
+这个小国的本土语言是“多雷林瑙埃罗”（Dorerin Naoero）语，全国约1万居民中的绝大多数人都使用这种语言。
+政府在一份解释更名原因的声明中说：“瑙鲁这个名字的出现是因为外来语言无法正确发音‘瑙埃罗’，而更名并非出于我们的意愿，而是为了方便。
+“此次更名将体现在全国范围内，从国家飞机和舰船的重新命名，到区域和国际上的官方身份标识（包括在联合国），以及所有国家官方记录和标志。”
+由于更名需要修改国家宪法，因此政府必须举行全民公投。
+从19世纪80年代末到第一次世界大战期间，德国一直声称瑙鲁是其保护国，直到这个岛屿被澳大利亚军队占领。
+瑙鲁在1968年获得独立之前，曾由澳洲、英国和新西兰共同管理。
+瑙鲁是世界上最小的国家之一，其大陆面积仅为20平方公里。
+世界银行最近的一份评估报告指出，瑙鲁极易受到气候变化的影响，并且失业率和健康问题都很严重。
+瑙鲁曾因其异常纯净的磷酸盐矿藏而成为世界上人均最富裕的地区之一。但这些矿藏早已枯竭，如今研究人员估计，瑙鲁80%的土地因采矿而变得不适宜居住。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗谈判代表：美国必须接受德黑兰和平计划]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9039441</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9039441"/>
+        <updated>2026-05-13T02:26:25.000Z</updated>
+        <summary type="html"><![CDATA[伊朗首席谈判代表加利巴夫说，华盛顿必须接受德黑兰最新的和平计划，否则将面临失败。此前，美国总统特朗普警告称，中东战争的停火协议已濒临崩溃。 
+担任伊朗首席谈判代表的伊斯兰议会议长加利巴夫星期二（5月12日）在X上发帖说：“（美国）必须接受伊朗人民在14点提案中提出的权利，此外别无选择。任何其他做法都不会有结果，只会导致一次又一次的失败。他们拖延的时间越长，美国纳税人为此付出的代价就越大。”
+
+
+There is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal.
+Any other approach will be completely inconclusive; nothing but one failure after another. 
+The longer they drag their feet, the more American taxpayers will pay for it.
+— محمدباقر قالیباف | MB Ghalibaf (@mb_ghalibaf) May 11, 2026
+
+五角大楼同日说，伊朗战争的成本已攀升至近290亿美元（约369亿新元），比两周前的估计高出约40亿美元。 
+伊朗国家媒体星期二报道，伊朗革命卫队称在德黑兰举行演习，“以应对美国和犹太复国主义敌人的任何行动”。
+伊朗国防部发言人塔拉伊-尼克说，如果美国拒绝外交途径，“就应该预料到会在军事战场上重蹈覆辙，再次遭遇失败”。
+这场口水战令伊朗民众感到不安。来自首都德黑兰的43岁画家玛丽亚姆告诉记者：“我们只是竭尽全力抓住任何能帮助我们生存下去的东西。未来如此不确定，我们只能得过且过。”
+另据《纽约时报》星期二报道称，美国机密情报评估显示，伊朗仍然拥有强大的导弹能力，约70%的移动发射装置和战前导弹库存仍在服役，并且已经恢复霍尔木兹海峡沿岸33个导弹发射场中30个的使用权。
+伊朗正在限制霍尔木兹海峡的交通，并向过境船只收取通行费。沙特石油巨头沙特阿美公司的负责人称，这是“世界有史以来经历的最大能源供应冲击”。
+卡塔尔外交大臣阿勒萨尼星期二说：“伊朗不应利用霍尔木兹海峡作为武器，向海湾国家施压或勒索。”
+与此同时，智库查塔姆研究所中东和北非项目主任瓦基尔说，伊朗领导人“认为他们能比特朗普坚持得更久”。
+瓦基尔补充说，德黑兰致力于谈判，但“希望利用自身优势获取让步”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普发布图片 称委内瑞拉是美国第51个州]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9039022</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9039022"/>
+        <updated>2026-05-13T01:15:06.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期二（5月12日）在“真相社交”平台上发布一张地图，邻国委内瑞拉被画成美国国旗的图案，并标注“第51个州”。
+委内瑞拉临时总统罗德里格斯星期一（11日）说，即使在美军于1月份抓捕马杜罗之后，委内瑞拉也从未考虑过成为美国的第51个州。 
+特朗普星期一早些时候告诉福克斯新闻，他正考虑将委内瑞拉变成一个新的州。此前几个月，他一直吹嘘自己控制着委内瑞拉。
+自接管委内瑞拉以来，罗德里格斯一直致力于缓和与美国的关系，她推行改革，重新向外国公司，尤其是美国公司开放委内瑞拉的采矿和石油行业。 
+委内瑞拉反对派要求举行选举。罗德里格斯5月1日被问及投票前景时说，她“不知道”，并说选举“总有一天”会发生。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-05-13T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月13日 书山聚合 OwlTTS 一款基于小米 MiMo 大模型的免费智能语音合成工具 5月12日 在线剪贴板 一个免费在线文本分享与复制工具 60s信息聚合 整合了每日简报、全网热榜、城市天气、实用数据、娱乐内容和常用工具，开源地址 5月11日]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯试射携带核弹头的新型远程导弹]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9039007</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9039007"/>
+        <updated>2026-05-13T00:46:31.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯星期二（5月12日）试射了一枚能携带核弹头的新型远程导弹。此前数月，限制俄美核武库的最后一项条约刚刚失效。
+法新社报道，今年2月，《新削减战略武器条约》（New START）的终止，正式解除了限制世界两个核大国的一系列条件。 
+俄罗斯总统普京在收到“萨尔马特”（Sarmat）洲际弹道导弹成功发射的报告后宣称：“这是世界上最强大的导弹系统。” 
+他说，这枚导弹可携带的弹头威力是西方军队现有弹头的四倍以上，并补充说，“萨尔马特”导弹将于今年年底前投入“作战使用”。
+自2022年首次试射以来，普京曾多次宣称“萨尔马特”将于当年年底前部署，但这些计划至今尚未实现。
+联合国裁军研究所高级研究员波德维格说，俄罗斯今年部署最大导弹是现实的，但这不会导致“俄罗斯战略力量的威慑潜力发生显著变化”。
+据塔斯社报道，克里姆林宫称已将此次发射通知美国。
+尽管莫斯科和华盛顿在《新削减战略武器条约》到期后不久同意恢复高级别军事对话，但目前尚无迹象表明双方将立即续签或延长条约。
+美国总统特朗普一再敦促签署一项将中国纳入其中的新条约，但北京方面已公开拒绝。
+对于俄罗斯要求延长《新削减战略武器条约》的呼吁，特朗普一直保持沉默。美俄两国都曾多次指责对方未能遵守条约。
+“萨尔马特”是后苏联时代俄罗斯生产的第一枚被归类为超重型的洲际弹道导弹，据称射程可达3万5000公里。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[格陵兰总理：与美国谈判尚未达成协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9038978</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9038978"/>
+        <updated>2026-05-13T00:38:19.000Z</updated>
+        <summary type="html"><![CDATA[丹麦自治领土格陵兰岛总理尼尔森说，丹麦、格陵兰和美国就格陵兰进行的谈判有所进展，但尚未达成协议。
+法新社报道，尼尔森星期二（5月12日）在丹麦哥本哈根民主峰会上说：“我们正在谈判，但尚未达成协议。”
+他表明：“我们与美国签署了一项防务协议。根据协议，如果他们愿意，我们可以在格陵兰设立更多基地。我无法就谈判结果透露任何具体信息，但我们已准备好承担更多责任，并采取更多行动。”
+根据1951年签署的一项防务条约，华盛顿可在格陵兰岛增加驻军和军事设施，但须提前通知丹麦和格陵兰。条约曾在2004年更新。
+今年1月，美国总统特朗普放弃此前多次威胁要占领格陵兰的立场。他一再声称，出于国家安全考虑，美国须要控制格陵兰，否则它就会落入中国或俄罗斯手中。 
+尼尔森表明：“我们从一开始就做好了准备，并且表示我们准备承担更多责任……无论是在国家安全还是国际安全方面。我们唯一的要求是得到尊重。”
+他说，特朗普的格陵兰问题特使兰德里已提出在下周访问格陵兰首府努克时举行会晤，但目前尚未确定议程。“如果我们得到具体消息，就会安排此事。”
+自3月24日大选以来，丹麦一直处于无政府状态，左翼和右翼阵营均未能获得多数席位。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国女子感染汉坦病毒 正在重症监护室治疗]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9038943</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9038943"/>
+        <updated>2026-05-13T00:17:12.000Z</updated>
+        <summary type="html"><![CDATA[医生说，一名从暴发汉坦病毒疫情的游轮上回国的法国女子，正在重症监护室接受呼吸机治疗。 
+法新社报道，这名女子是五名从洪迪厄斯号游轮上送回国，并在巴黎隔离的法国乘客之一。她星期天（5月10日）晚开始感到身体不适，随后汉坦病毒检测结果呈阳性。 
+法国医生在星期二（12日）的卫生部记者会上说：“这名患者目前出现最严重的心肺症状。她正在使用人工肺和体外循环，我们希望她能渡过这个难关。”
+据悉，这名女子年龄超过65岁，并且患有基础疾病，但医生没有透露具体情况。
+游轮上的一对荷兰夫妇和一名德国女子已因感染汉坦病毒死亡，另有一些人也受到感染。
+目前尚无针对汉坦病毒的疫苗或特效疗法，但卫生官员坚称，汉坦病毒对全球公共卫生的风险较低。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊拉克巴基斯坦与伊朗达成协议 运输石油液化天然气]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9038900</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9038900"/>
+        <updated>2026-05-12T23:59:20.000Z</updated>
+        <summary type="html"><![CDATA[据五名知情人士透露，伊拉克和巴基斯坦都已与伊朗达成协议，从波斯湾地区运输石油和液化天然气。
+路透社报道，根据巴格达和德黑兰达成的一项协议，伊拉克两艘超大型原油运输船于5月10日分别装载约200万桶原油，安全通过霍尔木兹海峡。这项协议此前未曾报道。
+一名伊拉克石油部官员告诉路透社，伊拉克目前正努力争取伊朗批准更多原油运输船通过霍尔木兹海峡。
+“伊拉克是伊朗的亲密盟友，伊拉克经济出现任何恶化都会损害伊朗在伊拉克的经济利益。”
+另一名伊拉克石油部官员和一名航运业消息人士也证实与德黑兰的谈判。
+两名知情人士向路透社透露，根据伊斯兰堡和德黑兰之间达成的一项双边协议，两艘装载卡塔尔液化天然气的油轮正驶往巴基斯坦。
+消息人士称，伊拉克和巴基斯坦均未就过境事宜直接向伊朗或革命卫队支付款项。
+这两名消息人士说，卡塔尔并未直接参与双边协议，但在向巴基斯坦发货前已通知美国。
+据知情人士透露，由于能源成本上涨和供应中断给各国经济带来沉重压力，其他国家也考虑达成类似协议。
+咨询公司MST Marquee研究主管卡沃尼克说：“随着越来越多的政府愿意与伊朗达成通行协议，可能使伊朗长期控制霍尔木兹海峡的观念正常化。”
+美伊冲突2月底爆发前，每月约有3000艘船只通过霍尔木兹海峡。航运数据显示，目前的通行量仅约为战前的5%。 
+业内人士透露，伊朗正在正式确立对霍尔木兹海峡的控制权。一名伊拉克石油部官员说，伊朗已要求伊拉克提交每艘油轮的相关文件，以便在伊朗海军的监督下，通过指定的海上航线通行。
+一名了解巴基斯坦与伊朗就船只通行问题进行谈判的消息人士称，谈判过程中出现了一些波折。
+“伊朗伊斯兰革命卫队有时会改变规则，所以很难让谈判按计划进行，但我们正在努力克服困难。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无视辞职呼吁 斯塔默承诺继续执政]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9038859</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9038859"/>
+        <updated>2026-05-12T23:32:55.000Z</updated>
+        <summary type="html"><![CDATA[英国首相斯塔默正在努力保住自己的政治地位。他承诺将继续推进国家改革计划，并警告称，如果他被赶下台，英国将陷入混乱和动荡。 
+路透社报道，英国执政工党议员纷纷要求斯塔默辞职，指他应该对上周地方选举的惨败负责，并称自2024年大选获胜以来，他未能兑现改革承诺。斯塔默至今仍拒绝辞职。 
+尽管近四分之一的工党议员呼吁他下台，一些初级部长也已辞职以示抗议，但目前尚未有竞争对手正式发起挑战。
+斯塔默星期二（5月12日）晚间在一份声明中说：“英国正处于一个关键时刻：要么继续推进建设一个更强大、更公平国家的计划，要么重蹈覆辙，回到过去的混乱和动荡之中。”
+斯塔默说：“英国人民期望政府继续努力，让我们的国家变得更好。降低生活成本，缩短医院候诊名单，并在日益危险的世界中保障国家安全。”
+尽管局势动荡，斯塔默仍将于星期三（13日）参加议会开幕大典。英国国王查尔斯将主持仪式，政府将阐述未来一年的政治优先事项和立法议程。
+斯塔默政府说，这份方案包含35项法案和草案，重点关注改善经济、加强国家安全以及“改革国家体制，以支持一个更加积极主动、站在英国人民一边的政府”。
+斯塔默星期二的大部分时间都在唐宁街办公室争取支持。预计他将在演讲前会见高级部长之一斯特里廷，后者被认为是可能的挑战者。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：无需中国帮助结束美伊冲突]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9038845</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9038845"/>
+        <updated>2026-05-12T23:21:34.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，他认为自己不需要中国的帮助就能结束与伊朗的战争。 
+路透社报道，即将访问中国的特朗普星期二（5月12日）告诉记者：“我认为我们不需要任何帮助来解决伊朗问题。无论以何种方式，无论和平还是其他方式，我们都会赢得这场战争。”
+脆弱的停火协议生效一个多月后，美伊双方在结束战争的协议方面仍未取得任何进展。 
+与此同时，据知情人士透露，伊朗正在加强对霍尔木兹海峡的控制，并与伊拉克和巴基斯坦达成协议，从本地区运输石油和液化天然气。
+消息人士称，其他国家也考虑与伊朗达成类似的协议，这可能使德黑兰对霍尔木兹海峡的控制更加稳固。
+特朗普政府星期二说，美中高级官员在4月份达成一致，任何国家都不得对途经霍尔木兹海峡的船只收取通行费。
+美国对停战的要求包括伊朗停止核计划，并解除对霍尔木兹海峡的控制。
+伊朗也提出了自己的要求，包括赔偿战争损失、结束美国的封锁，以及结束所有战线的战争，包括黎巴嫩战线。特朗普星期一（11日）驳斥这些立场，称之为“垃圾”。 
+伊朗官员依然态度强硬。法尔斯通讯社引述一名伊斯兰革命卫队官员的话说，伊朗已将霍尔木兹海峡的范围扩大到从东部的贾斯克市海岸到西部锡里岛的区域。
+据伊朗国家电视台报道，革命卫队举行在德黑兰“以应对敌人为重点的演习”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -201,31 +383,19 @@
         <id>https://www.zaobao.com/news/world/story20260513-9038488</id>
         <link href="https://www.zaobao.com/news/world/story20260513-9038488"/>
         <updated>2026-05-12T16:08:15.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部星期二（5月12日）正式起诉2024年3月撞毁巴尔的摩港大桥的货船营运商Synergy Marine，以及它在印度的关联公司Synergy Maritime。
-法新社根据周二解封的起诉书报道，这两家公司被控合谋诈骗、向美国国家运输安全委员会（NTSB）提供虚假陈述等多项罪名。此外，47岁的印度籍男子Radhakrishnan Karthik Nair也被列为被告，他当时担任涉事货轮达利号的技术监督，同时受雇于上述两家公司。
-2024年3月26日凌晨，全长约300米的集装箱船达利号因电力系统连续故障失去动力和转向，撞上巴尔的摩港大桥，整座桥瞬间坍塌，在桥上作业的六名工人坠河身亡，巴尔的摩港航道也被切断。
-美国国家运输安全委员会随后的调查发现，事故的直接诱因是高压配电板上一根电线连接松动导致断电。
+        <summary type="html"><![CDATA[美国司法部正式起诉2024年3月撞毁巴尔的摩港大桥的货船营运商Synergy Marine，以及它在印度的关联公司Synergy Maritime。 
+法新社根据星期二（5月12日）解封的起诉书报道，这两家公司被控合谋诈骗、向美国国家运输安全委员会（NTSB）提供虚假陈述等多项罪名。
+此外，47岁的印度籍男子Radhakrishnan Karthik Nair也被列为被告，他当时担任涉事货轮达利号的技术监督，同时受雇于上述两家公司。
+2024年3月26日凌晨，全长约300米的集装箱船达利号因电力系统连续故障失去动力和转向，撞上巴尔的摩港大桥，整座桥瞬间坍塌，在桥上作业的六名工人坠河身亡，巴尔的摩港航道也被切断。 
+美国国家运输安全委员会随后的调查发现，事故的直接诱因是高压配电板上一根电线连接松动导致断电。 
 美国代理司法部长布兰奇在声明中说：“这起坍塌事故是一场本可避免的惨痛悲剧。此次起诉是追究那些罔顾航运安全规定、导致灾难发生者责任的关键一步。”
 美国联邦调查局特别探员保罗说，起诉揭示了两家公司存在“一系列欺骗行为和严重违规行为，导致达利号存在安全隐患，危及公众安全，并最终导致船只撞上桥梁”。
 他也说：“这份起诉书应向所有船舶运营商发出明确信号：绝不容忍规避安全要求和违反美国法律的行为。”
 美国检察官海耶斯进一步披露，调查发现Synergy的员工不仅伪造船舶系统的安全检查和认证记录，甚至指使他人参与伪造。“Synergy后来向美国国家运输安全委员会提供了当中许多虚假认证的文件。”
-2024年10月，美国司法部与Synergy Marine及达利号的船主Grace Ocean达成1亿零110万美元（约1亿3335万新元）的民事和解协议，用以支付事故响应及清理航道残骸的费用。
+2024年10月，美国司法部与Synergy Marine及达利号的船主Grace Ocean达成1亿零110万美元（约1亿3335万新元）的民事和解协议，用以支付事故响应及清理航道残骸的费用。 
 如今美国司法部发起刑事指控，标志着法律追责进入新阶段。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编译 | 印度式死循环：消灭种姓必先革命，搞成革命必先消灭种姓 | 原文]]></title>
-        <id>https://t.me/wxbyg/7327</id>
-        <link href="https://t.me/wxbyg/7327"/>
-        <updated>2026-05-12T15:46:46.000Z</updated>
-        <summary type="html"><![CDATA[编译 | 印度式死循环：消灭种姓必先革命，搞成革命必先消灭种姓 | 原文
-Telegraph
-编译 | 印度式死循环：消灭种姓必先革命，搞成革命必先消灭种姓
-本文共8754字 阅读预计22分钟 作者| 阿南德·特尔图姆德（Anand Teltumbde） 编译 | 章钰钰 编译审核| 胡可怡 本期编辑| 姜心宇 本期审核 | 陈珏可 江怡 编者按 种姓不是印度社会中的一个局部制度，而是社会本身的整体架构与底层规则，因而无法通过温和改革、保留配额或宪法修补逐步消除。真正的平等只能来自社会结构与思想意识的同步革命性转型。然而，种姓制度本身又阻碍真正社会革命的发生：它在每一层级之间制造微小的相对优越感，使各群体都与种姓秩序形成某种利益关联和身份依附，让被压迫者沦为…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -314,84 +484,6 @@ Telegraph
 西班牙卫生部星期一（11日）说，涉疫游轮所有撤离人员均已离开西班牙特内里费岛。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再因胆固醇戒掉鸡蛋！15 年超3.9万人研究证实｜适量吃鸡蛋，阿尔茨海默病风险最高降 27% | 原文]]></title>
-        <id>https://t.me/wxbyg/7326</id>
-        <link href="https://t.me/wxbyg/7326"/>
-        <updated>2026-05-12T13:00:45.000Z</updated>
-        <summary type="html"><![CDATA[别再因胆固醇戒掉鸡蛋！15 年超3.9万人研究证实｜适量吃鸡蛋，阿尔茨海默病风险最高降 27% | 原文
-Telegraph
-别再因胆固醇戒掉鸡蛋！15 年超3.9万人研究证实｜适量吃鸡蛋，阿尔茨海默病风险最高降 27%
-目前，全球约有 5500 万人患有痴呆症，其中阿尔茨海默病是最常见的类型，占所有痴呆病例的 60%~70%。随着全球人口老龄化加速，这一数字还在持续攀升，预计到 2050 年，仅美国用于阿尔茨海默病管理的年度支出就将超过 6000 亿美元。 遗憾的是，迄今为止，医学界仍未研发出能够逆转或彻底治愈该病的药物，因此，全球科学家都将越来越多的目光投向了可改变的生活方式因素，其中饮食干预更是预防的核心抓手。一个困扰无数中老年人的日常问题也随之而来：日常吃什么、不吃什么，真的能影响大脑的衰老进程，甚至改变阿尔茨海默病的发病风险吗？…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃得苦中苦，真不能成为人上人！中南湘雅最新｜经历太多逆境，加速衰老，端粒变短；且苦吃得越多，人越“脆皮”，拉高死亡风险 | 原文]]></title>
-        <id>https://t.me/wxbyg/7325</id>
-        <link href="https://t.me/wxbyg/7325"/>
-        <updated>2026-05-12T12:55:12.000Z</updated>
-        <summary type="html"><![CDATA[吃得苦中苦，真不能成为人上人！中南湘雅最新｜经历太多逆境，加速衰老，端粒变短；且苦吃得越多，人越“脆皮”，拉高死亡风险 | 原文
-Telegraph
-吃得苦中苦，真不能成为人上人！中南湘雅最新｜经历太多逆境，加速衰老，端粒变短；且苦吃得越多，人越“脆皮”，拉高死亡风险
-我们可能多多少少都留意过，周围有些人明明才四十岁，却总给人一种“老态龙钟”的感觉；而有些人年过六旬，却依然精神矍铄、步履矫健。除了基因和保养，那些我们以为早已“过去”的人生至暗时刻，正一点点在我们的细胞里刻下衰老的痕迹。 近期，来自英国伦敦国王学院、中南大学湘雅医院等机构的研究团队发表于BMC Medicine的一项最新研究，通过对英国生物银行（UK Biobank）超过15万中老年人的数据分析，首次系统性地揭示了童年和成年时期遭遇的逆境，竟然与人体多种衰老标志物之间存在显著关联。 DOI：10.1186/s12916…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只有铁打的伴侣，才敢一起挑战这种「游戏」—— | 原文]]></title>
-        <id>https://t.me/wxbyg/7324</id>
-        <link href="https://t.me/wxbyg/7324"/>
-        <updated>2026-05-12T12:54:11.000Z</updated>
-        <summary type="html"><![CDATA[只有铁打的伴侣，才敢一起挑战这种「游戏」—— | 原文
-Telegraph
-只有铁打的伴侣，才敢一起挑战这种「游戏」——
-最近住在侧卧的室友搬走了，考虑到合租的各种不便，我和男朋友决定整租下这套房子。当我们不用非得绑定在同一个空间内后，我忽然有了一种之前很少体验过的安心、幸福和踏实感。 这种感受的来源说起来也很普通，不过是我俩一个人在卧室看书，另一个人在客厅运动，运动完跑到对方跟前秀一秀肌肉；又或者一个人在阳台上荡着秋千，另一个人在厨房忙活，端出来的菜先捏一个往对方嘴里塞。 即使不待在同一个空间，我们也会让所有房间的门都开着，就算不说话，也扭头就能看到对方。 这种感觉像是小时候妈妈在旁边打毛衣，我躺在凉席上百无聊赖地看天花…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[说说那个令人发指的德国华人迷奸案 | 原文]]></title>
-        <id>https://t.me/wxbyg/7323</id>
-        <link href="https://t.me/wxbyg/7323"/>
-        <updated>2026-05-12T12:27:47.000Z</updated>
-        <summary type="html"><![CDATA[说说那个令人发指的德国华人迷奸案 | 原文
-Telegraph
-说说那个令人发指的德国华人迷奸案
-"死猪"。 这是他们在Telegram群组里，对失去意识的受害者使用的称呼。 在名为“德国老司机驾校”的核心群组里，8个核心成员协作分工，长期交流如何在德国针对华人女性实施迷奸及拍摄暴力色情影像。 其中已知有7人，来自国内。 他们讨论如何给女性下药并强奸她们，使用什么药物，剂量多少，在女性失去意识后对她们做什么，以及强奸时使用什么物品和工具。 然后，他们还会拍摄受害者的照片和视频，并在群组下游的聊天群里进行分享。 其中最大一个相关群组成员规模达约4500人，而长期活跃、参与讨论下药经验及分享偷拍影像的成…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase：百亿美元估值，vibe coding 的默认后端？ | 原文]]></title>
-        <id>https://t.me/wxbyg/7322</id>
-        <link href="https://t.me/wxbyg/7322"/>
-        <updated>2026-05-12T12:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Supabase：百亿美元估值，vibe coding 的默认后端？ | 原文
-Telegraph
-Supabase：百亿美元估值，vibe coding 的默认后端？
-作者：Patrick Supabase 是一个几乎所有 vibe coder 都熟悉的产品。 它背后的公司创立于 2020 年，以 Postgres 为核心数据库，叠加 auth、storage、edge functions、vector 等能力打包成一站式后端提供给用户。其早期价值主张围绕“open-source Firebase”与“更简单易用和一站式的 Postgres”构建，目标是让开发者“Build in a weekend. Scale to millions”。 Supabase 的发展底座是…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挑不出任何瑕疵的米其林三星 但也谈不上多打动人心 | 原文]]></title>
-        <id>https://t.me/wxbyg/7321</id>
-        <link href="https://t.me/wxbyg/7321"/>
-        <updated>2026-05-12T12:27:17.000Z</updated>
-        <summary type="html"><![CDATA[挑不出任何瑕疵的米其林三星 但也谈不上多打动人心 | 原文
-Telegraph
-挑不出任何瑕疵的米其林三星 但也谈不上多打动人心
-如果我涉世未深，大概会把毕尔巴鄂的米其林三星Azurmendi列为一次巴斯克美食朝圣，就像多年前的鼻祖Arzak和前卫Mugaritz，但今日到访，只能淡然说一句：它挑不出任何瑕疵，但也谈不上多打动人心。 餐厅开在郊外的半山，一栋据称是可持续发展的房子，阳光中庭草木葱茏，掩映米其林绿星。 开场送一杯白葡萄酒Txakoli，是巴斯克人的待客之道，接下来玩的，未免俗套。 服务员提来一个柳条野餐篮，装着四道开胃小菜：野牛肉挞配鱼子酱，醇厚中有烟熏味道，吞拿鱼油炸小丸子很像本地Pintxos，鹅肝盛在小青柠里加…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -564,318 +656,6 @@ Telegraph
 声明称：“工党有挑战党魁的程序，但该程序尚未启动。国家期望我们继续执政。这就是我正在做的事，也是我们内阁必须做的事。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约快闪展出完整爱泼斯坦文件 还原与特朗普多年友谊]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035772</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035772"/>
-        <updated>2026-05-12T08:49:18.000Z</updated>
-        <summary type="html"><![CDATA[（纽约法新电）美国一个倡导透明度的非营利组织在纽约举办快闪展览，完整展出约350万页的爱泼斯坦文件，希望借此“唤醒公众强烈的抗议”。
-主办方将位于曼哈顿下城的翠贝卡（Tribeca）街区的展览现场布置成一个图书馆，命名为“特朗普与爱泼斯坦纪念阅读室”，并将美国司法部公布的已故性罪犯爱泼斯坦案所有3437批文件打印出来，按号码顺序排列在书架上。
-主办方在网站宣称：“当真相被打印出来历历在目，就难以被否认。”
-快展也有一个展区，呈现特朗普与爱泼斯坦之间的长期关系。两人的友谊据报持续数十年，直到2004年因为一宗房地产交易而翻脸。特朗普的名字多次出现在档案文件，但他多次否认自己涉及非法勾当。爱泼斯坦2019年在扣留所待审时死亡，死因被判定为自杀。
-快展的其中一名主办人盖瑞特（David Garrett）接受法新社访问时说，特朗普政府如何处理爱泼斯坦案文件的方式“应当引发公众强烈抗议”，司法部官员被指掩盖了特朗普与爱泼斯坦的关系。
-盖瑞特说：“我们现在尝试做的，就是协助唤起公众的抗议，追究真正的责任。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中东战事冲击供应链 日本食品包装“褪色”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9036130</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9036130"/>
-        <updated>2026-05-12T08:45:25.000Z</updated>
-        <summary type="html"><![CDATA[受中东局势延宕导致印刷油墨原料短缺影响，日本食品企业卡乐比公司决定，暂时将原本使用鲜艳配色设计的14款畅销商品包装改为黑白包装。
-综合路透社和日本媒体报道，卡乐比公司星期二（5月12日）宣布，将暂时把薯片等14款商品的包装改为黑白包装。采用新包装的产品将于5月25日起上架出售。
-公司强调，在无法预判中东局势未来走向的情况下，公司将把稳定供货放在首位。
-作为原油提炼过程中的关键中间产物，石脑油是生产合成树脂和有机溶剂的核心原料，而后两者是彩色印刷油墨的基础成分。受中东局势影响，国际油价上涨导致石脑油供应趋紧，彩色油墨采购尤其困难。
-据日媒报道，目前日本多家食品饮料企业均面临相同问题。伊藤火腿-米久控股公司社长浦田宽之日前称，“今后彩色包装生产可能出现困难，有可能采用黑白简单包装”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国际学生人数减两成 高校财政压力加剧]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035898</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035898"/>
-        <updated>2026-05-12T08:38:47.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿彭博电）研究显示，今年春季美国高校的新入学外国本科生人数，较去年同期平均下降了20%。这凸显了特朗普政府与高等教育界的对峙，正冲击美国大学重要的人才与资金来源。
-这项针对149所美国高校的调查发现，同2025年春季比较，约62%学校的本科和研究生项目的国际学生入学人数都有所下降。
-国际学生通常支付全额学费，是美国大学重要收入来源。特朗普政府则把限制国际学生招生视为重塑高等教育体系和收紧移民政策的一部分。
-报告称，如果今年秋季国际学生人数的跌幅也接近20%，一些高校可能面临严重财政压力。
-调查显示，84%的美国高校将“限制性政府政策”列为国际学生减少的主要原因，超过三分之一学校担心因此被迫削减预算。去年夏季，美国发出的学生签证数量也下降36%。
-美国高校局势在去年春季出现转折。美国移民与海关执法局（ICE）拘留数十名外国学生，并撤销数千人的合法居留身份。尽管多数学生后来通过法律途径恢复身份，但事件已对赴美留学意愿造成长期影响。
-与此同时，加拿大、澳大利亚和英国等热门留学国家，也反映国际学生人数因移民政策收紧而减少。相较之下，欧洲和亚洲部分高校国际学生人数有所增加。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球野火今年已烧毁逾一亿公顷土地 厄尔尼诺或加剧灾情]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035519</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035519"/>
-        <updated>2026-05-12T08:35:46.000Z</updated>
-        <summary type="html"><![CDATA[（巴黎综合电）科学家警告，气候变化已导致亚洲和非洲等地今年出现创纪录的野火。随着北半球夏季临近以及厄尔尼诺现象开始显现，预计情况将进一步恶化。
-世界气候归因组织（World Weather Attribution）的数据显示，今年1月至4月的野火已造成前所未有的破坏，烧毁土地超过1亿5000万公顷，比此前纪录高出20%。
-伦敦帝国理工学院野火专家基平星期二（5月12日）说：“虽然全球许多地区的野火季尚未进入高峰期，但如此迅猛的开局，加上预计将出现的厄尔尼诺现象，意味着今年可能会成为特别严峻的一年。”
-今年亚洲野火已烧毁多达4400万公顷土地，比2014年的此前纪录高出近40%，其中印度、缅甸、泰国、老挝和中国受灾最为严重。非洲也有多达8500万公顷土地被烧毁，比此前纪录高出23%。
-基平警告，野火风险可能在今年较迟时候进一步上升，因为厄尔尼诺将增加澳大利亚、加拿大、美国和亚马逊雨林出现严重高温和干旱的可能性。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普支持暂时减免汽油税]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035865</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035865"/>
-        <updated>2026-05-12T08:34:10.000Z</updated>
-        <summary type="html"><![CDATA[美以伊战争导致燃油价格高涨，美国总统特朗普说，他支持减免汽油税，以抵消油价上涨带来的冲击。
-路透社报道，特朗普星期一（5月11日）说，他支持暂停征收每加仑18.4美分（约0.23新元）的联邦汽油税。不过豁免这项税收需要国会立法。美国国会目前由特朗普所属共和党控制。
-特朗普当天在白宫椭圆形办公室被问及是否会暂停征收联邦汽油税，他说：“我会。”记者问他会暂停多久，他说：“直到适当时候为止。”
-当天较早前，特朗普接受哥伦比亚广播公司（CBS）采访时表示，目前未有针对航空公司的纾困计划，并称“航空公司的表现不是太糟”。
-密苏里州共和党参议员乔霍利在X平台透露，他于11日提出一项法案，暂停征收汽油税和每加仑24.4美分的柴油税，为期90天。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冯德莱恩：欧盟应探讨限制儿童使用社交媒体]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035867</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035867"/>
-        <updated>2026-05-12T08:31:05.000Z</updated>
-        <summary type="html"><![CDATA[欧盟委员会主席冯德莱恩说，欧盟应探讨限制儿童使用社交媒体，有关新规最早可能于今年夏天提出。
-综合法新社和路透社报道，冯德莱恩已委托一个专家小组在7月前提交报告，说明欧盟应采取哪些措施来保护未成年人免受网络伤害，其中包括可能实施的社媒禁令。
-冯德莱恩星期二（5月12日）在哥本哈根举行的关于人工智能与儿童的峰会上说：“在不预设专家小组结论的前提下，我认为我们必须考虑推迟儿童使用社媒。根据结果，我们可能在今年夏天提出一项法律提案。”
-她指出，儿童和青少年因接触社媒而遭受的诸多伤害并非偶然，“而是将我们孩子的注意力视为商品的商业模式所导致的后果”。
-她补充说，欧盟正将矛头明确指向社媒平台TikTok、X以及Meta旗下的Instagram和脸书。
-冯德莱恩说：“我们正在对TikTok及其令人上瘾的设计、无休止的滚动、自动播放和推送通知采取行动。对Meta也是如此，因为我们认为Instagram和脸书未能落实其13岁的最低年龄限制。”
-欧盟委员会还已针对X公司启动诉讼程序，因其使用Grok人工智能工具生成妇女和儿童的色情图像。
-冯德莱恩还主张制定严格规定，禁止未满一定年龄的青少年使用社交媒体。
-她说：“问题不在于年轻人是否应该使用社交媒体，而在于社交媒体是否应该接触年轻人。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本实际家庭消费连续四个月同比下滑]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9035033</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9035033"/>
-        <updated>2026-05-12T07:13:23.000Z</updated>
-        <summary type="html"><![CDATA[日本总务部星期二（5月12日）公布的调查结果显示，受物价上涨和中东战事延宕影响，日本实际家庭消费支出在今年3月连续第四个月同比下滑，日本家庭“省钱”意愿进一步提升。
-新华社报道，数据显示，3月日本两人及以上家庭月平均消费支出同比下降1.3%，扣除物价因素后实际同比下降2.9%，实际家庭消费自去年12月以来连续四个月同比下滑。反映家庭消费意愿的平均消费倾向降至82.7%，同比下降7.2个百分点。
-从实际支出来看，交通通信和食品支出下降是拖累消费的主要因素。交通通信开支同比下降16.8%，连续四个月下滑。食品消费支出同比下降2.9%，连续两个月下滑，其中酒类支出同比下降19.8%，已连续12个月减少。
-日本第一生命经济研究所首席经济学家永滨利广说，日本家庭3月平均消费倾向同比和环比均明显下降，中东紧张局势正在加剧日本家庭节约倾向。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴发疫情游轮上最后一批人员抵达荷兰]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9034865</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9034865"/>
-        <updated>2026-05-12T06:18:48.000Z</updated>
-        <summary type="html"><![CDATA[暴发汉坦病毒疫情的“洪迪厄斯”号游轮上的最后一批人员，共28人，星期二（5月12日）凌晨分乘两架飞机抵达荷兰埃因霍温空军基地，他们将在荷兰接受隔离或回国。
-新华社报道，荷兰外交部11日晚发布消息说，第一架飞机上载有六名原计划从西班牙特内里费岛直接返回澳大利亚的游轮乘客；第二架飞机上载有22名撤离人员，主要是游轮工作人员。
-据外媒报道，搭乘第一架飞机的六名乘客将在荷兰接受短暂隔离后前往澳洲。
-洪迪厄斯号游轮由总部位于荷兰的“泛海探险”公司运营。泛海探险公司11日说，洪迪厄斯号游轮正驶往荷兰鹿特丹港，预计17日抵达。
-世界卫生组织（WHO）11日说，当前共接到九起与洪迪厄斯号游轮相关的病例报告，其中七人确诊感染汉坦病毒家族中的安第斯病毒，已有三人死亡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列设特别军事法庭审2023年哈马斯突袭参与者]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9034606</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9034606"/>
-        <updated>2026-05-12T05:43:11.000Z</updated>
-        <summary type="html"><![CDATA[以色列议会通过一项法案，决定设立一个特别军事法庭，审理涉嫌参与哈马斯2023年10月7日突袭以色列的巴勒斯坦人。
-新华社报道，根据以色列议会星期一（5月11日）通过的法案，特别军事法庭有权作出死刑判决。
-《以色列时报》报道，特别军事法庭将审理哈马斯2023年突袭中在以色列境内抓获并关押至今的约300名“袭击者”。
-法案还规定，任何被怀疑、指控或定罪参与哈马斯突袭的人，不得通过人员交换协议获释。
-以色列议会以93票赞成、0票反对、0票弃权通过这项法案。
-以色列长期侵占巴勒斯坦土地并封锁加沙地带。哈马斯2023年10月7日从加沙地带袭击以色列军民目标，造成约1200人死亡，并把251人挟持到加沙地带。以军当天在加沙地带发起军事行动，迄今造成超过7万2000人死亡，另有超过17万2000人受伤。自去年10月10日加沙停火第一阶段协议生效以来，以军以哈马斯违反停火协议为由，不时发动袭击，造成伤亡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北大学生体验插翅飞行，仅一周后大脑就以为人长了翅膀 | 原文]]></title>
-        <id>https://t.me/wxbyg/7320</id>
-        <link href="https://t.me/wxbyg/7320"/>
-        <updated>2026-05-12T01:28:22.000Z</updated>
-        <summary type="html"><![CDATA[北大学生体验插翅飞行，仅一周后大脑就以为人长了翅膀 | 原文
-Telegraph
-北大学生体验插翅飞行，仅一周后大脑就以为人长了翅膀
-加星标，才能不错过每日推送！方法见文末插图 近日，Cell Reports报道了来自北京大学的一项新奇研究：人类在虚拟现实（VR）世界里带翅飞行，大脑会怎么处理虚拟出的身体部位？这项研究最终有些出乎意料地表明，大脑不仅适应了新的工具、新的动作，甚至可能在短时间内，为一种人类从未拥有过的肢体建立起表征。研究者继而追问：当技术开始为人类创造新的身体经验时，它是否会改变我们理解世界的方式？ 撰文 | 黄雨佳 如果可以选择一种超能力，你最想拥有什么？ 对于北京大学心理与认知科学学院的毕彦超教授而言，这个问题的答…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月推荐]]></title>
-        <id>/archives/2026nian-5yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
-        <updated>2026-05-12T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月12日 在线剪贴板 一个免费在线文本分享与复制工具 60s信息聚合 整合了每日简报、全网热榜、城市天气、实用数据、娱乐内容和常用工具，开源地址 5月11日 游戏下载吧 一款免费下载PC游戏的网站 COCO Downloader @投稿 聚合了多个音悦搜索源，还不错，]]></summary>
-        <author>
-            <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主板销量暴跌 | 原文]]></title>
-        <id>https://t.me/wxbyg/7319</id>
-        <link href="https://t.me/wxbyg/7319"/>
-        <updated>2026-05-11T23:16:40.000Z</updated>
-        <summary type="html"><![CDATA[主板销量暴跌 | 原文
-Telegraph
-主板销量暴跌
-AI 热导致了计算机主要零部件如内存价格暴涨，连带导致其它受 AI 影响不大的零部件如主板销量暴跌。消费者因过高的价格而推迟了计算机升级。四大主板厂商都下调了销售目标。华硕在 2025 年售出了 1500 万块主板，而 2026 年上半年将只出货逾 500 万块主板，全年销量可能低于一千万，销量同比下降 33%。技嘉和微星去年分别售出 1150 万块和 1100 万块主板。如今两家公司都将 2026 年的内部销量预测下调至 900 万块（技嘉）和 840 万块（微星），分别下降 22% 和 24%。华擎…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“我是个美国佬，求大家帮我弄个微信。” | 原文]]></title>
-        <id>https://t.me/wxbyg/7318</id>
-        <link href="https://t.me/wxbyg/7318"/>
-        <updated>2026-05-11T16:14:39.000Z</updated>
-        <summary type="html"><![CDATA[“我是个美国佬，求大家帮我弄个微信。” | 原文
-Telegraph
-“我是个美国佬，求大家帮我弄个微信。”
-火遍全球的编程 Agent，居然出自 DeepSeek 美国迷弟之手？ 故事的开始是这样的，一个叫 Hunter Bown 的开发者在五一发了条推特，宣传他做的开源项目 DeepSeek-TUI。 就像 Codex 之于 OpenAI，Claude Code 之于 Claude，DeepSeek-TUI，就是 Hunter 为 DeepSeek v4 量身打造的专属编程 Agent。 给项目打广告倒不稀奇，神奇的是，这位美国佬特意用 DeepSeek 把推文翻译成了中文，还在宣传之余求助中国网友，想要个微信号，加入中国…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神秘外星力量侵袭了武大 | 原文]]></title>
-        <id>https://t.me/wxbyg/7317</id>
-        <link href="https://t.me/wxbyg/7317"/>
-        <updated>2026-05-11T14:39:51.000Z</updated>
-        <summary type="html"><![CDATA[神秘外星力量侵袭了武大 | 原文
-Telegraph
-神秘外星力量侵袭了武大
-文/六神磊磊、曹曹 一 直说了吧，我觉得有一种神秘的力量侵袭了武大。 有理由怀疑，武大的官号似乎被什么东西给控制了。联想到前不久米国公开UFO的一些情报，马上就出了武大这事，会不会是外星人干的。 具体经过很多人都知道了，武大发了一个诡异的声明，称对oppo母亲节广告的策划者表示“极感惊诧和震惊”，因为他是武大的毕业生。然后用一种老气横秋的半文不白的语气切割，中译中就是，人在我们这的时候是好的，还扶老爷爷呢，后来就坏了，与老朽我无关。 对于武大的这次惊诧，个人也感到非常惊诧。因为这篇东西着实奇怪，绝不是体…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离谱！昔日百亿级量化，走私红酒被罚 | 原文]]></title>
-        <id>https://t.me/wxbyg/7316</id>
-        <link href="https://t.me/wxbyg/7316"/>
-        <updated>2026-05-11T12:37:03.000Z</updated>
-        <summary type="html"><![CDATA[离谱！昔日百亿级量化，走私红酒被罚 | 原文
-Telegraph
-离谱！昔日百亿级量化，走私红酒被罚
-昔日百亿级量化私募，陷入走私风波。 皇岗海关近日披露的行政处罚公示显示，上海富善投资有限公司（简称“富善投资”）在2023年4月至6月期间，委托陈文利（已判决）将境外购买的葡萄酒走私入境，监管部门最终决定对富善投资追缴等值价款。 公开资料显示，富善投资为国内较早进入百亿梯队的知名量化私募，创始股东包括曾任朱雀投资合伙人的林成栋、明汯投资裘慧明等知名基金经理。随后，该公司股东阵营经历多次变动，合规层面也亮起红灯，管理规模如今已经缩水至10亿元以下。多位业内人士感慨称，私募业的快速发展伴随着残酷洗牌，只有综合实力强才能走得长远。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可怜的林老师，还是太年轻。 | 原文]]></title>
-        <id>https://t.me/wxbyg/7315</id>
-        <link href="https://t.me/wxbyg/7315"/>
-        <updated>2026-05-11T11:12:44.000Z</updated>
-        <summary type="html"><![CDATA[可怜的林老师，还是太年轻。 | 原文
-Telegraph
-可怜的林老师，还是太年轻。
-点击上方蓝字离散世界关注我们 进入公众号主页设为星标 本来不想写T大了，可是T大的素材真的是太多了啊，而且还能让大家开心一笑。估计这篇文章也会被删除，不妨先笑为敬。 5月9日晚上21:17:48，林老师在群里通知大家，本周二晚上张寿武老师的课由袁新意老师讲。但是丘先生讲的数学史调课后的时间也在周二晚上。林老师建议去听袁新意的课的同学给数学史助教发邮件请假，回头再看数学史的录像回放。 5月10日14:48，丘先生指示：请袁新意将他的演讲改为礼拜三。 这张图中有几个细节需要注意，Jflin，是林剑峰老师，5…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话“下药门”受害者 Hana：走在地狱边缘的三个小时 “他一定是个惯犯！还有更多受害者” | 原文]]></title>
-        <id>https://t.me/wxbyg/7314</id>
-        <link href="https://t.me/wxbyg/7314"/>
-        <updated>2026-05-11T03:52:43.000Z</updated>
-        <summary type="html"><![CDATA[对话“下药门”受害者 Hana：走在地狱边缘的三个小时 “他一定是个惯犯！还有更多受害者” | 原文
-Telegraph
-对话“下药门”受害者 Hana：走在地狱边缘的三个小时 “他一定是个惯犯！还有更多受害者”
-作者 | 吴说区块链 Colin 吴说获悉，据 @hananotsorry Hana 推特表示，10 月 24 日晚间，某位 DWF 合伙人在香港的一家酒吧中，向她的饮品内多次放置不明物体。DWF 回应：该合作伙伴被指控行为不当且令人无法接受，在调查此事期间，DWF Labs 决定立即解除该合作伙伴的管理和运营职务。 具体过程是：双方在酒吧喝酒，女方去洗手间，男方从口袋掏出不明物体，连续三次放进女方的饮品中。女方回来后喝了几口，男方外出接电话，随后服务员提醒她男方的这一行为。女方 10 月 29 日回到…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死亡游轮靠港，140人各奔东西：全球卫生机构正在追踪每一个人 | 原文]]></title>
-        <id>https://t.me/wxbyg/7313</id>
-        <link href="https://t.me/wxbyg/7313"/>
-        <updated>2026-05-10T23:59:58.000Z</updated>
-        <summary type="html"><![CDATA[死亡游轮靠港，140人各奔东西：全球卫生机构正在追踪每一个人 | 原文
-Telegraph
-死亡游轮靠港，140人各奔东西：全球卫生机构正在追踪每一个人
-2026年5月10日清晨5时30分，特内里费岛格拉纳迪利亚工业港的海面上，一艘白色邮轮靠岸。 码头上，西班牙国民警卫队的车辆拉起了严密的警戒线。救护车在待命。停机坪上，来自荷兰、德国、法国、爱尔兰、比利时和美国的专机正在发动引擎。WHO总干事谭德塞本人提前飞抵特内里费，在港口召开简短发布会，向当地居民保证："这里已经做好了准备。风险是低的。" 这是人类历史上从未有过的场面——一艘携带可以人传人的致命病毒的游轮，正在将来自24个国家的乘客，以精心设计的防疫程序，分批返回这个世界。 洪迪乌斯号3月20日从阿…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“我”曾是他的猎物之一 | 原文]]></title>
-        <id>https://t.me/wxbyg/7312</id>
-        <link href="https://t.me/wxbyg/7312"/>
-        <updated>2026-05-10T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[“我”曾是他的猎物之一 | 原文
-Telegraph
-“我”曾是他的猎物之一
-„Gott bei Tag, Teufel bei Nacht“ “白天是上帝，夜晚是魔鬼” ——周同在 Telegram 上的昵称 文章来自多人投稿，其中的“我”指代高中同学的群体视角，试图从多面还原犯罪分子周同，在此感谢大家提供的时间线和事件等。 一 罪犯信息 Tong Z., 周同，在德男留学生，四川成都人，1999 年出生于中国。在德生活轨迹： 2015-2020（语言班 + 高中）: Schwerin- Rostock- Gustow 语言班留级一次，高中转学了三个校区]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涨价潮，还是来了 | 原文]]></title>
-        <id>https://t.me/wxbyg/7311</id>
-        <link href="https://t.me/wxbyg/7311"/>
-        <updated>2026-05-10T17:21:14.000Z</updated>
-        <summary type="html"><![CDATA[涨价潮，还是来了 | 原文
-Telegraph
-涨价潮，还是来了
-本文来自微信公众号： 灵兽 ，作者：十里，头图来自：视觉中国 1 “涨价潮”还是来了。 4月30日，全球快消品企业联合利华称，因为中东战事的影响，公司成本变高了，决定把产品价格上调。这次调价涉及多芬、力士、奥妙等这些日用品品牌，包括洗发水、护发素、沐浴露、洗衣液这类高频使用的日用品。 “目前尚未接到供应商、品牌方的涨价通知。”一位北京超市采销称。 联合利华方面解释称，中东战事造成供应链不畅和大宗商品价格飙升，预计公司全年总成本将上涨约7.5亿至9亿欧元，其中包括物流和工厂成本上涨。公司还表示，将分多次进…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华人高管、名校留学生涉下药性侵：加密群聊里的“犯罪竞赛” | 原文]]></title>
-        <id>https://t.me/wxbyg/7310</id>
-        <link href="https://t.me/wxbyg/7310"/>
-        <updated>2026-05-10T14:24:27.000Z</updated>
-        <summary type="html"><![CDATA[华人高管、名校留学生涉下药性侵：加密群聊里的“犯罪竞赛” | 原文
-Telegraph
-华人高管、名校留学生涉下药性侵：加密群聊里的“犯罪竞赛”
-*本文为「三联生活周刊」原创内容 2024年，德国和中国警方联合破获了一起涉及在德中国公民的下药性侵案件，被逮捕的是43岁的中国籍男子张大鹏。后续调查中，两国执法部门进一步发现，张大鹏背后是一个作案团伙，成员分布在德国法兰克福、慕尼黑、柏林，荷兰、美国洛杉矶等地。除张大鹏外，还有蒋中懿（Zhongyi J.）、周同（Tong Z.）等5人。此外，S.之亭(音，ZhitingS.)与翁某(音，SizheWeng)等人也被指参与下药、性侵女性，两人分别被柏林和美国洛杉矶检方提起刑事诉讼。 根据德国司法部门提…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刘小枫甘阳的“博雅实验”：一场持续十七年的“小规模学术长征” | 原文]]></title>
-        <id>https://t.me/wxbyg/7309</id>
-        <link href="https://t.me/wxbyg/7309"/>
-        <updated>2026-05-10T13:51:25.000Z</updated>
-        <summary type="html"><![CDATA[刘小枫甘阳的“博雅实验”：一场持续十七年的“小规模学术长征” | 原文
-Telegraph
-刘小枫甘阳的“博雅实验”：一场持续十七年的“小规模学术长征”
-“学生的人生榜样不是亿万富翁，而是学富五车的大思想家、大学问家” ——这句宣言引起的争议，十七年后依然没有平息。 2009年秋天，中山大学珠海校区多了一个特殊的班级。35个学生，没有固定专业，不按通常文理分类，却要四年修习拉丁文、古希腊语、《诗经》《左传》甚至古文字学。 这届学生入学时，招生简章上印着一句在今天看来依然惊心动魄的宣言：“学生的人生榜样不是亿万富翁，而是学富五车的大思想家、大学问家”。 主持这个“博雅学院”的，是80年代就以“文化热”领军人物闻名、后来又因新左派立场屡成争议中心的学者甘阳。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《经济学人》丨许多名人创办了读书俱乐部。大多数令人反感 | 原文]]></title>
-        <id>https://t.me/wxbyg/7308</id>
-        <link href="https://t.me/wxbyg/7308"/>
-        <updated>2026-05-10T03:29:11.000Z</updated>
-        <summary type="html"><![CDATA[《经济学人》丨许多名人创办了读书俱乐部。大多数令人反感 | 原文
-Telegraph
-《经济学人》丨许多名人创办了读书俱乐部。大多数令人反感
-Many celebrities now have book clubs. Most are irritating 满是溢美之词——却鲜有文学评论 插画作者： Selman Hosgor 优秀的文学评论家该具备何种特质？数个世纪以来，作家们对此看法一致。华兹华斯曾指出，评论家应带着不苟的态度，对事物抱持审慎审视。桃乐丝·帕克写道，一名评论家要懂得，有些书不该“随手弃置”，而该“用力扔远”。正如格雷厄姆·格林对所有作家的评价，评论家心中应当“藏着一丝冷酷”。但格林从未见过杜阿·利帕。 利帕女士是英国流行乐…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>

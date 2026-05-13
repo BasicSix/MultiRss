@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T19:57:55.480Z</updated>
+    <updated>2026-05-13T03:43:16.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1568,21 +1568,6 @@ Yaxian，「科技早知道」主播
         <link href="http://go.ted.com/malalayousafzai26"/>
         <updated>2026-04-14T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Malala Yousafzai has spent her life advocating for girls' education — surviving an assassination attempt at 15, meeting with world leaders and then watching hard-won progress collapse when Afghanistan fell to the Taliban in 2021. That moment of despair forced her to completely rethink what it means to create change, and what she discovered replaced her shattered optimism with something more powerful and more honest. Hear how to keep fighting for the future you want, even when hope feels lost.
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The accidental brilliance of makeshift signs | Kate Canales]]></title>
-        <id>69d3cc4107bc2cbfc7b31714</id>
-        <link href="http://go.ted.com/katecanales"/>
-        <updated>2026-04-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens when the design of everyday things misses the mark? People fill in the blanks. Designer Kate Canales has spent more than 20 years photographing the handmade, improvised signs that appear when the original falls short. From perplexing bathroom directions to our struggles with doors and point-of-sale machines, her photos capture something technology can't replace: our instinct to look out for each other and leave a few instructions behind.
-
-If you've got a photo you've taken of a makeshift sign like the ones Kate discusses in her talk, she'd would love to see it! Please visit www.thereifixedit.design to learn more.
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
