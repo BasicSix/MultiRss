@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T14:42:42.884Z</updated>
+    <updated>2026-05-13T20:00:23.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A simple solution to fix workplace miscommunication | Melissa M. Mikus]]></title>
+        <id>6a01ee405c981a3573ea45c0</id>
+        <link href="http://go.ted.com/melissammikus"/>
+        <updated>2026-05-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Leadership expert Melissa M. Mikus breaks down why most workplace friction isn't about personality clashes or bad intentions — it's about not knowing how to effectively communicate. Her solution? A small, visible and easy tweak that anyone can implement right away.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No.201 🚄 中国高铁简史]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/6a0410b41b7bd502950dd0b9</id>
@@ -605,7 +618,7 @@ This episode originally aired in 2025.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why AI is unlikely to become conscious | Anil Seth]]></title>
+        <title type="html"><![CDATA[Why AI isn't going to become conscious | Anil Seth]]></title>
         <id>69f36e419dcd58edd9713bfd</id>
         <link href="http://go.ted.com/anilseth26"/>
         <updated>2026-05-01T15:00:00.000Z</updated>
