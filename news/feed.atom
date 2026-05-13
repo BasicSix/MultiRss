@@ -2,198 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T03:44:02.920Z</updated>
+    <updated>2026-05-13T08:49:51.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Navajo Grandma]]></title>
-        <id>1x-3580685</id>
-        <link href="https://1x.com/photo/3580685"/>
-        <updated>2026-05-13T03:43:19.177Z</updated>
-        <summary type="html"><![CDATA[Navajo Grandma by Zeren Gu]]></summary>
+        <title type="html"><![CDATA[Feeling Wellcome VII]]></title>
+        <id>1x-3536175</id>
+        <link href="https://1x.com/photo/3536175"/>
+        <updated>2026-05-13T08:49:05.913Z</updated>
+        <summary type="html"><![CDATA[Feeling Wellcome VII by Elizabeth Allen]]></summary>
         <author>
-            <name>Zeren Gu</name>
+            <name>Elizabeth Allen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Moment Before]]></title>
-        <id>1x-3580623</id>
-        <link href="https://1x.com/photo/3580623"/>
-        <updated>2026-05-13T03:43:19.166Z</updated>
-        <summary type="html"><![CDATA[The Moment Before by Lucie Gagnon]]></summary>
+        <title type="html"><![CDATA[Wayang Maker]]></title>
+        <id>1x-3556601</id>
+        <link href="https://1x.com/photo/3556601"/>
+        <updated>2026-05-13T08:49:05.909Z</updated>
+        <summary type="html"><![CDATA[Wayang Maker by Angela Muliani Hartojo]]></summary>
         <author>
-            <name>Lucie Gagnon</name>
+            <name>Angela Muliani Hartojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mall Guangzhou]]></title>
+        <id>1x-3579361</id>
+        <link href="https://1x.com/photo/3579361"/>
+        <updated>2026-05-13T08:49:05.902Z</updated>
+        <summary type="html"><![CDATA[Mall Guangzhou by Jiahong Zeng]]></summary>
+        <author>
+            <name>Jiahong Zeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carrying raindrops]]></title>
+        <id>1x-3571933</id>
+        <link href="https://1x.com/photo/3571933"/>
+        <updated>2026-05-13T08:49:05.897Z</updated>
+        <summary type="html"><![CDATA[Carrying raindrops by Takiko Hirai]]></summary>
+        <author>
+            <name>Takiko Hirai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solitude]]></title>
+        <id>1x-3580906</id>
+        <link href="https://1x.com/photo/3580906"/>
+        <updated>2026-05-13T08:49:05.893Z</updated>
+        <summary type="html"><![CDATA[Solitude by Spring Zhang]]></summary>
+        <author>
+            <name>Spring Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend upwards]]></title>
+        <id>1x-3581081</id>
+        <link href="https://1x.com/photo/3581081"/>
+        <updated>2026-05-13T08:49:05.878Z</updated>
+        <summary type="html"><![CDATA[Extend upwards by MingLun Tsai (蔡明倫)]]></summary>
+        <author>
+            <name>MingLun Tsai (蔡明倫)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Icebergs in Morning Calm]]></title>
+        <id>1x-3569837</id>
+        <link href="https://1x.com/photo/3569837"/>
+        <updated>2026-05-13T08:49:05.833Z</updated>
+        <summary type="html"><![CDATA[Icebergs in Morning Calm by Tom Lang]]></summary>
+        <author>
+            <name>Tom Lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light in the dark]]></title>
+        <id>1x-3575028</id>
+        <link href="https://1x.com/photo/3575028"/>
+        <updated>2026-05-13T08:49:05.814Z</updated>
+        <summary type="html"><![CDATA[Light in the dark by Peter Schade]]></summary>
+        <author>
+            <name>Peter Schade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Grief]]></title>
+        <id>1x-3580993</id>
+        <link href="https://1x.com/photo/3580993"/>
+        <updated>2026-05-13T08:49:05.809Z</updated>
+        <summary type="html"><![CDATA[In Grief by Lee Kershaw]]></summary>
+        <author>
+            <name>Lee Kershaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norway]]></title>
+        <id>1x-3581009</id>
+        <link href="https://1x.com/photo/3581009"/>
+        <updated>2026-05-13T08:49:05.801Z</updated>
+        <summary type="html"><![CDATA[Norway by Marc Huybrighs]]></summary>
+        <author>
+            <name>Marc Huybrighs</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3579535</id>
-        <link href="https://1x.com/photo/3579535"/>
-        <updated>2026-05-13T03:43:19.139Z</updated>
-        <summary type="html"><![CDATA[Untitled by Val dOrcia photography]]></summary>
+        <id>1x-3578394</id>
+        <link href="https://1x.com/photo/3578394"/>
+        <updated>2026-05-13T08:49:05.795Z</updated>
+        <summary type="html"><![CDATA[Untitled by Hazem Swidan]]></summary>
         <author>
-            <name>Val dOrcia photography</name>
+            <name>Hazem Swidan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wonders of the Southern Sky]]></title>
-        <id>1x-3580688</id>
-        <link href="https://1x.com/photo/3580688"/>
-        <updated>2026-05-13T03:43:19.115Z</updated>
-        <summary type="html"><![CDATA[Wonders of the Southern Sky by Nikola Vukotic]]></summary>
+        <title type="html"><![CDATA[Ardeola ralloides B]]></title>
+        <id>1x-3573958</id>
+        <link href="https://1x.com/photo/3573958"/>
+        <updated>2026-05-13T08:49:05.789Z</updated>
+        <summary type="html"><![CDATA[Ardeola ralloides B by Eldad Levin]]></summary>
         <author>
-            <name>Nikola Vukotic</name>
+            <name>Eldad Levin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holdouts]]></title>
-        <id>1x-3580831</id>
-        <link href="https://1x.com/photo/3580831"/>
-        <updated>2026-05-13T03:43:19.113Z</updated>
-        <summary type="html"><![CDATA[Holdouts by Taeyoung Huh]]></summary>
+        <title type="html"><![CDATA[Ürkek Bakış]]></title>
+        <id>1x-3580943</id>
+        <link href="https://1x.com/photo/3580943"/>
+        <updated>2026-05-13T08:49:05.783Z</updated>
+        <summary type="html"><![CDATA[Ürkek Bakış by Mehmet ÇAP]]></summary>
         <author>
-            <name>Taeyoung Huh</name>
+            <name>Mehmet ÇAP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3576168</id>
-        <link href="https://1x.com/photo/3576168"/>
-        <updated>2026-05-13T03:43:19.110Z</updated>
-        <summary type="html"><![CDATA[Untitled by Songhu Yan]]></summary>
+        <title type="html"><![CDATA[Beautiful Demoiselle]]></title>
+        <id>1x-3581015</id>
+        <link href="https://1x.com/photo/3581015"/>
+        <updated>2026-05-13T08:49:05.775Z</updated>
+        <summary type="html"><![CDATA[Beautiful Demoiselle by Klaus Bittner]]></summary>
         <author>
-            <name>Songhu Yan</name>
+            <name>Klaus Bittner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Above]]></title>
-        <id>1x-3580728</id>
-        <link href="https://1x.com/photo/3580728"/>
-        <updated>2026-05-13T03:43:19.103Z</updated>
-        <summary type="html"><![CDATA[From Above by Jeffrey Chan]]></summary>
+        <title type="html"><![CDATA[Eurasian Lynx - Lynx Lynx]]></title>
+        <id>1x-3581083</id>
+        <link href="https://1x.com/photo/3581083"/>
+        <updated>2026-05-13T08:49:05.768Z</updated>
+        <summary type="html"><![CDATA[Eurasian Lynx - Lynx Lynx by Mathilde Guillemot]]></summary>
         <author>
-            <name>Jeffrey Chan</name>
+            <name>Mathilde Guillemot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lemon & Mustard Blossoms]]></title>
-        <id>1x-3580620</id>
-        <link href="https://1x.com/photo/3580620"/>
-        <updated>2026-05-13T03:43:19.089Z</updated>
-        <summary type="html"><![CDATA[Lemon & Mustard Blossoms by Fangping Zhou]]></summary>
+        <title type="html"><![CDATA[Holding On]]></title>
+        <id>1x-3580406</id>
+        <link href="https://1x.com/photo/3580406"/>
+        <updated>2026-05-13T08:49:05.571Z</updated>
+        <summary type="html"><![CDATA[Holding On by Ilana Lam]]></summary>
         <author>
-            <name>Fangping Zhou</name>
+            <name>Ilana Lam</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happy]]></title>
-        <id>1x-3580809</id>
-        <link href="https://1x.com/photo/3580809"/>
-        <updated>2026-05-13T03:43:19.087Z</updated>
-        <summary type="html"><![CDATA[Happy by Teodorescu Andreea]]></summary>
+        <title type="html"><![CDATA[Early morning fisherman]]></title>
+        <id>1x-3580942</id>
+        <link href="https://1x.com/photo/3580942"/>
+        <updated>2026-05-13T08:49:05.559Z</updated>
+        <summary type="html"><![CDATA[Early morning fisherman by Tore Johansson]]></summary>
         <author>
-            <name>Teodorescu Andreea</name>
+            <name>Tore Johansson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3564701</id>
-        <link href="https://1x.com/photo/3564701"/>
-        <updated>2026-05-13T03:43:19.085Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <title type="html"><![CDATA[“Azul de eternidad”]]></title>
+        <id>1x-3580937</id>
+        <link href="https://1x.com/photo/3580937"/>
+        <updated>2026-05-13T08:49:05.539Z</updated>
+        <summary type="html"><![CDATA[“Azul de eternidad” by Cristina Navarro]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Cristina Navarro</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Golden Receiver]]></title>
-        <id>1x-3580730</id>
-        <link href="https://1x.com/photo/3580730"/>
-        <updated>2026-05-13T03:43:19.082Z</updated>
-        <summary type="html"><![CDATA[The Golden Receiver by Lius Siong]]></summary>
+        <title type="html"><![CDATA[Blue Emperor]]></title>
+        <id>1x-3581225</id>
+        <link href="https://1x.com/photo/3581225"/>
+        <updated>2026-05-13T08:49:05.498Z</updated>
+        <summary type="html"><![CDATA[Blue Emperor by Fabrizio Daminelli]]></summary>
         <author>
-            <name>Lius Siong</name>
+            <name>Fabrizio Daminelli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urban triangle]]></title>
-        <id>1x-3580613</id>
-        <link href="https://1x.com/photo/3580613"/>
-        <updated>2026-05-13T03:43:19.072Z</updated>
-        <summary type="html"><![CDATA[Urban triangle by Jurij Bizjak]]></summary>
+        <title type="html"><![CDATA[英王妃凯特访问意大利两天 患癌后首次出访]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9041714</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9041714"/>
+        <updated>2026-05-13T08:26:27.000Z</updated>
+        <summary type="html"><![CDATA[英国威尔士王妃凯特星期三（5月13日）开始对意大利进行两天访问。
+法新社报道，这是凯特自2024年确诊癌症以来首次官方海外之行，她将访问意大利北部城市雷焦艾米利亚（Reggio Emilia）。
+凯特和威尔士亲王威廉育有三个孩子，儿童早期教育是凯特非常关注的领域。
+肯辛顿宫发表声明说，此次访问将聚焦于凯特在幼儿早期发展领域的工作。声明还说，这将是一次高级别的实地考察，旨在探索国际上支持幼儿及幼儿照护者的领先做法。
+凯特2025年1月宣布癌症病情缓解，并已逐步恢复履行王室公务。她上一次正式出访是在2022年12月，与威廉一同前往美国波士顿，出席“地球卫士奖”（Earthshot Prize）的颁奖典礼。]]></summary>
         <author>
-            <name>Jurij Bizjak</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiet Symmetry]]></title>
-        <id>1x-3578142</id>
-        <link href="https://1x.com/photo/3578142"/>
-        <updated>2026-05-13T03:43:19.054Z</updated>
-        <summary type="html"><![CDATA[Quiet Symmetry by Shanrui Ren]]></summary>
+        <title type="html"><![CDATA[韩外长对锁定袭击韩国货船主谋态度谨慎]]></title>
+        <id>https://www.zaobao.com/news/world/story20260513-9040987</id>
+        <link href="https://www.zaobao.com/news/world/story20260513-9040987"/>
+        <updated>2026-05-13T07:49:00.000Z</updated>
+        <summary type="html"><![CDATA[韩国外交部长赵显说，目前不宜断定在霍尔木兹海峡对韩国货船发动袭击的主谋是伊朗政府，还存在由伊朗民兵组织发动的可能性。
+韩联社报道，赵显星期三（5月13日）会见记者时，被问及袭击韩国货船“NAMU”号的飞行器是不是无人机。他表明，目前不宜轻易作出研判。
+赵显说：“光看伊朗，能发射此类飞行器的组织也很多，包括民兵。”
+韩国货船NAMU号5月4日在霍尔木兹海峡遭不明飞行器袭击。专家普遍认为，伊朗在美伊战争中多次使用的自杀式无人攻击机可能用于袭击NAMU号 。 
+不过，“沙赫德”（Shahed）系列等伊方研制的无人机，不仅伊朗伊斯兰共和国军队和伊斯兰革命卫队在使用，也门胡塞武装及其他民兵组织也列装此类武器。
+预计韩国政府将对飞行器发动机残骸等进行精密鉴定与分析后，最终确定飞行器型号等具体参数。]]></summary>
         <author>
-            <name>Shanrui Ren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A towering skyscraper.]]></title>
-        <id>1x-3580820</id>
-        <link href="https://1x.com/photo/3580820"/>
-        <updated>2026-05-13T03:43:18.821Z</updated>
-        <summary type="html"><![CDATA[A towering skyscraper. by amasachin]]></summary>
-        <author>
-            <name>amasachin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Watchtower]]></title>
-        <id>1x-3580582</id>
-        <link href="https://1x.com/photo/3580582"/>
-        <updated>2026-05-13T03:43:18.797Z</updated>
-        <summary type="html"><![CDATA[Winter Watchtower by Ambar Saha]]></summary>
-        <author>
-            <name>Ambar Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hummingbirds]]></title>
-        <id>1x-3573378</id>
-        <link href="https://1x.com/photo/3573378"/>
-        <updated>2026-05-13T03:43:18.794Z</updated>
-        <summary type="html"><![CDATA[hummingbirds by  Fengying Long]]></summary>
-        <author>
-            <name>Fengying Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waiting for the bus]]></title>
-        <id>1x-3580682</id>
-        <link href="https://1x.com/photo/3580682"/>
-        <updated>2026-05-13T03:43:18.791Z</updated>
-        <summary type="html"><![CDATA[Waiting for the bus by Weiwei]]></summary>
-        <author>
-            <name>Weiwei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidal Marks]]></title>
-        <id>1x-3577725</id>
-        <link href="https://1x.com/photo/3577725"/>
-        <updated>2026-05-13T03:43:18.712Z</updated>
-        <summary type="html"><![CDATA[Tidal Marks by Aidong Ning]]></summary>
-        <author>
-            <name>Aidong Ning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The gloomy of life]]></title>
-        <id>1x-3570583</id>
-        <link href="https://1x.com/photo/3570583"/>
-        <updated>2026-05-13T03:43:18.705Z</updated>
-        <summary type="html"><![CDATA[The gloomy of life by Auri flux]]></summary>
-        <author>
-            <name>Auri flux</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -221,8 +250,8 @@
         <id>https://www.zaobao.com/news/world/story20260513-9039441</id>
         <link href="https://www.zaobao.com/news/world/story20260513-9039441"/>
         <updated>2026-05-13T02:26:25.000Z</updated>
-        <summary type="html"><![CDATA[伊朗首席谈判代表加利巴夫说，华盛顿必须接受德黑兰最新的和平计划，否则将面临失败。此前，美国总统特朗普警告称，中东战争的停火协议已濒临崩溃。 
-担任伊朗首席谈判代表的伊斯兰议会议长加利巴夫星期二（5月12日）在X上发帖说：“（美国）必须接受伊朗人民在14点提案中提出的权利，此外别无选择。任何其他做法都不会有结果，只会导致一次又一次的失败。他们拖延的时间越长，美国纳税人为此付出的代价就越大。”
+        <summary type="html"><![CDATA[伊朗首席谈判代表卡利巴夫说，华盛顿必须接受德黑兰最新的和平计划，否则将面临失败。此前，美国总统特朗普警告称，中东战争的停火协议已濒临崩溃。 
+也是伊朗伊斯兰议会议长的卡利巴夫星期二（5月12日）在X上发帖说：“（美国）必须接受伊朗人民在14点提案中提出的权利，此外别无选择。任何其他做法都不会有结果，只会导致一次又一次的失败。他们拖延的时间越长，美国纳税人为此付出的代价就越大。”
 
 
 There is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal.
@@ -236,7 +265,7 @@ The longer they drag their feet, the more American taxpayers will pay for it.
 这场口水战令伊朗民众感到不安。来自首都德黑兰的43岁画家玛丽亚姆告诉记者：“我们只是竭尽全力抓住任何能帮助我们生存下去的东西。未来如此不确定，我们只能得过且过。”
 另据《纽约时报》星期二报道称，美国机密情报评估显示，伊朗仍然拥有强大的导弹能力，约70%的移动发射装置和战前导弹库存仍在服役，并且已经恢复霍尔木兹海峡沿岸33个导弹发射场中30个的使用权。
 伊朗正在限制霍尔木兹海峡的交通，并向过境船只收取通行费。沙特石油巨头沙特阿美公司的负责人称，这是“世界有史以来经历的最大能源供应冲击”。
-卡塔尔外交大臣阿勒萨尼星期二说：“伊朗不应利用霍尔木兹海峡作为武器，向海湾国家施压或勒索。”
+卡塔尔外交部长阿勒萨尼星期二说：“伊朗不应利用霍尔木兹海峡作为武器，向波斯湾国家施压或勒索。”
 与此同时，智库查塔姆研究所中东和北非项目主任瓦基尔说，伊朗领导人“认为他们能比特朗普坚持得更久”。
 瓦基尔补充说，德黑兰致力于谈判，但“希望利用自身优势获取让步”。]]></summary>
         <author>
@@ -360,12 +389,15 @@ The longer they drag their feet, the more American taxpayers will pay for it.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普：无需中国帮助结束美伊冲突]]></title>
+        <title type="html"><![CDATA[【视频】特朗普：无需中国帮助结束美伊冲突]]></title>
         <id>https://www.zaobao.com/news/world/story20260513-9038845</id>
         <link href="https://www.zaobao.com/news/world/story20260513-9038845"/>
         <updated>2026-05-12T23:21:34.000Z</updated>
         <summary type="html"><![CDATA[美国总统特朗普说，他认为自己不需要中国的帮助就能结束与伊朗的战争。 
 路透社报道，即将访问中国的特朗普星期二（5月12日）告诉记者：“我认为我们不需要任何帮助来解决伊朗问题。无论以何种方式，无论和平还是其他方式，我们都会赢得这场战争。”
+
+
+
 脆弱的停火协议生效一个多月后，美伊双方在结束战争的协议方面仍未取得任何进展。 
 与此同时，据知情人士透露，伊朗正在加强对霍尔木兹海峡的控制，并与伊拉克和巴基斯坦达成协议，从本地区运输石油和液化天然气。
 消息人士称，其他国家也考虑与伊朗达成类似的协议，这可能使德黑兰对霍尔木兹海峡的控制更加稳固。
@@ -373,7 +405,7 @@ The longer they drag their feet, the more American taxpayers will pay for it.
 美国对停战的要求包括伊朗停止核计划，并解除对霍尔木兹海峡的控制。
 伊朗也提出了自己的要求，包括赔偿战争损失、结束美国的封锁，以及结束所有战线的战争，包括黎巴嫩战线。特朗普星期一（11日）驳斥这些立场，称之为“垃圾”。 
 伊朗官员依然态度强硬。法尔斯通讯社引述一名伊斯兰革命卫队官员的话说，伊朗已将霍尔木兹海峡的范围扩大到从东部的贾斯克市海岸到西部锡里岛的区域。
-据伊朗国家电视台报道，革命卫队举行在德黑兰“以应对敌人为重点的演习”。]]></summary>
+据伊朗国家电视台报道，革命卫队举行在德黑兰“以应对敌人为重点的演习”。（视频来源：路透社）]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -616,44 +648,6 @@ The longer they drag their feet, the more American taxpayers will pay for it.
 路透与益普索周一完成的民调显示，约66%的美国民众认为，特朗普至今未能清楚说明对伊朗战争的目标。
 约63%的受访者说，近期汽油价格上涨，已影响到他们的家庭财务状况，比3月中旬调查时的55%高出八个百分点。四分之三的人认为，特朗普政府对油价上涨负有一定责任。
 与此同时，约有36%的美国人认可特朗普的表现，这较4月底调查时的34%回升两个百分点，但仍低于战前的40%。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传阿联酋上月攻打伊朗 愿动用军力保护自身利益]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9036282</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9036282"/>
-        <updated>2026-05-12T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿／迪拜综合电）美国媒体引述消息人士的话透露，阿联酋上月初对伊朗发动了袭击，显示这个被伊朗重点打击的国家如今也直接参与中东战争。
-《华尔街日报》周一（5月11日）报道，阿联酋的军队装备精良，有西方生产的战斗机和监控网络。这次袭击表明，阿联酋愿意动用自身的军事力量，来保护它的经济实力和在中东日益增长的影响力。
-阿联酋官方至今并未公开承认曾攻打伊朗。消息人士透露，阿联酋在4月初袭击伊朗拉万岛（Lavan Island）的一座炼油厂，导致炼油厂发生大火，大部分产能数月无法恢复。
-攻击事件发生时，美伊双方尚未完全落实停火，美国对这次袭击并没有表达不满，还私下欢迎阿联酋和其他愿意参战的波斯湾国家加入行动。
-根据美国能源信息署（EIA）的数据，截至2020年，拉万岛的炼油厂是伊朗第十大炼油厂，每日处理6万桶原油。
-针对有关报道，阿联酋外交部拒绝置评，但表示阿联酋有权利对敌对行为作出反击，包括采取军事行动。美国五角大楼也拒绝置评。
-美国和伊朗是在4月8日停火，《华尔街日报》的报道没有说明攻击的日期。不过，4月8日上午，伊朗国家广播电视台（IRIB）报道称，拉万岛石油设施在当地时间早上10时遭袭击，几个小时后，阿联酋和科威特也遭到导弹和无人机袭击。
-阿联酋称，他们遭到伊朗的17枚导弹和35架无人机的袭击。而科威特军方说，他们的电力厂、海水淡化厂及石油设施都遭袭击。
-中东问题专家埃斯凡迪亚里认为，波斯湾阿拉伯国家直接打击伊朗并成为交战方，具有重要意义，“德黑兰接下来很可能要进一步离间阿联酋和其他努力调解战争的波斯湾国家之间的关系”。
-美伊战争开打前，波斯湾国家曾表示，不会允许其领空或基地被用于发动袭击。但战争爆发后，伊朗立即袭击波斯湾地区人口稠密的地方、能源基础设施和机场，试图增加邻近国家的经济损失和政治代价，并加大美国和以色列继续发动袭击的难度。
-阿联酋是被伊朗重点攻击的国家。伊朗对阿联酋发射了超过2800枚导弹和无人机，数量之多远超包括以色列在内的其他国家。
-美国常驻联合国代表沃尔兹上月初出席以色列常驻联合国代表团在纽约举办的独立日活动时证实，阿联酋使用以色列提供的铁穹（Iron Dome）导弹防御系统，击落来犯的伊朗导弹。
-另外，伊朗议会国家安全与外交政策委员会发言人雷扎伊周二说，如果伊朗再次遭受攻击，伊方会将铀浓缩至纯度高达90％的武器级铀。
-雷扎伊在社交媒体X平台发文称：“如果再次遭受攻击，伊朗的选项之一可能是将铀浓缩至90％。我们将在议会对此进行审查。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面对下台呼声 英国首相斯塔默表明不辞职]]></title>
-        <id>https://www.zaobao.com/news/world/story20260512-9036430</id>
-        <link href="https://www.zaobao.com/news/world/story20260512-9036430"/>
-        <updated>2026-05-12T09:16:32.000Z</updated>
-        <summary type="html"><![CDATA[据报道，六名英国内阁成员将要求首相斯塔默辞职，但斯塔默表明自己不会辞职。
-路透社报道，英国负责住房、社区及地方政府事务的政务次官法恩布拉星期二（5月12日）宣布辞职，并在社媒发文呼吁英国首相斯塔默“设定有序过渡时间表”。
-据英国《每日电讯报》在星期二举行内阁会议前报道，六名英国内阁成员将要求斯塔默辞职。
-报道引述内阁消息人士称，这六名内阁成员包括内政部长马哈茂德、防长希利、能源部长米利班德、文化部长南迪、外长库珀和卫生部长斯特里廷。
-首相办公室星期二则说，斯塔默在当天举行的内阁会议上表明他不会辞职。
-声明称：“工党有挑战党魁的程序，但该程序尚未启动。国家期望我们继续执政。这就是我正在做的事，也是我们内阁必须做的事。”]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
