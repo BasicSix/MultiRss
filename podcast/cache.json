@@ -381,6 +381,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "6a01eff292e9663a6f89041a",
+          "author": null,
+          "description": "Deep tech entrepreneur D. Scott Phoenix spent years building AI — now, he believes we're on the cusp of a profound merger between humans and machines. Reframing the AI debate through the lens of evolutionary biology, he shifts the question from whether we should fear or embrace AI to whether we understand what's at stake if we get it wrong. Hear his provocative case for why we need to \"eat the AI.\"\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/dscottphoenix",
+          "publishedOn": "2026-05-14T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Why humans should merge with AI | D Scott Phoenix",
+          "itunes": {
+            "duration": "14:19"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a01eff292e9663a6f89041a/media.mp3",
+            "length": "13853423",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6a01ee405c981a3573ea45c0",
           "author": null,
           "description": "Leadership expert Melissa M. Mikus breaks down why most workplace friction isn't about personality clashes or bad intentions — it's about not knowing how to effectively communicate. Her solution? A small, visible and easy tweak that anyone can implement right away.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",

@@ -2,198 +2,263 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T14:23:25.461Z</updated>
+    <updated>2026-05-14T19:51:20.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Fishers in Vietnam]]></title>
-        <id>1x-3579034</id>
-        <link href="https://1x.com/photo/3579034"/>
-        <updated>2026-05-14T14:22:41.453Z</updated>
-        <summary type="html"><![CDATA[Fishers in Vietnam by Daniel Viñe]]></summary>
+        <title type="html"><![CDATA[Nightview]]></title>
+        <id>1x-3582703</id>
+        <link href="https://1x.com/photo/3582703"/>
+        <updated>2026-05-14T19:50:34.648Z</updated>
+        <summary type="html"><![CDATA[Nightview by Roland Weber]]></summary>
         <author>
-            <name>Daniel Viñe</name>
+            <name>Roland Weber</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[where]]></title>
-        <id>1x-3581854</id>
-        <link href="https://1x.com/photo/3581854"/>
-        <updated>2026-05-14T14:22:41.450Z</updated>
-        <summary type="html"><![CDATA[where by Osama Alsulami]]></summary>
+        <title type="html"><![CDATA[42]]></title>
+        <id>1x-3582890</id>
+        <link href="https://1x.com/photo/3582890"/>
+        <updated>2026-05-14T19:50:34.638Z</updated>
+        <summary type="html"><![CDATA[42 by Carlos Gonzalez]]></summary>
         <author>
-            <name>Osama Alsulami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponza by night]]></title>
-        <id>1x-3580455</id>
-        <link href="https://1x.com/photo/3580455"/>
-        <updated>2026-05-14T14:22:41.447Z</updated>
-        <summary type="html"><![CDATA[Ponza by night by Paolorossi]]></summary>
-        <author>
-            <name>Paolorossi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pink sunset]]></title>
-        <id>1x-3579869</id>
-        <link href="https://1x.com/photo/3579869"/>
-        <updated>2026-05-14T14:22:41.444Z</updated>
-        <summary type="html"><![CDATA[Pink sunset by NingYun Ye]]></summary>
-        <author>
-            <name>NingYun Ye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family]]></title>
-        <id>1x-3580716</id>
-        <link href="https://1x.com/photo/3580716"/>
-        <updated>2026-05-14T14:22:41.434Z</updated>
-        <summary type="html"><![CDATA[Family by Rob Li]]></summary>
-        <author>
-            <name>Rob Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUI VAN QUANG]]></title>
-        <id>1x-3582000</id>
-        <link href="https://1x.com/photo/3582000"/>
-        <updated>2026-05-14T14:22:41.430Z</updated>
-        <summary type="html"><![CDATA[BUI VAN QUANG by NGUYEN AN DI]]></summary>
-        <author>
-            <name>NGUYEN AN DI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闇]]></title>
-        <id>1x-3581388</id>
-        <link href="https://1x.com/photo/3581388"/>
-        <updated>2026-05-14T14:22:41.427Z</updated>
-        <summary type="html"><![CDATA[闇 by Taka]]></summary>
-        <author>
-            <name>Taka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Trail Becomes Light]]></title>
-        <id>1x-3580947</id>
-        <link href="https://1x.com/photo/3580947"/>
-        <updated>2026-05-14T14:22:41.423Z</updated>
-        <summary type="html"><![CDATA[My Trail Becomes Light by Nishida]]></summary>
-        <author>
-            <name>Nishida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiet Strength]]></title>
-        <id>1x-3581599</id>
-        <link href="https://1x.com/photo/3581599"/>
-        <updated>2026-05-14T14:22:41.420Z</updated>
-        <summary type="html"><![CDATA[Quiet Strength by Hamza Qarooni]]></summary>
-        <author>
-            <name>Hamza Qarooni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Framed Smile]]></title>
-        <id>1x-3581681</id>
-        <link href="https://1x.com/photo/3581681"/>
-        <updated>2026-05-14T14:22:41.417Z</updated>
-        <summary type="html"><![CDATA[A Framed Smile by Mustafa Sahin]]></summary>
-        <author>
-            <name>Mustafa Sahin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling Silence]]></title>
-        <id>1x-3581558</id>
-        <link href="https://1x.com/photo/3581558"/>
-        <updated>2026-05-14T14:22:41.413Z</updated>
-        <summary type="html"><![CDATA[Falling Silence by Tsuboya Seiichi]]></summary>
-        <author>
-            <name>Tsuboya Seiichi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Misty Morning.]]></title>
-        <id>1x-3581765</id>
-        <link href="https://1x.com/photo/3581765"/>
-        <updated>2026-05-14T14:22:41.409Z</updated>
-        <summary type="html"><![CDATA[A Misty Morning. by Pedro Uranga]]></summary>
-        <author>
-            <name>Pedro Uranga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rows of faith, hearts full of devotion.]]></title>
-        <id>1x-3580834</id>
-        <link href="https://1x.com/photo/3580834"/>
-        <updated>2026-05-14T14:22:41.400Z</updated>
-        <summary type="html"><![CDATA[Rows of faith, hearts full of devotion. by Washiful Majid]]></summary>
-        <author>
-            <name>Washiful Majid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fovist...]]></title>
-        <id>1x-3582572</id>
-        <link href="https://1x.com/photo/3582572"/>
-        <updated>2026-05-14T14:22:41.378Z</updated>
-        <summary type="html"><![CDATA[Fovist... by Ramiz Sahin]]></summary>
-        <author>
-            <name>Ramiz Sahin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["WHISPERS OF THE BLACK SAND"]]></title>
-        <id>1x-3582412</id>
-        <link href="https://1x.com/photo/3582412"/>
-        <updated>2026-05-14T14:22:41.373Z</updated>
-        <summary type="html"><![CDATA["WHISPERS OF THE BLACK SAND" by Adam Pachula]]></summary>
-        <author>
-            <name>Adam Pachula</name>
+            <name>Carlos Gonzalez</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3579424</id>
-        <link href="https://1x.com/photo/3579424"/>
-        <updated>2026-05-14T14:22:41.178Z</updated>
-        <summary type="html"><![CDATA[Untitled by Bingo Z]]></summary>
+        <id>1x-3583204</id>
+        <link href="https://1x.com/photo/3583204"/>
+        <updated>2026-05-14T19:50:34.633Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dan Gdalevitz]]></summary>
         <author>
-            <name>Bingo Z</name>
+            <name>Dan Gdalevitz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[With eyes closed]]></title>
-        <id>1x-3582158</id>
-        <link href="https://1x.com/photo/3582158"/>
-        <updated>2026-05-14T14:22:41.162Z</updated>
-        <summary type="html"><![CDATA[With eyes closed by Offer Ellbogen]]></summary>
+        <title type="html"><![CDATA[What Are You Looking at?]]></title>
+        <id>1x-3583182</id>
+        <link href="https://1x.com/photo/3583182"/>
+        <updated>2026-05-14T19:50:34.626Z</updated>
+        <summary type="html"><![CDATA[What Are You Looking at? by Jun Zuo]]></summary>
         <author>
-            <name>Offer Ellbogen</name>
+            <name>Jun Zuo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​The Apothecary's Hands]]></title>
-        <id>1x-3582198</id>
-        <link href="https://1x.com/photo/3582198"/>
-        <updated>2026-05-14T14:22:41.158Z</updated>
-        <summary type="html"><![CDATA[The Apothecary's Hands by widiarto p.]]></summary>
+        <title type="html"><![CDATA[Lola]]></title>
+        <id>1x-3580364</id>
+        <link href="https://1x.com/photo/3580364"/>
+        <updated>2026-05-14T19:50:34.619Z</updated>
+        <summary type="html"><![CDATA[Lola by Aya Delroy]]></summary>
         <author>
-            <name>widiarto p.</name>
+            <name>Aya Delroy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old portrait]]></title>
-        <id>1x-3582471</id>
-        <link href="https://1x.com/photo/3582471"/>
-        <updated>2026-05-14T14:22:41.124Z</updated>
-        <summary type="html"><![CDATA[Old portrait by Ahmed Fahmy]]></summary>
+        <title type="html"><![CDATA[Everlasting colors]]></title>
+        <id>1x-3575231</id>
+        <link href="https://1x.com/photo/3575231"/>
+        <updated>2026-05-14T19:50:34.614Z</updated>
+        <summary type="html"><![CDATA[Everlasting colors by Auri flux]]></summary>
         <author>
-            <name>Ahmed Fahmy</name>
+            <name>Auri flux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W264951]]></title>
+        <id>1x-3580793</id>
+        <link href="https://1x.com/photo/3580793"/>
+        <updated>2026-05-14T19:50:34.599Z</updated>
+        <summary type="html"><![CDATA[W264951 by Allen SDCA]]></summary>
+        <author>
+            <name>Allen SDCA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tern-4]]></title>
+        <id>1x-3583259</id>
+        <link href="https://1x.com/photo/3583259"/>
+        <updated>2026-05-14T19:50:34.595Z</updated>
+        <summary type="html"><![CDATA[Tern-4 by jerry ju]]></summary>
+        <author>
+            <name>jerry ju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metal Shell]]></title>
+        <id>1x-3582752</id>
+        <link href="https://1x.com/photo/3582752"/>
+        <updated>2026-05-14T19:50:34.590Z</updated>
+        <summary type="html"><![CDATA[The Metal Shell by Stefan Lenz]]></summary>
+        <author>
+            <name>Stefan Lenz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gleaming Quicksand]]></title>
+        <id>1x-3582784</id>
+        <link href="https://1x.com/photo/3582784"/>
+        <updated>2026-05-14T19:50:34.582Z</updated>
+        <summary type="html"><![CDATA[Gleaming Quicksand by Takuro Kimitachi]]></summary>
+        <author>
+            <name>Takuro Kimitachi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rufous-tailed Jacamar]]></title>
+        <id>1x-3582862</id>
+        <link href="https://1x.com/photo/3582862"/>
+        <updated>2026-05-14T19:50:34.576Z</updated>
+        <summary type="html"><![CDATA[Rufous-tailed Jacamar by Renate Grupp]]></summary>
+        <author>
+            <name>Renate Grupp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otter Conversation]]></title>
+        <id>1x-3583256</id>
+        <link href="https://1x.com/photo/3583256"/>
+        <updated>2026-05-14T19:50:34.570Z</updated>
+        <summary type="html"><![CDATA[Otter Conversation by Marcel Ahrens]]></summary>
+        <author>
+            <name>Marcel Ahrens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fly]]></title>
+        <id>1x-3583088</id>
+        <link href="https://1x.com/photo/3583088"/>
+        <updated>2026-05-14T19:50:34.563Z</updated>
+        <summary type="html"><![CDATA[fly by hiro]]></summary>
+        <author>
+            <name>hiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oblique light]]></title>
+        <id>1x-3583232</id>
+        <link href="https://1x.com/photo/3583232"/>
+        <updated>2026-05-14T19:50:34.555Z</updated>
+        <summary type="html"><![CDATA[oblique light by snuphoto]]></summary>
+        <author>
+            <name>snuphoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Kestrel]]></title>
+        <id>1x-3583234</id>
+        <link href="https://1x.com/photo/3583234"/>
+        <updated>2026-05-14T19:50:34.549Z</updated>
+        <summary type="html"><![CDATA[American Kestrel by Alex Li]]></summary>
+        <author>
+            <name>Alex Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double vapor cone]]></title>
+        <id>1x-3583233</id>
+        <link href="https://1x.com/photo/3583233"/>
+        <updated>2026-05-14T19:50:34.503Z</updated>
+        <summary type="html"><![CDATA[Double vapor cone by Morishi-]]></summary>
+        <author>
+            <name>Morishi-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The protector]]></title>
+        <id>1x-3583023</id>
+        <link href="https://1x.com/photo/3583023"/>
+        <updated>2026-05-14T19:50:34.311Z</updated>
+        <summary type="html"><![CDATA[The protector by Emanuel Papamanolis]]></summary>
+        <author>
+            <name>Emanuel Papamanolis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3564704</id>
+        <link href="https://1x.com/photo/3564704"/>
+        <updated>2026-05-14T19:50:34.304Z</updated>
+        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <author>
+            <name>Joxe Inazio Kuesta Garmendia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'll Remember]]></title>
+        <id>1x-3557158</id>
+        <link href="https://1x.com/photo/3557158"/>
+        <updated>2026-05-14T19:50:34.290Z</updated>
+        <summary type="html"><![CDATA[I'll Remember by Kahar Lagaa]]></summary>
+        <author>
+            <name>Kahar Lagaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析：特朗普处于弱姿态与习近平谈判]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9050736</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9050736"/>
+        <updated>2026-05-14T15:54:17.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）分析认为，在北京举行的习特会对美国而言没有突破性进展，倒是中国国家主席习近平对台湾问题发出的警告，更引起国际瞩目。 
+路透社分析指出，美国总统特朗普这回是以弱姿态与中国国家主席习近平会面。特朗普发动的关税战已被美国最高法院裁定逾越总统权限，构成违宪；伊朗战争加剧了国内的通货膨胀，共和党在11月中期选举的胜算受压。反观习近平，尽管中国经济发展滞缓，但他并未面临类似的经济或政治压力。 
+《华尔街日报》分析，特朗普和习近平对此次峰会各有不同目标。特朗普希望习近平帮助斡旋，以结束美伊战争，并希望达成多项经济协议。习近平则希望特朗普改变美国对台湾问题的表态。
+白宫在习特会后发表的声明中，没有提及两位领导人就台湾问题进行的任何讨论，只说他们进行了良好的会晤，探讨了加强经济合作的途径。不过，据新华社报道，习近平在会谈中强调，台湾问题是中美关系中最重要的问题，是否能够处理好可直接影响中美关系的好坏。
+策纬咨询公司（Trivium China）高级分析师乔·马祖尔说，尽管北京过去曾就台湾问题发出过强烈警告，但习近平这回的讲话仍值得关注。“他是毫不含糊地警告美国不要乱来。”
+在双边贸易问题上，分析认为，去年美国对中国加征关税，以及北京对稀土出口采取限制措施，使两国贸易关系一直动荡不安，预计此次不会有多少突破。不过，预料双方仍将宣布中国购买美国农产品和航空航天产品的协议。
+曾任美国助理防长的哈佛大学教授艾利森说：“如果特朗普总统宣布中国将额外购买价值1万亿美元（约1.27万亿新元）的美国商品，我不会感到惊讶。因为总统喜欢发布重大新闻。”
+中美领导人同意构建建设性的战略稳定关系，作为双边关系的新定位。专家认为，对美国来说，减少与中国碰撞是好事。
+经济学人智库（EIU）的高级经济师徐天辰告诉美国消费者新闻与商业频道（CNBC），这个新的关系定位意味着，尽管摩擦仍将持续，但中美之间可维持一段时间的可控稳定，事态不会像去年那样几乎失控。
+特朗普还希望中国能说服伊朗，同意与华盛顿达成停战协议。不过分析员认为，伊朗对北京而言是制衡美国的战略力量，因此对于习近平是否会愿意对德黑兰施压或停止对伊朗的军事支持，他们有所质疑。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴勒斯坦法塔赫举行第八次代表大会 阿巴斯承诺推进改革]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9051035</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9051035"/>
+        <updated>2026-05-14T15:41:15.000Z</updated>
+        <summary type="html"><![CDATA[巴勒斯坦民族解放运动（法塔赫）第八次代表大会在约旦河西岸中部城市拉姆安拉开幕，这是法塔赫时隔约10年后再次举行代表大会。
+新华社引述巴勒斯坦通讯社的报道说，巴勒斯坦总统、法塔赫主席阿巴斯在星期四（5月14日）的大会上发表演讲时强调，法塔赫始终是巴勒斯坦民族事业的支柱，是民族独立自主决策旗帜的捍卫者，是巴勒斯坦身份和斗争的守护者。新的领导层将带领法塔赫加强更广泛的民族运动，并提升其成果。
+阿巴斯指出，加沙地带是巴勒斯坦不可分割的一部分，任何过渡安排都必须是暂时的，且不得影响国家统一或政治和法律主权。国家统一仍然是应对挑战和结束分裂的坚实基础。
+据报道，本次大会将选举产生新一届法塔赫革命委员会及法塔赫中央委员会成员。
+法塔赫系巴勒斯坦主要政治派别，主张通过谈判解决巴勒斯坦与以色列的问题。2007年，法塔赫与巴勒斯坦伊斯兰抵抗运动（哈马斯）爆发冲突，法塔赫后来实际控制约旦河西岸地区。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯：正与阿富汗塔利班建立“全面伙伴关系”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9051013</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9051013"/>
+        <updated>2026-05-14T15:22:38.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯联邦安全会议秘书透露，俄罗斯正与阿富汗执政的塔利班建立“全面伙伴关系”，并鼓励区内其他国家扩大与喀布尔的合作。
+去年，俄罗斯成为第一个正式承认伊斯兰主义塔利班政府的国家。塔利班于2021年8月夺取政权，此前，以美国为首的联军在阿富汗经历了20年的战争后，在混乱中撤出阿富汗。
+国际文传电讯社引述俄罗斯联邦安全会议秘书谢尔盖·绍伊古（Sergei Shoigu）星期四（5月14日）的话说，与喀布尔的合作对该地区的安全与发展至关重要。
+路透社引述绍伊古说，莫斯科正在与塔利班建立“务实对话”，对话内容涵盖安全、贸易、文化和人道主义援助等领域。
+绍伊古在与上海合作组织（上合组织）成员国代表的会晤中发表了讲话。上合组织是一个由10个成员国组成的组织，成员包括中国、印度、伊朗、巴基斯坦以及一些前苏联加盟共和国。
+绍伊古补充说，上合组织应该重启与阿富汗的联络小组。
+俄罗斯于2003年将塔利班列为恐怖主义组织，但禁令已于2025年4月解除。俄罗斯认为有必要与喀布尔合作，因为阿富汗和中东等多个国家都存在伊斯兰极端组织，这些组织对喀布尔构成了重大的安全威胁。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本超级油轮罕见穿越霍尔木兹海峡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9050856</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9050856"/>
+        <updated>2026-05-14T14:46:26.000Z</updated>
+        <summary type="html"><![CDATA[一艘日本超级油轮出现在阿曼湾，而它上一次发出的信号还显示它位于波斯湾内，这就表明，来自这个亚洲国家的船只悄然、罕见地穿越了霍尔木兹海峡。
+船舶追踪数据显示，这艘超大型原油运输船引能仕奋进号（Eneos Endeavor）于星期三（5月13日）夜里开始在阿曼首都马斯喀特以北海域发送位置信息，正在向东驶往阿拉伯海。这艘船此前发出的最后一次信号显示，它星期一时位于波斯湾内，阿布扎比以北。两次信号的间隔表明，船只可能在未广播行踪的情况下穿越了霍尔木兹海峡。
+彭博社引述公司网站信息报道，这艘船隶属于日本炼油商引能仕控股公司（Eneos Holdings Inc.）的船队。社长宫田知秀星期四在业绩发布会上证实，船只已通过霍尔木兹海峡。他说，公司预计这艘船将在5月底至6月初之间抵达日本。
+日本首相高市早苗在社交媒体X平台发文称，一艘日本相关船只已于星期四安全通过霍尔木兹海峡，驶往日本，但未予详述，也未说明是哪艘船。她还说，目前波斯湾里仍有39艘日本相关船只。
+日本外相茂木敏充也在未说明船只名称的情况下，公布了这一通行事宜。他证实，船只未为确保通行而向伊朗政府支付任何费用。
+引能仕奋进号于2月下旬驶入波斯湾，欲前往阿联酋的达斯岛（Das Island）和科威特的米娜·艾哈迈迪（Mina Al Ahmadi）装油。吃水深度数据显示船只几乎满载。这艘船原本在4月下旬显示目的地为日本喜入，但现在显示为正在等待指令，这表明它尚无明确的停靠港。
+这一最新进展意味着，引能仕奋进号成为中东战争爆发以来，第二艘穿越咽喉要道的日本超级油轮。第一艘是“出光丸”（Idemitsu Maru），时间为4月下旬，不过当时是在全程广播的情况下通过的。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -270,14 +335,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英国卫生部长辞职 质疑斯塔默领导力]]></title>
+        <title type="html"><![CDATA[对首相斯塔默失去信心 英国卫生部长辞职]]></title>
         <id>https://www.zaobao.com/news/world/story20260514-9050283</id>
         <link href="https://www.zaobao.com/news/world/story20260514-9050283"/>
         <updated>2026-05-14T12:48:54.000Z</updated>
-        <summary type="html"><![CDATA[英国卫生和社会福利部长斯特里廷宣布辞职，他表示对首相斯塔默的领导能力失去了信心。
-斯特里廷（Wes Streeting）星期四（5月14日）在社交媒体X平台发表的信函中写道：“现在很明显，您不会带领工党参加下届大选。工党议员和工会希望，关于未来走向的辩论是一场理念之争，而不是个人恩怨或琐碎的派系斗争。”
-路透社引述他说：“这场辩论需要广泛且深入地进行，需要尽可能推举优秀的候选人。我支持这种做法，也希望您能为此提供便利。”
-新华社引述英国《泰晤士报》的报道说，据斯特里廷身边人士的消息，斯特里廷准备辞职竞选工党党首。]]></summary>
+        <summary type="html"><![CDATA[（伦敦综合电）英国卫生部长斯特里廷宣布辞职，称对首相斯塔默的领导能力失去信心。此举可能为斯特里廷挑战斯塔默的领导地位铺路。
+斯特里廷（Wes Streeting）星期四（5月14日）在社交媒体X平台发表致斯塔默的长信，宣布辞职。
+信中写道：“现在很明显，您已不会带领工党参加下届大选。”
+他直言：“我们需要愿景时，却只有真空，需要方向的时候，却飘忽不定。”他呼吁工党尽可能推举优秀的领袖候选人，也请求斯塔默为此提供便利。
+
+
+pic.twitter.com/9qI2Bj35ZK
+— Wes Streeting (@wesstreeting) May 14, 2026
+
+斯塔默近来面临信任危机，已有数十名工党议员呼吁他下台，但他誓言继续执政。《泰晤士报》此前引述斯特里廷身边人士消息报道，斯特里廷准备辞职，竞选工党党魁。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -507,69 +578,6 @@ Altus此前说，这座摩天大楼预计将成为澳大利亚最高建筑，造
 乌克兰总统泽连斯基星期四在社媒发文说，基辅一栋九层楼居民遭俄军空袭击中，部分建筑被彻底摧毁。当局正展开救援行动，目前已有数十人获救，一人遇难，但可能仍有居民受困废墟。
 他也说，俄军连夜向乌克兰发射了670架攻击无人机和56枚导弹。“自昨天午夜以来，俄军共向我们的城市和社区发射了1560架无人机。这绝对不是认为战争即将终结的人会做的事。”
 乌克兰空军称，俄罗斯发动的空袭包括675架无人机和56枚导弹，其中大部分被防空系统击落。然而，有24个地点，一共被击中38次。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本自民党建议政府造稀土开发专用船]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9047078</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9047078"/>
-        <updated>2026-05-14T05:32:47.000Z</updated>
-        <summary type="html"><![CDATA[日本自民党在党总部召开海洋开发特别委员会会议，就南鸟岛近海海底稀土资源开发，汇总了要求政府建造专用船只的建议草案。 
-共同社报道，星期三（5月13日）召开的会议内容包括，在作为开发据点的南鸟岛建造机场、港口等基础设施。
-建议草案强调，对于从特定国家进口稀土的日本而言，南鸟岛近海资源能够成为经济安全保障方面的“王牌”。今年2月成功采掘含稀土淤泥的深海探测船地球号也有其他用途，因此要求完善包括专用船在内的体系，并尽快确保预算。 
-从海洋开发和安全保障的角度出发，建议草案强调海洋无人设备以及一体可视化海洋状况的“海域态势感知”的重要性，并主张通过公共采购确保初始需求，推进市场的形成与扩大。
-地缘政治加速了日本加快自行开采稀土，日本已启动在东京偏远的小笠原群岛南鸟岛的近海稀土试钻项目，目标是在2027年底总结调查结果和经济可行性，并于2028年实现量产。
-分析认为，作为科技大国，日本正在加速引进半导体工厂以及研发人工智能（AI）等新科技。若从经济安全角度看，在南鸟岛附近海域建立一定规模的稀土供应网络，将能减少地缘政治风险。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度北方邦遭遇猛烈风暴 100多人死亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9046912</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9046912"/>
-        <updated>2026-05-14T04:52:54.000Z</updated>
-        <summary type="html"><![CDATA[一名印度政府官员说，一场猛烈的风暴袭击了印度人口最多的北方邦，带来降雨和冰雹，造成100多人死亡。
-路透社报道，在每年的3月至6月炎热季节，季风降雨带来缓解之前，印度北方邦（Uttar Pradesh）经常发生风暴。印度当局说，星期三（5月13日）的风暴造成59人受伤、87所房屋受损和114头牲畜死亡。
-北方邦救灾专员亚肖德的办公室称，这场风暴在10多个地区造成至少104人死亡，其中灾情最严重的地区是普拉亚格拉杰周边区域。
-电视画面显示，星期三的风暴中，强风吹倒了树木和广告牌，一些倒塌物体砸向车辆，路边摊的木制家具也被吹倒。
-当地一名救灾官员则说，部分死亡是由倒下的树木和房屋墙壁坍塌造成的，但未进一步提供救援工作的具体细节。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黎巴嫩与以色列将举行新一轮和平谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9046727</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9046727"/>
-        <updated>2026-05-14T04:26:23.000Z</updated>
-        <summary type="html"><![CDATA[随着黎巴嫩和以色列的停火协议即将结束，双方将于星期四起在华盛顿举行新一轮和平谈判。 
-法新社报道，在谈判前夕，黎巴嫩卫生部星期三（5月13日）称，以色列加大空袭力度，当天共有22人丧命，其中包括八名儿童。
-据黎巴嫩国家通讯社报道，这些袭击轰炸了黎巴嫩南部和东部约40个地点。
-两国上次会晤是在4月23日于白宫举行，当时美国总统特朗普宣布将停火延长三周，并对达成历史性协议表示乐观。 
-特朗普当时大胆预测，在这停火期内，他将欢迎以色列总理内坦亚胡和黎巴嫩总统奥恩来到华盛顿，举行两国之间历史性的首次历峰会。 
-不过，峰会最终未能举行。奥恩说，在举行这种具有里程碑意义的会议前，必须达成安全协议，并且以色列的袭击必须停止。
-自4月17日起生效的停火协议，已延长至星期天。然而，据黎巴嫩官方数据统计，停火期间以色列的袭击已造成400多人死亡。
-黎巴嫩当局称，自以色列3月初发动袭击以来，黎巴嫩已有2800多人死亡，其中包括至少200名儿童。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古巴能源部长：柴油和燃油已耗尽]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9045966</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9045966"/>
-        <updated>2026-05-14T02:55:07.000Z</updated>
-        <summary type="html"><![CDATA[古巴能源与矿业部长德拉欧称，由于美国的石油封锁导致燃料供应中断，古巴已完全耗尽柴油和燃油。
-综合路透社和法新社报道，德拉欧星期四（5月14日）告诉官媒说，国家电网正处于危机状态，古巴已完全没有燃油和柴油储备。
-古巴总统迪亚斯-卡内尔星期三将古巴严峻的能源短缺，归咎于美国对古巴实施的能源封锁。
-他在社媒发文说：“这种急剧恶化的局面只有一个原因：美国对古巴实施的种族灭绝式能源封锁，并威胁对任何向我们供应燃料的国家征收不合理的关税。”
-法新社的数据显示，古巴的电力供应正跌至新低。65%古巴的地区在星期二遭遇同步停电。
-今年1月，美国对拥有960万人口的古巴实施石油封锁，导致古巴的能源危机进一步恶化。之后，只有一艘载有73万桶人道主义原油的俄罗斯油轮于三月底抵达古巴。
-据报道，首都哈瓦那每天停电时间超过19小时，而在多个省份，停电持续整天，这意味着大多数古巴人停电的时间比有电的时间还长。
-自2024年以来，古巴人已经历了七次全国性停电，其中包括3月份的两次，燃料价格也一路飙升。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>

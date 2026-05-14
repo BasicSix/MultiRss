@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T14:22:38.913Z</updated>
+    <updated>2026-05-14T19:50:34.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why humans should merge with AI | D Scott Phoenix]]></title>
+        <id>6a01eff292e9663a6f89041a</id>
+        <link href="http://go.ted.com/dscottphoenix"/>
+        <updated>2026-05-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep tech entrepreneur D. Scott Phoenix spent years building AI — now, he believes we're on the cusp of a profound merger between humans and machines. Reframing the AI debate through the lens of evolutionary biology, he shifts the question from whether we should fear or embrace AI to whether we understand what's at stake if we get it wrong. Hear his provocative case for why we need to "eat the AI."
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A simple solution to fix workplace miscommunication | Melissa M. Mikus]]></title>
         <id>6a01ee405c981a3573ea45c0</id>
