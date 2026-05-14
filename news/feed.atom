@@ -2,198 +2,336 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T20:01:00.810Z</updated>
+    <updated>2026-05-14T03:43:21.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[madoka]]></title>
-        <id>1x-3581859</id>
-        <link href="https://1x.com/photo/3581859"/>
-        <updated>2026-05-13T20:00:14.569Z</updated>
-        <summary type="html"><![CDATA[madoka by AKI HIROSE]]></summary>
+        <title type="html"><![CDATA[Sahel Sisters]]></title>
+        <id>1x-3582273</id>
+        <link href="https://1x.com/photo/3582273"/>
+        <updated>2026-05-14T03:42:37.588Z</updated>
+        <summary type="html"><![CDATA[Sahel Sisters by Roberto Pazzi]]></summary>
         <author>
-            <name>AKI HIROSE</name>
+            <name>Roberto Pazzi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Texture]]></title>
-        <id>1x-3581806</id>
-        <link href="https://1x.com/photo/3581806"/>
-        <updated>2026-05-13T20:00:14.562Z</updated>
-        <summary type="html"><![CDATA[Blue Texture by katsuhide ota]]></summary>
+        <title type="html"><![CDATA[Metabolic Relic]]></title>
+        <id>1x-3577516</id>
+        <link href="https://1x.com/photo/3577516"/>
+        <updated>2026-05-14T03:42:37.586Z</updated>
+        <summary type="html"><![CDATA[Metabolic Relic by Tetsuji Yoshida]]></summary>
         <author>
-            <name>katsuhide ota</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playa Catedral]]></title>
-        <id>1x-3581863</id>
-        <link href="https://1x.com/photo/3581863"/>
-        <updated>2026-05-13T20:00:14.556Z</updated>
-        <summary type="html"><![CDATA[Playa Catedral by Larry Deng APA]]></summary>
-        <author>
-            <name>Larry Deng APA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wodaabe putting on makeup #1]]></title>
-        <id>1x-3582202</id>
-        <link href="https://1x.com/photo/3582202"/>
-        <updated>2026-05-13T20:00:14.552Z</updated>
-        <summary type="html"><![CDATA[Wodaabe putting on makeup #1 by Myriam LEPLAT]]></summary>
-        <author>
-            <name>Myriam LEPLAT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atacama Autumn]]></title>
-        <id>1x-3581891</id>
-        <link href="https://1x.com/photo/3581891"/>
-        <updated>2026-05-13T20:00:14.546Z</updated>
-        <summary type="html"><![CDATA[Atacama Autumn by Louise Xie]]></summary>
-        <author>
-            <name>Louise Xie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buntspecht]]></title>
-        <id>1x-3579748</id>
-        <link href="https://1x.com/photo/3579748"/>
-        <updated>2026-05-13T20:00:14.538Z</updated>
-        <summary type="html"><![CDATA[Buntspecht by Gülay Sween]]></summary>
-        <author>
-            <name>Gülay Sween</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huddle]]></title>
-        <id>1x-3581901</id>
-        <link href="https://1x.com/photo/3581901"/>
-        <updated>2026-05-13T20:00:14.532Z</updated>
-        <summary type="html"><![CDATA[Huddle by Sherry Huang]]></summary>
-        <author>
-            <name>Sherry Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin Cycle Survivor]]></title>
-        <id>1x-3581940</id>
-        <link href="https://1x.com/photo/3581940"/>
-        <updated>2026-05-13T20:00:14.517Z</updated>
-        <summary type="html"><![CDATA[Spin Cycle Survivor by Roz Batten]]></summary>
-        <author>
-            <name>Roz Batten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Point of Impact]]></title>
-        <id>1x-3542271</id>
-        <link href="https://1x.com/photo/3542271"/>
-        <updated>2026-05-13T20:00:14.509Z</updated>
-        <summary type="html"><![CDATA[Point of Impact by Eric Poon]]></summary>
-        <author>
-            <name>Eric Poon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conductor]]></title>
-        <id>1x-3581567</id>
-        <link href="https://1x.com/photo/3581567"/>
-        <updated>2026-05-13T20:00:14.501Z</updated>
-        <summary type="html"><![CDATA[Conductor by Antonyus Bunjamin (Abe)]]></summary>
-        <author>
-            <name>Antonyus Bunjamin (Abe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミミズクの羽音]]></title>
-        <id>1x-3581799</id>
-        <link href="https://1x.com/photo/3581799"/>
-        <updated>2026-05-13T20:00:14.480Z</updated>
-        <summary type="html"><![CDATA[ミミズクの羽音 by mikuta]]></summary>
-        <author>
-            <name>mikuta</name>
+            <name>Tetsuji Yoshida</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3581834</id>
-        <link href="https://1x.com/photo/3581834"/>
-        <updated>2026-05-13T20:00:14.418Z</updated>
-        <summary type="html"><![CDATA[Untitled by Atsuyuki Watanabe]]></summary>
+        <id>1x-3581623</id>
+        <link href="https://1x.com/photo/3581623"/>
+        <updated>2026-05-14T03:42:37.582Z</updated>
+        <summary type="html"><![CDATA[Untitled by Hiromichi]]></summary>
         <author>
-            <name>Atsuyuki Watanabe</name>
+            <name>Hiromichi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A boxer from Havana]]></title>
+        <id>1x-3573450</id>
+        <link href="https://1x.com/photo/3573450"/>
+        <updated>2026-05-14T03:42:37.577Z</updated>
+        <summary type="html"><![CDATA[A boxer from Havana by Robin Yong]]></summary>
+        <author>
+            <name>Robin Yong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dramatic Motion]]></title>
+        <id>1x-3577395</id>
+        <link href="https://1x.com/photo/3577395"/>
+        <updated>2026-05-14T03:42:37.568Z</updated>
+        <summary type="html"><![CDATA[Dramatic Motion by Yoshinobu  Akimoto]]></summary>
+        <author>
+            <name>Yoshinobu Akimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grandmaster's Legacy]]></title>
+        <id>1x-3582288</id>
+        <link href="https://1x.com/photo/3582288"/>
+        <updated>2026-05-14T03:42:37.564Z</updated>
+        <summary type="html"><![CDATA[The Grandmaster's Legacy by Lius Siong]]></summary>
+        <author>
+            <name>Lius Siong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watching by the Shore]]></title>
+        <id>1x-3581451</id>
+        <link href="https://1x.com/photo/3581451"/>
+        <updated>2026-05-14T03:42:37.560Z</updated>
+        <summary type="html"><![CDATA[Watching by the Shore by Yi Ling]]></summary>
+        <author>
+            <name>Yi Ling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Head On]]></title>
+        <id>1x-3582318</id>
+        <link href="https://1x.com/photo/3582318"/>
+        <updated>2026-05-14T03:42:37.556Z</updated>
+        <summary type="html"><![CDATA[Head On by Yogesh Bhatia]]></summary>
+        <author>
+            <name>Yogesh Bhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The large eagle - Steller's Sea Eagle]]></title>
+        <id>1x-3582038</id>
+        <link href="https://1x.com/photo/3582038"/>
+        <updated>2026-05-14T03:42:37.552Z</updated>
+        <summary type="html"><![CDATA[The large eagle - Steller's Sea Eagle by Feng Qin]]></summary>
+        <author>
+            <name>Feng Qin</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3580915</id>
-        <link href="https://1x.com/photo/3580915"/>
-        <updated>2026-05-13T20:00:14.408Z</updated>
-        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
+        <id>1x-3581719</id>
+        <link href="https://1x.com/photo/3581719"/>
+        <updated>2026-05-14T03:42:37.521Z</updated>
+        <summary type="html"><![CDATA[Untitled by Antonio Amores Diaz]]></summary>
         <author>
-            <name>Karim Al Thahaby</name>
+            <name>Antonio Amores Diaz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaf beetle]]></title>
-        <id>1x-3581857</id>
-        <link href="https://1x.com/photo/3581857"/>
-        <updated>2026-05-13T20:00:14.401Z</updated>
-        <summary type="html"><![CDATA[Leaf beetle by Ryo Iura]]></summary>
+        <title type="html"><![CDATA[Honey In Sweetie]]></title>
+        <id>1x-3556426</id>
+        <link href="https://1x.com/photo/3556426"/>
+        <updated>2026-05-14T03:42:37.514Z</updated>
+        <summary type="html"><![CDATA[Honey In Sweetie by Ben.C.L]]></summary>
         <author>
-            <name>Ryo Iura</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[scarlet red]]></title>
-        <id>1x-3582200</id>
-        <link href="https://1x.com/photo/3582200"/>
-        <updated>2026-05-13T20:00:14.386Z</updated>
-        <summary type="html"><![CDATA[scarlet red by Hilda van der Lee]]></summary>
+        <title type="html"><![CDATA[femininity meets architecture]]></title>
+        <id>1x-3581535</id>
+        <link href="https://1x.com/photo/3581535"/>
+        <updated>2026-05-14T03:42:37.512Z</updated>
+        <summary type="html"><![CDATA[femininity meets architecture by Michael Allmaier]]></summary>
         <author>
-            <name>Hilda van der Lee</name>
+            <name>Michael Allmaier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Small Spring]]></title>
-        <id>1x-3581823</id>
-        <link href="https://1x.com/photo/3581823"/>
-        <updated>2026-05-13T20:00:14.314Z</updated>
-        <summary type="html"><![CDATA[A Small Spring by Nyuki]]></summary>
+        <title type="html"><![CDATA[Lunch time]]></title>
+        <id>1x-3582134</id>
+        <link href="https://1x.com/photo/3582134"/>
+        <updated>2026-05-14T03:42:37.495Z</updated>
+        <summary type="html"><![CDATA[Lunch time by Ling Zhang]]></summary>
         <author>
-            <name>Nyuki</name>
+            <name>Ling Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incienso ... Andalucia en Semana Santa]]></title>
-        <id>1x-3582195</id>
-        <link href="https://1x.com/photo/3582195"/>
-        <updated>2026-05-13T20:00:14.301Z</updated>
-        <summary type="html"><![CDATA[Incienso ... Andalucia en Semana Santa by Jose Mesas]]></summary>
+        <title type="html"><![CDATA[Cow shower M]]></title>
+        <id>1x-3557610</id>
+        <link href="https://1x.com/photo/3557610"/>
+        <updated>2026-05-14T03:42:37.492Z</updated>
+        <summary type="html"><![CDATA[Cow shower M by Els Keurlinckx]]></summary>
         <author>
-            <name>Jose Mesas</name>
+            <name>Els Keurlinckx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The angry owl]]></title>
-        <id>1x-3581643</id>
-        <link href="https://1x.com/photo/3581643"/>
-        <updated>2026-05-13T20:00:14.279Z</updated>
-        <summary type="html"><![CDATA[The angry owl by Xuemei Qin]]></summary>
+        <title type="html"><![CDATA[Little Owl, Big Presence]]></title>
+        <id>1x-3582415</id>
+        <link href="https://1x.com/photo/3582415"/>
+        <updated>2026-05-14T03:42:37.489Z</updated>
+        <summary type="html"><![CDATA[Little Owl, Big Presence by Ahmed Sobhi]]></summary>
         <author>
-            <name>Xuemei Qin</name>
+            <name>Ahmed Sobhi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scissor-tailed flycatcgers]]></title>
-        <id>1x-3581601</id>
-        <link href="https://1x.com/photo/3581601"/>
-        <updated>2026-05-13T20:00:14.258Z</updated>
-        <summary type="html"><![CDATA[Scissor-tailed flycatcgers by Alex Li]]></summary>
+        <title type="html"><![CDATA[Equilibrium of Shadow]]></title>
+        <id>1x-3582051</id>
+        <link href="https://1x.com/photo/3582051"/>
+        <updated>2026-05-14T03:42:37.469Z</updated>
+        <summary type="html"><![CDATA[Equilibrium of Shadow by YinMun Lee]]></summary>
         <author>
-            <name>Alex Li</name>
+            <name>YinMun Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Peruvian Farmer]]></title>
+        <id>1x-3546562</id>
+        <link href="https://1x.com/photo/3546562"/>
+        <updated>2026-05-14T03:42:37.334Z</updated>
+        <summary type="html"><![CDATA[A Peruvian Farmer by txules]]></summary>
+        <author>
+            <name>txules</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[electronic universe - episode XXVIII]]></title>
+        <id>1x-3580832</id>
+        <link href="https://1x.com/photo/3580832"/>
+        <updated>2026-05-14T03:42:37.316Z</updated>
+        <summary type="html"><![CDATA[electronic universe - episode XXVIII by Udo Dittmann]]></summary>
+        <author>
+            <name>Udo Dittmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow motion]]></title>
+        <id>1x-3582131</id>
+        <link href="https://1x.com/photo/3582131"/>
+        <updated>2026-05-14T03:42:37.277Z</updated>
+        <summary type="html"><![CDATA[Slow motion by Hans Repelnig]]></summary>
+        <author>
+            <name>Hans Repelnig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古巴能源部长：柴油和燃油已耗尽]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045966</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045966"/>
+        <updated>2026-05-14T02:55:07.000Z</updated>
+        <summary type="html"><![CDATA[古巴能源与矿业部长德拉欧称，由于美国的石油封锁导致燃料供应中断，古巴已完全耗尽柴油和燃油。
+综合路透社和法新社报道，德拉欧星期四（5月14日）告诉官媒说，国家电网正处于危机状态，古巴已完全没有燃油和柴油储备。
+古巴总统迪亚斯-卡内尔星期三将古巴严峻的能源短缺，归咎于美国对古巴实施的能源封锁。
+他在社媒发文说：“这种急剧恶化的局面只有一个原因：美国对古巴实施的种族灭绝式能源封锁，并威胁对任何向我们供应燃料的国家征收不合理的关税。”
+法新社的数据显示，古巴的电力供应正跌至新低。65%古巴的地区在星期二遭遇同步停电。
+今年1月，美国对拥有960万人口的古巴实施石油封锁，导致古巴的能源危机进一步恶化。之后，只有一艘载有73万桶人道主义原油的俄罗斯油轮于三月底抵达古巴。
+据报道，首都哈瓦那每天停电时间超过19小时，而在多个省份，停电持续整天，这意味着大多数古巴人停电的时间比有电的时间还长。
+自2024年以来，古巴人已经历了七次全国性停电，其中包括3月份的两次，燃料价格也一路飙升。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普要在机场附近建凯旋门 FAA启动风险评估]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045906</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045906"/>
+        <updated>2026-05-14T02:45:06.000Z</updated>
+        <summary type="html"><![CDATA[美国媒体报道，特朗普政府要求美国联邦航空管理局（FAA）评估，在距离里根华盛顿国家机场不到两英里处兴建巨型凯旋门是否存在潜在风险。
+美国有线电视新闻网（CNN）获得的文件显示，美国内政部已要求FAA对这座拟建的250英尺（约76.2米）高的凯旋门进行正式的航空研究。
+FAA规定，高度超过200英尺且可能干扰空域的建筑物需接受审查。
+FAA确认已收到内政部请求并已启动研究，但拒绝提供审查时间表。
+特朗普政府上个月公布，将在首都华盛顿兴建巨型凯旋门的计划。这座250英尺高的纪念碑落成后，将超越墨西哥城、朝鲜平壤和法国巴黎的同类建筑，成为全球最大的凯旋门。
+凯旋门拟建于波多马克河哥伦比亚岛一个交通圈，正处于林肯纪念堂与阿灵顿国家公墓入口之间。由于高度远超约100英尺的林肯纪念堂，凯旋门建成后将彻底重塑华盛顿的天际线。
+这项耗资不菲的计划引发猛烈抨击。多名美国老兵和一名历史学家向华盛顿特区联邦法院提起诉讼，要求阻止建造凯旋门。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争导致美国更依赖中国稀土]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045592</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045592"/>
+        <updated>2026-05-14T01:53:31.000Z</updated>
+        <summary type="html"><![CDATA[知情人士透露，特朗普政府对伊朗开战导致美国导弹和弹药储备严重枯竭，以致本就面临严重供应链瓶颈的美军在重建军备的过程中，对中国主导的稀土矿产供应产生更深的依赖。
+《纽约时报》星期三（5月13日）引述知情人士报道称，这使中国在双边外交和贸易谈判中获得巨大筹码，美国或不得不在关税或半导体限制等方面做出妥协。
+全球咨询公司博然智（Brunswick）高级顾问帕迪利亚（Christopher Padilla）说：“向伊朗每发射一枚导弹，都会让美国在短期内对中国及其稀土矿物的依赖更深一分。”
+帕迪拉认为，美国在伊朗战事中大量消耗精确制导弹药，将进一步增强中国的博弈底气。至少未来数年内，美国重建武器库的努力意味着需要从中国获取稀土矿物供应。
+纽时报道指，尽管美国正试图通过巨额预算开发替代供应源，但在短期内，这种资源制约不仅削弱了美国干预其他地区冲突的能力，也重塑了中美两国之间复杂且相互博弈的权力平衡。
+美国战争部与国会的预估数据显示，自伊朗战争爆发以来，美国已动用约半数远程隐形巡航导弹，战斧巡航导弹（Tomahawk）消耗量更是达到当前年均采购量的十倍左右。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美航空燃油出口创新高 填补中东供应缺口]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045440</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045440"/>
+        <updated>2026-05-14T01:17:23.000Z</updated>
+        <summary type="html"><![CDATA[由于霍尔木兹海峡关闭，全球航空公司举步维艰，美国炼油商正以前所未有的速度向海外出口航空燃油。
+美国能源信息署星期三（5月13日）发布的一份报告显示，上周美国航空燃油出口量飙升至每日45.5万桶的历史新高，超过了4月初创下的最高纪录。
+由于航空公司和炼油商严重依赖波斯湾稳定的石油和其他能源供应，欧洲和亚洲的航空燃油价格正在飙升。
+彭博社汇编的数据显示，自美伊冲突爆发以来，新加坡和欧盟的航空燃料价格分别上涨了61%和59%。
+美国能源经济与金融分析研究所（IEEFA）周二发布报告指，随着美国填补中东地区天然气供应减少带来的缺口，欧洲今年对美国天然气的依赖预计将升至历史新高。
+报告说，欧洲今年约三分之二的液化天然气可能来自美国，比例将创纪录。若按天然气总供应量计算，美国甚至可能超越挪威，成为欧洲最大天然气供应国。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-05-14T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月14日 免费在线office编辑 一个浏览器端的Office套件，开源地址 Motrix Next 一个全功能下载器，Motrix的继任者，支持 HTTP、FTP、BT 种子及磁力链接等协议，GitHub 5月13日]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美4月通胀升至3年来高峰 万斯罕见承认“不理想”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045241</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045241"/>
+        <updated>2026-05-14T00:28:03.000Z</updated>
+        <summary type="html"><![CDATA[美国副总统万斯周三罕见承认，4月份的消费者通胀“并不理想”。
+受美国总统特朗普对伊朗发动战争导致能源价格上涨的影响，美国4月份的同比消费者通胀率达到3.8%，创三年新高。
+美国政府星期三（5月13日）公布的批发价格通胀率为6%，为2022年12月以来的最高水平。分析人士警告称，高油价已开始对其他产品产生连锁反应。
+万斯周三在白宫告诉记者：“是的，上个月的通胀数据并不理想。我们知道，为了实现美国人民应得的繁荣，我们还有很多工作要做。”
+万斯表示，特朗普“非常清楚”这个问题。就在一天前，特朗普还坚称高通胀只是“短期现象”。
+特朗普周二宣称，经济压力不会影响他对伊朗问题的决策。他说：“我不会考虑美国人的经济状况。我不会考虑任何人。我只想着一件事：我们不能让伊朗拥有核武器。”
+但万斯周三否认总统说过这些话，并坚称记者的问题“歪曲”了特朗普的原话。
+随着11月中期选举的竞选活动如火如荼地进行，民主党领导人抓住特朗普的这番言论，指责这位共和党总统对不断飙升的生活成本漠不关心。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最后期限已过 美参院仍支持特朗普对伊朗开战]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045195</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045195"/>
+        <updated>2026-05-14T00:06:26.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院周三以微弱优势否决了一项限制特朗普总统对伊朗发动战争权力的决议。这是自白宫寻求正式授权的60天期限到期以来，参议院首次就美伊冲突进行投票。
+这项由俄勒冈州民主党籍参议员默克利提出的决议，是自十周前美伊冲突爆发以来，民主党第七次试图限制特朗普的战争权力，但均以失败告终。星期三（5月13日）的最终投票结果为50赞成、49反对。
+民主党人指出，根据《战争权力法》，在特朗普于3月初通知国会将对伊朗发动袭击后，政府必须在5月1日前获得国会批准才能采取军事行动。
+他们认为，特朗普现在的行为明显违反了法律。特朗普政府则辩称，一个多月前宣布的停火协议暂停了这一时间限制。
+默克利周三告诉记者：“我认为我们很多同事对自己的处境感到不安，但他们也不愿站在特朗普的对立面。”
+这场法律和政治上的僵局，已成为对国会战争权力权威的一次重大考验。该法案是在越战结束后通过的，至今已逾50年。
+虽然大多数共和党人继续支持特朗普，但一些议员认为60天期限的到期可能是支持这场冲突的潜在转折点。美伊冲突已进入第75天，成本不断上升，人们对美国军事战备的担忧也日益加剧。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内坦亚胡办公室称总理伊战期间秘访阿联酋 阿联酋：没这回事]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045085</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045085"/>
+        <updated>2026-05-13T23:25:31.000Z</updated>
+        <summary type="html"><![CDATA[以色列总理办公室周三宣称，总理内坦亚胡在以色列对伊朗发动大规模军事行动期间曾秘密访问阿联酋，并与阿联酋总统穆罕默德举行会晤。
+阿联酋外交部星期三（5月13日）发声明否认有关报道。声明说，阿联酋与以色列的关系是公开的，且建立在“亚伯拉罕协议”框架内，不存在秘密安排。除非阿联酋官方主管部门正式发布消息，否则任何有关秘密访问或私下安排的说法均没有事实依据。
+周三早些时候，以色列总理办公室发表声明，称内坦亚胡在伊朗战争期间曾秘访阿联酋，并称此次访问促成两国外交关系“历史性突破”。
+此前一天，美国驻以色列大使赫卡比在特拉维夫大学举行的一场会议上说，以色列已在阿联酋部署“铁穹”防空系统及相关操作人员。
+美国驻联合国代表沃尔茨同日证实，以色列已在阿联酋部署“铁穹”防空系统，并在近期冲突中帮助阿联酋拦截伊朗导弹。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美参院确认沃什出任美联储下任主席]]></title>
+        <id>https://www.zaobao.com/news/world/story20260514-9045021</id>
+        <link href="https://www.zaobao.com/news/world/story20260514-9045021"/>
+        <updated>2026-05-13T23:07:28.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院周三以54票赞成、45票反对的投票结果，正式确认特朗普总统提名的沃什出任美国联邦储备局下一任主席，任期四年。
+参议院已在一天前，即5月12日投票确认沃什（Kevin Warsh）出任美联储理事。
+沃什2006年至2011年曾担任美联储理事，近年来对美联储持批评态度，主张调整美联储沟通策略和通胀衡量指标。
+美联储现任主席鲍威尔的任期将于5月15日到期。由于联邦检察官1月初就美联储办公楼翻新项目发起刑事调查，对美联储“独立性”遭政治干预的担忧导致沃什出任美联储理事和主席提名的确认在参议院银行、住房和城市事务委员会一度遇阻。
+沃什此前承诺，将对美联储进行“体制变革”。但由于通胀率仍高于美联储2%的长期目标，且由于特朗普发动的伊朗战争而持续攀升，沃什不太可能说服美联储利率决策委员会的其他成员立即降息。这可能会让他容易受到特朗普的攻击，特朗普曾多次就利率决策抨击鲍威尔。
+布鲁金斯学会高级研究员韦塞尔告诉法新社：“沃什面临的最大挑战很可能是与特朗普总统打交道。总统不尊重美联储的独立性，他希望利率走低。”
+哥伦比亚大学法学教授贾奇认为，尽管沃什是特朗普钦点的人选，就像九年前的鲍威尔一样，但没有理由相信美联储面对的降息压力会减轻。
+她说：“美联储官员已经意识到，这位总统愿意动用一切可用手段胁迫他们屈服于他的要求。”
+民主党人反对沃什的任命，认为鉴于特朗普的立场，沃什无法维护美联储在货币政策上的独立性。特朗普已明确表示，他期待沃什降低利率。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -471,165 +609,6 @@ IEEFA指出，欧洲越来越依赖波动较大的全球液化天然气市场，
 英国工党近期在地方选举中遭遇惨败，斯塔默面临下台压力。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国承诺为霍尔木兹海峡护航行动提供军机军舰]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9041800</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9041800"/>
-        <updated>2026-05-13T10:01:10.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦综合电）虽然霍尔木兹海峡迟迟未解封，但英国承诺一旦条件允许，将派战机、军舰和自主扫雷设备等前去保障航运安全；澳大利亚也承诺加入护航行动。
-40多个国家的代表星期二（5月12日）参加线上会议，讨论如何在美伊战争结束后确保霍尔木兹海峡的航运安全。
-英国防长希利在会议上宣布了英国的部署计划，并承诺在条件允许的情况下启动计划。他说，这项任务将与盟友共同执行，而且严格属于防御性质。
-按计划，英国将为霍尔木兹海峡防御任务提供1亿1500万英镑（近2亿新元）的新资金，用于自主扫雷设备和反无人机系统。其他还有高速无人艇、台风战斗机以及已启程前往中东的龙号驱逐舰。
-作为现有防御行动的一部分，英国已在中东地区部署了1000多名人员，包括反无人机小组和战斗机中队。
-澳洲防长马尔斯说，澳洲将加入由法英牵头的护航行动，派遣一架E-7A“楔尾”预警机参与护航任务。这架预警机目前已部署在中东地区，用于保护阿联酋免受伊朗无人机袭击。
-马尔斯在周三发表的声明中说，一旦任务启动，澳洲随时准备提供支持。
-
-欧盟海上行动或扩展至霍尔木兹海峡
-
-欧盟外交与安全政策高级代表卡拉斯则说，一旦战争结束，欧盟可能会将红海的海上行动扩展至霍尔木兹海峡。
-卡拉斯在周二召开的欧盟防长会议后说：“‘盾牌行动’（Operation Aspides）在保护红海航运方面发挥了至关重要的作用，它的行动范围也可以扩展到霍尔木兹海峡。”
-3月间，欧盟防长拒绝了扩大红海行动范围的提议。但卡拉斯现在说，一些国家已承诺向盾牌行动增派舰艇，如果决定扩大行动范围，这将有所帮助。
-
-韩国考虑分阶段作出贡献
-
-正在美国访问的韩国防长安圭伯说，韩国正在考虑分阶段为确保霍尔木兹海峡航行安全作出贡献，这可能包括表达政治支持、派遣人员、信息共享和提供军事资产，但他强调，韩美双方尚未就扩大韩国军队的参与进行详细讨论。他还说，任何决定都须遵循国内法律程序。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际能源署：受伊朗战争影响 石油库存以创纪录速度下降]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9042162</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9042162"/>
-        <updated>2026-05-13T09:41:14.000Z</updated>
-        <summary type="html"><![CDATA[国际能源署（IEA）说，随着伊朗战争导致的中东供应中断加剧，全球石油库存正以创纪录的速度下降，且未来数月将继续下降。
-综合法新社和彭博社报道，国际能源署星期三（5月13日）发布月度报告说，继3月份减少了1亿2900万桶，4月份再减少1亿1700万桶。
-月度报告显示，3月和4月全球观测到的石油库存以每天约400万桶的速度下降。国际能源署正协调美国、日本、德国等主要经济体释放应急燃料储备。报告称，即使冲突下个月结束，市场仍将持续“严重供不应求”直至10月。
-随着冲突持续，有效封锁连接波斯湾与国际市场的霍尔木兹海峡，出口受挫程度正在加深。报告显示，上月全球供应量进一步减少180万桶/日，自2月以来的累计减产量已达1280万桶/日。
-总部位于巴黎的国际能源署说：“随着全球石油库存已以创纪录的速度下降，在夏季需求高峰期来临之前，油价可能进一步波动。”
-这场危机对需求造成的冲击也愈发深重，促使国际能源署自美以伊战争爆发以来，连续第三个月下调预测。受产品供应中断和油价飙升影响，本季度全球石油消费量预计势将骤降245万桶/日，为自2020年冠病疫情以来最剧烈的跌幅。
-美国和以色列2月28日向伊朗发动空袭后，伊朗做出反击，且实际上封锁了具有战略意义的霍尔木兹海峡，阻止海湾地区的石油和天然气出口，导致油价飙升，迫使各国争相寻找替代供应来源。
-随着北半球夏季旅游旺季临近，人们对石油短缺的担忧日益加剧。多家航空公司已发出警告，如果供应中断持续下去，几周内就可能出现航空燃油短缺。
-油价飙升也对需求前景构成压力，因为石化和重型制造业等终端用户正在减少用量。国际能源署目前预计，第二季度全球石油需求每日将减少240万桶，低于中东战争爆发前预测的每日350万桶。
-国际能源署报告称，“油价上涨、经济环境恶化以及抑制需求的措施将进一步抑制全球石油消费。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德黑兰东部发生多次小型地震 引发大地震担忧]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9041912</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9041912"/>
-        <updated>2026-05-13T08:57:48.000Z</updated>
-        <summary type="html"><![CDATA[伊朗迈赫尔通讯社（Mehr）星期三（5月13日）报道，伊朗首都德黑兰以东的帕尔迪斯（Pardis）在夜间发生了九次小型地震。
-这再次引发专家和民众对德黑兰可能面临一场重大地震灾难的担忧。虽然当地地震活动频繁，但一个晚上连续发生多次却非常罕见。
-德黑兰东部13日黎明前发生多次地震，震感区域靠近莫沙断层（Mosha Fault）。莫沙断层是伊朗地震活动最活跃的地区之一。
-反复发生的地震活动令人们担忧，靠近多条活跃断层线的德黑兰和周边地区地下积累的构造压力，未来某个时候可能会引发一场规模更大的地震。
-伊朗国家媒体报道，其中一次地震记录为4.6级，并表示此次轻微的地震活动没有造成人员伤亡或财产损失。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英王妃凯特访问意大利两天 患癌后首次出访]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9041714</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9041714"/>
-        <updated>2026-05-13T08:26:27.000Z</updated>
-        <summary type="html"><![CDATA[英国威尔士王妃凯特星期三（5月13日）开始对意大利进行两天访问。
-法新社报道，这是凯特自2024年确诊癌症以来首次官方海外之行，她将访问意大利北部城市雷焦艾米利亚（Reggio Emilia）。
-凯特和威尔士亲王威廉育有三个孩子，儿童早期教育是凯特非常关注的领域。
-肯辛顿宫发表声明说，此次访问将聚焦于凯特在幼儿早期发展领域的工作。声明还说，这将是一次高级别的实地考察，旨在探索国际上支持幼儿及幼儿照护者的领先做法。
-凯特2025年1月宣布癌症病情缓解，并已逐步恢复履行王室公务。她上一次正式出访是在2022年12月，与威廉一同前往美国波士顿，出席“地球卫士奖”（Earthshot Prize）的颁奖典礼。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩外长对锁定袭击韩国货船主谋态度谨慎]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9040987</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9040987"/>
-        <updated>2026-05-13T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[韩国外交部长赵显说，目前不宜断定在霍尔木兹海峡对韩国货船发动袭击的主谋是伊朗政府，还存在由伊朗民兵组织发动的可能性。
-韩联社报道，赵显星期三（5月13日）会见记者时，被问及袭击韩国货船“NAMU”号的飞行器是不是无人机。他表明，目前不宜轻易作出研判。
-赵显说：“光看伊朗，能发射此类飞行器的组织也很多，包括民兵。”
-韩国货船NAMU号5月4日在霍尔木兹海峡遭不明飞行器袭击。专家普遍认为，伊朗在美伊战争中多次使用的自杀式无人攻击机可能用于袭击NAMU号 。 
-不过，“沙赫德”（Shahed）系列等伊方研制的无人机，不仅伊朗伊斯兰共和国军队和伊斯兰革命卫队在使用，也门胡塞武装及其他民兵组织也列装此类武器。
-预计韩国政府将对飞行器发动机残骸等进行精密鉴定与分析后，最终确定飞行器型号等具体参数。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太平洋岛国瑙鲁将公投 寻求更名摆脱殖民历史]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9039481</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9039481"/>
-        <updated>2026-05-13T02:46:16.000Z</updated>
-        <summary type="html"><![CDATA[太平洋岛国瑙鲁宣布将举行全民公投，更改官方名称。瑙鲁称现在的国名为殖民时代的遗物，源于“外来语言”对本土语言的扭曲。
-法新社报道，瑙鲁总统阿德昂星期二（5月12日）晚间发表声明称，瑙鲁将更名为“瑙埃罗”（Naoero），以“更忠实地尊重我们国家的传统、语言和身份”。
-这个小国的本土语言是“多雷林瑙埃罗”（Dorerin Naoero）语，全国约1万居民中的绝大多数人都使用这种语言。
-政府在一份解释更名原因的声明中说：“瑙鲁这个名字的出现是因为外来语言无法正确发音‘瑙埃罗’，而更名并非出于我们的意愿，而是为了方便。
-“此次更名将体现在全国范围内，从国家飞机和舰船的重新命名，到区域和国际上的官方身份标识（包括在联合国），以及所有国家官方记录和标志。”
-由于更名需要修改国家宪法，因此政府必须举行全民公投。
-从19世纪80年代末到第一次世界大战期间，德国一直声称瑙鲁是其保护国，直到这个岛屿被澳大利亚军队占领。
-瑙鲁在1968年获得独立之前，曾由澳洲、英国和新西兰共同管理。
-瑙鲁是世界上最小的国家之一，其大陆面积仅为20平方公里。
-世界银行最近的一份评估报告指出，瑙鲁极易受到气候变化的影响，并且失业率和健康问题都很严重。
-瑙鲁曾因其异常纯净的磷酸盐矿藏而成为世界上人均最富裕的地区之一。但这些矿藏早已枯竭，如今研究人员估计，瑙鲁80%的土地因采矿而变得不适宜居住。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗谈判代表：美国必须接受德黑兰和平计划]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9039441</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9039441"/>
-        <updated>2026-05-13T02:26:25.000Z</updated>
-        <summary type="html"><![CDATA[伊朗首席谈判代表卡利巴夫说，华盛顿必须接受德黑兰最新的和平计划，否则将面临失败。此前，美国总统特朗普警告称，中东战争的停火协议已濒临崩溃。 
-也是伊朗伊斯兰议会议长的卡利巴夫星期二（5月12日）在X上发帖说：“（美国）必须接受伊朗人民在14点提案中提出的权利，此外别无选择。任何其他做法都不会有结果，只会导致一次又一次的失败。他们拖延的时间越长，美国纳税人为此付出的代价就越大。”
-
-
-There is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal.
-Any other approach will be completely inconclusive; nothing but one failure after another. 
-The longer they drag their feet, the more American taxpayers will pay for it.
-— محمدباقر قالیباف | MB Ghalibaf (@mb_ghalibaf) May 11, 2026
-
-五角大楼同日说，伊朗战争的成本已攀升至近290亿美元（约369亿新元），比两周前的估计高出约40亿美元。 
-伊朗国家媒体星期二报道，伊朗革命卫队称在德黑兰举行演习，“以应对美国和犹太复国主义敌人的任何行动”。
-伊朗国防部发言人塔拉伊-尼克说，如果美国拒绝外交途径，“就应该预料到会在军事战场上重蹈覆辙，再次遭遇失败”。
-这场口水战令伊朗民众感到不安。来自首都德黑兰的43岁画家玛丽亚姆告诉记者：“我们只是竭尽全力抓住任何能帮助我们生存下去的东西。未来如此不确定，我们只能得过且过。”
-另据《纽约时报》星期二报道称，美国机密情报评估显示，伊朗仍然拥有强大的导弹能力，约70%的移动发射装置和战前导弹库存仍在服役，并且已经恢复霍尔木兹海峡沿岸33个导弹发射场中30个的使用权。
-伊朗正在限制霍尔木兹海峡的交通，并向过境船只收取通行费。沙特石油巨头沙特阿美公司的负责人称，这是“世界有史以来经历的最大能源供应冲击”。
-卡塔尔外交部长阿勒萨尼星期二说：“伊朗不应利用霍尔木兹海峡作为武器，向波斯湾国家施压或勒索。”
-与此同时，智库查塔姆研究所中东和北非项目主任瓦基尔说，伊朗领导人“认为他们能比特朗普坚持得更久”。
-瓦基尔补充说，德黑兰致力于谈判，但“希望利用自身优势获取让步”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普发布图片 称委内瑞拉是美国第51个州]]></title>
-        <id>https://www.zaobao.com/news/world/story20260513-9039022</id>
-        <link href="https://www.zaobao.com/news/world/story20260513-9039022"/>
-        <updated>2026-05-13T01:15:06.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普周二（5月12日）在自家社媒平台Truth Social发布一张地图，将委内瑞拉画成美国国旗的图案，并标注“第51个州”。
-特朗普周一（11日）告诉福克斯新闻，他正在考虑将这个南美国家变成一个新的州。此前，他一直吹嘘自己控制着这个石油资源丰富的国家。
-委内瑞拉代总统罗德里格斯周一接受媒体采访时，否认委内瑞拉将成为美国“第51个州”，她说：“这根本不在考虑之中，也永远不会成为现实，因为委内瑞拉人民始终珍视国家独立。”
-她说，委内瑞拉将继续捍卫国家完整、主权和独立，并且特朗普“知道我们一直在推进外交合作，这才是正确道路”。
-自接管委内瑞拉以来，罗德里格斯一直致力于缓和与美国的关系，她推行改革，重新向外国公司，尤其是美国公司开放委内瑞拉的采矿和石油行业。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月推荐]]></title>
-        <id>/archives/2026nian-5yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
-        <updated>2026-05-13T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月13日 书山聚合 OwlTTS 一款基于小米 MiMo 大模型的免费智能语音合成工具 5月12日 在线剪贴板 一个免费在线文本分享与复制工具 60s信息聚合 整合了每日简报、全网热榜、城市天气、实用数据、娱乐内容和常用工具，开源地址 5月11日]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
