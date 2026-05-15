@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T03:47:39.422Z</updated>
+    <updated>2026-05-15T08:52:51.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1517,21 +1517,6 @@ This episode originally aired in 2023.
         <link href="https://go.ted.com/ginaraimondo"/>
         <updated>2026-04-16T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[The United States is on track to win the AI race — and hollow itself out in the process, says Gina Raimondo, former Governor of Rhode Island and US Secretary of Commerce. In this unflinching look at the threat of AI-induced economic disruption and social unrest, she offers a concrete blueprint to prepare workers for what’s coming next. "AI is a 100-year technology and needs a 100-year response," she says. Is America up to the challenge?
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do you love your favorite songs? | Scarlet Keys (re-release)]]></title>
-        <id>69dc62c9361823b7813b4f55</id>
-        <link href="http://go.ted.com/scarletkeys"/>
-        <updated>2026-04-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Songs are the soundtrack of our lives. But why exactly do they make us feel the way they do? Songwriter Scarlet Keys sits down at a piano to deconstruct the tools musicians use to make a melody unforgettable — from tone and repetition to lyrics and chords — and sheds light on music's ability to transform moments into memories.
-
-This talk originally aired in 2024.
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

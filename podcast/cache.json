@@ -867,24 +867,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69dc62c9361823b7813b4f55",
-          "author": null,
-          "description": "Songs are the soundtrack of our lives. But why exactly do they make us feel the way they do? Songwriter Scarlet Keys sits down at a piano to deconstruct the tools musicians use to make a melody unforgettable — from tone and repetition to lyrics and chords — and sheds light on music's ability to transform moments into memories.\n\nThis talk originally aired in 2024.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "http://go.ted.com/scarletkeys",
-          "publishedOn": "2026-04-15T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Why do you love your favorite songs? | Scarlet Keys (re-release)",
-          "itunes": {
-            "duration": "21:27"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc62c9361823b7813b4f55/media.mp3",
-            "length": "20706288",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
