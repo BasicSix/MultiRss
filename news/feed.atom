@@ -2,198 +2,421 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T08:53:38.261Z</updated>
+    <updated>2026-05-15T14:14:24.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Crazy girl]]></title>
-        <id>1x-3571943</id>
-        <link href="https://1x.com/photo/3571943"/>
-        <updated>2026-05-15T08:52:51.963Z</updated>
-        <summary type="html"><![CDATA[Crazy girl by Serge Melesan]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3583432</id>
+        <link href="https://1x.com/photo/3583432"/>
+        <updated>2026-05-15T14:13:38.483Z</updated>
+        <summary type="html"><![CDATA[Untitled by Bingo Z]]></summary>
         <author>
-            <name>Serge Melesan</name>
+            <name>Bingo Z</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Colors in Trance]]></title>
-        <id>1x-3580469</id>
-        <link href="https://1x.com/photo/3580469"/>
-        <updated>2026-05-15T08:52:51.955Z</updated>
-        <summary type="html"><![CDATA[Colors in Trance by Ayman Fawzy]]></summary>
+        <title type="html"><![CDATA[Red-breasted Flycatcher.]]></title>
+        <id>1x-3583870</id>
+        <link href="https://1x.com/photo/3583870"/>
+        <updated>2026-05-15T14:13:38.479Z</updated>
+        <summary type="html"><![CDATA[Red-breasted Flycatcher. by Mati Puum]]></summary>
         <author>
-            <name>Ayman Fawzy</name>
+            <name>Mati Puum</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saldalyeci]]></title>
-        <id>1x-3583686</id>
-        <link href="https://1x.com/photo/3583686"/>
-        <updated>2026-05-15T08:52:51.848Z</updated>
-        <summary type="html"><![CDATA[Saldalyeci by Seray AK]]></summary>
+        <title type="html"><![CDATA[Madame Deneb]]></title>
+        <id>1x-3583804</id>
+        <link href="https://1x.com/photo/3583804"/>
+        <updated>2026-05-15T14:13:38.472Z</updated>
+        <summary type="html"><![CDATA[Madame Deneb by Hans Repelnig]]></summary>
         <author>
-            <name>Seray AK</name>
+            <name>Hans Repelnig</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Osprey in action]]></title>
-        <id>1x-3583126</id>
-        <link href="https://1x.com/photo/3583126"/>
-        <updated>2026-05-15T08:52:51.841Z</updated>
-        <summary type="html"><![CDATA[Osprey in action by Jun Kong]]></summary>
+        <title type="html"><![CDATA[Intervals]]></title>
+        <id>1x-3583991</id>
+        <link href="https://1x.com/photo/3583991"/>
+        <updated>2026-05-15T14:13:38.467Z</updated>
+        <summary type="html"><![CDATA[Intervals by Thomas de Franzoni]]></summary>
         <author>
-            <name>Jun Kong</name>
+            <name>Thomas de Franzoni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A signpost]]></title>
-        <id>1x-3583006</id>
-        <link href="https://1x.com/photo/3583006"/>
-        <updated>2026-05-15T08:52:51.835Z</updated>
-        <summary type="html"><![CDATA[A signpost by Hideaki Umezawa]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3583966</id>
+        <link href="https://1x.com/photo/3583966"/>
+        <updated>2026-05-15T14:13:38.463Z</updated>
+        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
         <author>
-            <name>Hideaki Umezawa</name>
+            <name>Karim Al Thahaby</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quiet Pact]]></title>
-        <id>1x-3581677</id>
-        <link href="https://1x.com/photo/3581677"/>
-        <updated>2026-05-15T08:52:51.813Z</updated>
-        <summary type="html"><![CDATA[A quiet Pact by Weber Marius]]></summary>
+        <title type="html"><![CDATA[Aerial Duel]]></title>
+        <id>1x-3583592</id>
+        <link href="https://1x.com/photo/3583592"/>
+        <updated>2026-05-15T14:13:38.450Z</updated>
+        <summary type="html"><![CDATA[Aerial Duel by HuongHoang]]></summary>
         <author>
-            <name>Weber Marius</name>
+            <name>HuongHoang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serengeti Uber driver]]></title>
-        <id>1x-3580261</id>
-        <link href="https://1x.com/photo/3580261"/>
-        <updated>2026-05-15T08:52:51.808Z</updated>
-        <summary type="html"><![CDATA[Serengeti Uber driver by Jeffrey C. Sink]]></summary>
+        <title type="html"><![CDATA[SVALBARD, SASSEN FJORD-81412]]></title>
+        <id>1x-3583981</id>
+        <link href="https://1x.com/photo/3583981"/>
+        <updated>2026-05-15T14:13:38.445Z</updated>
+        <summary type="html"><![CDATA[SVALBARD, SASSEN FJORD-81412 by Raimondo Restelli]]></summary>
         <author>
-            <name>Jeffrey C. Sink</name>
+            <name>Raimondo Restelli</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The king]]></title>
-        <id>1x-3578705</id>
-        <link href="https://1x.com/photo/3578705"/>
-        <updated>2026-05-15T08:52:51.803Z</updated>
-        <summary type="html"><![CDATA[The king by Walter]]></summary>
+        <title type="html"><![CDATA[Platform Pulse]]></title>
+        <id>1x-3583934</id>
+        <link href="https://1x.com/photo/3583934"/>
+        <updated>2026-05-15T14:13:38.440Z</updated>
+        <summary type="html"><![CDATA[Platform Pulse by Gu and Hongchao]]></summary>
         <author>
-            <name>Walter</name>
+            <name>Gu and Hongchao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaze of the red-winged Warrior]]></title>
-        <id>1x-3578912</id>
-        <link href="https://1x.com/photo/3578912"/>
-        <updated>2026-05-15T08:52:51.798Z</updated>
-        <summary type="html"><![CDATA[Gaze of the red-winged Warrior by Hitesh Tulsani]]></summary>
+        <title type="html"><![CDATA[Frank Gerhy. Düsseldorf]]></title>
+        <id>1x-3584080</id>
+        <link href="https://1x.com/photo/3584080"/>
+        <updated>2026-05-15T14:13:38.433Z</updated>
+        <summary type="html"><![CDATA[Frank Gerhy. Düsseldorf by jordiegeatorrent]]></summary>
         <author>
-            <name>Hitesh Tulsani</name>
+            <name>jordiegeatorrent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smoker woman]]></title>
-        <id>1x-3567125</id>
-        <link href="https://1x.com/photo/3567125"/>
-        <updated>2026-05-15T08:52:51.791Z</updated>
-        <summary type="html"><![CDATA[Smoker woman by Rawisyah Aditya]]></summary>
+        <title type="html"><![CDATA[Squacco Heron]]></title>
+        <id>1x-3583992</id>
+        <link href="https://1x.com/photo/3583992"/>
+        <updated>2026-05-15T14:13:38.427Z</updated>
+        <summary type="html"><![CDATA[Squacco Heron by ilan]]></summary>
         <author>
-            <name>Rawisyah Aditya</name>
+            <name>ilan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoned church]]></title>
-        <id>1x-3583312</id>
-        <link href="https://1x.com/photo/3583312"/>
-        <updated>2026-05-15T08:52:51.785Z</updated>
-        <summary type="html"><![CDATA[Abandoned church by Georgios Bero]]></summary>
+        <title type="html"><![CDATA[The Mothership]]></title>
+        <id>1x-3584110</id>
+        <link href="https://1x.com/photo/3584110"/>
+        <updated>2026-05-15T14:13:38.423Z</updated>
+        <summary type="html"><![CDATA[The Mothership by Stefan Lenz]]></summary>
         <author>
-            <name>Georgios Bero</name>
+            <name>Stefan Lenz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Sudden Sleep]]></title>
-        <id>1x-3582403</id>
-        <link href="https://1x.com/photo/3582403"/>
-        <updated>2026-05-15T08:52:51.759Z</updated>
-        <summary type="html"><![CDATA[A Sudden Sleep by NGUYEN AN DI]]></summary>
+        <title type="html"><![CDATA[The Price of Freedom]]></title>
+        <id>1x-3584004</id>
+        <link href="https://1x.com/photo/3584004"/>
+        <updated>2026-05-15T14:13:38.418Z</updated>
+        <summary type="html"><![CDATA[The Price of Freedom by Marcel Rebro]]></summary>
         <author>
-            <name>NGUYEN AN DI</name>
+            <name>Marcel Rebro</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parrot tulip]]></title>
-        <id>1x-3579091</id>
-        <link href="https://1x.com/photo/3579091"/>
-        <updated>2026-05-15T08:52:51.753Z</updated>
-        <summary type="html"><![CDATA[Parrot tulip by Lotte Grønkjær]]></summary>
+        <title type="html"><![CDATA[Some kind of peace]]></title>
+        <id>1x-3584073</id>
+        <link href="https://1x.com/photo/3584073"/>
+        <updated>2026-05-15T14:13:38.372Z</updated>
+        <summary type="html"><![CDATA[Some kind of peace by Marco Martins]]></summary>
         <author>
-            <name>Lotte Grønkjær</name>
+            <name>Marco Martins</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Before the Celebrations]]></title>
-        <id>1x-3579770</id>
-        <link href="https://1x.com/photo/3579770"/>
-        <updated>2026-05-15T08:52:51.740Z</updated>
-        <summary type="html"><![CDATA[Before the Celebrations by Roberto Pazzi]]></summary>
+        <title type="html"><![CDATA[Intruder]]></title>
+        <id>1x-3583855</id>
+        <link href="https://1x.com/photo/3583855"/>
+        <updated>2026-05-15T14:13:38.249Z</updated>
+        <summary type="html"><![CDATA[Intruder by Oscar Lopez]]></summary>
         <author>
-            <name>Roberto Pazzi</name>
+            <name>Oscar Lopez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Artist]]></title>
-        <id>1x-3583015</id>
-        <link href="https://1x.com/photo/3583015"/>
-        <updated>2026-05-15T08:52:51.731Z</updated>
-        <summary type="html"><![CDATA[The Artist by Lauren Baines]]></summary>
+        <title type="html"><![CDATA[The family]]></title>
+        <id>1x-3583964</id>
+        <link href="https://1x.com/photo/3583964"/>
+        <updated>2026-05-15T14:13:38.237Z</updated>
+        <summary type="html"><![CDATA[The family by Marco Pozzi]]></summary>
         <author>
-            <name>Lauren Baines</name>
+            <name>Marco Pozzi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mekong street barber shop]]></title>
-        <id>1x-3582864</id>
-        <link href="https://1x.com/photo/3582864"/>
-        <updated>2026-05-15T08:52:51.710Z</updated>
-        <summary type="html"><![CDATA[The Mekong street barber shop by Marco Tagliarino]]></summary>
+        <title type="html"><![CDATA[Climbing to the Top]]></title>
+        <id>1x-3583960</id>
+        <link href="https://1x.com/photo/3583960"/>
+        <updated>2026-05-15T14:13:38.228Z</updated>
+        <summary type="html"><![CDATA[Climbing to the Top by George Digalakis]]></summary>
         <author>
-            <name>Marco Tagliarino</name>
+            <name>George Digalakis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crimson Bloom]]></title>
-        <id>1x-3582859</id>
-        <link href="https://1x.com/photo/3582859"/>
-        <updated>2026-05-15T08:52:51.598Z</updated>
-        <summary type="html"><![CDATA[Crimson Bloom by Fabio Roma]]></summary>
+        <title type="html"><![CDATA[The Glass blower]]></title>
+        <id>1x-3560736</id>
+        <link href="https://1x.com/photo/3560736"/>
+        <updated>2026-05-15T14:13:38.221Z</updated>
+        <summary type="html"><![CDATA[The Glass blower by Trevor Cole]]></summary>
         <author>
-            <name>Fabio Roma</name>
+            <name>Trevor Cole</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tender Affection]]></title>
-        <id>1x-3582881</id>
-        <link href="https://1x.com/photo/3582881"/>
-        <updated>2026-05-15T08:52:51.585Z</updated>
-        <summary type="html"><![CDATA[Tender Affection by Rachel Liu]]></summary>
+        <title type="html"><![CDATA[ミルフィーユの岩]]></title>
+        <id>1x-3583599</id>
+        <link href="https://1x.com/photo/3583599"/>
+        <updated>2026-05-15T14:13:38.204Z</updated>
+        <summary type="html"><![CDATA[ミルフィーユの岩 by mikuta]]></summary>
         <author>
-            <name>Rachel Liu</name>
+            <name>mikuta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lines of Solitude]]></title>
-        <id>1x-3583650</id>
-        <link href="https://1x.com/photo/3583650"/>
-        <updated>2026-05-15T08:52:51.480Z</updated>
-        <summary type="html"><![CDATA[Lines of Solitude by Mizuki]]></summary>
+        <title type="html"><![CDATA[Where Storms Descend - Atacama Highlands, Argentina]]></title>
+        <id>1x-3583998</id>
+        <link href="https://1x.com/photo/3583998"/>
+        <updated>2026-05-15T14:13:38.184Z</updated>
+        <summary type="html"><![CDATA[Where Storms Descend - Atacama Highlands, Argentina by Hanping Xiao]]></summary>
         <author>
-            <name>Mizuki</name>
+            <name>Hanping Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[默茨与特朗普通话 双方重申强大的北约伙伴关系]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056751</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056751"/>
+        <updated>2026-05-15T13:45:16.000Z</updated>
+        <summary type="html"><![CDATA[德国总理默茨说，他与美国总统特朗普进行了“良好的通话”。此前，特朗普宣布从德国撤出5000名美军，导致双方关系出现裂痕。
+默茨是在特朗普访华后返回美国途中与他通话。默茨星期五（5月15日）在社交媒体X网站上写道，两人一致认为“美国和德国是强大的北约伙伴”。
+两周前，特朗普宣布撤走驻德美军。此前几天，默茨说，伊朗在谈判桌上“羞辱”了华盛顿。特朗普还对这位德国领导人进行了猛烈抨击。
+特朗普当时在社媒贴文写道：“德国总理应该把更多时间花在结束俄罗斯与乌克兰的战争（他在这方面完全无能为力！），以及修复他那支离破碎的国家，尤其是在移民和能源方面。”
+他还说，默茨应该“少花点时间干涉那些正在消除伊朗核威胁的人，这样才能让包括德国在内的世界变得更安全！”
+法新社指出，默茨星期五的表态表明，他们已经冰释前嫌，并就美国与以色列对发动伊朗战争的目标达成了广泛共识。
+默茨写道：“我们一致认为，伊朗必须立即回到谈判桌前。它必须开放霍尔木兹海峡。绝不能允许德黑兰拥有核武器。”
+默茨补充道：“我们还讨论了乌克兰问题的和平解决方案，并在7月7日至8日安卡拉北约峰会举行前协调了我们的立场。”
+德国是欧盟最大的经济体，也是乌克兰最大的军事支持者。在默茨的领导下，德国已开始大规模扩充军备，以应对德国认为来自俄罗斯的威胁，并减少欧洲防务对美国的依赖。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芬兰总统：美国须在欧洲防御俄罗斯核弹头 不会退出北约]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056688</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056688"/>
+        <updated>2026-05-15T13:34:09.000Z</updated>
+        <summary type="html"><![CDATA[芬兰总统斯图布说，美国需要北约才能应对俄罗斯的核武威胁，这意味着它退出北约的代价太高了，华盛顿为了自己的利益，将继续在欧洲大陆保留驻军。 
+斯图布星期五（5月15日）在立陶宛首都维尔纽斯一个商业论坛上说，北约成员涵盖北欧国家，让美国能通过在欧洲的军事基地，近距离应对它的头号威胁，即俄罗斯的核武器。
+他说：“俄罗斯在西北部的科拉半岛（Kola Peninsula）和摩尔曼斯克（Murmansk）部署了大量核弹头，那里距离芬兰边境只有100公里。这些核弹头都是对准纽约、华盛顿特区和洛杉矶。”
+美国总统特朗普大肆批评北约盟友在美伊战事未支持美国，在上个月宣布将至少削减在德国的5000名驻军，并考虑进一步减少驻守在欧洲的8万5000名美军人员。消息人士透露，美国本周突然取消派遣4000名陆军士兵到波兰的计划。 
+不过，斯图布说：“豪语和现实总有差距，美国不会退出北约，美国需要欧洲。”
+在维尔纽斯的同场商业论坛上，立陶宛总统瑙塞达说：“北约正处于关键时刻，我们必须保住这个组织，因为这是我所知道的世界最好的军事联盟，不只是二战以来，可能是14世纪以来最好。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市早苗：特朗普访华后重申美日“牢不可破”的关系]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056555</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056555"/>
+        <updated>2026-05-15T13:11:26.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗说，她与美国总统特朗普通电话，重申美日“牢不可破”的盟国关系。
+路透社报道，特朗普在结束对中国为期两天的访问数小时后，在空军一号上接听电话。
+高市星期五（5月15日）在通话后告诉记者：“我们就中国相关问题交换意见，包括经济和安全问题……并重申在印太地区问题上保持密切沟通。”
+双方还讨论伊朗问题，高市说，她与特朗普在这些问题上的立场一致。
+有记者问他们是否讨论了台湾问题，高市并没有回答。
+她说，特朗普“详细地向我讲述（他访华的情况），但前提是我们的谈话内容保密”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌战争进入第五个年头 乌军开始扭转战情]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9055478</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9055478"/>
+        <updated>2026-05-15T13:06:26.000Z</updated>
+        <summary type="html"><![CDATA[（基辅综合电）俄乌战争进入第五个年头，乌克兰官员和军官本周称，乌军过去几个月在前线取得“创纪录”的战果，战局正开始转向对乌方有利。
+美国有线电视新闻网（CNN）星期四（5月14日）引述在前线作战的乌克兰军官说，前线的俄军士兵已出现疲态。
+乌克兰防长费多罗夫星期二（12日）说，俄军已无力继续发动进攻。“我们在3月和4月共消灭了3万5000名俄军。乌军正在消耗俄军兵力。”他形容这些战果“创纪录”。
+华盛顿智库战争研究所的分析显示，乌军上个月收复的领土超过俄罗斯所占领的面积。这是自乌克兰2024年8月进攻俄南库尔斯克（Kursk）以来，莫斯科首次出现净领土损失。
+乌克兰近期的战果，很大程度上归因于其无人机优势。乌军此前侧重于前线短程打击，以及深入俄境内的远程打击，但近期加强了中程打击，重点攻击俄军后勤系统，而这类打击正在发挥效用。 
+分析：俄军无法长期守住阵地
+
+战争研究所的俄罗斯专家哈沃德指出：“我们看到乌克兰发动的此类打击数量出现了显著增长。这正在影响俄军的后勤保障。”
+分析指，目前俄军试图渗透到乌克兰控制区，制造不断推进的假象。他们或许能在当前前线的无人区内升起俄罗斯国旗，但无法长期守住阵地。
+乌克兰军官邦达连科告诉CNN：“俄军不断向上级报告他们占领了多个村庄，但实际上他们根本不在那里。我们正在不断地把他们赶出去。我们持续进行的中程打击在这方面发挥了巨大作用。”
+这种策略在一些前线交战最激烈的地区最为明显，其中包括曾经具有重要战略意义的乌克兰交通枢纽波克罗夫斯克（Pokrovsk）。俄军去年12月终于攻占这座城市，但并无预期般进一步推进。
+CNN分析指，目前看来，乌克兰或许没有取得胜利，但损失远小于俄罗斯。
+俄军星期四对基辅发动大规模导弹和无人机袭击，造成至少24人死亡。乌克兰总统泽连斯基谴责莫斯科的“残暴恐怖行径”，并呼吁惩罚莫斯科。
+俄罗斯星期五（15日）称，乌克兰无人机袭击了中部城市梁赞（Ryazan）的炼油厂、工业设施和公寓楼，造成四人死亡。
+虽然交战持续，但俄乌周五各释放了205名战俘。这是本月早些时候由美国总统特朗普斡旋达成的三天停火协议的一部分。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗宣称再放行更多船只 暗示多国接受德黑兰对海峡掌控]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056527</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056527"/>
+        <updated>2026-05-15T12:56:09.000Z</updated>
+        <summary type="html"><![CDATA[伊朗国家电视台星期五（5月15日）报道，伊斯兰革命卫队海军正在允许更多船只通过霍尔木兹海峡，以此暗示许多国家已接受伊朗对海峡的控制权。
+一名电视记者在南部港市班达尔阿巴斯（Bandar Abbas）报道称：“在革命卫队海军的协调下，更多船只如今可通过霍尔木兹海峡。”
+这名记者说：“这显示许多国家已经接受伊朗和革命卫队海军为这个区域和霍尔木兹海峡所制定的新法律程序。”
+伊朗国家电视台在前一天也报道，革命卫队允许超过30艘船只通过霍尔木兹海峡。
+美伊战事爆发后，伊朗封锁海峡航道，勒紧全球能源供应，导致原油价格持续处于100美元以上，多国陷入能源供应紧缩，化肥和各种石油产品供应链被阻断，更连带打击多个工业领域供应链。 
+美伊自4月8日停火至今，美军对伊朗船只实施反向封锁，阻断德黑兰石油收入命脉，施加经济压力；伊朗则紧握关键航道筹码，坚称对海峡拥有主权，欲对来往船只征收“过路费”，双方至今谈判仍胶着。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本宫城县附近海域发生6.3级地震]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056505</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056505"/>
+        <updated>2026-05-15T12:47:49.000Z</updated>
+        <summary type="html"><![CDATA[据日本气象厅消息，日本宫城县（Miyagi Prefecture）附近海域发生6.3级地震。
+新华社引述日本气象厅说，地震发生于星期五（5月15日）20时22分（新加坡时间19时22分）左右，震中位于北纬38.9度、东经142.1度，震源深度约50千米，震级为6.3级。
+日本放送协会电视台播出的画面显示，当地晃动较为明显。
+日本气象厅说，无需担心发生海啸灾害。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[默茨：目前不建议德国年轻人赴美求学或工作]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056357</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056357"/>
+        <updated>2026-05-15T12:33:21.000Z</updated>
+        <summary type="html"><![CDATA[德国总理默茨说，他目前不会建议德国年轻人到美国求学或工作，因为那里的社会氛围突然改变，即使受过最好教育的人也难在那里找到工作。 
+默茨的最新表态，再次显示德美长久以来紧密的关系正在冷却。
+默茨与美国总统特朗普上个月陷入争执，默茨在国内一场活动中称美国未拟好战略就贸然对伊朗开战，如今正被对手“羞辱”。特朗普勃然大怒，称默茨未做好领导人的工作，并在短时间内宣布从德国的美军基地撤走5000名人员。 
+默茨星期五（5月15日）在南部城市维尔茨堡出席德国天主教大会时说：“在这当下，我不会建议我们的孩子到美国求学和工作。”
+他说，美国“突然产生一股社会氛围”，“就算在那里接受最好教育的人找工作也面对极大困难”。
+跟多数中间路线的德国政治人物一样，默茨向来主张欧美维持紧密的跨大西洋关系，但在他主政的当下，德美关系显然日益紧绷。
+默茨在星期五的活动中说：“我一直非常欣赏美国，但我的欣赏现在并没有增加。”引起现场一阵哄堂大笑。
+他接着指出，就算在德美因美伊问题产生争执之前，由于特朗普发起的“让美国再次伟大”（MAGA）运动，美国和欧洲之间已出现文化“隔阂”。
+特朗普政府上台后一再揶揄欧洲文明正在走下坡，并积极与欧洲国家的极右政党结交。特朗普威胁要接管格陵兰岛，侵犯丹麦主权，并削减对乌克兰的援助，都让美国与欧洲盟友关系一而再受挫。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗外长：伊朗愿接受中国等方面的支持 解决中东冲突]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056218</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056218"/>
+        <updated>2026-05-15T12:02:38.000Z</updated>
+        <summary type="html"><![CDATA[伊朗外长阿拉格齐说，伊朗愿意接受任何形式的支持，包括来自中国的支持，以解决中东冲突。 
+阿拉格齐星期五（5月15日）在印度首都新德里举行的新闻发布会上说：“我们感谢任何有能力提供帮助的国家，特别是中国。”
+到新德里出席金砖国家会议的阿拉格齐说：“我们与中国关系良好，我们是彼此的战略伙伴，我们知道中国怀有善意，因此，任何有助于外交的举措都将受到伊朗伊斯兰共和国的欢迎。” 
+他说，伊朗正努力维持停火，以期给外交努力一个机会。他也说，德黑兰“不信任”美国，只有在华盛顿展现出诚意的情况下，伊朗才有兴趣与华盛顿进行谈判。
+阿拉格齐也说，霍尔木兹海峡仍对友好国家商业船只开放，敌对国家除外。他说，其他国家船只的通行“只需要同伊朗军方协调”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋建输油管绕开霍尔木兹海峡 到2027年出口加倍]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9055755</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9055755"/>
+        <updated>2026-05-15T10:41:14.000Z</updated>
+        <summary type="html"><![CDATA[阿拉伯联合酋长国计划到明年将绕过霍尔木兹海峡的原油出口能力提高一倍，以减少对这一航运咽喉要道的依赖。
+根据阿布扎比媒体办公室在社交媒体X平台发布的声明，阿布扎比国家石油公司（Adnoc）正在加快建设一条通往阿曼湾富查伊拉港（Fujairah）的输油管道。目前，公司已经运营着一条日输送能力150万桶的管道，将其油田与位于东海岸的这个港口连接起来。在当前冲突期间，这条管道证明是该国的重要生命线。
+在2月底战争爆发后不久伊朗几乎锁住霍尔木兹海峡常规航线的情况下，现有管道帮助阿联酋继续向市场供应石油。不过，这条管道的输送能力还不到Adnoc正常出口量的一半，因此可能会影响国家的石油收入。
+阿联酋和沙特阿拉伯是波斯湾地区仅有的两个能够在战争期间继续向市场输送大量原油的主要产油国。近几周，两国的国有石油公司一直低调地将部分货物运出波斯湾地区，从而避开了伊朗的封锁。
+加快这条输油管道的建设，也是在阿联酋决定退出石油输出国组织（OPEC）之后采取的举措。摆脱OPEC的产量限制后，阿联酋表示计划提高原油产量，以满足战争带来的需求增长。即使未来霍尔木兹海峡恢复通航，通过富查伊拉港新增的出口能力，也将为国家提供更多选择。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国民航事故遇难飞行员中 半数药物检测呈阳性]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9055492</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9055492"/>
+        <updated>2026-05-15T10:07:13.000Z</updated>
+        <summary type="html"><![CDATA[美国国家运输安全委员会（NTSB）发布的一份报告显示，2018年至2022年间，在美国民航事故中丧生的飞行员中，半数以上体内检测出至少一种药物呈阳性。
+彭博社引述报告称，在984名因坠机或其他致命事件丧生的飞行员中，约29%的检测结果显示体内存在“可能损害飞行员能力的药物”，是自委员会1990年开始收集相关数据以来的最高值。
+这些药物可能会降低飞行员的飞行表现，其中包括非法药物，以及常用于抗过敏和夜间感冒流感药品的镇静性抗组胺药（antihistamine）。
+委员会指出，一些危害较小的药物，例如治疗心血管疾病、高胆固醇和勃起功能障碍的药物，也是最常检测出来的物质之一。
+委员会强调，“毒理学检测中发现毒品并不一定意味着飞行员受到药物影响”，但委员会将继续研究这一问题，以了解可能影响航空安全的因素。
+委员会说，检测结果显示毒品检出率持续上升。其中增幅最大的是非法药物，占比上升至7.4%，这主要是由于更多飞行员的毒品检测结果呈阳性，他们体内含有大麻（marijuana）中的主要活性成分。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分原油或已运出波斯湾 贸易商维多据悉推销伊拉克石油]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9055201</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9055201"/>
+        <updated>2026-05-15T09:35:39.000Z</updated>
+        <summary type="html"><![CDATA[知情人士透露，维多集团正在向客户兜售伊拉克巴士拉原油，这显示部分原油可能已经成功运出波斯湾。
+彭博社引述知情人士说，维多（Vitol Group）过去几天向炼油商推销多批货物，其中包括可在阿拉伯联合酋长国近海（包括富查伊拉港）以船对船过驳方式交付的巴士拉中质原油和巴士拉重质原油。因谈判私下进行，知情人士要求匿名。
+维多发言人不予评论。
+如果成功，这将是自战争和霍尔木兹海峡封锁开始以来，伊拉克原油罕见地出现在现货市场并由贸易商出售。数月以来，波斯湾大部分原油产量被困，无法运出，阿布扎比国家石油公司（ADNOC）是最早一批通过海峡运出石油的公司之一。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美司法部指控耶鲁大学医学院 歧视白人亚裔申请者]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9054095</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9054095"/>
+        <updated>2026-05-15T09:27:53.000Z</updated>
+        <summary type="html"><![CDATA[（纽约综合电）美国特朗普政府再对美国高等学府施压，司法部指控耶鲁大学医学院歧视白人和亚裔申请者，根据种族来挑选申请者。
+司法部星期四（5月14日）发表声明说，对耶鲁大学医学院长达一年的调查显示，在考试成绩相同的情况下，黑人和西班牙裔学生被录取的概率远高于白人或亚裔学生，他们也通常以较低的学术标准被录取。
+司法部没有说明这一调查结果会带来什么后果，但指民权法禁止接受联邦财政援助的机构，实施基于种族和民族的歧视措施。
+耶鲁大学在2025财年从美国国立卫生研究院获得近6亿8000万美元（约8亿7000万新元）的拨款，在全美各大学中位列第六。医学院尤其依赖联邦资金来资助研究，并为学生提供助学金和贷款，帮助他们支付高昂的学费。
+耶鲁大学回应时表明，对医学院严格的招生程序充满信心。
+特朗普政府近期将目光聚焦于顶尖医学院的招生问题，司法部在推动高等教育改革的进程中扮演着主导角色。 
+就在不到两周前，司法部指控加州大学洛杉矶分校医学院存在根据种族歧视申请者的行为。今年3月，司法部还对斯坦福大学、加州大学圣地亚哥分校和俄亥俄州立大学的医学院招生情况展开调查。 
+目前，司法部正在起诉哈佛大学，指控哈佛未能提供自身招生情况的相关文件。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI加剧美国大学“成绩通胀” 应届求职绩点含金量下降]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9054773</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9054773"/>
+        <updated>2026-05-15T09:07:56.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿讯）新研究表明，自从有了人工智能（AI）技术，大学生更容易获得A等成绩，但也让成绩对雇主来说变得不那么有参考价值。
+美国《华尔街日报》报道，根据加州大学伯克利分校星期三（5月13日）发布的一篇论文，生成式AI机器人ChatGPT问世后，在以写作和编程等易受AI影响的大学课程中，A等成绩的比率增长幅度远超其他课程。
+教授涉及AI课程的教师，给出的A等成绩增加约30%，A-和B+等成绩则有所减少。
+论文作者奇里科夫指出，研究结果表明，学生依赖生成式AI是想在学业上取得更好的成绩，但不说明这些学生学到了更多知识；拿到A等，说明学生更能接触到先进科技，或更擅长使用这类技术，但不能衡量学生基础能力。
+成绩通胀在大学校园中已存在多年，但AI使得评估学生作业质量变得更加困难，应届毕业生求职时的成绩指标含金量也不如从前。如今美国就业市场降温，雇主为了缩小应聘者筛选范围，纷纷提高入职门槛和平均绩点（GPA）要求。
+在面向应届毕业生的求职网站Handshake上，很少有职位招聘要求应聘者提交GPA。不过，在有此要求的职位中，今年近20%岗位要求GPA达到3.5或更高，而2020年的占比仅有9%。
+一些顶尖大学也开始担忧成绩通胀问题。耶鲁大学4月的一份报告直言：“成绩是为了传达学生学到什么。在耶鲁，正如许多同类院校一样，成绩已不再具备这一功能。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争恐耗尽五角大楼运营资金]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9054446</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9054446"/>
+        <updated>2026-05-15T08:49:29.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国五角大楼说，除非国会通过新的战时开支法案，否则他们今年夏天可能面临运营资金耗尽的困境。此外，由于伊朗战争和美墨边境的军队部署，各军种将不得不削减训练演习和其他优先事项。 
+《华尔街日报》报道，美国海军司令考德尔本周告诉众议院拨款国防小组委员会成员，他必须在7月前后开始做出一些决策，调整训练、作战行动及认证评估等方面的工作。
+美国官员说，美军上下正在探讨节省开支的方法，包括推迟部队的训练和减少飞行员的飞行时数。
+美国代理审计长赫斯特星期二（5月12日）告诉国会，五角大楼至今已经花费约290亿美元（约370亿新元）在伊朗的战事，而且作战开支增加很快，不到两周内就增加约40亿美元。 
+这一估计除了作战开支，还有弹药支出及受损或被毁的飞机，不过，这不包括美国在中东各地基地的设施损坏。
+面对议员们的追问，五角大楼官员没有给出何时提交补充拨款申请的细节。五角大楼3月向白宫提交一份2000亿美元的战争补充拨款方案，但不清楚白宫为何没有将这转交给国会。议员们曾经批评这项拨款申请的款额太大。
+国防小组委员会资深成员、明尼苏达州民主党众议员麦科勒姆说，委员会最迟必须在6月11日之前收到拨款申请，到时也将审查五角大楼2027财年的1.5万亿美元的预算开支。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -347,158 +570,6 @@ The United States has rejected Iran's 14-point proposal. pic.twitter.com/k863l61
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息：沙特推动中东国家与伊朗达成互不侵犯条约]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9052909</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9052909"/>
-        <updated>2026-05-15T04:40:29.000Z</updated>
-        <summary type="html"><![CDATA[《金融时报》引述外交人士的消息报道，沙特阿拉伯已同盟友讨论，在美以伊战争结束后，推动中东国家与伊朗签署一项互不侵犯条约，以管控地区紧张局势。
-他们预计，战后的伊朗虽会被削弱，但仍将对邻国构成威胁。两名西方外交官称，沙特考虑以1970年代，缓和冷战时期欧洲紧张局势的“赫尔辛基进程”（Helsinki Process）为参照模式。
-许多欧洲国家和欧盟机构都表明支持，并敦促其他波斯湾国家也予以支持。他们认为这是避免未来冲突的最佳途径，并能向伊朗保证德黑兰也不会遭到袭击。
-伊朗外长阿拉格齐周四指责阿联酋积极参与美国和以色列对伊朗的战争，并指阿联酋直接参与了对伊朗的侵略行动。他说，美伊向伊朗发动袭击时，阿联酋甚至拒绝谴责美以的行为。
-美国总统特朗普在北京接受福克斯新闻访问时暗示，中国愿意为美国与伊朗的谈判提供协助。 
-特朗普说，中国国家主席习近平主动提出愿意提供帮忙，“他说他不会向他们（伊朗）提供军事装备。” 但中方尚未明确证实特朗普的说法。
-一名白宫官员在特朗普与习近平会晤的纪要中称，双方一致认为，霍尔木兹海峡必须保持开放，以保障能源自由流通。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度货船阿曼湾遇袭沉没 新德里谴责]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053046</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053046"/>
-        <updated>2026-05-15T04:29:53.000Z</updated>
-        <summary type="html"><![CDATA[印度谴责一艘小型货船在阿曼湾遇袭并起火沉没，称事件“不可接受”。
-彭博社报道，印度海运部副秘书长芒加尔（Mukesh Mangal）星期四（5月14日）告诉记者，印度的哈吉·阿里号（Haji Ali）木质船，在从索马里驶往阿拉伯联合酋长国沙迦途中遭到袭击，船上全部14名船员被阿曼海湾警卫队救起。
-《今日印度》报道，这起事件发生于星期三（13日）凌晨，当时船上运载着牲畜。
-印度当局未透露袭击这艘船的责任方和袭击来源。印度外交部发言人在一份声明中说，必须避免针对商船和平民船员的袭击，以及对航行的限制。
-伊朗战争的外交解决进程推进缓慢，美伊仍在封锁霍尔木兹海峡，周边海域航行风险依然很高。据报道，未经授权的人员星期四在海峡入口处扣押一艘商船，并护送至伊朗水域。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曾批评中国的所罗门群岛反对党领袖当选新总理]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9052771</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9052771"/>
-        <updated>2026-05-15T04:07:59.000Z</updated>
-        <summary type="html"><![CDATA[曾批评中国的所罗门群岛反对党领袖，当选新总理。
-路透社报道，所罗门群岛总督卡普星期五（5月15日）宣布，议会反对党领袖威尔（Matthew Wale）以26票对22票，击败前外长阿格瓦卡（Peter Shanel Agovaka），成为新总理。
-所罗门群岛议会共有50个席位。在选举投票开始前，前副总理梅兰加退出竞选，由威尔和阿格瓦卡对决。
-威尔在胜选后说：“我们正值艰难时期执政。鉴于世界各地正在发生的事情，我们无法免受这些地缘政治事件的影响。”
-5月7日，所罗门群岛议会投票通过对时任总理马内莱的不信任动议，马内莱下台，其政府作为看守政府履职至选出新总理。
-所罗门群岛位于澳大利亚东北方向1600公里。近年来，因与中国关系日益密切，所罗门群岛的战略重要性备受关注。2022年，所罗门群岛与中国签署一项安全协议，引发美国和南太平洋邻国的担忧。
-威尔曾强烈批评这项协议，称协议影响地区安全，并可能危及所罗门群岛与现有伙伴的关系。但近年他已尝试缓和与中国的关系。
-威尔1968年出生，2008年首次当选所罗门群岛议会议员并连任至今。2008年至2010年，他担任教育与人力资源开发部长。2019年议会选举后，威尔竞选总理失败，继而出任议会反对党领袖。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：回收伊朗高浓缩铀仅为公关目的]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9052747</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9052747"/>
-        <updated>2026-05-15T04:03:19.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，美国从伊朗回收高浓缩铀“更多是为了公关，而非其他目的”。他同时重申清除伊朗高浓缩铀的承诺。
-特朗普在福克斯新闻星期四（5月14日）播出的专访中，发表上述言论。
-高浓缩铀的处置问题一直是当前美伊和谈停滞不前的症结所在。特朗普说，双方曾反复交涉，伊朗起初同意移交高浓缩铀，但在后续谈判中又反悔。
-特朗普表明，从伊朗回收高浓缩铀可能没有必要，因为美国正对相关区域进行全天候监控。“我们在那三个地点（伊朗核设施）安装了九台摄像头，全天24小时不间断监控。我们完全清楚现场情况，根本没人能靠近那里。”
-尽管如此，他最终还是希望将这些核材料运出伊朗。“说实话，如果能拿到手，我心里会更踏实。但我认为，这更多是为了公关目的，而非其他原因”。
-与美国联合打击伊朗的以色列，则将清除伊朗高浓缩铀视为战争目标。以色列总理内坦亚胡在上星期天（10日）播出的哥伦比亚广播公司（CBS）采访中说，伊朗高浓缩铀被清除之前，冲突不会结束。 
-伊朗战争导致中东地区能源供应紧张，并推高全球能源价格。特朗普接受福克斯新闻访谈时，正在中国访问，且刚刚与中国国家主席习近平会晤。
-特朗普告诉福克斯新闻主持人汉尼蒂，中方重申希望霍尔木兹海峡航运能够恢复，并且不收取任何过路费；他也表明，北京同意德黑兰不应拥有核武器。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF：中美开展建设性对话有利于稳定全球经济]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9052284</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9052284"/>
-        <updated>2026-05-15T03:01:26.000Z</updated>
-        <summary type="html"><![CDATA[国际货币基金组织（IMF）对美国总统特朗普和中国国家主席习近平初步积极对话表示欢迎，称缓解全球两大经济体之间的紧张局势和不确定性，对全世界有利。
-路透社报道，IMF发言人科扎克在星期四（5月14日）的新闻发布会被问及特朗普与习近平在北京峰会的初步成果，她说：“当然，世界两大经济体能进行最高级别的接触，这非常重要。”
-她进一步说：“我们当然乐见中美展开建设性的对话。任何有助于缓解贸易紧张局势、减少不确定性的举措，都对这两个大型经济体有利。当然，对全球经济也同样有利。”
-IMF长期以来一直敦促美国和中国通过对话而非单边措施解决贸易分歧。
-特朗普星期五在社媒平台Truth Social发文说，他希望美国和中国的关系“比以往任何时候都更加牢固、更上层楼”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保障国内供应 印度禁食糖出口至9月底]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9052322</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9052322"/>
-        <updated>2026-05-15T02:53:15.000Z</updated>
-        <summary type="html"><![CDATA[印度禁止食糖出口超过四个月，以便保障国内供应。
-彭博社星期五（5月15日）引述印度官方公告报告这一消息。这份公告日期为星期三（13日）。政府曾在4月排除限制食糖外销的可能。
-根据公告，印度禁止食糖出口至9月30日，有限例外情况除外，例如已开始装货的船舶。
-印度是全球第二大食糖生产国，但国内一家主要制糖商协会早前下调产量预期。
-印度糖业与生物能源制造商协会4月表明，截至9月30日的印度食糖本季总产量预计为3200万公吨，略低于此前预测的3240万公吨。
-印度将在10月左右开始下一季收成，但可能受到低于平均水平的季风天气影响。随着厄尔尼诺现象来临，预计下月开始的年度降雨也会有所减少。与此同时，依赖化肥进口的印度也面临伊朗战争导致的价格飙升压力。 
-近年来，印度糖出口一直是全球市场的主要波动因素。受2022至2023年度收成不佳影响，印度开始限制出口，并实行年度出口配额。本季，政府于去年11月批准150万公吨的初始出口配额，并于2月将额度扩大50万公吨。
-分析师称，尽管市场部分参与者此前已基于印度将实施限制的预期进行操作，但出口禁令的正式出台，可能会强化市场对全球糖供应短期趋紧的预期。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中情局长访古巴 特朗普要求古巴“根本性改变”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051916</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051916"/>
-        <updated>2026-05-15T02:05:55.000Z</updated>
-        <summary type="html"><![CDATA[美国中央情报局局长拉特克利夫星期四（5月14日）到古巴首都哈瓦那访问。
-路透社报道，一名中央情报局（CIA）官员透露，拉特克利夫向古巴官员传达了特朗普总统的一个信息，即美国将就古巴的经济和安全问题与哈瓦那“认真接触”，但“前提是古巴做出根本性的改变”。
-中情局官员还说，双方会谈重点是情报、经济稳定和安全合作。
-这似乎是自古巴前领导人卡斯特罗1959年发动革命以来，中情局长第二次访问古巴，凸显两国之间非常罕见的高层接触。
-中情局在X平台发布的照片显示，拉特克利夫与几名面部被模糊处理人士会见了古巴内务部情报总局局长库尔贝洛及其他古巴官员。
-此次访问正值美古关系危机加剧，由于美国总统特朗普对古巴实施燃油封锁，古巴持续遭受停电之苦。目前，美国海岸警卫队只允许一艘俄罗斯油轮驶向古巴港口。俄罗斯是古巴的传统盟友。 
-另据新华社报道，古巴政府14日发表声明说，美中情局局长拉特克利夫当天到访哈瓦那，与古内务部官员举行会晤。
-声明说，应美国政府请求，拉特克利夫率团来访，古巴革命领导层批准此次访问，并安排他与古巴内务部对口官员会晤。此次接触在当前古美关系复杂背景下举行，旨在推动两国政治对话、共同应对当前局势。
-古方在会晤中重申，古巴不对美国国家安全构成威胁，美方将古巴列入所谓“支持恐怖主义国家名单”没有正当理由。
-声明称，此次会晤再次表明，古巴不窝藏、不支持、不资助，也不允许恐怖主义或极端主义组织存在；古巴领土上不存在外国军事或情报基地；古巴从未支持针对美国的敌对活动，也不允许利用古巴领土对其他国家采取行动。
-声明说，双方表达了加强执法合作的意愿。
-古巴能源和矿业部长德拉奥13日召开新闻发布会指出，古巴的柴油和燃料油储备已完全耗尽，全国电网处于“危急状态”。德拉奥说，当前电力系统仅依靠本国原油、天然气和可再生能源维持运行。 
-德拉奥还说，古巴仍在继续寻求进口燃料，但当前国际油价和运输成本上涨使相关工作更加困难，“古巴欢迎任何想向我们出售燃料的人。”
-今年年初对委内瑞拉发动大规模军事打击后，特朗普政府进一步加大对古巴施压，包括实施新一轮石油限制措施。特朗普还多次威胁称，完成对委内瑞拉和伊朗的军事行动后，“下一个就是古巴”。美国的封锁加剧了能源危机，导致古巴多次大规模停电，严重影响了医疗、公共交通和农业。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普披露至少2.2亿美元的美企证券交易]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051743</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051743"/>
-        <updated>2026-05-15T01:23:28.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦政府道德办公室（Office of Government Ethics，简称OGE）最新公布的两份财务文件显示，美国总统特朗普今年初披露了总额至少2亿2000万美元（约2亿8078万新元）的美国大型企业证券交易。
-路透社报道，星期四（5月14日）公布的两份报告涵盖2026年前三个月。由于交易金额以区间而非确切数字呈现，累计交易规模估计介于2亿2000万美元至7亿5000万美元之间。
-这些交易包括与微软、Meta Platforms、甲骨文、博通、美国银行、高盛等企业相关证券，还涉及市政债券交易。
-单笔金额介于100万美元至500万美元的大额买入项目，包括标普500指数基金、英伟达公司、苹果公司。单笔价值在500万美元至2500万美元之间的大额抛售标包括微软、亚马逊、Meta Platforms。披露文件并未逐一明确证券具体类型，也未注明是普通股还是公司债券。
-这些文件也未明确说明交易在哪些账户进行或由谁进行交易。特朗普的资产由他的子女控制的信托持有，而新提交的文件显示，其中一些交易由一名经纪充当代理人。
-路透社针对相关交易事宜向白宫新闻办公室寻求置评，白宫新闻办公室将询问转交给特朗普集团。特朗普集团的律师尚未作出即时回应。
-自去年重返白宫以来，特朗普多次通过公开的道德申报文件披露他的金融交易，这些记录反映了他在市政债券和美国大型企业发行证券方面的持续投资活动。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普暗示中国愿意协助与伊朗的谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051658</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051658"/>
-        <updated>2026-05-15T00:25:50.000Z</updated>
-        <summary type="html"><![CDATA[正在推动通过外交途径结束伊朗战争、并重新开放霍尔木兹海峡的美国总统特朗普暗示，中国愿意为美国与伊朗的谈判提供协助。
-彭博社报道，特朗普在北京接受福克斯新闻访问时说，中国国家主席习近平主动提出愿意提供帮忙，“他说他不会向他们（伊朗）提供军事装备。”
-但中方尚未明确证实特朗普的说法。此前，一艘商船在阿拉伯联合酋长国附近海域疑似被扣押。
-一名白宫官员在特朗普与习近平会晤的纪要中称，双方一致认为，霍尔木兹海峡必须保持开放，以保障能源自由流通。 
-特朗普在福克斯新闻播出的采访片段中说：“习近平主席希望看到双方达成一项协议。他希望我们达成一项协议。他还主动提出，‘如果我能帮忙，我愿意帮忙’。”
-中国是伊朗最大的石油买家和重要的外交伙伴，对伊朗具有一定的外交影响力。中国向德黑兰供应的商品包括消费品和电子产品等。
-一艘商船星期四（5月14日）在阿联酋附近海域被不明身份人员扣押，这加剧了霍尔木兹海峡控制权的不确定性。英国海上贸易行动办公室说，这艘身份未明确的商船在阿联酋岸外38海里处被扣押，当时这艘商船正驶往伊朗。
-伊朗半官方的法尔斯通讯社14日报道，伊朗方面说，在与中国外交部进行磋商后，将有多艘中国船只通过霍尔木兹海峡。报道引述一名消息人士称，船只将按照“伊朗管理规程”获准通过。
-另据伊朗国家电视台报道，伊朗伊斯兰革命卫队一名海军官员说，自13日晚以来，已有30多艘船只获准通过霍尔木兹海峡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 396 期）：互联网通信的替代方案]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html"/>
@@ -527,81 +598,6 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
 所以，一切就很简单了。你只要找 Meshtastic 兼容设备，人手一个，就能组一个简单的通…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硫磺岛附近海域发生6级地震 日气象厅：无海啸风险]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051603</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051603"/>
-        <updated>2026-05-14T23:42:46.000Z</updated>
-        <summary type="html"><![CDATA[日本硫磺岛附近海域星期五（5月15日）凌晨发生6级地震。暂无伤亡报告。
-新华社报道，日本气象厅说，地震发生于15日0时34分（新加坡时间14日晚上11时34分）许，震源深度约10公里。
-日本气象厅说，无须担心地震引发海啸。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称中国同意订购200架波音飞机 数量低于预期]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051561</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051561"/>
-        <updated>2026-05-14T23:23:13.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期四（5月14日）告诉福克斯新闻，中国已同意购买200架波音飞机，这一数字远低于分析师的预期。特朗普宣布此消息后，波音公司股价下跌4%。
-中国订购波音飞机的细节包括交付时间和具体机型尚未公布，但订购数量远少于此前路透社引述消息人士说的约500架飞机。
-中国国家主席习近平14日上午在北京人民大会堂同来华进行国事访问的特朗普举行会谈。特朗普过后接受福克斯新闻主持人汉尼访问时说：“他（指习近平）今天同意了一件事，他同意订购200架飞机……200架大型飞机。”
-一项大额的波音订单是此次中美峰会预计将达成的众多商业协议之一。此外，中美峰会还可能延长去年10月达成的脆弱贸易休战协议。根据中美休战协议，特朗普暂停对中国进口商品征收高达三位数的关税，而习近平同意放松对美国出口稀土的限制。
-波音股价14日下跌了4.1%。白宫尚未就华尔街对特朗普讲话的反应作出回应。
-中国上一次向波音订购飞机是在2017年。自2018年以来，欧洲空中客车公司在中国的飞机交付量已经超过波音。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普谈中国行 冀中美关系更上层楼]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9051506</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9051506"/>
-        <updated>2026-05-14T23:08:15.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在社交媒体上说，他希望美国和中国的关系“比以往任何时候都更加牢固”。
-正在北京访问的特朗普星期五（5月15日）在Truth Social贴长文，称中国国家主席习近平“非常委婉地提到美国可能是一个正在衰落的国家时，他指的是我们在‘瞌睡虫’’拜登四年执政期间所遭受的巨大损害，他是百分之百正确的”。
-特朗普写道：“习近平主席指的并非美国在特朗普政府执政的16个月里向世界展现的惊人崛起，包括股市和401K退休金计划创历史新高、在委内瑞拉取得军事胜利并建立蓬勃发展的关系、对伊朗的军事打击（未完待续！）——迄今全球最强大的军队、再次成为经济强国（其他国家对美国的投资高达创纪录的18万亿美元）、美国历史上最好的就业市场（目前在美国工作的人数比以往任何时候都多）、终结了破坏国家的多元、公平和包容政策，以及其他数不胜数的成就。事实上，习近平主席祝贺我，在如此短的时间内取得了如此多的巨大成就。”
-18万亿美元约为23万亿新元。
-特朗普还写道：“两年前，我们确实是一个正在衰落的国家。对此，我完全同意习近平主席的看法！但现在，美国是世界上最炙手可热的国家，希望我们与中国的关系能够比以往任何时候都更加牢固、更上层楼！”
-特朗普和习近平15日将举行双边茶叙和工作午餐，之后特朗普就结束访华行程，返回华盛顿。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析：特朗普处于弱姿态与习近平谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9050736</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9050736"/>
-        <updated>2026-05-14T15:54:17.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）分析认为，在北京举行的习特会对美国而言没有突破性进展，倒是中国国家主席习近平对台湾问题发出的警告，更引起国际瞩目。 
-路透社分析指出，美国总统特朗普这回是以弱姿态与中国国家主席习近平会面。特朗普发动的关税战已被美国最高法院裁定逾越总统权限，构成违宪；伊朗战争加剧了国内的通货膨胀，共和党在11月中期选举的胜算受压。反观习近平，尽管中国经济发展滞缓，但他并未面临类似的经济或政治压力。 
-《华尔街日报》分析，特朗普和习近平对此次峰会各有不同目标。特朗普希望习近平帮助斡旋，以结束美伊战争，并希望达成多项经济协议。习近平则希望特朗普改变美国对台湾问题的表态。
-白宫在习特会后发表的声明中，没有提及两位领导人就台湾问题进行的任何讨论，只说他们进行了良好的会晤，探讨了加强经济合作的途径。不过，据新华社报道，习近平在会谈中强调，台湾问题是中美关系中最重要的问题，是否能够处理好可直接影响中美关系的好坏。
-策纬咨询公司（Trivium China）高级分析师乔·马祖尔说，尽管北京过去曾就台湾问题发出过强烈警告，但习近平这回的讲话仍值得关注。“他是毫不含糊地警告美国不要乱来。”
-在双边贸易问题上，分析认为，去年美国对中国加征关税，以及北京对稀土出口采取限制措施，使两国贸易关系一直动荡不安，预计此次不会有多少突破。不过，预料双方仍将宣布中国购买美国农产品和航空航天产品的协议。
-曾任美国助理防长的哈佛大学教授艾利森说：“如果特朗普总统宣布中国将额外购买价值1万亿美元（约1.27万亿新元）的美国商品，我不会感到惊讶。因为总统喜欢发布重大新闻。”
-中美领导人同意构建建设性的战略稳定关系，作为双边关系的新定位。专家认为，对美国来说，减少与中国碰撞是好事。
-经济学人智库（EIU）的高级经济师徐天辰告诉美国消费者新闻与商业频道（CNBC），这个新的关系定位意味着，尽管摩擦仍将持续，但中美之间可维持一段时间的可控稳定，事态不会像去年那样几乎失控。
-特朗普还希望中国能说服伊朗，同意与华盛顿达成停战协议。不过分析员认为，伊朗对北京而言是制衡美国的战略力量，因此对于习近平是否会愿意对德黑兰施压或停止对伊朗的军事支持，他们有所质疑。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴勒斯坦法塔赫举行第八次代表大会 阿巴斯承诺推进改革]]></title>
-        <id>https://www.zaobao.com/news/world/story20260514-9051035</id>
-        <link href="https://www.zaobao.com/news/world/story20260514-9051035"/>
-        <updated>2026-05-14T15:41:15.000Z</updated>
-        <summary type="html"><![CDATA[巴勒斯坦民族解放运动（法塔赫）第八次代表大会在约旦河西岸中部城市拉姆安拉开幕，这是法塔赫时隔约10年后再次举行代表大会。
-新华社引述巴勒斯坦通讯社的报道说，巴勒斯坦总统、法塔赫主席阿巴斯在星期四（5月14日）的大会上发表演讲时强调，法塔赫始终是巴勒斯坦民族事业的支柱，是民族独立自主决策旗帜的捍卫者，是巴勒斯坦身份和斗争的守护者。新的领导层将带领法塔赫加强更广泛的民族运动，并提升其成果。
-阿巴斯指出，加沙地带是巴勒斯坦不可分割的一部分，任何过渡安排都必须是暂时的，且不得影响国家统一或政治和法律主权。国家统一仍然是应对挑战和结束分裂的坚实基础。
-据报道，本次大会将选举产生新一届法塔赫革命委员会及法塔赫中央委员会成员。
-法塔赫系巴勒斯坦主要政治派别，主张通过谈判解决巴勒斯坦与以色列的问题。2007年，法塔赫与巴勒斯坦伊斯兰抵抗运动（哈马斯）爆发冲突，法塔赫后来实际控制约旦河西岸地区。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
