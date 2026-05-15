@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T14:13:38.740Z</updated>
+    <updated>2026-05-15T19:43:06.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to give feedback that lands | Dr Renee St Jacques]]></title>
+        <id>6a05e490382d6c4030b4a313</id>
+        <link href="http://go.ted.com/reneestjacques"/>
+        <updated>2026-05-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most managers give feedback. Few give feedback that actually works. Drawing on her background in psychology and executive coaching, Renee St Jacques breaks down what so many well-intentioned leaders get wrong — and introduces a three-part framework to help teams rebuild trust and perform at their best.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why humans should merge with AI | D Scott Phoenix]]></title>
         <id>6a01eff292e9663a6f89041a</id>

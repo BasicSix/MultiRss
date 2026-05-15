@@ -2,198 +2,346 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T14:14:24.764Z</updated>
+    <updated>2026-05-15T19:43:52.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3583432</id>
-        <link href="https://1x.com/photo/3583432"/>
-        <updated>2026-05-15T14:13:38.483Z</updated>
-        <summary type="html"><![CDATA[Untitled by Bingo Z]]></summary>
+        <title type="html"><![CDATA[Hard Landing - Learning Curve]]></title>
+        <id>1x-3582108</id>
+        <link href="https://1x.com/photo/3582108"/>
+        <updated>2026-05-15T19:43:06.692Z</updated>
+        <summary type="html"><![CDATA[Hard Landing - Learning Curve by Wanghan Li]]></summary>
         <author>
-            <name>Bingo Z</name>
+            <name>Wanghan Li</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red-breasted Flycatcher.]]></title>
-        <id>1x-3583870</id>
-        <link href="https://1x.com/photo/3583870"/>
-        <updated>2026-05-15T14:13:38.479Z</updated>
-        <summary type="html"><![CDATA[Red-breasted Flycatcher. by Mati Puum]]></summary>
+        <title type="html"><![CDATA[Shut up, don't wake my babies]]></title>
+        <id>1x-3580819</id>
+        <link href="https://1x.com/photo/3580819"/>
+        <updated>2026-05-15T19:43:06.689Z</updated>
+        <summary type="html"><![CDATA[Shut up, don't wake my babies by Amy Greytak (Xiaoyu Sun)]]></summary>
         <author>
-            <name>Mati Puum</name>
+            <name>Amy Greytak (Xiaoyu Sun)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Madame Deneb]]></title>
-        <id>1x-3583804</id>
-        <link href="https://1x.com/photo/3583804"/>
-        <updated>2026-05-15T14:13:38.472Z</updated>
-        <summary type="html"><![CDATA[Madame Deneb by Hans Repelnig]]></summary>
+        <title type="html"><![CDATA[Violet-green Swallow]]></title>
+        <id>1x-3570347</id>
+        <link href="https://1x.com/photo/3570347"/>
+        <updated>2026-05-15T19:43:06.680Z</updated>
+        <summary type="html"><![CDATA[Violet-green Swallow by Moses Wang]]></summary>
         <author>
-            <name>Hans Repelnig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intervals]]></title>
-        <id>1x-3583991</id>
-        <link href="https://1x.com/photo/3583991"/>
-        <updated>2026-05-15T14:13:38.467Z</updated>
-        <summary type="html"><![CDATA[Intervals by Thomas de Franzoni]]></summary>
-        <author>
-            <name>Thomas de Franzoni</name>
+            <name>Moses Wang</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3583966</id>
-        <link href="https://1x.com/photo/3583966"/>
-        <updated>2026-05-15T14:13:38.463Z</updated>
-        <summary type="html"><![CDATA[Untitled by Karim Al Thahaby]]></summary>
+        <id>1x-3578193</id>
+        <link href="https://1x.com/photo/3578193"/>
+        <updated>2026-05-15T19:43:06.599Z</updated>
+        <summary type="html"><![CDATA[Untitled by Fujimon]]></summary>
         <author>
-            <name>Karim Al Thahaby</name>
+            <name>Fujimon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aerial Duel]]></title>
-        <id>1x-3583592</id>
-        <link href="https://1x.com/photo/3583592"/>
-        <updated>2026-05-15T14:13:38.450Z</updated>
-        <summary type="html"><![CDATA[Aerial Duel by HuongHoang]]></summary>
+        <title type="html"><![CDATA[Warbler]]></title>
+        <id>1x-3583253</id>
+        <link href="https://1x.com/photo/3583253"/>
+        <updated>2026-05-15T19:43:06.596Z</updated>
+        <summary type="html"><![CDATA[Warbler by Molly Fu (APA)]]></summary>
         <author>
-            <name>HuongHoang</name>
+            <name>Molly Fu (APA)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVALBARD, SASSEN FJORD-81412]]></title>
-        <id>1x-3583981</id>
-        <link href="https://1x.com/photo/3583981"/>
-        <updated>2026-05-15T14:13:38.445Z</updated>
-        <summary type="html"><![CDATA[SVALBARD, SASSEN FJORD-81412 by Raimondo Restelli]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3571219</id>
+        <link href="https://1x.com/photo/3571219"/>
+        <updated>2026-05-15T19:43:06.592Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dirk Koster]]></summary>
         <author>
-            <name>Raimondo Restelli</name>
+            <name>Dirk Koster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platform Pulse]]></title>
-        <id>1x-3583934</id>
-        <link href="https://1x.com/photo/3583934"/>
-        <updated>2026-05-15T14:13:38.440Z</updated>
-        <summary type="html"><![CDATA[Platform Pulse by Gu and Hongchao]]></summary>
+        <title type="html"><![CDATA[OH]]></title>
+        <id>1x-3577915</id>
+        <link href="https://1x.com/photo/3577915"/>
+        <updated>2026-05-15T19:43:06.587Z</updated>
+        <summary type="html"><![CDATA[OH by Xuemei Qin]]></summary>
         <author>
-            <name>Gu and Hongchao</name>
+            <name>Xuemei Qin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frank Gerhy. Düsseldorf]]></title>
-        <id>1x-3584080</id>
-        <link href="https://1x.com/photo/3584080"/>
-        <updated>2026-05-15T14:13:38.433Z</updated>
-        <summary type="html"><![CDATA[Frank Gerhy. Düsseldorf by jordiegeatorrent]]></summary>
+        <title type="html"><![CDATA[Frozen Elegance]]></title>
+        <id>1x-3570444</id>
+        <link href="https://1x.com/photo/3570444"/>
+        <updated>2026-05-15T19:43:06.583Z</updated>
+        <summary type="html"><![CDATA[Frozen Elegance by Jozsef Ban]]></summary>
         <author>
-            <name>jordiegeatorrent</name>
+            <name>Jozsef Ban</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squacco Heron]]></title>
-        <id>1x-3583992</id>
-        <link href="https://1x.com/photo/3583992"/>
-        <updated>2026-05-15T14:13:38.427Z</updated>
-        <summary type="html"><![CDATA[Squacco Heron by ilan]]></summary>
+        <title type="html"><![CDATA[Velvet Reflections]]></title>
+        <id>1x-3563332</id>
+        <link href="https://1x.com/photo/3563332"/>
+        <updated>2026-05-15T19:43:06.579Z</updated>
+        <summary type="html"><![CDATA[Velvet Reflections by Cong Lin]]></summary>
         <author>
-            <name>ilan</name>
+            <name>Cong Lin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mothership]]></title>
-        <id>1x-3584110</id>
-        <link href="https://1x.com/photo/3584110"/>
-        <updated>2026-05-15T14:13:38.423Z</updated>
-        <summary type="html"><![CDATA[The Mothership by Stefan Lenz]]></summary>
+        <title type="html"><![CDATA[The frozen heart]]></title>
+        <id>1x-3556359</id>
+        <link href="https://1x.com/photo/3556359"/>
+        <updated>2026-05-15T19:43:06.575Z</updated>
+        <summary type="html"><![CDATA[The frozen heart by Judy Tseng]]></summary>
         <author>
-            <name>Stefan Lenz</name>
+            <name>Judy Tseng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Price of Freedom]]></title>
-        <id>1x-3584004</id>
-        <link href="https://1x.com/photo/3584004"/>
-        <updated>2026-05-15T14:13:38.418Z</updated>
-        <summary type="html"><![CDATA[The Price of Freedom by Marcel Rebro]]></summary>
+        <title type="html"><![CDATA[Yellow Warbler]]></title>
+        <id>1x-3580510</id>
+        <link href="https://1x.com/photo/3580510"/>
+        <updated>2026-05-15T19:43:06.558Z</updated>
+        <summary type="html"><![CDATA[Yellow Warbler by Sean Huang]]></summary>
         <author>
-            <name>Marcel Rebro</name>
+            <name>Sean Huang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some kind of peace]]></title>
-        <id>1x-3584073</id>
-        <link href="https://1x.com/photo/3584073"/>
-        <updated>2026-05-15T14:13:38.372Z</updated>
-        <summary type="html"><![CDATA[Some kind of peace by Marco Martins]]></summary>
+        <title type="html"><![CDATA[Gray-breasted Sabrewing]]></title>
+        <id>1x-3582845</id>
+        <link href="https://1x.com/photo/3582845"/>
+        <updated>2026-05-15T19:43:06.553Z</updated>
+        <summary type="html"><![CDATA[Gray-breasted Sabrewing by Renate Grupp]]></summary>
         <author>
-            <name>Marco Martins</name>
+            <name>Renate Grupp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intruder]]></title>
-        <id>1x-3583855</id>
-        <link href="https://1x.com/photo/3583855"/>
-        <updated>2026-05-15T14:13:38.249Z</updated>
-        <summary type="html"><![CDATA[Intruder by Oscar Lopez]]></summary>
+        <title type="html"><![CDATA[The Texture of Time]]></title>
+        <id>1x-3581692</id>
+        <link href="https://1x.com/photo/3581692"/>
+        <updated>2026-05-15T19:43:06.547Z</updated>
+        <summary type="html"><![CDATA[The Texture of Time by Mustafa Sahin]]></summary>
         <author>
-            <name>Oscar Lopez</name>
+            <name>Mustafa Sahin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The family]]></title>
-        <id>1x-3583964</id>
-        <link href="https://1x.com/photo/3583964"/>
-        <updated>2026-05-15T14:13:38.237Z</updated>
-        <summary type="html"><![CDATA[The family by Marco Pozzi]]></summary>
+        <title type="html"><![CDATA[Sweet Angel]]></title>
+        <id>1x-3583646</id>
+        <link href="https://1x.com/photo/3583646"/>
+        <updated>2026-05-15T19:43:06.526Z</updated>
+        <summary type="html"><![CDATA[Sweet Angel by Yoshinobu  Akimoto]]></summary>
         <author>
-            <name>Marco Pozzi</name>
+            <name>Yoshinobu Akimoto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climbing to the Top]]></title>
-        <id>1x-3583960</id>
-        <link href="https://1x.com/photo/3583960"/>
-        <updated>2026-05-15T14:13:38.228Z</updated>
-        <summary type="html"><![CDATA[Climbing to the Top by George Digalakis]]></summary>
+        <title type="html"><![CDATA[Golden Eagle in Flight]]></title>
+        <id>1x-3583343</id>
+        <link href="https://1x.com/photo/3583343"/>
+        <updated>2026-05-15T19:43:06.519Z</updated>
+        <summary type="html"><![CDATA[Golden Eagle in Flight by Wendy Feng]]></summary>
         <author>
-            <name>George Digalakis</name>
+            <name>Wendy Feng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Glass blower]]></title>
-        <id>1x-3560736</id>
-        <link href="https://1x.com/photo/3560736"/>
-        <updated>2026-05-15T14:13:38.221Z</updated>
-        <summary type="html"><![CDATA[The Glass blower by Trevor Cole]]></summary>
+        <title type="html"><![CDATA[Hope]]></title>
+        <id>1x-3583421</id>
+        <link href="https://1x.com/photo/3583421"/>
+        <updated>2026-05-15T19:43:06.512Z</updated>
+        <summary type="html"><![CDATA[Hope by Cristian Pavel]]></summary>
         <author>
-            <name>Trevor Cole</name>
+            <name>Cristian Pavel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ミルフィーユの岩]]></title>
-        <id>1x-3583599</id>
-        <link href="https://1x.com/photo/3583599"/>
-        <updated>2026-05-15T14:13:38.204Z</updated>
-        <summary type="html"><![CDATA[ミルフィーユの岩 by mikuta]]></summary>
+        <title type="html"><![CDATA[Il popolo di Sant'Efisi 2026.9]]></title>
+        <id>1x-3583354</id>
+        <link href="https://1x.com/photo/3583354"/>
+        <updated>2026-05-15T19:43:06.345Z</updated>
+        <summary type="html"><![CDATA[Il popolo di Sant'Efisi 2026.9 by Alberto Maria Melis]]></summary>
         <author>
-            <name>mikuta</name>
+            <name>Alberto Maria Melis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Storms Descend - Atacama Highlands, Argentina]]></title>
-        <id>1x-3583998</id>
-        <link href="https://1x.com/photo/3583998"/>
-        <updated>2026-05-15T14:13:38.184Z</updated>
-        <summary type="html"><![CDATA[Where Storms Descend - Atacama Highlands, Argentina by Hanping Xiao]]></summary>
+        <title type="html"><![CDATA[Las Salinas church - Cabo de Gata]]></title>
+        <id>1x-3583610</id>
+        <link href="https://1x.com/photo/3583610"/>
+        <updated>2026-05-15T19:43:06.332Z</updated>
+        <summary type="html"><![CDATA[Las Salinas church - Cabo de Gata by Manuel Jose Guillen Abad]]></summary>
         <author>
-            <name>Hanping Xiao</name>
+            <name>Manuel Jose Guillen Abad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barn swallow]]></title>
+        <id>1x-3583757</id>
+        <link href="https://1x.com/photo/3583757"/>
+        <updated>2026-05-15T19:43:06.301Z</updated>
+        <summary type="html"><![CDATA[Barn swallow by kazuyasu kisaichi]]></summary>
+        <author>
+            <name>kazuyasu kisaichi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗最高领袖强调文明独立重要性]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9057175</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9057175"/>
+        <updated>2026-05-15T16:05:55.000Z</updated>
+        <summary type="html"><![CDATA[伊朗最高领袖穆杰塔巴强调，波斯语言在维护伊朗民族身份、文明传统和文化独立中的重要作用。
+新华社报道，穆杰塔巴在波斯语日暨伊朗诗人菲尔多西纪念活动之际发表书面讲话时指出，波斯语不仅是交流工具，更是伊朗民族思想联结与身份认同的重要载体。
+他指出，波斯语言文学是向世界传播伊朗伊斯兰文明的重要资源，加强波斯语的发展，对提升“伊朗—伊斯兰文明”影响力具有重要意义。
+提及伊朗战事，穆杰塔巴说，伊朗民族在面对外部侵略时所展现出的“英勇抵抗与光荣胜利”，有利于更好地维护文明独立。
+他强调，伊朗社会应进一步加强语言、文化与价值观领域的“防御能力”，特别是在青少年教育和文化建设方面推动创新，以维护国家文明独立。
+美国总统特朗普4月1日在社交媒体发帖称：“在（霍尔木兹）海峡开放前，我们会把伊朗炸到灰飞烟灭，或者如他们所说——炸回石器时代！！！”他7日再发威胁，称“今晚，整个文明将消亡，永不复返”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：美伊停火是“应其他国家要求”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9057139</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9057139"/>
+        <updated>2026-05-15T15:54:02.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普在总统专机“空军一号”上接受采访时称，他本不赞成美国同伊朗停火，停火是“应其他国家要求”。
+特朗普星期五（5月15日）说，美伊停火是“应其他国家要求”。“我本来并不赞成（停火），但我们为了帮巴基斯坦一个忙而停火，他们是很棒的人。”
+新华社引述特朗普说，伊朗方面提出的方案“不可接受”，“如果我不喜欢第一句话，我就直接扔掉”。“如果他们（伊朗）拥有任何形式的核武器，我不会读剩下的内容。”
+特朗普还威胁摧毁伊朗的基础设施，“我们可以摧毁他们的桥梁和电力设施，两天之内我们就能瘫痪整个系统”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋据悉试图说服邻国协同回击伊朗遭拒]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9057033</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9057033"/>
+        <updated>2026-05-15T15:25:05.000Z</updated>
+        <summary type="html"><![CDATA[知情人士称，阿拉伯联合酋长国曾试图说服包括沙特阿拉伯和卡塔尔在内的邻国，共同参与协调军事行动，以回应伊朗的空袭，但遭到这些国家的拒绝。
+因谈及私下交流而要求匿名的知情人士说，在美国和以色列于2月28日开始轰炸伊朗后不久，阿联酋总统穆罕默德与多名地区领导人通话，其中包括沙特王储穆罕默德。 
+彭博社引述知情人士称，阿联酋总统当时坚信，有必要以集体方式进行报复，以震慑伊朗。
+此前，伊朗为回应美国和以色列的攻击，向波斯湾国家发射数百架无人机和导弹。德黑兰的打击目标包括整个地区的港口、机场、住宅楼和酒店。
+伊朗还几乎封锁至关重要的霍尔木兹海峡，迫使波斯湾国家削减石油和天然气产量，冲击了财政。
+据一名知情者透露，阿联酋总统很快决定与美国总统特朗普政府及以色列合作，但其他波斯湾阿拉伯国家领导人告诉他，这不是他们的战争。阿联酋与沙特原本就存在裂痕的关系因此恶化。
+这名知情者也称，在通话中，阿联酋总统提醒其他领导人，波斯湾阿拉伯国家合作委员会这个由六国组成的组织，之所以于1981年成立，正是因为两年前伊朗伊斯兰革命带来的威胁。
+这些此前未曾报道过的细节，有助于解释阿联酋为何对其他阿拉伯国家感到愤怒，并最终在4月底作出退出石油输出国组织（简称油盟，OPEC）的重大决定，同时也说明它为何拉近与以色列的关系。
+知情人士称，阿联酋在没有其他波斯湾国家支持的情况下，于3月初开始对伊朗发动有限打击，并在4月再次采取行动。 
+随后，阿联酋宣布退出由沙特主导的油盟，此举震动了石油市场。阿联酋还在重新评估它在包括波斯湾阿拉伯国家合作委员会在内的地区组织中的成员身份。 
+除伊朗战争引发的摩擦外，阿联酋与沙特也是经济方面的竞争对手，双方在也门和苏丹冲突问题上也一直存在分歧。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称中国愿支持美伊谈判 伊方要美国展现诚意]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056679</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056679"/>
+        <updated>2026-05-15T14:56:12.000Z</updated>
+        <summary type="html"><![CDATA[（北京／德黑兰综合电）美国总统特朗普称，中国愿意支持美国与伊朗的谈判，也表明不会向伊朗提供军事装备。伊朗方面强调要美国展现诚意，才愿意谈判。 
+特朗普接受福克斯新闻台采访时说，中国国家主席习近平希望美伊达成停战协议。“他希望达成协议。他还表明，如果能提供任何帮助，他愿意帮忙。”
+特朗普星期五（5月15日）在北京也对记者说，他与习近平都不希望伊朗拥有核武器，希望霍尔木兹海峡畅通。他表明不会再对伊朗有更多耐心，并要德黑兰赶快与华盛顿达成协议。
+美国贸易代表格里尔星期五在北京接受彭博电视访问说，中国官员在中美首脑峰会上明确表明，希望霍尔木兹海峡能在没有限制或收费的情况下重新开放，称北京将务实行事，限制对伊朗的军事支持。 
+格里尔说，中国和特朗普都希望中东实现和平，“因此我们非常有信心，他们（中方）会尽一切努力，限制对伊朗的任何形式的实质支持”。
+伊朗外长阿拉格齐星期五说，伊方已收到美国的信息，表明美方愿意继续谈判。他也说，伊朗不信任美国，只有在华盛顿展现出诚意的情况下，伊朗才有意谈判。 
+伊朗媒体星期五报道，美国已拒绝伊朗针对结束战争提出的方案，并重申在核问题上的强硬立场。 
+伊方提出的方案是两阶段谈判程序，第一阶段是结束所有战线的战争，如果伊朗的条件得到满足，将启动关于核问题的第二阶段谈判。
+
+伊外长：中国怀有善意 欢迎中方协助解决冲突
+
+在印度首都新德里出席金砖国家外长会议的阿拉格齐向媒体表明，伊朗愿意接受任何形式的支持，包括来自中国的支持，以帮助解决中东冲突。 
+他说，伊朗感谢任何有能力提供帮助的国家，特别是中国，并且说：“我们与中国关系良好，我们是战略伙伴，我们知道中国怀有善意，因此，任何中方有助于外交的举措，伊朗都是欢迎的。”
+阿拉格齐强调，伊朗不寻求发展核武器，并指霍尔木兹海峡应由伊朗和阿曼两国共同管理。他说，霍尔木兹海峡是开放的，只要同伊朗军方协调，所有船只都可以通行，但敌对国家除外。
+他也说，围绕浓缩铀的相关问题“相当复杂”，伊美双方已同意推迟就这一议题展开的谈判。
+另外，伊朗伊斯兰革命卫队星期四说，自星期三晚开始，伊朗海军已允许一些中国船只通过霍尔木兹海峡。
+伊朗国家电视台报道，已有30多艘船获准通过海峡，但不清楚是否都是中国船只。
+彭博社汇编的船舶追踪数据显示，自上星期天（5月10日）以来，已有四艘各载有200万桶原油的油轮驶出霍尔木兹海峡。
+在美伊战争爆发之前，每天有约20艘大小不一的油轮通过霍尔木兹海峡。 
+
+美军称伊朗九成水雷已毁 威胁力锐减
+
+美军中央司令部司令库珀在星期四提交国会的书面声明中说，伊朗8000枚海军水雷库存，有九成以上被美军摧毁，并指伊朗威胁邻国和美国利益的能力已大幅削弱。
+他称，伊朗已无法向中东主要盟友，包括真主党、胡塞武装和哈马斯转移武器和其他资源。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普关键选民支持率下滑 或影响共和党中期选举成绩]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9049784</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9049784"/>
+        <updated>2026-05-15T14:28:44.000Z</updated>
+        <summary type="html"><![CDATA[（纽约彭博电）美国总统特朗普在2024年成功连任，主要依靠西班牙裔、黑人以及30岁以下年轻选民的支持。这些选民原本寄望他改善生活费高企问题，如今却对他的政策日益感到失望。 
+皮尤研究中心5月初公布的民调显示，和第二任期初期相比，特朗普在西班牙裔选民中的支持率下降了27个百分点，受调查者普遍对特朗普的经济和强硬移民政策感到不满。
+民调也发现，在35岁以下的特朗普支持者中，仅57%仍认可他的表现，明显低于50岁及以上支持者87%的支持率。
+
+特朗普支持者“后悔情绪”上升
+
+无党派研究机构More in Common的全球研究主管霍金斯（Stephen Hawkins）指出，2024年大选中首次投票支持特朗普的选民，相当一部分并非他的坚定支持者，反而对他抱持怀疑态度，但认为他是“相对不那么糟糕”的候选人。因此，一旦特朗普未能兑现承诺，他们也最有可能在未来撤回支持。
+More in Common的调查显示，这一群体的“后悔情绪”正在上升。在特朗普第二任期初期，仅约13%的相关选民对投票决定感到后悔，如今这一比率已升至三成以上，增幅明显扩大。 
+由于共和党内部人士也开始对特朗普抱持怀疑态度，他的支持率跌至历来最低点。路透社/益普索的民调显示，他的支持率在4月份跌至34%。
+美国人对特朗普在一系列问题上的表现感到不满，包括承诺降低物价却推行导致物价上涨的关税政策；承诺让美国远离战争却发动了对伊朗的战争；承诺打击“犯罪的非法移民”，却逮捕没有犯罪记录的无证移民，导致农场、餐馆和建筑工地人手短缺。 
+特朗普处理经济的表现，向来比较受到选民认可，但路透社/益普索的民调显示，如今仅有27%的受访者认可他的经济表现；在选民最关心的降低生活费问题上，认为他做得不错的仅占22%。至于选举年最重要的议题——哪个政党拥有更佳的经济计划，民主党以32%对28%的微弱优势领先共和党。
+伊朗战争进一步影响特朗普的支持率。佛罗里达州立大学政治学家、民意和投票行为专家阿特克森说，即使是不太关注政治或外交政策的选民，每次加油时也能感受到这场冲突的影响。 
+
+11月中期选举 民主党有望掌控众议院
+
+这一切对特朗普和国会共和党人来说都不是好消息。选举预测专家认为，民主党很有可能在11月中期选举后掌控众议院。这将剥夺特朗普在华盛顿左右立法和议程的权力。共和党人对保住参议院更有信心，但他们的信心已不如几个月前那么坚定。
+霍金斯说，即使部分不满特朗普的选民未必转向民主党，但可能减少投票参与度。民主党选民的投票热情则很高，他们不指望说服特朗普支持者加入他们的阵营，只希望这些人什么都不做。
+他说：“根据我们的数据，我预计会有少量（共和党）选民转换阵营。但更多的人会耸耸肩，选择待在家里。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚果（金）暴发伊波拉疫情 死亡病例65起]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056864</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056864"/>
+        <updated>2026-05-15T14:22:14.000Z</updated>
+        <summary type="html"><![CDATA[非洲疾病预防控制中心宣布， 刚果民主共和国东部伊图里省暴发伊波拉疫情，目前已报告246个疑似病例和65起死亡病例。
+非洲疾控中心星期五（5月15日）在声明中说，刚果民主共和国（简称刚果（金））国家生物医学研究所针对20份样本的初步实验室检测结果显示，13份样本确认感染伊波拉病毒，其中包括四个死亡病例。
+非洲疾控中心说，由于受影响地区包括城市、人口流动频繁且安全形势不稳，同时当地密切接触者追踪、感染预防和控制能力不足，加之邻近乌干达和南苏丹，因此当前疫情存在扩散风险。
+新华社引述非洲疾控中心主任卡塞亚说，鉴于受影响地区与邻国之间人口流动频繁，迅速开展区域协调至关重要。
+非洲疾控中心正同刚果（金）、乌干达、南苏丹等国以及世界卫生组织、联合国儿童基金会等机构合作，加强监测和应对工作，以尽快控制疫情。
+2025年12月，刚果（金）政府宣布，当地2025年9月开始的伊波拉疫情结束。 
+伊波拉（Ebola）是人畜共通病毒，主要感染途径是透过患者体液传染，如血液、汗、呕吐物、排泄物、尿液、唾液或精液等。
+病毒引起的伊波拉出血热是目前世界上最致命的病毒性出血热，致死原因主要为中风、心肌梗塞、低血容量休克或多脏器损害，死亡率高达50%至90%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美峰会后第一时间与特朗普通话 高市：日美保持密切沟通]]></title>
+        <id>https://www.zaobao.com/news/world/story20260515-9056670</id>
+        <link href="https://www.zaobao.com/news/world/story20260515-9056670"/>
+        <updated>2026-05-15T14:15:48.000Z</updated>
+        <summary type="html"><![CDATA[日本首相高市早苗在中美峰会后，第一时间向美方深入了解峰会内容。她告诉记者：“我听取了非常详细的介绍，日美将保持密切沟通。” 
+高市早苗在星期五（5月15日）与美国总统特朗普通电话。此次通话持续15分钟，通话于日本时间晚间7时30分进行，特朗普正在返回美国的空军一号专机上。 
+高市在X上的社媒账号介绍，特朗普详细说明他对中国的访问，并与她就涉及中国的各种课题，包括经济安全和其他安全相关事宜，彼此交换意见。高市也对特朗普传达日本在伊朗情况上的立场。
+高市也对日本媒体强调：“我们与特朗普总统确认了日美同盟坚定不移。我们期待下个月在七国集团峰会上再次会面，并将密切合作。”
+当记者问到，美国是否在美中峰会上谈到日本，她回答：“他（指特朗普）做了详细介绍，但前提是我不能透露具体内容。我对他为日本所做的支持深表感谢。除此之外，我不能透露更多。”
+每日新闻透露，日本当局在中美峰会首日就在协调尽快实现美日首脑通话。虽然日本内部研判此次峰会不会对美中关系产生很深远影响，但不排除日方对中美的“G2”效应将如何主导世界”保持警惕。
+中美两国领导人今年内可能举行最多四次会晤，日本政府担忧，中美首脑的决策极可能影响包括印太地区在内的国际事务。 
+日本外长茂木敏充在众议院外交事务委员会上也说：“我们密切关注（峰会）的后续。第一天的会谈相对缓和，我们收集有关会谈的内容以及对日本产生影响的信息，并作出适当回应。日本希望在与美国牢固的互信关系基础上开展合作，并一同敦促中国履行所应承担的责任。”
+鉴于美中关系与东亚安全息息相关，日本政府这次也密切关注此次峰会上提到台湾问题时，美国做出的回应。 
+日本电视台NNN新闻网引述不具名的日外交官说，他不意外中国在台湾问题上发出警告。
+高市的一名亲近消息人士则认为，中方的喊话也是“对日本的重大警告”。报道透露，日方对特朗普没对北京让步松了一口气。
+朝日新闻指，虽然美中关系稳定让国际社会感到安心，但人们强烈担忧会出现“G2”局面，即美中两国承认各自势力范围的划分，并完全在两国之间决定重大问题。
+此前，美中关系往往被放置在中国挑战美国主导的国际秩序的视角下理解。然而，特朗普第二任期内，美国逐渐放弃自身作为战后秩序维护者的角色，使得现状出现松动。
+朝日呼吁，日本应与欧洲、澳大利亚等国一道督促美国认识法治的重要性。与此同时，为了东亚和平，不能忽略日中对话，要尽快让中日关系恢复正常。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -215,14 +363,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[芬兰总统：美国须在欧洲防御俄罗斯核弹头 不会退出北约]]></title>
+        <title type="html"><![CDATA[芬兰总统：美国需在欧洲防御俄罗斯核弹头 不会退出北约]]></title>
         <id>https://www.zaobao.com/news/world/story20260515-9056688</id>
         <link href="https://www.zaobao.com/news/world/story20260515-9056688"/>
         <updated>2026-05-15T13:34:09.000Z</updated>
         <summary type="html"><![CDATA[芬兰总统斯图布说，美国需要北约才能应对俄罗斯的核武威胁，这意味着它退出北约的代价太高了，华盛顿为了自己的利益，将继续在欧洲大陆保留驻军。 
 斯图布星期五（5月15日）在立陶宛首都维尔纽斯一个商业论坛上说，北约成员涵盖北欧国家，让美国能通过在欧洲的军事基地，近距离应对它的头号威胁，即俄罗斯的核武器。
-他说：“俄罗斯在西北部的科拉半岛（Kola Peninsula）和摩尔曼斯克（Murmansk）部署了大量核弹头，那里距离芬兰边境只有100公里。这些核弹头都是对准纽约、华盛顿特区和洛杉矶。”
-美国总统特朗普大肆批评北约盟友在美伊战事未支持美国，在上个月宣布将至少削减在德国的5000名驻军，并考虑进一步减少驻守在欧洲的8万5000名美军人员。消息人士透露，美国本周突然取消派遣4000名陆军士兵到波兰的计划。 
+他说：“俄罗斯在西北部的科拉半岛（Kola Peninsula）和摩尔曼斯克（Murmansk）部署大量核弹头，那里距离芬兰边境只有100公里。这些核弹头都是对准纽约、华盛顿特区和洛杉矶。”
+美国总统特朗普大肆批评北约盟友在美伊战事未支持美国，在上个月宣布将至少削减在德国的5000名驻军，并考虑进一步减少驻守在欧洲的8万5000名美军人员。 
+消息人士透露，美国本周突然取消派遣4000名陆军士兵到波兰的计划。 
 不过，斯图布说：“豪语和现实总有差距，美国不会退出北约，美国需要欧洲。”
 在维尔纽斯的同场商业论坛上，立陶宛总统瑙塞达说：“北约正处于关键时刻，我们必须保住这个组织，因为这是我所知道的世界最好的军事联盟，不只是二战以来，可能是14世纪以来最好。”]]></summary>
         <author>
@@ -465,106 +614,6 @@ The United States has rejected Iran's 14-point proposal. pic.twitter.com/k863l61
 日本国债收益率飙升也反映出市场对日本财政状况的担忧再度加剧，此前有报道称政府正在考虑追加预算。
 共同社星期四报道，由于油价高企和冲突的不确定性持续存在，首相高市早苗政府正在考虑追加预算，以为价格缓解措施筹措资金。
 片山星期五说，目前情况尚未发展到需要追加预算的地步。她说：“我们为2026财年预算储备了1万亿日元（80.65亿新元）。我们目前还没有动用过这些资金。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英首相盟友呼吁工党同僚冷静 勿重蹈保守党覆辙]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9054599</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9054599"/>
-        <updated>2026-05-15T08:12:39.000Z</updated>
-        <summary type="html"><![CDATA[英国首相斯塔默的坚定盟友呼吁工党同僚“冷静下来”，称还没有人能够证明自己拥有足够支持，可以向斯塔默发出挑战。 
-路透社报道，斯塔默的主要竞争对手已在星期四（5月14日）辞职，指责斯塔默的政治立场摇摆不定，还有一些人也蠢蠢欲动，准备投入这场党魁竞争，这使得斯塔默的权力越来越岌岌可危。
-英国住房部长里德星期五（15日）接受电台Times Radio采访时说：“我不否认，这一周对我们所有人来说都是非常难熬的一周，但我现在只想给所有同僚一个建议，请冷静下来，好好想一想保守党当年这样做，结果发生什么。”
-里德所指的是保守党经历数次混乱的领导层更迭之后，在2024年大选被斯塔默领导的工党以压倒性的优势打败，结束了保守党长达14年的执政。
-里德说，工党需要团结在斯塔默周围，避免被领导权之争分散注意力。
-里德说：“摆在眼前的事实是，目前还没有一个挑战者获得81个提名来对斯塔默发起挑战。”这是工党正式启动领导权竞争的程序。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美取消驻波兰增兵计划 波兰称暂无变化迹象]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053986</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053986"/>
-        <updated>2026-05-15T07:33:35.000Z</updated>
-        <summary type="html"><![CDATA[美国两名官员透露，五角大楼已取消向波兰临时部署4000名美军的计划。不过，波兰政府发言人说，目前没有迹象显示美军轮换驻防安排将出现变化。
-彭博社报道，受影响的部队隶属于驻得克萨斯州胡德堡（Fort Hood）的第一骑兵师第二装甲旅战斗队，据悉部分士兵甚至已在前往部署地点的途中。
-参议院军事委员会的民主党成员沙欣指，取消波兰驻军的决定令人意外，因为国会并未接到任何通知。五角大楼发言人拒绝对报道置评。
-立陶宛国防部长考纳斯称，由于五角大楼正在审查美军在欧洲的部署计划，美国已暂停向欧洲轮换部署部队。
-这项出人意料的决定，再度引发外界对特朗普计划缩减驻欧洲兵力的疑虑。
-另据路透社报道，波兰政府发言人什拉普卡星期五（5月15日）说，美军在波兰实行轮换驻防，没有迹象显示相关安排会发生改变。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国务院：以黎第三轮会谈“富有成效且积极”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053629</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053629"/>
-        <updated>2026-05-15T06:23:30.000Z</updated>
-        <summary type="html"><![CDATA[美国国务院官员说，星期四（5月14日）在华盛顿举行的以色列和黎巴嫩第三轮会谈“富有成效且积极”，会谈15日将继续举行。
-美国媒体引述国务院官员的话报道，当天的会谈从上午9时开始，八小时后结束，但没有提供更多细节。
-报道称，本轮会谈标志着以黎双方朝着更实质性谈判迈出了一步。除两国驻美大使，黎巴嫩特使、黎前驻美大使卡拉姆以及以色列高级安全官员也参加了当天会谈。
-报道指，此次会谈正值以黎停火即将结束之际，但以黎双方仍存在巨大分歧。一名黎巴嫩高级官员14日说，黎方希望首先实现全面停火，随后再就以军撤离问题进行谈判。
-至于黎巴嫩真主党武装问题，将在停火后通过黎国内政治途径加以解决。而一名以政府官员当天稍早时对新华社说，此轮谈判旨在解除黎真主党武装，并达成与黎巴嫩建立正式外交关系的协议。
-在美方斡旋下，以黎分别于4月14日和23日在华盛顿举行了两轮大使级会谈。以黎4月17日开始为期10天的临时停火，美国总统特朗普4月23日宣布停火延长三周。 
-然而，以色列继续以黎真主党违反停火协议为由发动袭击，并在其占领的黎南部地区拆除和炸毁所谓真主党“军事基础设施”。
-法新社报道，以色列军方5月15日上午对黎巴嫩南部五个村庄发布撤离警告。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以军向黎南部五个村庄发布撤离警告]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053588</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053588"/>
-        <updated>2026-05-15T06:01:09.000Z</updated>
-        <summary type="html"><![CDATA[法新社报道，以色列军方星期五（5月15日）上午对黎巴嫩南部五个村庄发布撤离警告。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿根廷下周在涉疫游轮出发地开展汉坦病毒调查]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053513</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053513"/>
-        <updated>2026-05-15T05:49:31.000Z</updated>
-        <summary type="html"><![CDATA[阿根廷当局安排调查团队千万全国南部城市乌斯怀亚展开调查，确定当地是否存在汉坦病毒。
-新华社报道，阿根廷卫生部星期四（5月14日）确认，这支调查团队将在下周前往火地岛省首府乌斯怀亚，即暴发汉坦病毒疫情游轮洪迪厄斯号（MV Hondius）的出发地。
-洪迪厄斯号4月1日从乌斯怀亚启程，驶往大西洋岛国佛得角，途中暴发汉坦病毒疫情，至今已造成三人死亡。 
-世界卫生组织官员曾说，船上首个感染病例可能不是在船上感染，而是发生在游轮出发之前。不过，火地岛省卫生部门基于病毒潜伏期等因素，对乌斯怀亚为感染源头的说法表示怀疑。
-一名卫生官员星期四接受媒体采访时说，现在距离船只出发已经过去40多天，“但乌斯怀亚的流行病学情况并没有太大变化，也没有发现任何病例”。
-据阿根廷《布宜诺斯艾利斯时报》报道，目前无法确定船上乘客最初感染的时间或地点，政府派出的专家团队将与火地岛省卫生部门共同调查，预计四周后可公布相关结果。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗下周访韩 在李在明故乡安东市举行首脑会谈]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053159</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053159"/>
-        <updated>2026-05-15T05:41:21.000Z</updated>
-        <summary type="html"><![CDATA[韩国总统李在明和日本首相高市早苗下星期二（5月19日）在李在明的故乡——庆尚北道安东市举行会谈。
-韩联社报道，韩国总统府青瓦台首席发言人姜由桢星期五（15日）宣布此消息时说，高市早苗将于19日至20日访问安东市，并与李在明举行会谈。
-两国领导人将围绕韩日关系发展方向进行广泛讨论，并在经济、社会、国民安全等涉及民生的诸多领域加强务实合作。中东局势等地区及全球问题也将被列为议题。
-这将是李在明今年1月访问高市早苗故乡——日本奈良县后，高市早苗时隔四个月进行回访，这意味着韩日领导人首次实现互访对方故乡。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六名涉疫游轮乘客飞抵澳洲 将隔离至少三周]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9053333</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9053333"/>
-        <updated>2026-05-15T05:23:16.000Z</updated>
-        <summary type="html"><![CDATA[从暴发汉坦病毒疫情游轮上撤离的六名乘客，乘飞机抵达澳大利亚军事机场，将立即接受为期三周的严格隔离。
-法新社报道，澳洲卫生部长巴特勒说，机上的六名旅客中，六人是澳洲人，一人是持澳洲永居身份的英国人，另一人是新西兰公民。他们乘坐的飞机于星期五（5月15日）降落在西澳大利亚州珀斯的军事机场。
-这六名乘客在登机前的汉坦病毒检测结果均为阴性，降落后会立刻接受再次筛查，然后前往珀斯市郊的专用隔离设施，接受至少三周隔离观察。
-荷兰泛海探险公司的豪华游轮洪迪厄斯号（MV Hondius）暴发汉坦病毒疫情，已造成三名乘客死亡，船上其余乘客近日陆续从西班牙加那利群岛撤离。卫生部门多次强调，这场疫情对公共健康的总体风险较低。
-搭载这六名乘客撤离的航班于当地时间星期四（14日）从荷兰起飞，机上所有人员都被要求佩戴个人防护装备。
-汉坦病毒潜伏期长达42天。澳洲当局尚未确定在三周初步隔离结束后，将如何安排这些乘客。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>

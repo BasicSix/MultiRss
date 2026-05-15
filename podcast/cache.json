@@ -347,6 +347,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "6a05e490382d6c4030b4a313",
+          "author": null,
+          "description": "Most managers give feedback. Few give feedback that actually works. Drawing on her background in psychology and executive coaching, Renee St Jacques breaks down what so many well-intentioned leaders get wrong — and introduces a three-part framework to help teams rebuild trust and perform at their best.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/reneestjacques",
+          "publishedOn": "2026-05-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to give feedback that lands | Dr Renee St Jacques",
+          "itunes": {
+            "duration": "14:27"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a05e490382d6c4030b4a313/media.mp3",
+            "length": "13982063",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6a01eff292e9663a6f89041a",
           "author": null,
           "description": "Deep tech entrepreneur D. Scott Phoenix spent years building AI — now, he believes we're on the cusp of a profound merger between humans and machines. Reframing the AI debate through the lens of evolutionary biology, he shifts the question from whether we should fear or embrace AI to whether we understand what's at stake if we get it wrong. Hear his provocative case for why we need to \"eat the AI.\"\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
