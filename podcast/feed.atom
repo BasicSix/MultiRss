@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T13:39:05.316Z</updated>
+    <updated>2026-05-16T19:10:06.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I love my bad days | Alexi Pappas]]></title>
+        <id>6a01f04eb443364556f00f15</id>
+        <link href="http://go.ted.com/alexipappas"/>
+        <updated>2026-05-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One month before the Rio Olympics, runner Alexi Pappas couldn't hit her splits in practice. She was begging her watch to change its mind. Then her coach told her to take it off — and shared the best advice she's ever received. That single piece of wisdom led her to break a national record and changed how she chases her goals, carrying her through ultramarathons, a memoir and three films. Bad days aren't a detour, she says — they mean you're right on track.
+
+Following the talk, host Elise Hu caught up with Alexi for a "Beyond the Talk" conversation to dig deeper – into what the rule of thirds looks like beyond sport, what it means to befriend pain rather than just survive it, and what she wants people to know about how to keep going even when you think it’s impossible. And a heads up: this conversation involves mention of mental health struggles and suicide.
+
+And afterwards, check out Alexi's own podcast Mentor Buffet, where she talks to athletes, actors, movie producers, DJs, chefs, authors, and other people she admires about who has influenced them along their journey. You can find episodes of Mentor Buffet on Apple, Spotify, and YouTube.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to give feedback that lands | Dr Renee St Jacques]]></title>
         <id>6a05e490382d6c4030b4a313</id>
