@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T19:43:06.320Z</updated>
+    <updated>2026-05-16T03:30:35.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1517,19 +1517,6 @@ This episode originally aired in 2023.
         <link href="http://go.ted.com/petersteinberger"/>
         <updated>2026-04-17T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, create and build. "The lobster is loose, and it's not going back into the tank," he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A plan to stop AI from automating our decline | Gina Raimondo]]></title>
-        <id>69e02a0a6f0d582d7adba74b</id>
-        <link href="https://go.ted.com/ginaraimondo"/>
-        <updated>2026-04-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The United States is on track to win the AI race — and hollow itself out in the process, says Gina Raimondo, former Governor of Rhode Island and US Secretary of Commerce. In this unflinching look at the threat of AI-induced economic disruption and social unrest, she offers a concrete blueprint to prepare workers for what’s coming next. "AI is a 100-year technology and needs a 100-year response," she says. Is America up to the challenge?
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
