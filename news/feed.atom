@@ -2,198 +2,334 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T08:09:19.356Z</updated>
+    <updated>2026-05-16T13:39:10.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Root memory]]></title>
-        <id>1x-3584355</id>
-        <link href="https://1x.com/photo/3584355"/>
-        <updated>2026-05-16T08:08:33.045Z</updated>
-        <summary type="html"><![CDATA[Root memory by Qiang Li]]></summary>
+        <title type="html"><![CDATA[Ballroom Dance]]></title>
+        <id>1x-3584381</id>
+        <link href="https://1x.com/photo/3584381"/>
+        <updated>2026-05-16T13:39:08.516Z</updated>
+        <summary type="html"><![CDATA[Ballroom Dance by Ben.C.L]]></summary>
         <author>
-            <name>Qiang Li</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joy in the Dark]]></title>
-        <id>1x-3581646</id>
-        <link href="https://1x.com/photo/3581646"/>
-        <updated>2026-05-16T08:08:33.040Z</updated>
-        <summary type="html"><![CDATA[Joy in the Dark by Ilana Lam]]></summary>
+        <title type="html"><![CDATA[Portrait at the Durval Festival, Nigeria]]></title>
+        <id>1x-3270217</id>
+        <link href="https://1x.com/photo/3270217"/>
+        <updated>2026-05-16T13:39:08.483Z</updated>
+        <summary type="html"><![CDATA[Portrait at the Durval Festival, Nigeria by Francisco Mendoza Ruiz]]></summary>
         <author>
-            <name>Ilana Lam</name>
+            <name>Francisco Mendoza Ruiz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stairs]]></title>
-        <id>1x-3583752</id>
-        <link href="https://1x.com/photo/3583752"/>
-        <updated>2026-05-16T08:08:33.037Z</updated>
-        <summary type="html"><![CDATA[Stairs by Frank Massa]]></summary>
+        <title type="html"><![CDATA[Lynx spider]]></title>
+        <id>1x-3571950</id>
+        <link href="https://1x.com/photo/3571950"/>
+        <updated>2026-05-16T13:39:08.481Z</updated>
+        <summary type="html"><![CDATA[Lynx spider by Takiko Hirai]]></summary>
         <author>
-            <name>Frank Massa</name>
+            <name>Takiko Hirai</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greetings]]></title>
-        <id>1x-3514891</id>
-        <link href="https://1x.com/photo/3514891"/>
-        <updated>2026-05-16T08:08:33.033Z</updated>
-        <summary type="html"><![CDATA[Greetings by Dianne Mao]]></summary>
+        <title type="html"><![CDATA[Messeturm Frankfurt]]></title>
+        <id>1x-3584615</id>
+        <link href="https://1x.com/photo/3584615"/>
+        <updated>2026-05-16T13:39:08.478Z</updated>
+        <summary type="html"><![CDATA[Messeturm Frankfurt by Karin Kilb]]></summary>
         <author>
-            <name>Dianne Mao</name>
+            <name>Karin Kilb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facing the Cathedral | Santiago de Compostela, Spain]]></title>
-        <id>1x-3583278</id>
-        <link href="https://1x.com/photo/3583278"/>
-        <updated>2026-05-16T08:08:33.029Z</updated>
-        <summary type="html"><![CDATA[Facing the Cathedral | Santiago de Compostela, Spain by Rudy Mareel]]></summary>
+        <title type="html"><![CDATA[s/t]]></title>
+        <id>1x-3585828</id>
+        <link href="https://1x.com/photo/3585828"/>
+        <updated>2026-05-16T13:39:08.476Z</updated>
+        <summary type="html"><![CDATA[s/t by Carlos Lopes Franco]]></summary>
         <author>
-            <name>Rudy Mareel</name>
+            <name>Carlos Lopes Franco</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lea]]></title>
-        <id>1x-3583756</id>
-        <link href="https://1x.com/photo/3583756"/>
-        <updated>2026-05-16T08:08:33.025Z</updated>
-        <summary type="html"><![CDATA[Lea by Ruth Franke]]></summary>
+        <title type="html"><![CDATA[Scotland II]]></title>
+        <id>1x-3584589</id>
+        <link href="https://1x.com/photo/3584589"/>
+        <updated>2026-05-16T13:39:08.473Z</updated>
+        <summary type="html"><![CDATA[Scotland II by Bartolome Lopez]]></summary>
         <author>
-            <name>Ruth Franke</name>
+            <name>Bartolome Lopez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025_10]]></title>
-        <id>1x-3320130</id>
-        <link href="https://1x.com/photo/3320130"/>
-        <updated>2026-05-16T08:08:32.959Z</updated>
-        <summary type="html"><![CDATA[2025_10 by Rainer Neumann]]></summary>
+        <title type="html"><![CDATA[Mist-veiled Peaks of Sanqing]]></title>
+        <id>1x-3583513</id>
+        <link href="https://1x.com/photo/3583513"/>
+        <updated>2026-05-16T13:39:08.470Z</updated>
+        <summary type="html"><![CDATA[Mist-veiled Peaks of Sanqing by Simoon]]></summary>
         <author>
-            <name>Rainer Neumann</name>
+            <name>Simoon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I will come back II...]]></title>
-        <id>1x-3584530</id>
-        <link href="https://1x.com/photo/3584530"/>
-        <updated>2026-05-16T08:08:32.952Z</updated>
-        <summary type="html"><![CDATA[I will come back II... by Stefan Eisele]]></summary>
+        <title type="html"><![CDATA[Calatrava's harp]]></title>
+        <id>1x-3584167</id>
+        <link href="https://1x.com/photo/3584167"/>
+        <updated>2026-05-16T13:39:08.461Z</updated>
+        <summary type="html"><![CDATA[Calatrava's harp by Urs Zimmermann]]></summary>
         <author>
-            <name>Stefan Eisele</name>
+            <name>Urs Zimmermann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rhythmic Facade]]></title>
-        <id>1x-3239740</id>
-        <link href="https://1x.com/photo/3239740"/>
-        <updated>2026-05-16T08:08:32.946Z</updated>
-        <summary type="html"><![CDATA[Rhythmic Facade by Masaki Yazaki]]></summary>
+        <title type="html"><![CDATA[Durar]]></title>
+        <id>1x-3584752</id>
+        <link href="https://1x.com/photo/3584752"/>
+        <updated>2026-05-16T13:39:08.457Z</updated>
+        <summary type="html"><![CDATA[Durar by Wael Onsy]]></summary>
         <author>
-            <name>Masaki Yazaki</name>
+            <name>Wael Onsy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3569470</id>
-        <link href="https://1x.com/photo/3569470"/>
-        <updated>2026-05-16T08:08:32.939Z</updated>
-        <summary type="html"><![CDATA[Untitled by Val dOrcia photography]]></summary>
+        <title type="html"><![CDATA[Diva #5]]></title>
+        <id>1x-3583352</id>
+        <link href="https://1x.com/photo/3583352"/>
+        <updated>2026-05-16T13:39:08.455Z</updated>
+        <summary type="html"><![CDATA[Diva #5 by Massimiliano De Viti]]></summary>
         <author>
-            <name>Val dOrcia photography</name>
+            <name>Massimiliano De Viti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Young Camel Herder]]></title>
-        <id>1x-3584398</id>
-        <link href="https://1x.com/photo/3584398"/>
-        <updated>2026-05-16T08:08:32.930Z</updated>
-        <summary type="html"><![CDATA[The Young Camel Herder by Rahul Wedpathak]]></summary>
+        <title type="html"><![CDATA[A short story about a golden hour take 2 / BW/]]></title>
+        <id>1x-3584639</id>
+        <link href="https://1x.com/photo/3584639"/>
+        <updated>2026-05-16T13:39:08.452Z</updated>
+        <summary type="html"><![CDATA[A short story about a golden hour take 2 / BW/ by Cembrzynski Ignacy]]></summary>
         <author>
-            <name>Rahul Wedpathak</name>
+            <name>Cembrzynski Ignacy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jutro]]></title>
-        <id>1x-3584136</id>
-        <link href="https://1x.com/photo/3584136"/>
-        <updated>2026-05-16T08:08:32.922Z</updated>
-        <summary type="html"><![CDATA[Jutro by Drago Vogrinec]]></summary>
+        <title type="html"><![CDATA[The lurking reaper]]></title>
+        <id>1x-3584716</id>
+        <link href="https://1x.com/photo/3584716"/>
+        <updated>2026-05-16T13:39:08.450Z</updated>
+        <summary type="html"><![CDATA[The lurking reaper by Atul Saluja]]></summary>
         <author>
-            <name>Drago Vogrinec</name>
+            <name>Atul Saluja</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bark and the Body]]></title>
-        <id>1x-3583961</id>
-        <link href="https://1x.com/photo/3583961"/>
-        <updated>2026-05-16T08:08:32.916Z</updated>
-        <summary type="html"><![CDATA[The Bark and the Body by daniel demunter]]></summary>
+        <title type="html"><![CDATA[A big city and a man]]></title>
+        <id>1x-3382566</id>
+        <link href="https://1x.com/photo/3382566"/>
+        <updated>2026-05-16T13:39:08.427Z</updated>
+        <summary type="html"><![CDATA[A big city and a man by Mutsuaki Yamato]]></summary>
         <author>
-            <name>daniel demunter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doing the dishes]]></title>
-        <id>1x-3584397</id>
-        <link href="https://1x.com/photo/3584397"/>
-        <updated>2026-05-16T08:08:32.908Z</updated>
-        <summary type="html"><![CDATA[Doing the dishes by Susan Moss]]></summary>
-        <author>
-            <name>Susan Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piazza Aulenti b&w version]]></title>
-        <id>1x-3583475</id>
-        <link href="https://1x.com/photo/3583475"/>
-        <updated>2026-05-16T08:08:32.753Z</updated>
-        <summary type="html"><![CDATA[Piazza Aulenti b&w version by Paolo Bolla]]></summary>
-        <author>
-            <name>Paolo Bolla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crowned]]></title>
-        <id>1x-3584230</id>
-        <link href="https://1x.com/photo/3584230"/>
-        <updated>2026-05-16T08:08:32.737Z</updated>
-        <summary type="html"><![CDATA[Crowned by Tali Krinsky]]></summary>
-        <author>
-            <name>Tali Krinsky</name>
+            <name>Mutsuaki Yamato</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3583116</id>
-        <link href="https://1x.com/photo/3583116"/>
-        <updated>2026-05-16T08:08:32.720Z</updated>
-        <summary type="html"><![CDATA[Untitled by Paulo Abrantes]]></summary>
+        <id>1x-3582527</id>
+        <link href="https://1x.com/photo/3582527"/>
+        <updated>2026-05-16T13:39:08.418Z</updated>
+        <summary type="html"><![CDATA[Untitled by Theo Decker]]></summary>
         <author>
-            <name>Paulo Abrantes</name>
+            <name>Theo Decker</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3582964</id>
-        <link href="https://1x.com/photo/3582964"/>
-        <updated>2026-05-16T08:08:32.707Z</updated>
-        <summary type="html"><![CDATA[Untitled by Ali Ayer]]></summary>
+        <title type="html"><![CDATA[Convergence]]></title>
+        <id>1x-3584244</id>
+        <link href="https://1x.com/photo/3584244"/>
+        <updated>2026-05-16T13:39:08.247Z</updated>
+        <summary type="html"><![CDATA[Convergence by Nancy Mu]]></summary>
         <author>
-            <name>Ali Ayer</name>
+            <name>Nancy Mu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ghepardo]]></title>
-        <id>1x-3548637</id>
-        <link href="https://1x.com/photo/3548637"/>
-        <updated>2026-05-16T08:08:32.678Z</updated>
-        <summary type="html"><![CDATA[Ghepardo by Paolorossi]]></summary>
+        <title type="html"><![CDATA[Giants of Al Max]]></title>
+        <id>1x-3584241</id>
+        <link href="https://1x.com/photo/3584241"/>
+        <updated>2026-05-16T13:39:08.243Z</updated>
+        <summary type="html"><![CDATA[Giants of Al Max by Ayman Fawzy]]></summary>
         <author>
-            <name>Paolorossi</name>
+            <name>Ayman Fawzy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selena]]></title>
+        <id>1x-3583546</id>
+        <link href="https://1x.com/photo/3583546"/>
+        <updated>2026-05-16T13:39:08.240Z</updated>
+        <summary type="html"><![CDATA[Selena by Natali Schrein]]></summary>
+        <author>
+            <name>Natali Schrein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sit down]]></title>
+        <id>1x-3574702</id>
+        <link href="https://1x.com/photo/3574702"/>
+        <updated>2026-05-16T13:39:08.236Z</updated>
+        <summary type="html"><![CDATA[sit down by Rolf Endermann]]></summary>
+        <author>
+            <name>Rolf Endermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lonely boat]]></title>
+        <id>1x-3581474</id>
+        <link href="https://1x.com/photo/3581474"/>
+        <updated>2026-05-16T13:39:08.222Z</updated>
+        <summary type="html"><![CDATA[Lonely boat by Sally Widjaja]]></summary>
+        <author>
+            <name>Sally Widjaja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泽连斯基：莫斯科图谋从白罗斯进攻基辅或北约成员国]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059977</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059977"/>
+        <updated>2026-05-16T13:03:09.000Z</updated>
+        <summary type="html"><![CDATA[（华沙／莫斯科综合电）乌克兰总统泽连斯基说，俄罗斯正试图说服白罗斯更深入参与对乌克兰的战争，图谋从白罗斯境内挥军南下进攻乌克兰，或往北入侵其中一个北约成员国。
+泽连斯基星期五（5月15日）会见军方和情报官员后，在Telegram发帖透露，乌方已掌握俄罗斯与白罗斯总统卢卡申科之间的更多接触，俄方正试图说服他加入“新的俄罗斯侵略行动”。
+泽连斯基说：“俄罗斯正在考虑从白罗斯境内往南及往北的行动计划，要么（往南）进击切尔尼戈夫和基辅，不然就是（往北）指向其中一个北约国家。”
+白罗斯南部与乌克兰接壤，西部和北部则与波兰、立陶宛和拉脱维亚接壤。
+对于泽连斯基的最新说法，莫斯科和明斯克都未即时回应。
+卢卡申科是俄罗斯总统普京最亲密的盟友之一，他允许俄军经由白罗斯，在2022年2月入侵乌克兰，但并未派兵参战。明斯克过后也允许俄罗斯在白罗斯境内部署战略核武器和超音速导弹。
+
+三年来首次 俄首季经济萎缩
+
+俄罗斯联邦统计局星期五发布，俄罗斯今年第一季国内生产总值（GDP）同比下跌0.2%，是2023年初以来首次萎缩。
+普京始终坚持俄罗斯在战争期间须维持经济增长，彭博社指出，最新数据对他无疑是个打击，也可能让国内民众愈发担忧，俄罗斯由战争驱动的经济正在借贷成本高涨的压力下走向衰退。
+不过，普京在当天早前一场通过电视播出的会议上说，俄罗斯经济在2月萎缩后，已在3月反弹增长1.8%，还称这是因为政府采取的措施见效。
+据俄罗斯央行估计，今年1月和2月的工作日较少，将首季增长率削去了多达半个百分点。接下来几个月，这个工作日效应可能往相反方向，对经济带来正面提振。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗将公布机制 管理霍尔木兹海峡并收费]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9060031</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9060031"/>
+        <updated>2026-05-16T12:54:55.000Z</updated>
+        <summary type="html"><![CDATA[伊朗议会国家安全和外交政策委员会主席阿齐兹说，伊朗已制定一项管理霍尔木兹海峡交通的机制，很快将公布收费准则和航线。
+阿齐兹星期六（5月16日）说，只有与伊朗合作的商船和相关方才能受益。他还说，将根据机制提供的特定服务收费。
+伊朗实际上已经封锁霍尔木兹海峡。在美国和以色列2月28日袭击伊朗之前，全球五分之一的石油和液化天然气通过这条海峡运往世界各地。航运中断引发了史上最严重的石油供应危机，导致全球油价飙升。
+
+欧洲国家与伊朗磋商霍尔木兹海峡通航
+
+法新社引述伊朗国家电视台报道，欧洲国家一直在与德黑兰就船舶通过霍尔木兹海峡的问题进行谈判。
+伊朗国家电视台报道，“继东亚国家（尤其是中国、日本）以及巴基斯坦的船只通过后，我们今天收到消息称，欧洲国家也已开始与伊朗伊斯兰革命卫队海军谈判”，以获得通过许可，但报道没有具体说明是哪些国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈马斯军事领导人哈达德身亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059927</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059927"/>
+        <updated>2026-05-16T12:27:28.000Z</updated>
+        <summary type="html"><![CDATA[加沙地带哈马斯证实，军事领导人伊兹丁·哈达德（Izz al-Din al-Haddad）已身亡。
+哈马斯一名高级官员向媒体证实哈达德身亡的消息。
+巴勒斯坦媒体星期六（5月16日）报道，加沙城多座清真寺通过喇叭广播悼念哈达德。新华社引述加沙消息人士报道，当地民众在加沙城一处清真寺举行悼念仪式，哈达德的妻子和女儿也在以色列的空袭中丧生。
+以色列星期五（15日）晚空袭加沙，造成至少七人死亡、50人受伤。以色列国防军和以色列国家安全总局（辛贝特）周六发声明指哈达德身亡。
+以方声明称，哈达德是哈马斯2023年10月7日突袭以色列的策划人之一，也是任职时间最长的哈马斯指挥官之一。以军去年6月击杀原军事领导人穆罕默德·辛瓦尔后，哈达德接任该职。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国指伊拉克真主党旅要员策划袭击欧美]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059049</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059049"/>
+        <updated>2026-05-16T10:52:36.000Z</updated>
+        <summary type="html"><![CDATA[（纽约综合电）美国司法部周五（5月15日）指控亲伊朗的伊拉克武装组织真主党旅（Kataib Hezbollah）一名要员，参与策划针对欧洲、加拿大和美国犹太人的恐怖主义活动，包括要在纽约袭击一座犹太教堂及两家美国银行的欧洲办事处。
+联邦检察官称，遭控的伊拉克人萨阿迪（Mohammad Baqer Saad Dawood Al-Saadi，32岁）参与欧洲至少18起恐怖袭击和加拿大两起恐怖袭击的策划、执行和宣传。
+当局说，自美以伊战争爆发以来，萨阿迪指挥并呼吁其他人袭击美国和以色列的人民与目标设施，包括杀害美国人和犹太人作为报复。
+萨阿迪被控六项罪名，包括合谋向真主党旅和伊朗伊斯兰革命卫队提供物质支持。美国把它们列为恐怖组织。
+萨阿迪在土耳其的伊斯坦布尔被捕，过后移交给美国。他周四（5月14日）到达纽约后已被关押。
+联邦调查局局长帕特尔在社交媒体平台X发文指出，萨阿迪涉及大规模的全球恐怖主义活动，是高价值目标。
+美国指责真主党旅在2020年12月袭击伊拉克的美军基地，今年3月在巴格达绑架美国女记者吉特森（Shelly Kittleson）。五角大楼、联邦调查局和伊拉克最高司法委员会官员介入后，真主党旅将她释放。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国加强世界杯安保 部署反无人机力量]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058941</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058941"/>
+        <updated>2026-05-16T10:45:38.000Z</updated>
+        <summary type="html"><![CDATA[（纽约彭博电）美国联邦调查局（FBI）计划在世界杯期间，向各体育场部署约60名受过专门训练的州和地方警察，以侦测敌对无人机并进行电子干扰。
+本届世界杯由美国、墨西哥和加拿大联合主办，将于6月11日开打，7月19日结束，预计到时将有数百万游客穿梭于美国11个主办城市。
+安全官员警告，过去多见于海外战场的无人机威胁，如今在美国本土出现的可能性正日益增加。
+知情者透露，相关人员目前正在积极接受培训，来自纽约州和新泽西州警察局、纽约市和洛杉矶警察局等机构的警员，将在FBI的监督下操作反无人机设备。
+这次部署反映了联邦当局日益加深的担忧，即市售无人机可能被用于扰乱或袭击大型公共集会。
+熟悉培训计划的消息人士说，FBI将直接监督洛杉矶、迈阿密和纽约的无人机防范工作，国土安全部下属机构则负责其余八个主办城市。
+最近在亚拉巴马州进行的训练演习，展示操作员如何在不中断比赛或制造恐慌的情况下击落无人机。
+他们利用摄像头、雷达和射频传感器探测到进入禁飞区的无人机，并通过电子方式进行干扰，在不开枪的情况下即可控制无人机。
+FBI自2022年开始筹划反无人机训练项目，去年10月总统特朗普签署行政命令后正式启动。
+美国国会去年12月通过法案，首次授权地方执法机构参与反无人机行动，并拨款5亿美元（约6亿4000万新元）用于这个项目。
+美国联邦紧急事务管理局已向世界杯主办城市发放一半资金，用于采购检测等设备，预计今年较迟时候还将拨付另一笔款项。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高龄30岁 “世界最长寿犬”在法国逝世]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059534</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059534"/>
+        <updated>2026-05-16T10:09:53.000Z</updated>
+        <summary type="html"><![CDATA[一只名叫拉扎尔（Lazare）、相信为“世界最长寿犬”的蝴蝶犬去世，高龄30岁。　　
+法新社联系了健力士世界纪录，询问拉扎尔在星期四（5月14日）去世前是否保持着这项纪录，得到的回复是：在拉扎尔去世之前，他们“没有收到申请或相关证据”，因此无法确认它是否保持着这项纪录。
+据动物慈善机构工作人员安妮-索菲·莫永（Anne-Sophie Moyon）介绍，拉扎尔是一只蝴蝶犬（Continental Toy Spaniel），耳朵竖立时形似蝴蝶，出生于1995年12月4日。它一生的大部分时间都和同一个主人一起生活，直到主人去世后，才到这家慈善机构的收容所生活。
+29岁的单身母亲奥菲莉·布多尔（Ophelie Boudol）上个月在收容所里一眼相中了这只比她大一岁的狗狗。她最初是想为母亲找一只宠物，但后来却把它带回了自己家里。几周后，拉扎尔去世了。
+30岁零五个月大的拉扎尔已经需要穿尿布，失聪失明，几乎整天都在睡觉。
+布多尔本周在位于法国东南部小镇维利勒佩卢的家中抱着拉扎尔时告诉记者：“它真的非常讨人喜欢。”
+她说，当莫永和同事们发现拉扎尔的年龄时，他们认为“拉扎尔可能是世界上最老的狗”。他们核实了两个登记处的出生日期，并填写了表格，想让它登记成为世界纪录保持者。
+据健力士世界纪录网站记载，一只名叫博比（Bobi）的葡萄牙阿连特茹獒犬（Rafeiro do Alentejo）在2023年去世时，据称高龄31岁，相信是当时世界上最长寿的狗。但2024年的一项复审发现，没有足够的确凿证据证明它的年龄，因此，健力士世界纪录已暂撤其头衔。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：穿冷背心 六周可减脂近1公斤]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059090</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059090"/>
+        <updated>2026-05-16T09:20:21.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦讯）英国和荷兰一项针对47名超重或肥胖者进行的实验显示，穿冷背心或每天洗冷水澡可能有助于减重。
+据《卫报》报道，英国诺丁汉大学和荷兰莱顿大学（Leiden University）医学中心的研究人员让一半参与者每天早上穿着冷背心和腰带两小时，同时继续他们的日常生活。
+参与者把冷背心和腰带穿在薄T恤外面，里头装有凝胶冷却包，这些冷却包前一晚放在冷冻库内，能保持15摄氏度的温度。
+结果显示，这些参与者在六周后平均减重0.9公斤，而且减的几乎全是脂肪；对照组则平均增重0.6公斤。
+诺丁汉大学教授巴奇说：“每天接触低温会激活棕色脂肪，它利用体内储存的脂肪来产生热量……穿冷背心可能会促使棕色脂肪更加活跃，并对体内的脂质、血糖和炎症产生有益影响。这些因素都有助于预防心血管疾病。”
+莱顿大学医学中心的首席研究员布恩指出，这种“冷暴露”（cold exposure）方法可作为健康饮食和运动以外的一个简单和低成本的辅助减肥方式。
+研究团队目前正进一步研究冷水淋浴是否也能带来类似效果，并希望未来能找到一种可融入日常生活的冷暴露减肥方法。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国航母抵达阿拉伯海 为护航行动做准备]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9059113</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9059113"/>
+        <updated>2026-05-16T08:34:18.000Z</updated>
+        <summary type="html"><![CDATA[法国海军戴高乐号航空母舰已抵达并部署在阿拉伯海，为霍尔木兹海峡多国护航行动做准备。
+据新华社报道，法国国防部部长级代表吕福星期五（5月15日）接受法国商业调频电视台访问时说，法国立场是为恢复霍尔木兹海峡通航“提供可能性”，法国的做法完全是防御性且符合国际法。
+戴高乐号5月6日穿过苏伊士运河，随后在吉布提的后勤支援点停留数日。
+法国总统马克龙10日说，通过部署军事力量重开霍尔木兹海峡“从来不是法国的选项”。他表示，护航行动由法国和英国共同主导，旨在与伊朗展开协商，并与区域国家及美国沟通，防止冲突，确保在条件具备时恢复霍尔木兹海峡航运。
+马克龙和英国首相斯塔默4月17日在巴黎主持召开国际会议，重点讨论通过外交途径结束当前中东冲突、重新开放霍尔木兹海峡、局势稳定后为海峡航运提供安全保障等议题。两国将在条件允许时牵头一项防御性多国行动，以保障霍尔木兹海峡航运安全。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -229,26 +365,46 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司]]></title>
+        <title type="html"><![CDATA[ChatGPT 能替你管钱了，你敢把银行账户交给它吗？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7350</id>
+        <link href="https://t.me/wxbyg/7350"/>
+        <updated>2026-05-16T06:37:01.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 能替你管钱了，你敢把银行账户交给它吗？ | 原文
+Telegraph
+ChatGPT 能替你管钱了，你敢把银行账户交给它吗？
+AI 聊天机器人从帮你写文案，到想帮你理财，中间隔着的不是技术，是信任。 作者｜桦林舞王 编辑｜靖宇 5 月 15 日，OpenAI 推出了一个让很多人「既兴奋又不安」的新功能——ChatGPT 个人理财工具。简单说，你现在可以把自己的银行账户、投资账户直接连到 ChatGPT 里了。 这个功能目前仅面向美国地区的 ChatGPT Pro 用户（月费 200 美元）开放预览。OpenAI 通过金融数据服务商 Plaid 实现账户连接，支持超过 1.2 万家金融机构，包括摩根大通、富达、嘉信理财、Robinhood、美国运通和…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普上季买卖逾2亿美元股票 民主党人批“腐败”]]></title>
         <id>https://www.zaobao.com/news/world/story20260516-9058578</id>
         <link href="https://www.zaobao.com/news/world/story20260516-9058578"/>
         <updated>2026-05-16T06:14:38.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普最新的财务披露显示，他本人或投资顾问在今年第一季度进行超过3700笔交易，总额达数千万美元，涵盖多家与政府有业务往来的大型公司。
-彭博社报道，这些交易详列于星期四（5月14日）提交给美国政府道德办公室的逾100页文件中。由于文件以区间形式列出买卖金额，难以精确计算总值，但显示三个月内日均超过40笔交易。
-文件显示，特朗普在第一季度分别斥资100万美元（约128万新元）购入英伟达、甲骨文、微软、波音和好市多等公司的股票，其他交易还涵盖eBay、雅培、优步、AT&T和零售商Dollar Tree。
-此次交易规模超过特朗普此前披露的任何记录。去年第四季度，他共进行380笔交易，主要为市政债券投资。去年1月21日至8月期间，他曾披露690笔交易，总额至少达1亿零370万美元。
-特朗普在任期间出台的多项政策直接影响他所交易的上市公司，他本人也与多家企业高管保持密切接触。例如英伟达的晶片出口需获得美国政府批准。
-特朗普也对英特尔（Intel）进行过六笔交易，政府曾在去年8月达成协议，以近90亿美元收购英特尔10%的股份。
-不过，特朗普的言论并不总是利好持仓公司。例如他在北京宣布中国将购买200架波音飞机后，由于订单规模低于预期，波音股价反而下跌。 
-根据2012年通过的《股票法案》（STOCK Act），官员需在45天内申报证券交易，但特朗普的两次申报都超过期限，而法律规定的罚款仅为每次200美元，他已缴纳相关费用。
-此次披露再次引发人们对特朗普执政期间利益冲突的担忧。批评者长期指责他将公职与商业利益混为一谈。不同于前任总统，特朗普并未剥离资产，也未将资产交由独立受托人管理的信托基金中。他的庞大商业帝国由两名儿子打理，业务横跨多个与总统政策相关的领域。
-与此同时，他的女婿库什纳一方面为卡塔尔、沙特阿拉伯和阿联酋管理数十亿美元投资。另一方面，他又以“志愿特使”身份参与涉及伊朗战争及中东问题的事务。 
-民主党参议员沃伦对此指，特朗普在放宽对华晶片销售限制、推动英伟达股价上涨的同时收购英伟达股票，构成国家安全风险，并形容总统的腐败是国安灾难。伊利诺伊州民主党籍州长也批评特朗普为“史上最腐败总统”。
-不过，白宫驳斥相关利益冲突质疑，并称特朗普“始终以美国公众的最大利益为出发点”，强调不存在任何利益冲突。
-特朗普集团发言人此前称，总统资产由第三方金融机构独立管理，这些机构掌控所有投资决策，交易通过自动化程序执行，特朗普本人、家人及公司都不参与具体操作，也不会提前获知交易情况或提供意见。
-特朗普的长子埃里克也否认存在不当行为，并称所有资产都由大型金融机构以信托形式进行投资。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普和投资顾问在今年第一季共进行了3700多笔股票交易，总额逾2亿美元（约2亿5600万新元），且涉及的企业如英伟达、英特尔和苹果等都受特朗普政府决策所影响，引来民主党人指控他涉嫌腐败。
+特朗普星期四（5月14日）向美国政府道德办公室提呈100多页的申报文件，显示他在今年首三个月平均每天进行40多笔股票买卖，当中交易值至少100万美元的包括英伟达、甲骨文、微软和波音等，去年获美国政府收购10%股份的英特尔也在申报清单，共有六笔交易。
+民主党参议员沃伦在社媒X贴文指“特朗普总统的腐败是一场国家安全灾难”。“特朗普把英伟达总裁（黄仁勋）带到中国向（中国国家主席）习近平兜售高端人工智能晶片，尽管这会对美国构成国安威胁。原来，他买了几百万美元的英伟达股票。”
+民主党籍的伊利诺伊州州长普里茨克也贴文，称特朗普是“美国史上最腐败的总统”。
+不过，特朗普的长子埃里克出面否认父亲涉及任何违法行为。他说，家族的所有的资产都投放在一个保密信托，由最大的金融机构投资在广泛的市场指数。
+白宫发言人英格尔也否认特朗普的交易可能涉及利益冲突，坚称“总统只为美国公众的最佳利益服务”。
+特朗普去年1月二次上任后，在8月首次申报自己上任七个月，共进行了690笔交易，数额1亿零370万美元。这一轮申报的交易量如此庞大，引起华尔街人士哗然，称“这看起来更像对冲基金使用算法进行的量化交易，而不是个人买卖”。
+美国2012年正式立法要求公职人员申报股票交易后，特朗普是首个须申报的总统。民主党籍的两名前总统奥巴马和拜登任内都没有买卖股票或债券。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这届学生不行啊！普林斯顿被迫放弃坚守133年的传统，重新开始监考 | 原文]]></title>
+        <id>https://t.me/wxbyg/7349</id>
+        <link href="https://t.me/wxbyg/7349"/>
+        <updated>2026-05-16T05:49:46.000Z</updated>
+        <summary type="html"><![CDATA[这届学生不行啊！普林斯顿被迫放弃坚守133年的传统，重新开始监考 | 原文
+Telegraph
+这届学生不行啊！普林斯顿被迫放弃坚守133年的传统，重新开始监考
+近日，美国藤校普林斯顿大学通过了一项重大改革：从2026年7月1日起，所有线下考试都必须有教师在场监考。这听起来像是废话的事也算改革吗？还真是，因为普林斯顿大学已经连续133年实行无人监考了，这种被称为“荣誉制度”的考试方式终于迎来了终结时刻。 1860-1880年代的普林斯顿大学格林科学学院 图源：普林斯顿大学 考试时无人监考，这一传统的来历可以追溯到1893年。当时，学生们请愿要求取消考试中的教师监督，强调学生个人的诚信责任：不仅自己不作弊，还要举报看到的违规行为。当时的教职委员会通过了这项请愿，并…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -335,18 +491,18 @@ Meta也在新墨西哥州输掉另一起诉讼，此诉讼指控Meta未能保护
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI冲击初现端倪 美国数类职业连续出现严重岗位流失]]></title>
+        <title type="html"><![CDATA[AI入侵职场 美国高风险职位连续两年缩水 客服销售是重灾区]]></title>
         <id>https://www.zaobao.com/news/world/story20260516-9057622</id>
         <link href="https://www.zaobao.com/news/world/story20260516-9057622"/>
         <updated>2026-05-16T01:15:50.000Z</updated>
-        <summary type="html"><![CDATA[2025年，美国多个被认为易受人工智能影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表，以及特定类型的秘书和销售人员受到冲击最为严重。
-彭博社报道，根据星期五（5月15日）发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别的就业人数下降了0.2%，涉及约1000万个工作岗位。相比之下，同期美国整体就业人数增长了0.8%。
-若排除因医疗保健行业持续繁荣而增长迅猛的医疗秘书与助理这一类别，其余17类职业的就业人数连续第二年下降了1.6%。
-这些数据表明，AI工具在全美各工作场所的部署可能已开始推动就业格局发生大规模的重组。
-在高盛星期四（14日）发布的一份报告中，经济学家指出，“在那些最容易被AI替代的职业领域，岗位空缺数量已跌破疫情前水平；可被AI赋能或受AI影响较小的职业，职位空缺数量的下滑趋势则更为缓和。”
-根据美国劳工统计局发布的《职业就业与薪资统计》报告，截至2025年5月，客户服务代表的就业人数减少超过13万人，降幅达4.8%。除医疗、法律和行政以外的秘书及助理人数减少3万1030人，降幅为1.8%。除技术和科学产品以外的批发和制造业销售代表就业人数则减少2万8670人，降幅为2.3%。
+        <summary type="html"><![CDATA[（华盛顿彭博电）随着人工智能（AI）工具在全美企业加速部署，美国AI高风险职业领域已连续第二年出现严重的职位流失。其中，客户服务代表、特定类型的秘书以及传统销售人员，沦为这一轮技术重组中受冲击的重灾区。
+美国劳工统计局星期五（5月15日）发布的年度数据显示，在2024年5月至2025年5月间，被官方标记为“高度暴露于AI风险”的18个职业组别的约1000万个岗位，就业人数整体下降了0.2%。相比之下，同期美国整体就业人数仍增长了0.8%。
+其中，客户服务代表的就业人数减少超过13万人，降幅达4.8%。除医疗、法律和行政以外的秘书及助理人数减少3万1030人，降幅为1.8%。除技术和科学产品以外的批发和制造业销售代表就业人数则减少2万8670人，降幅为2.3%。 
+值得注意的是，人口老龄化拉动医疗保健业持续繁荣，“医疗秘书与助理”一职出现逆势暴增。若排除这一类别，其余17类高风险职业的就业人数连续第二年下降1.6%。
 自2022年5月以来，上述18个职业中，就业流失最严重的岗位分别是信贷审批员、核查员及办事员（下降26.2%）、广播播音员与电台DJ（下降20.8%）以及销售工程师（下降13.2%）。
-尽管这些数据反映AI对就业冲击的早期迹象，但美国劳工统计局在2024年11月的一篇文章中提示称，这份职业清单“不应被视为具有绝对确定性”，而只是包含一些“目前对AI驱动的冲击存在合理预期的职业例子”。]]></summary>
+这些数据表明，AI工具在全美各工作场所的部署，可能已开始推动就业格局发生大规模的重组。
+高盛经济师在星期四（14日）发布的一份报告中指出，在那些最容易被AI替代的职业领域，岗位空缺数量已跌破疫情前水平；那些可被AI赋能或受AI影响较小的职业，职位空缺数量的下滑趋势则较为缓和。
+美国劳工统计局在此前发布的技术文章中特别提示称，目前列出的18个高风险职业清单“不应被视为具有绝对的确定性”。官方强调，这只是包含了“目前对AI驱动的冲击存在合理预期的典型职业例子”，未来的技术演进与岗位转型仍存在诸多变数。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -398,23 +554,29 @@ Meta也在新墨西哥州输掉另一起诉讼，此诉讼指控Meta未能保护
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[以色列和黎巴嫩同意将停火协议延长45天]]></title>
+        <title type="html"><![CDATA[以黎同意延长停火45天 但以军与真主党继续交火]]></title>
         <id>https://www.zaobao.com/news/world/story20260516-9057469</id>
         <link href="https://www.zaobao.com/news/world/story20260516-9057469"/>
         <updated>2026-05-15T23:26:38.000Z</updated>
-        <summary type="html"><![CDATA[美国宣布，以色列和黎巴嫩同意将停火协议延长45天，并就政治解决方案举行扩大谈判。
-法新社报道，以色列和黎巴嫩在华盛顿举行两天会晤后，双方星期五（5月15日）同意延长原定于星期天（17日）到期的停火协议。
-美国国务院发言人皮戈特说，停火协议“将延长45天，以便取得进一步进展”。
-他说，五角大楼将于5月29日召集两国军队代表团举行会晤，而美国国务院将于6月2日和3日举行旨在达成永久政治协议的谈判。
-率领以色列代表团的以色列驻华盛顿大使莱特在会谈后说，首要任务是确保以色列的安全。他在社媒X发文说：“谈判过程中会有起伏，但成功的可能性很大。”
-黎巴嫩代表团发声明说，延长停火期限和启动军事会谈将为“我们的公民提供至关重要的喘息之机”，目标是实现“持久稳定”。
-黎巴嫩总理萨拉姆在贝鲁特的一次非政府组织晚宴上发表讲话说，黎巴嫩已经“受够这些为外国项目或利益服务的鲁莽冒险”，显然在暗讽真主党。
-他说，最近一次的行动带来“一场我们并非自愿却被迫卷入的战争，导致以色列占领了68个城镇和村庄”。
-以色列一直在猛烈轰炸黎巴嫩，并入侵黎巴嫩南部，以回应真主党的炮火。真主党是一个受伊朗支持的组织，并未参与停火谈判。　　
-黎巴嫩指出，在星期五停火协议续签后不久，以军便对黎南部奈拜提耶地区发动多轮空袭，造成至少12人死亡，包括三名医护人员。以军也对提尔地区多个城镇发动空袭，造成至少37人受伤，包括医护人员、妇女和儿童。
-真主党则称，他们使用无人机袭击北部城市基里亚特什莫纳的以色列军营。
-以色列军方承认，有一名以色列士兵在黎巴嫩南部的冲突中丧生。自3月初以来，在与真主党的冲突中丧生的以色列士兵人数已达19人。一名平民承包商也在冲突中丧生。
-黎卫生部星期五公布的数据显示，自3月2日黎以战火重燃以来，袭击已造成2951人死亡，以及8988人受伤。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿／贝鲁特法新电）以色列和黎巴嫩星期五同意将停火协议延长45天，并在下月初举行更广泛的会谈，寻求达成永久的政治解决方案。
+不过，以军和真主党过后继续交火，以军对黎巴嫩南部几个城镇发动袭击，真主党也宣称出动无人机打击以色列北部城镇谢莫纳。
+以色列和黎巴嫩政府官员在华盛顿举行两天会谈后，美国国务院发言人皮戈特星期五（5月15日）宣布，以黎停火协议“将延长45天，以取得下一步进展”。上一轮停火协议从4月17日生效，为期一个月。
+皮戈特透露，美国国务院将在6月2日和3日召开会谈，目标是达成永久的政治协议。五角大楼也将在本月29日召集两国的军方代表举行会议。
+黎巴嫩谈判代表周五在华盛顿发表声明说，延长停火及启动军方谈判将“为人民提供关键的喘息空间”，寻求达成“永久稳定”的目标。
+同一天，黎巴嫩总理萨拉姆在贝鲁特出席一个非政府组织晚宴时，暗批真主党把黎巴嫩卷入美伊战争。
+萨拉姆说，黎巴嫩“受够了这些为外国计划或利益服务的鲁莽冒险”，称这让黎巴嫩陷入一场“并没选择却被迫卷入的战争，导致以色列占领了68个村镇”。
+美国在新一轮中东战事始终力挺以色列，并在2月28日携手对伊朗开火，不过也对以军侵入黎巴嫩南部表达不满。德黑兰政府要求必须实现黎巴嫩永久停火，才会与华盛顿达成任何和平协议。
+
+联合国人道协调员促通过外交行动停止暴力冲突
+
+以黎周五宣布延长停火后不久，以色列向黎南城镇哈努夫（Hanuf）发动袭击，与真主党有关联的一所医疗中心遭击中。据黎巴嫩卫生当局称，造成六人死亡。以军当天早前也袭击黎南城镇苏尔（Tyre），造成37人受伤，包括六名医院人员。
+真主党则宣称使用无人机袭击以色列北部城市谢莫纳（Kiryat Shmona）的以色列军营。
+到星期六，以军继续向黎南至少五个村庄发动袭击。许多村民纷纷逃往南部大城赛达（Sidon）和首都贝鲁特。
+联合国驻黎巴嫩人道协调员里扎（Imran Riza）敦促各方，外交努力必须真的让暴力停止。
+他向法新社指出，黎巴嫩的真实处境堪忧，“空袭每天持续发生，对平民和民间设施造成不可接受的破坏”。
+真主党3月2日向以色列发射火箭炮报复伊朗最高领袖哈梅内伊被击杀后，黎巴嫩即被卷入战事。
+黎巴嫩称，以军恢复袭击后，至今造成当地2900多人死亡，其中400多人是在4月17日以黎停火之后丧命。
+以军则称，过去一周打击了数百个真主党目标，杀死超过220名武装人员。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -452,6 +614,19 @@ PDVSA说，一个技术委员会将调查事发原因，并称这起事件并未
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[马尔代夫发生史上最严重单次潜水事故：5名游客身亡，包括海洋生物学家、前潜水教练等；遗体在约50米深水下洞穴被发现，疑因“氧气中毒” | 原文]]></title>
+        <id>https://t.me/wxbyg/7348</id>
+        <link href="https://t.me/wxbyg/7348"/>
+        <updated>2026-05-15T16:46:55.000Z</updated>
+        <summary type="html"><![CDATA[马尔代夫发生史上最严重单次潜水事故：5名游客身亡，包括海洋生物学家、前潜水教练等；遗体在约50米深水下洞穴被发现，疑因“氧气中毒” | 原文
+Telegraph
+马尔代夫发生史上最严重单次潜水事故：5名游客身亡，包括海洋生物学家、前潜水教练等；遗体在约50米深水下洞穴被发现，疑因“氧气中毒”
+当地时间14日，在马尔代夫发生一起5名游客在潜水时全部身亡的惨剧。遇难者中包括一名大学教授和她的女儿，以及一名岛屿监测专家和一名前船长等，几人均有丰富的海洋经验。意大利外交部表示，不幸遇难的5人均为意大利人。 据潜水专家初步分析，导致这起悲剧的原因或为“氧气中毒”。 马尔代夫当局称，这起悲剧是该国历史上最严重的单次潜水事故。意大利外交部在声明中称，事发时，5名意大利公民正在马尔代夫瓦武环礁进行水肺潜水，当时他们进行的是一项潜入160英尺（约50米）深的水下洞穴探索观景，之后就再也未能浮出水面。  ▲海洋生物学家莫妮卡·蒙特法尔科内…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[伊朗最高领袖强调文明独立重要性]]></title>
         <id>https://www.zaobao.com/news/world/story20260516-9057175</id>
         <link href="https://www.zaobao.com/news/world/story20260516-9057175"/>
@@ -467,170 +642,68 @@ PDVSA说，一个技术委员会将调查事发原因，并称这起事件并未
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普：美伊停火是“应其他国家要求”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9057139</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9057139"/>
-        <updated>2026-05-15T15:54:02.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普在总统专机“空军一号”上接受采访时称，他本不赞成美国同伊朗停火，停火是“应其他国家要求”。
-特朗普星期五（5月15日）说，美伊停火是“应其他国家要求”。“我本来并不赞成（停火），但我们为了帮巴基斯坦一个忙而停火，他们是很棒的人。”
-新华社引述特朗普说，伊朗方面提出的方案“不可接受”，“如果我不喜欢第一句话，我就直接扔掉”。“如果他们（伊朗）拥有任何形式的核武器，我不会读剩下的内容。”
-特朗普还威胁摧毁伊朗的基础设施，“我们可以摧毁他们的桥梁和电力设施，两天之内我们就能瘫痪整个系统”。]]></summary>
+        <title type="html"><![CDATA[中国孩子正在经历肌肉力量危机 | 原文]]></title>
+        <id>https://t.me/wxbyg/7347</id>
+        <link href="https://t.me/wxbyg/7347"/>
+        <updated>2026-05-15T13:29:30.000Z</updated>
+        <summary type="html"><![CDATA[中国孩子正在经历肌肉力量危机 | 原文
+Telegraph
+中国孩子正在经历肌肉力量危机
+相比于90后和00后的小时候，现在的中国孩子运动兴趣班和装备选择更多了，饮食条件更好了，身高和体重也在增长，但是肌肉变得更弱了。 如果以立定跳远代表肌肉健康，那么中国儿童青少年的肌肉健康水平20年间持续降低，近10年更为严重。 这带来的问题是，肌肉弱的孩子，往往会成长为肌肉力量更差、不擅长运动也不相信自己能做好运动的成年人，在尝试锻炼时“一动就累、一练就废”，最终成为慢性疾病和跌倒风险更高、生活自主性更低的老年人。 肌肉健康包括肌肉的力量、爆发力和耐力。上图展示了肌肉力量的两种发展轨迹。绿线A为最佳模式…]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿联酋据悉试图说服邻国协同回击伊朗遭拒]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9057033</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9057033"/>
-        <updated>2026-05-15T15:25:05.000Z</updated>
-        <summary type="html"><![CDATA[知情人士称，阿拉伯联合酋长国曾试图说服包括沙特阿拉伯和卡塔尔在内的邻国，共同参与协调军事行动，以回应伊朗的空袭，但遭到这些国家的拒绝。
-因谈及私下交流而要求匿名的知情人士说，在美国和以色列于2月28日开始轰炸伊朗后不久，阿联酋总统穆罕默德与多名地区领导人通话，其中包括沙特王储穆罕默德。 
-彭博社引述知情人士称，阿联酋总统当时坚信，有必要以集体方式进行报复，以震慑伊朗。
-此前，伊朗为回应美国和以色列的攻击，向波斯湾国家发射数百架无人机和导弹。德黑兰的打击目标包括整个地区的港口、机场、住宅楼和酒店。
-伊朗还几乎封锁至关重要的霍尔木兹海峡，迫使波斯湾国家削减石油和天然气产量，冲击了财政。
-据一名知情者透露，阿联酋总统很快决定与美国总统特朗普政府及以色列合作，但其他波斯湾阿拉伯国家领导人告诉他，这不是他们的战争。阿联酋与沙特原本就存在裂痕的关系因此恶化。
-这名知情者也称，在通话中，阿联酋总统提醒其他领导人，波斯湾阿拉伯国家合作委员会这个由六国组成的组织，之所以于1981年成立，正是因为两年前伊朗伊斯兰革命带来的威胁。
-这些此前未曾报道过的细节，有助于解释阿联酋为何对其他阿拉伯国家感到愤怒，并最终在4月底作出退出石油输出国组织（简称油盟，OPEC）的重大决定，同时也说明它为何拉近与以色列的关系。
-知情人士称，阿联酋在没有其他波斯湾国家支持的情况下，于3月初开始对伊朗发动有限打击，并在4月再次采取行动。 
-随后，阿联酋宣布退出由沙特主导的油盟，此举震动了石油市场。阿联酋还在重新评估它在包括波斯湾阿拉伯国家合作委员会在内的地区组织中的成员身份。 
-除伊朗战争引发的摩擦外，阿联酋与沙特也是经济方面的竞争对手，双方在也门和苏丹冲突问题上也一直存在分歧。]]></summary>
+        <title type="html"><![CDATA[被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7346</id>
+        <link href="https://t.me/wxbyg/7346"/>
+        <updated>2026-05-15T10:24:43.000Z</updated>
+        <summary type="html"><![CDATA[被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？ | 原文
+Telegraph
+被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？
+点击 蟠桃本草 关注并星标 每周收到权威本草科普与养护干货 与你共同坚守本草之道 图1 (取自nature.com) 这几年，减脂、控糖、抗衰，几乎共用了一套吃法：饭越吃越少，肉、蛋、奶越吃越多。 很多人把少吃主食、拉高蛋白质摄入，当成一种更自律、更高级的饮食方式。可Nature 旗下子刊《npj Metabolic Health and Disease》刊发的一项动物研究，偏偏给这股风潮泼了一盆冷水。 但是，不少三甲医院营养科给出的减重食谱，也常会采用低碳高蛋白的思路。为什么临床上常见的做法，和顶尖期…]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普称中国愿支持美伊谈判 伊方要美国展现诚意]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056679</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056679"/>
-        <updated>2026-05-15T14:56:12.000Z</updated>
-        <summary type="html"><![CDATA[（北京／德黑兰综合电）美国总统特朗普称，中国愿意支持美国与伊朗的谈判，也表明不会向伊朗提供军事装备。伊朗方面强调要美国展现诚意，才愿意谈判。 
-特朗普接受福克斯新闻台采访时说，中国国家主席习近平希望美伊达成停战协议。“他希望达成协议。他还表明，如果能提供任何帮助，他愿意帮忙。”
-特朗普星期五（5月15日）在北京也对记者说，他与习近平都不希望伊朗拥有核武器，希望霍尔木兹海峡畅通。他表明不会再对伊朗有更多耐心，并要德黑兰赶快与华盛顿达成协议。
-美国贸易代表格里尔星期五在北京接受彭博电视访问说，中国官员在中美首脑峰会上明确表明，希望霍尔木兹海峡能在没有限制或收费的情况下重新开放，称北京将务实行事，限制对伊朗的军事支持。 
-格里尔说，中国和特朗普都希望中东实现和平，“因此我们非常有信心，他们（中方）会尽一切努力，限制对伊朗的任何形式的实质支持”。
-伊朗外长阿拉格齐星期五说，伊方已收到美国的信息，表明美方愿意继续谈判。他也说，伊朗不信任美国，只有在华盛顿展现出诚意的情况下，伊朗才有意谈判。 
-伊朗媒体星期五报道，美国已拒绝伊朗针对结束战争提出的方案，并重申在核问题上的强硬立场。 
-伊方提出的方案是两阶段谈判程序，第一阶段是结束所有战线的战争，如果伊朗的条件得到满足，将启动关于核问题的第二阶段谈判。
-
-伊外长：中国怀有善意 欢迎中方协助解决冲突
-
-在印度首都新德里出席金砖国家外长会议的阿拉格齐向媒体表明，伊朗愿意接受任何形式的支持，包括来自中国的支持，以帮助解决中东冲突。 
-他说，伊朗感谢任何有能力提供帮助的国家，特别是中国，并且说：“我们与中国关系良好，我们是战略伙伴，我们知道中国怀有善意，因此，任何中方有助于外交的举措，伊朗都是欢迎的。”
-阿拉格齐强调，伊朗不寻求发展核武器，并指霍尔木兹海峡应由伊朗和阿曼两国共同管理。他说，霍尔木兹海峡是开放的，只要同伊朗军方协调，所有船只都可以通行，但敌对国家除外。
-他也说，围绕浓缩铀的相关问题“相当复杂”，伊美双方已同意推迟就这一议题展开的谈判。
-另外，伊朗伊斯兰革命卫队星期四说，自星期三晚开始，伊朗海军已允许一些中国船只通过霍尔木兹海峡。
-伊朗国家电视台报道，已有30多艘船获准通过海峡，但不清楚是否都是中国船只。
-彭博社汇编的船舶追踪数据显示，自上星期天（5月10日）以来，已有四艘各载有200万桶原油的油轮驶出霍尔木兹海峡。
-在美伊战争爆发之前，每天有约20艘大小不一的油轮通过霍尔木兹海峡。 
-
-美军称伊朗九成水雷已毁 威胁力锐减
-
-美军中央司令部司令库珀在星期四提交国会的书面声明中说，伊朗8000枚海军水雷库存，有九成以上被美军摧毁，并指伊朗威胁邻国和美国利益的能力已大幅削弱。
-他称，伊朗已无法向中东主要盟友，包括真主党、胡塞武装和哈马斯转移武器和其他资源。]]></summary>
+        <title type="html"><![CDATA[只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子 | 原文]]></title>
+        <id>https://t.me/wxbyg/7345</id>
+        <link href="https://t.me/wxbyg/7345"/>
+        <updated>2026-05-15T10:22:27.000Z</updated>
+        <summary type="html"><![CDATA[只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子 | 原文
+Telegraph
+只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子
+这两天，美国“万亿天团”到访北京的消息，席卷整个中文网络；参观行程、国宴菜单，马斯克儿子挎虎头包、黄仁勋喝豆汁表情痛苦，无一不被津津乐道。 但咱们观鸟人，由一个奇怪的细节开始吃瓜：昨天，也就是美国代表团参观天坛的日子，怎么同时有美国人上传了在天坛的观鸟记录？难道来访代表团中有个鸟人，还有闲心摸鱼看鸟？ 一份来自天坛的观鸟清单 5月14日清晨7:11，一个名为“Seamus Fraser”的账号在eBird上传了一份北京天坛公园的观鸟清单： 天坛公园的观鸟记录 | eBird 珠颈斑鸠，2只；喜鹊，3只；麻雀，1、2、3……9只。…]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普关键选民支持率下滑 或影响共和党中期选举成绩]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9049784</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9049784"/>
-        <updated>2026-05-15T14:28:44.000Z</updated>
-        <summary type="html"><![CDATA[（纽约彭博电）美国总统特朗普在2024年成功连任，主要依靠西班牙裔、黑人以及30岁以下年轻选民的支持。这些选民原本寄望他改善生活费高企问题，如今却对他的政策日益感到失望。 
-皮尤研究中心5月初公布的民调显示，和第二任期初期相比，特朗普在西班牙裔选民中的支持率下降了27个百分点，受调查者普遍对特朗普的经济和强硬移民政策感到不满。
-民调也发现，在35岁以下的特朗普支持者中，仅57%仍认可他的表现，明显低于50岁及以上支持者87%的支持率。
-
-特朗普支持者“后悔情绪”上升
-
-无党派研究机构More in Common的全球研究主管霍金斯（Stephen Hawkins）指出，2024年大选中首次投票支持特朗普的选民，相当一部分并非他的坚定支持者，反而对他抱持怀疑态度，但认为他是“相对不那么糟糕”的候选人。因此，一旦特朗普未能兑现承诺，他们也最有可能在未来撤回支持。
-More in Common的调查显示，这一群体的“后悔情绪”正在上升。在特朗普第二任期初期，仅约13%的相关选民对投票决定感到后悔，如今这一比率已升至三成以上，增幅明显扩大。 
-由于共和党内部人士也开始对特朗普抱持怀疑态度，他的支持率跌至历来最低点。路透社/益普索的民调显示，他的支持率在4月份跌至34%。
-美国人对特朗普在一系列问题上的表现感到不满，包括承诺降低物价却推行导致物价上涨的关税政策；承诺让美国远离战争却发动了对伊朗的战争；承诺打击“犯罪的非法移民”，却逮捕没有犯罪记录的无证移民，导致农场、餐馆和建筑工地人手短缺。 
-特朗普处理经济的表现，向来比较受到选民认可，但路透社/益普索的民调显示，如今仅有27%的受访者认可他的经济表现；在选民最关心的降低生活费问题上，认为他做得不错的仅占22%。至于选举年最重要的议题——哪个政党拥有更佳的经济计划，民主党以32%对28%的微弱优势领先共和党。
-伊朗战争进一步影响特朗普的支持率。佛罗里达州立大学政治学家、民意和投票行为专家阿特克森说，即使是不太关注政治或外交政策的选民，每次加油时也能感受到这场冲突的影响。 
-
-11月中期选举 民主党有望掌控众议院
-
-这一切对特朗普和国会共和党人来说都不是好消息。选举预测专家认为，民主党很有可能在11月中期选举后掌控众议院。这将剥夺特朗普在华盛顿左右立法和议程的权力。共和党人对保住参议院更有信心，但他们的信心已不如几个月前那么坚定。
-霍金斯说，即使部分不满特朗普的选民未必转向民主党，但可能减少投票参与度。民主党选民的投票热情则很高，他们不指望说服特朗普支持者加入他们的阵营，只希望这些人什么都不做。
-他说：“根据我们的数据，我预计会有少量（共和党）选民转换阵营。但更多的人会耸耸肩，选择待在家里。”]]></summary>
+        <title type="html"><![CDATA[在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学 | 原文]]></title>
+        <id>https://t.me/wxbyg/7344</id>
+        <link href="https://t.me/wxbyg/7344"/>
+        <updated>2026-05-15T01:57:03.000Z</updated>
+        <summary type="html"><![CDATA[在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学 | 原文
+Telegraph
+在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学
+“今天参观的天坛和故宫同龄，寓意‘天圆地方’，展现出中国人的宇宙观和处世哲学。” 5月14日，中国国家主席习近平同来华进行国事访问的美国总统特朗普参观天坛。初夏的天坛，古柏含章，清风送爽。两国元首在祈年殿广场合影，拾级而上，步入祈年殿。]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚果（金）暴发伊波拉疫情 死亡病例65起]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056864</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056864"/>
-        <updated>2026-05-15T14:22:14.000Z</updated>
-        <summary type="html"><![CDATA[非洲疾病预防控制中心宣布， 刚果民主共和国东部伊图里省暴发伊波拉疫情，目前已报告246个疑似病例和65起死亡病例。
-非洲疾控中心星期五（5月15日）在声明中说，刚果民主共和国（简称刚果（金））国家生物医学研究所针对20份样本的初步实验室检测结果显示，13份样本确认感染伊波拉病毒，其中包括四个死亡病例。
-非洲疾控中心说，由于受影响地区包括城市、人口流动频繁且安全形势不稳，同时当地密切接触者追踪、感染预防和控制能力不足，加之邻近乌干达和南苏丹，因此当前疫情存在扩散风险。
-新华社引述非洲疾控中心主任卡塞亚说，鉴于受影响地区与邻国之间人口流动频繁，迅速开展区域协调至关重要。
-非洲疾控中心正同刚果（金）、乌干达、南苏丹等国以及世界卫生组织、联合国儿童基金会等机构合作，加强监测和应对工作，以尽快控制疫情。
-2025年12月，刚果（金）政府宣布，当地2025年9月开始的伊波拉疫情结束。 
-伊波拉（Ebola）是人畜共通病毒，主要感染途径是透过患者体液传染，如血液、汗、呕吐物、排泄物、尿液、唾液或精液等。
-病毒引起的伊波拉出血热是目前世界上最致命的病毒性出血热，致死原因主要为中风、心肌梗塞、低血容量休克或多脏器损害，死亡率高达50%至90%。]]></summary>
+        <title type="html"><![CDATA[A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸 | 原文]]></title>
+        <id>https://t.me/wxbyg/7343</id>
+        <link href="https://t.me/wxbyg/7343"/>
+        <updated>2026-05-15T00:13:50.000Z</updated>
+        <summary type="html"><![CDATA[A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸 | 原文
+Telegraph
+A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸
+加州伯克利大学的研究员Igor Chirikov分析了超过美国五十万条成绩记录，得出结论：在写作和编程这类更容易借助AI完成的课程中，ChatGPT问世之后，A的比例大幅增加，而A-和B+则相应减少——这类课程的A大约多出了30%。 大学成绩，正在贬值。 成绩虚高的问题，在美国校园由来已久，不是什么新鲜事。但AI的到来，让这场通货膨胀进入了加速模式。 2005年，哈佛全校只有24%的成绩是A。到2020年，这个数字涨到了50%。到2024-25学年，已经超过60%。更离谱的是，66%的哈佛本科生拿到了A，84%的人拿到了A或A…]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中美峰会后第一时间与特朗普通话 高市：日美保持密切沟通]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056670</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056670"/>
-        <updated>2026-05-15T14:15:48.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗在中美峰会后，第一时间向美方深入了解峰会内容。她告诉记者：“我听取了非常详细的介绍，日美将保持密切沟通。” 
-高市早苗在星期五（5月15日）与美国总统特朗普通电话。此次通话持续15分钟，通话于日本时间晚间7时30分进行，特朗普正在返回美国的空军一号专机上。 
-高市在X上的社媒账号介绍，特朗普详细说明他对中国的访问，并与她就涉及中国的各种课题，包括经济安全和其他安全相关事宜，彼此交换意见。高市也对特朗普传达日本在伊朗情况上的立场。
-高市也对日本媒体强调：“我们与特朗普总统确认了日美同盟坚定不移。我们期待下个月在七国集团峰会上再次会面，并将密切合作。”
-当记者问到，美国是否在美中峰会上谈到日本，她回答：“他（指特朗普）做了详细介绍，但前提是我不能透露具体内容。我对他为日本所做的支持深表感谢。除此之外，我不能透露更多。”
-每日新闻透露，日本当局在中美峰会首日就在协调尽快实现美日首脑通话。虽然日本内部研判此次峰会不会对美中关系产生很深远影响，但不排除日方对中美的“G2”效应将如何主导世界”保持警惕。
-中美两国领导人今年内可能举行最多四次会晤，日本政府担忧，中美首脑的决策极可能影响包括印太地区在内的国际事务。 
-日本外长茂木敏充在众议院外交事务委员会上也说：“我们密切关注（峰会）的后续。第一天的会谈相对缓和，我们收集有关会谈的内容以及对日本产生影响的信息，并作出适当回应。日本希望在与美国牢固的互信关系基础上开展合作，并一同敦促中国履行所应承担的责任。”
-鉴于美中关系与东亚安全息息相关，日本政府这次也密切关注此次峰会上提到台湾问题时，美国做出的回应。 
-日本电视台NNN新闻网引述不具名的日外交官说，他不意外中国在台湾问题上发出警告。
-高市的一名亲近消息人士则认为，中方的喊话也是“对日本的重大警告”。报道透露，日方对特朗普没对北京让步松了一口气。
-朝日新闻指，虽然美中关系稳定让国际社会感到安心，但人们强烈担忧会出现“G2”局面，即美中两国承认各自势力范围的划分，并完全在两国之间决定重大问题。
-此前，美中关系往往被放置在中国挑战美国主导的国际秩序的视角下理解。然而，特朗普第二任期内，美国逐渐放弃自身作为战后秩序维护者的角色，使得现状出现松动。
-朝日呼吁，日本应与欧洲、澳大利亚等国一道督促美国认识法治的重要性。与此同时，为了东亚和平，不能忽略日中对话，要尽快让中日关系恢复正常。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[默茨与特朗普通话 双方重申强大的北约伙伴关系]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056751</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056751"/>
-        <updated>2026-05-15T13:45:16.000Z</updated>
-        <summary type="html"><![CDATA[德国总理默茨说，他与美国总统特朗普进行了“良好的通话”。此前，特朗普宣布从德国撤出5000名美军，导致双方关系出现裂痕。
-默茨是在特朗普访华后返回美国途中与他通话。默茨星期五（5月15日）在社交媒体X网站上写道，两人一致认为“美国和德国是强大的北约伙伴”。
-两周前，特朗普宣布撤走驻德美军。此前几天，默茨说，伊朗在谈判桌上“羞辱”了华盛顿。特朗普还对这位德国领导人进行了猛烈抨击。
-特朗普当时在社媒贴文写道：“德国总理应该把更多时间花在结束俄罗斯与乌克兰的战争（他在这方面完全无能为力！），以及修复他那支离破碎的国家，尤其是在移民和能源方面。”
-他还说，默茨应该“少花点时间干涉那些正在消除伊朗核威胁的人，这样才能让包括德国在内的世界变得更安全！”
-法新社指出，默茨星期五的表态表明，他们已经冰释前嫌，并就美国与以色列对发动伊朗战争的目标达成了广泛共识。
-默茨写道：“我们一致认为，伊朗必须立即回到谈判桌前。它必须开放霍尔木兹海峡。绝不能允许德黑兰拥有核武器。”
-默茨补充道：“我们还讨论了乌克兰问题的和平解决方案，并在7月7日至8日安卡拉北约峰会举行前协调了我们的立场。”
-德国是欧盟最大的经济体，也是乌克兰最大的军事支持者。在默茨的领导下，德国已开始大规模扩充军备，以应对德国认为来自俄罗斯的威胁，并减少欧洲防务对美国的依赖。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬兰总统：美国需在欧洲防御俄罗斯核弹头 不会退出北约]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056688</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056688"/>
-        <updated>2026-05-15T13:34:09.000Z</updated>
-        <summary type="html"><![CDATA[芬兰总统斯图布说，美国需要北约才能应对俄罗斯的核武威胁，这意味着它退出北约的代价太高了，华盛顿为了自己的利益，将继续在欧洲大陆保留驻军。 
-斯图布星期五（5月15日）在立陶宛首都维尔纽斯一个商业论坛上说，北约成员涵盖北欧国家，让美国能通过在欧洲的军事基地，近距离应对它的头号威胁，即俄罗斯的核武器。
-他说：“俄罗斯在西北部的科拉半岛（Kola Peninsula）和摩尔曼斯克（Murmansk）部署大量核弹头，那里距离芬兰边境只有100公里。这些核弹头都是对准纽约、华盛顿特区和洛杉矶。”
-美国总统特朗普大肆批评北约盟友在美伊战事未支持美国，在上个月宣布将至少削减在德国的5000名驻军，并考虑进一步减少驻守在欧洲的8万5000名美军人员。 
-消息人士透露，美国本周突然取消派遣4000名陆军士兵到波兰的计划。 
-不过，斯图布说：“豪语和现实总有差距，美国不会退出北约，美国需要欧洲。”
-在维尔纽斯的同场商业论坛上，立陶宛总统瑙塞达说：“北约正处于关键时刻，我们必须保住这个组织，因为这是我所知道的世界最好的军事联盟，不只是二战以来，可能是14世纪以来最好。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -665,6 +738,45 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[让学术能力很强的博士退学的后果是：学术圈的“杰青”保不住了 | 原文]]></title>
+        <id>https://t.me/wxbyg/7342</id>
+        <link href="https://t.me/wxbyg/7342"/>
+        <updated>2026-05-14T13:06:25.000Z</updated>
+        <summary type="html"><![CDATA[让学术能力很强的博士退学的后果是：学术圈的“杰青”保不住了 | 原文
+Telegraph
+让学术能力很强的博士退学的后果是：学术圈的“杰青”保不住了
+如果你两年前打开北航生医博士“耿同学”的直播间，你会发现一个极有烟火气的画面：一个东北口音、戴眼镜的小伙子，在屏幕前诚惶诚恐地构思着自己的下半辈子。他最大的念想不是什么宏大梦想，而是导师能放他走人，对，“放他走人”，这四个字在博士圈里一点不夸张。他想着拿个北航博士学位，回老家找个大专高职院校教书，和对象结婚过日子。这叫普通人的人生。 然后呢。然后就没有“然后”了。他被退学了。 不是体面的肄业，不是温柔的劝退，是被北航……怎么说呢，一刀切掉了他的博士身份。一个吉大生物学本硕的好苗子，硬生生被踢出了学术圈的…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么要隆重接待特朗普？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7341</id>
+        <link href="https://t.me/wxbyg/7341"/>
+        <updated>2026-05-14T05:41:39.000Z</updated>
+        <summary type="html"><![CDATA[为什么要隆重接待特朗普？ | 原文
+Telegraph
+为什么要隆重接待特朗普？
+出品 | 外宣微记 欢迎转发朋友圈，转载全文请申请授权 中美峰会，举世瞩目。美联社13日发表一篇颇有意味的文章： 《特朗普访华：论排场与礼仪的重要性》 The importance of pomp and protocol as Trump goes to China 中国人早就懂得：礼仪是一种力量，排场是一种语言，而外交是把这两者用得恰到好处的艺术。 距美国总统上次访华，九年已过；世界变了，中美关系也变了。近日来，多数外媒都发出一个类似的论调：今天的中国，比 2017 年更有底气，也更有筹码。 正因如…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人 | 原文]]></title>
+        <id>https://t.me/wxbyg/7340</id>
+        <link href="https://t.me/wxbyg/7340"/>
+        <updated>2026-05-14T04:42:04.000Z</updated>
+        <summary type="html"><![CDATA[田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人 | 原文
+Telegraph
+田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人
+梦晨 发自 凹非寺量子位 | 公众号 QbitAI 离职Meta后的田渊栋，现身独角兽联创名单，成了AI创业合伙人。 Recursive Superintelligence（RSI），不到30人，刚从隐身状态走出来，就拿到6.5亿美元融资（约44亿元人民币），估值46.5亿美元（约316亿元人民币）。 谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中。 8位联创亮相，阵容豪华。 这些8人里随便挑一个出来，都足以单独撑起一家AI独角兽。 那么，他们聚在一起要做什么？ 公司名字就点明了：Recursive…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026年5月推荐]]></title>
         <id>/archives/2026nian-5yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
@@ -672,6 +784,124 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月14日 免费在线office编辑 一个浏览器端的Office套件，开源地址 Motrix Next 一个全功能下载器，Motrix的继任者，支持 HTTP、FTP、BT 种子及磁力链接等协议，GitHub 5月13日]]></summary>
         <author>
             <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI购物聊了两年，为什么今天才终于能下单？ | 原文]]></title>
+        <id>https://t.me/wxbyg/7339</id>
+        <link href="https://t.me/wxbyg/7339"/>
+        <updated>2026-05-13T18:09:02.000Z</updated>
+        <summary type="html"><![CDATA[AI购物聊了两年，为什么今天才终于能下单？ | 原文
+Telegraph
+AI购物聊了两年，为什么今天才终于能下单？
+AI竞赛转向应用层，模型能力之外， 高质量的封闭数据会成为各家独有的护城河。 文｜王熠 一个用户对千问说：“我想减肥，帮我推荐一些训练装备。” 千问的回答是：不建议买，你拥有的器材已经覆盖了有氧和力量训练的基本需求，问题可能不在装备。转头，话题回到了训练计划和如何坚持上。 一个AI购物助手建议你别买——这可能是AI购物助手最像人的地方。 当AI说出“你不需要这个”，它真正理解了你的处境：你的目标是什么、你已经有什么、你的瓶颈在哪。基于深度理解的“反向推荐”，意味着AI购物进入了真正辅助决策的新阶段。 5…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“化学驯服”：“德国老司机驾校”跨国迷奸案全纪录 | 原文]]></title>
+        <id>https://t.me/wxbyg/7338</id>
+        <link href="https://t.me/wxbyg/7338"/>
+        <updated>2026-05-13T17:10:56.000Z</updated>
+        <summary type="html"><![CDATA[“化学驯服”：“德国老司机驾校”跨国迷奸案全纪录 | 原文
+顺便推荐一下这个公众号的 substack: https://aquarianhq.substack.com
+Telegraph
+“化学驯服”：“德国老司机驾校”跨国迷奸案全纪录
+一个名为“德国老司机驾校”的Telegram群组，以“开车”“加油”等暗语交流如何对女性下药、实施性侵，并在群组内传播影像与经验。随着主犯张大鹏在德国落网，一场跨越欧洲与北美的连环调查被逐步揭开：从法兰克福、慕尼黑、柏林，到洛杉矶南加州大学校园，多名涉案者相继被捕、起诉或判刑。 前往Substack平台订阅水瓶纪元 https://aquarianhq.substack.com/ 或将您的邮箱发送至后台 2026年5月4日，柏林地区法院刑事法庭就邵之霆（Zhiting S.）迷奸案进行第二次庭审。 旁听…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨城陷落中！两千万人的大城市每年沉降超20厘米 | 原文]]></title>
+        <id>https://t.me/wxbyg/7336</id>
+        <link href="https://t.me/wxbyg/7336"/>
+        <updated>2026-05-13T15:30:48.000Z</updated>
+        <summary type="html"><![CDATA[巨城陷落中！两千万人的大城市每年沉降超20厘米 | 原文
+Telegraph
+巨城陷落中！两千万人的大城市每年沉降超20厘米
+根据NASA与印度联合发射的尼萨尔卫星最新观测结果，墨西哥首都墨西哥城的部分区域正在以惊人的速度沉降。在2025年10月25日至2026年1月17日干季期间，城市多个关键区域每月下沉超过2厘米，属于全球最快沉降城市之列。这种几乎肉眼可见的变化对于将大地视为稳定与安全象征的人类来说，带来了一种巨大的不确定性，就像城中多处已经明显歪斜的高大建筑一样，整个城市摇摇欲坠。 行人走过墨西哥城市中心一座明显倾斜的历史建筑。 图源：美联社 墨西哥首都及其周边卫星城市是世界上面积最大、人口最稠密的城市地区之一，占地约7…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别急着心疼阿娇，她拍的是“核弹级”短剧 | 原文]]></title>
+        <id>https://t.me/wxbyg/7335</id>
+        <link href="https://t.me/wxbyg/7335"/>
+        <updated>2026-05-13T14:32:13.000Z</updated>
+        <summary type="html"><![CDATA[别急着心疼阿娇，她拍的是“核弹级”短剧 | 原文
+Telegraph
+别急着心疼阿娇，她拍的是“核弹级”短剧
+文｜姜北 阿娇要拍短剧了，评论区里又是一片心疼。 “女神沦落了”“咖位降级”“怎么混成这样了”，类似的声音翻来覆去，断言她已经无戏可拍。 但这些人大概没仔细看她演的是哪部剧，心疼早了。 阿娇这次接的，叫《风声之双生谜局》，监制是拍《长安十二时辰》的曹盾，出品方是做《狂飙》的留白影视。这个配置放在短剧圈，是“核弹”级别的。 阿娇演的李宁玉牺牲后灵魂穿越到顾小梦体内，一人分饰两角，在冷冽特工和骄纵大小姐之间反复横跳。冷冽克制与傲娇任性在同一人身上切换，阿娇的脸在暗调光影中被拍得像一把刀。短剧的竖屏，快装不下这张建模脸了。…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 反超 Claude：用户开始回归“好用” | 原文]]></title>
+        <id>https://t.me/wxbyg/7334</id>
+        <link href="https://t.me/wxbyg/7334"/>
+        <updated>2026-05-13T13:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Codex 反超 Claude：用户开始回归“好用” | 原文
+Telegraph
+Codex 反超 Claude：用户开始回归“好用”
+最近看到一篇 AI 编程助手的观察：Codex 下载量反超 Claude Code。 我第一反应不是“谁赢了”。 而是：用户开始用脚投票了。 很多 AI 工具的问题，不是不会炫。 是演示里很强，真实工作里不稳。🥲 你让它改代码，它确实能动。 但改完以后，你还要反复检查。 你让它修 bug，它可能顺手制造新 bug。 你以为自己省了时间，结果又花半小时回滚。 这时候，所谓“更聪明”，就不一定是第一优先级了。 对开发者来说，真正好用的工具，至少要做到三件事： ✅ 少翻车 不要每次交付都像开盲盒。 ✅ 改得干净…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋“临时登机”，英伟达官方辞令耐人寻味 | 原文]]></title>
+        <id>https://t.me/wxbyg/7333</id>
+        <link href="https://t.me/wxbyg/7333"/>
+        <updated>2026-05-13T06:03:19.000Z</updated>
+        <summary type="html"><![CDATA[黄仁勋“临时登机”，英伟达官方辞令耐人寻味 | 原文
+Telegraph
+黄仁勋“临时登机”，英伟达官方辞令耐人寻味
+出品 | 外宣微记 欢迎转发朋友圈，转载全文请申请授权 这两天的北京，从三环就能感受到那个善变的男人要来了。 白宫 11 日公布了随行商界领袖名单，英伟达总裁黄仁勋的“落选”格外引人注意，媒体评论满天飞。不过，就在刚刚，他在阿拉斯加中转站临时登上了空军一号。 《纽约邮报》驻白宫记者 Emily Goodin 在社交媒体晒出两张照片： 英伟达随后给媒体的一句回应耐人寻味： Jensen is attending the summit at the invitation of President Trump…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《大西洋月刊》丨人工智能如何扼杀了普林斯顿一项拥有133年历史的传统 | 原文]]></title>
+        <id>https://t.me/wxbyg/7332</id>
+        <link href="https://t.me/wxbyg/7332"/>
+        <updated>2026-05-13T05:44:46.000Z</updated>
+        <summary type="html"><![CDATA[《大西洋月刊》丨人工智能如何扼杀了普林斯顿一项拥有133年历史的传统 | 原文
+Telegraph
+《大西洋月刊》丨人工智能如何扼杀了普林斯顿一项拥有133年历史的传统
+How AI Killed a 133-Year-Old Princeton Tradition 该校著名的荣誉准则，在聊天机器人助力的作弊行为面前不堪一击。 作者：罗斯·霍罗维奇 普林斯顿大学校园夜景图。塞尔吉奥·阿米蒂 / 盖蒂图片社 美国东部时间2026年5月12日 1876年，普林斯顿大学新创办的校报《普林斯顿人报》发表一篇社论，反对安排监考人员监督考试。作者写道，监考制度是“一种糟糕的道德教育方式”。若先假定学生品行不端，部分学生便真的会变得失信；若以正直之人相待，学生便会学着恪守本分。于是报…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在远东种大豆(2) | 原文]]></title>
+        <id>https://t.me/wxbyg/7331</id>
+        <link href="https://t.me/wxbyg/7331"/>
+        <updated>2026-05-13T05:14:01.000Z</updated>
+        <summary type="html"><![CDATA[我在远东种大豆(2) | 原文
+Telegraph
+我在远东种大豆
+播种是五月，现在是十月中旬，我们又来秋收了。但一落地我们就出现了一些小争执：我就说我们租的这车是从日本走私过来的，他们不信。 听说过很久日本车被偷了然后走私到俄罗斯的都市传说。第一次来的时候我们租的车是奇瑞，还没见识。但第二次来的时候我们租了台本田步威（Honda Stepwgn），先不说这车根本就没在俄罗斯上市的事儿——我们租的这台车非常新、日本右舵（俄罗斯和中国一样是左舵）、只能用日本时间、地图如果不在日本列岛，就只会显示你在一片海里。如果这还不能说明这车来源有问题，还需要什么证据？ 主要这不是一个…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在远东种大豆(1) | 原文]]></title>
+        <id>https://t.me/wxbyg/7330</id>
+        <link href="https://t.me/wxbyg/7330"/>
+        <updated>2026-05-13T05:14:01.000Z</updated>
+        <summary type="html"><![CDATA[我在远东种大豆(1) | 原文
+Telegraph
+我在远东种大豆
+去年我和朋友在远东种了1200亩大豆，占中国进口量 6.2 万分之一，微不足道。但对我而言，更重要的是大豆的历史：它曾经是中国东北最重要的作物，无数影响东北的历史事件皆因它而起。而我是个东北人，大豆也应与我有关。 如果看视频，估计会以为我正开车行驶在广袤的非洲大草原上。而我从来没想过，当充满枯萎干燥芦苇的沼泽地大到一定程度时，它看起来就像是非洲的稀树草原。但这和稀树草原可谓南辕北辙——因为这里是俄罗斯的滨海边疆区，也就是我们常说的“远东”。 酷似稀树草原的沼泽地 我来这是为了种大豆。 2025 年，中国从全世界进口了…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>
@@ -781,41 +1011,6 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
         <summary type="html"><![CDATA[國中前該不該給小孩手機？電話手錶還是智慧型？學校 2025 年禁手機後怎麼辦？《失控的焦慮世代》的四大建議對有餘裕家長是安慰、對累爆家長是審判、對補習文化家長是失焦。手機只解釋 0.4% 的青少年憂鬱變異。跨六位學者攤開育兒書的階級政治，給你三個數字找到自己家的判斷框架。]]></summary>
         <author>
             <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被動投資悖論：當所有人都不用想，誰在幫你的股價定價？]]></title>
-        <id>https://ducorn.com/passive-investing-paradox</id>
-        <link href="https://ducorn.com/passive-investing-paradox"/>
-        <updated>2026-04-17T01:35:35.000Z</updated>
-        <summary type="html"><![CDATA[0050 台積電佔比 62%，S&P 500 前七大佔 33%。被動投資發明者 Bogle 死前警告權力集中，Green 說定價的人消失了，Asness 說效率下降主因是社群媒體。三方量的是不同的東西，你的退休金正走在路上，要算的是你離退休還有幾年。]]></summary>
-        <author>
-            <name>讀角獸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 393 期）：脑腐状态]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html"/>
-        <updated>2026-04-16T23:20:16.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-湖南益阳的和平签证主题博物馆，纪念二战时期何凤山博士救助犹太人。外立面的层层钢板象征签证文件，狭窄而棱角分明的入口给人一种压抑的感觉，进入后的空间逐渐走向释放和光明。（via）
-脑腐状态
-最近学到一个新词"脑腐"（brain rot）。
-
-它就是字面意思。有些人看上去是正常的，但是大脑已经变异了，有些部分腐烂了。
-根据介绍文章，"脑腐"的症状就是思考能力下降，难以长时间集中注意力，进行深入的推理和反思。
-一遇到比较难、需要反复思考的问题，你就会烦躁，不仅是心理烦躁，还会生理烦躁，全身不安，不愿意多想，就希望赶快了结。
-你有没有这个症状？如果有，就有"脑腐"的危险了。我感觉，我的大脑就有一点。遇到复杂的软件概念和算法，以前会仔细研究，直到搞懂为止，现在更可能看一眼就跳过去，不懂就不懂了，知道名字就可以了。
-"脑腐"的主要原因是，网络平台上面那些夸张的"标题党"文章和短视频。它们的目标是吸引流量，在最短时间内引发阅读者/观看者的兴趣，感到满足。当你长期观看这些内容以后，大脑就被密集刺激，思维兴奋状态的维持时间越来越短，丧失了长时间深入思考的能力。
-这就是为什么一个人看惯短视频以后，就离不开内容压缩了。一篇几千字的文章，他也会要求大模型生成总结；一部90分钟的电影，他也宁愿看几分钟的电影解说。
-一旦"脑腐"了，难以长时间集中注意力进行思考，也就难以学习和处理高难度问题了。现在看上去，没有好的解决办法，因为现代人的时间越来越琐碎，内容碎片化是大趋势。
-应对之策也许就是反过来，将学习和思考拆解成一系列短问题。比如，以后的学习不再是一厚本教材，而是几十个的系列短视频，每个用两三分钟解释一个知识点。只有这个时…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
