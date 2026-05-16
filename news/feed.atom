@@ -2,198 +2,285 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T03:31:21.646Z</updated>
+    <updated>2026-05-16T08:09:19.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[MOTHERHOOD]]></title>
-        <id>1x-3584223</id>
-        <link href="https://1x.com/photo/3584223"/>
-        <updated>2026-05-16T03:30:37.274Z</updated>
-        <summary type="html"><![CDATA[MOTHERHOOD by Yonca Inceoglu]]></summary>
+        <title type="html"><![CDATA[Root memory]]></title>
+        <id>1x-3584355</id>
+        <link href="https://1x.com/photo/3584355"/>
+        <updated>2026-05-16T08:08:33.045Z</updated>
+        <summary type="html"><![CDATA[Root memory by Qiang Li]]></summary>
         <author>
-            <name>Yonca Inceoglu</name>
+            <name>Qiang Li</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sentinel]]></title>
-        <id>1x-3584330</id>
-        <link href="https://1x.com/photo/3584330"/>
-        <updated>2026-05-16T03:30:37.271Z</updated>
-        <summary type="html"><![CDATA[The Sentinel by Lucie Gagnon]]></summary>
+        <title type="html"><![CDATA[Joy in the Dark]]></title>
+        <id>1x-3581646</id>
+        <link href="https://1x.com/photo/3581646"/>
+        <updated>2026-05-16T08:08:33.040Z</updated>
+        <summary type="html"><![CDATA[Joy in the Dark by Ilana Lam]]></summary>
         <author>
-            <name>Lucie Gagnon</name>
+            <name>Ilana Lam</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tropical coil]]></title>
-        <id>1x-3584225</id>
-        <link href="https://1x.com/photo/3584225"/>
-        <updated>2026-05-16T03:30:37.269Z</updated>
-        <summary type="html"><![CDATA[Tropical coil by Andrea Marzorati]]></summary>
+        <title type="html"><![CDATA[Stairs]]></title>
+        <id>1x-3583752</id>
+        <link href="https://1x.com/photo/3583752"/>
+        <updated>2026-05-16T08:08:33.037Z</updated>
+        <summary type="html"><![CDATA[Stairs by Frank Massa]]></summary>
         <author>
-            <name>Andrea Marzorati</name>
+            <name>Frank Massa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vivie in Williamsburg, Brooklyn]]></title>
-        <id>1x-3584275</id>
-        <link href="https://1x.com/photo/3584275"/>
-        <updated>2026-05-16T03:30:37.267Z</updated>
-        <summary type="html"><![CDATA[Vivie in Williamsburg, Brooklyn by Jane Lyons]]></summary>
+        <title type="html"><![CDATA[Greetings]]></title>
+        <id>1x-3514891</id>
+        <link href="https://1x.com/photo/3514891"/>
+        <updated>2026-05-16T08:08:33.033Z</updated>
+        <summary type="html"><![CDATA[Greetings by Dianne Mao]]></summary>
         <author>
-            <name>Jane Lyons</name>
+            <name>Dianne Mao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feathered Flame]]></title>
-        <id>1x-3584438</id>
-        <link href="https://1x.com/photo/3584438"/>
-        <updated>2026-05-16T03:30:37.264Z</updated>
-        <summary type="html"><![CDATA[Feathered Flame by ZY Zhang]]></summary>
+        <title type="html"><![CDATA[Facing the Cathedral | Santiago de Compostela, Spain]]></title>
+        <id>1x-3583278</id>
+        <link href="https://1x.com/photo/3583278"/>
+        <updated>2026-05-16T08:08:33.029Z</updated>
+        <summary type="html"><![CDATA[Facing the Cathedral | Santiago de Compostela, Spain by Rudy Mareel]]></summary>
         <author>
-            <name>ZY Zhang</name>
+            <name>Rudy Mareel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gentle Sway]]></title>
-        <id>1x-3584263</id>
-        <link href="https://1x.com/photo/3584263"/>
-        <updated>2026-05-16T03:30:37.261Z</updated>
-        <summary type="html"><![CDATA[Gentle Sway by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[Lea]]></title>
+        <id>1x-3583756</id>
+        <link href="https://1x.com/photo/3583756"/>
+        <updated>2026-05-16T08:08:33.025Z</updated>
+        <summary type="html"><![CDATA[Lea by Ruth Franke]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>Ruth Franke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lazuli bunting]]></title>
-        <id>1x-3584252</id>
-        <link href="https://1x.com/photo/3584252"/>
-        <updated>2026-05-16T03:30:37.257Z</updated>
-        <summary type="html"><![CDATA[Lazuli bunting by Taksing (吉星高照)]]></summary>
+        <title type="html"><![CDATA[2025_10]]></title>
+        <id>1x-3320130</id>
+        <link href="https://1x.com/photo/3320130"/>
+        <updated>2026-05-16T08:08:32.959Z</updated>
+        <summary type="html"><![CDATA[2025_10 by Rainer Neumann]]></summary>
         <author>
-            <name>Taksing (吉星高照)</name>
+            <name>Rainer Neumann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tern]]></title>
-        <id>1x-3584467</id>
-        <link href="https://1x.com/photo/3584467"/>
-        <updated>2026-05-16T03:30:37.255Z</updated>
-        <summary type="html"><![CDATA[Tern by Allan Wallberg]]></summary>
+        <title type="html"><![CDATA[I will come back II...]]></title>
+        <id>1x-3584530</id>
+        <link href="https://1x.com/photo/3584530"/>
+        <updated>2026-05-16T08:08:32.952Z</updated>
+        <summary type="html"><![CDATA[I will come back II... by Stefan Eisele]]></summary>
         <author>
-            <name>Allan Wallberg</name>
+            <name>Stefan Eisele</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S E A T T L E]]></title>
-        <id>1x-3584461</id>
-        <link href="https://1x.com/photo/3584461"/>
-        <updated>2026-05-16T03:30:37.253Z</updated>
-        <summary type="html"><![CDATA[S E A T T L E by Robert Fabrowski]]></summary>
+        <title type="html"><![CDATA[Rhythmic Facade]]></title>
+        <id>1x-3239740</id>
+        <link href="https://1x.com/photo/3239740"/>
+        <updated>2026-05-16T08:08:32.946Z</updated>
+        <summary type="html"><![CDATA[Rhythmic Facade by Masaki Yazaki]]></summary>
         <author>
-            <name>Robert Fabrowski</name>
+            <name>Masaki Yazaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mist-shrouded Colorful Mountains]]></title>
-        <id>1x-3584457</id>
-        <link href="https://1x.com/photo/3584457"/>
-        <updated>2026-05-16T03:30:37.250Z</updated>
-        <summary type="html"><![CDATA[Mist-shrouded Colorful Mountains by Nancy Xu]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3569470</id>
+        <link href="https://1x.com/photo/3569470"/>
+        <updated>2026-05-16T08:08:32.939Z</updated>
+        <summary type="html"><![CDATA[Untitled by Val dOrcia photography]]></summary>
         <author>
-            <name>Nancy Xu</name>
+            <name>Val dOrcia photography</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Least Bittern]]></title>
-        <id>1x-3584305</id>
-        <link href="https://1x.com/photo/3584305"/>
-        <updated>2026-05-16T03:30:37.248Z</updated>
-        <summary type="html"><![CDATA[Least Bittern by Xiaohong Zhang]]></summary>
+        <title type="html"><![CDATA[The Young Camel Herder]]></title>
+        <id>1x-3584398</id>
+        <link href="https://1x.com/photo/3584398"/>
+        <updated>2026-05-16T08:08:32.930Z</updated>
+        <summary type="html"><![CDATA[The Young Camel Herder by Rahul Wedpathak]]></summary>
         <author>
-            <name>Xiaohong Zhang</name>
+            <name>Rahul Wedpathak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[grasshopper]]></title>
-        <id>1x-3584288</id>
-        <link href="https://1x.com/photo/3584288"/>
-        <updated>2026-05-16T03:30:37.244Z</updated>
-        <summary type="html"><![CDATA[grasshopper by hiro]]></summary>
+        <title type="html"><![CDATA[Jutro]]></title>
+        <id>1x-3584136</id>
+        <link href="https://1x.com/photo/3584136"/>
+        <updated>2026-05-16T08:08:32.922Z</updated>
+        <summary type="html"><![CDATA[Jutro by Drago Vogrinec]]></summary>
         <author>
-            <name>hiro</name>
+            <name>Drago Vogrinec</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アクアライン]]></title>
-        <id>1x-3584276</id>
-        <link href="https://1x.com/photo/3584276"/>
-        <updated>2026-05-16T03:30:37.241Z</updated>
-        <summary type="html"><![CDATA[アクアライン by Kirino@]]></summary>
+        <title type="html"><![CDATA[The Bark and the Body]]></title>
+        <id>1x-3583961</id>
+        <link href="https://1x.com/photo/3583961"/>
+        <updated>2026-05-16T08:08:32.916Z</updated>
+        <summary type="html"><![CDATA[The Bark and the Body by daniel demunter]]></summary>
         <author>
-            <name>Kirino@</name>
+            <name>daniel demunter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Regalia]]></title>
-        <id>1x-3584287</id>
-        <link href="https://1x.com/photo/3584287"/>
-        <updated>2026-05-16T03:30:37.205Z</updated>
-        <summary type="html"><![CDATA[Regalia by Cami Marculescu]]></summary>
+        <title type="html"><![CDATA[Doing the dishes]]></title>
+        <id>1x-3584397</id>
+        <link href="https://1x.com/photo/3584397"/>
+        <updated>2026-05-16T08:08:32.908Z</updated>
+        <summary type="html"><![CDATA[Doing the dishes by Susan Moss]]></summary>
         <author>
-            <name>Cami Marculescu</name>
+            <name>Susan Moss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greeting in the air]]></title>
-        <id>1x-3584452</id>
-        <link href="https://1x.com/photo/3584452"/>
-        <updated>2026-05-16T03:30:37.200Z</updated>
-        <summary type="html"><![CDATA[Greeting in the air by Qing Zhao]]></summary>
+        <title type="html"><![CDATA[Piazza Aulenti b&w version]]></title>
+        <id>1x-3583475</id>
+        <link href="https://1x.com/photo/3583475"/>
+        <updated>2026-05-16T08:08:32.753Z</updated>
+        <summary type="html"><![CDATA[Piazza Aulenti b&w version by Paolo Bolla]]></summary>
         <author>
-            <name>Qing Zhao</name>
+            <name>Paolo Bolla</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prothonotary Warbler with catch]]></title>
-        <id>1x-3584453</id>
-        <link href="https://1x.com/photo/3584453"/>
-        <updated>2026-05-16T03:30:37.152Z</updated>
-        <summary type="html"><![CDATA[Prothonotary Warbler with catch by Michael Burlak]]></summary>
+        <title type="html"><![CDATA[Crowned]]></title>
+        <id>1x-3584230</id>
+        <link href="https://1x.com/photo/3584230"/>
+        <updated>2026-05-16T08:08:32.737Z</updated>
+        <summary type="html"><![CDATA[Crowned by Tali Krinsky]]></summary>
         <author>
-            <name>Michael Burlak</name>
+            <name>Tali Krinsky</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adele (Cowgirl)]]></title>
-        <id>1x-3582684</id>
-        <link href="https://1x.com/photo/3582684"/>
-        <updated>2026-05-16T03:30:37.149Z</updated>
-        <summary type="html"><![CDATA[Adele (Cowgirl) by Lee Kershaw]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3583116</id>
+        <link href="https://1x.com/photo/3583116"/>
+        <updated>2026-05-16T08:08:32.720Z</updated>
+        <summary type="html"><![CDATA[Untitled by Paulo Abrantes]]></summary>
         <author>
-            <name>Lee Kershaw</name>
+            <name>Paulo Abrantes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiet Watcher]]></title>
-        <id>1x-3584240</id>
-        <link href="https://1x.com/photo/3584240"/>
-        <updated>2026-05-16T03:30:37.146Z</updated>
-        <summary type="html"><![CDATA[Quiet Watcher by Gregor Kobilica]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3582964</id>
+        <link href="https://1x.com/photo/3582964"/>
+        <updated>2026-05-16T08:08:32.707Z</updated>
+        <summary type="html"><![CDATA[Untitled by Ali Ayer]]></summary>
         <author>
-            <name>Gregor Kobilica</name>
+            <name>Ali Ayer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old University Library in Copenhagen]]></title>
-        <id>1x-3584234</id>
-        <link href="https://1x.com/photo/3584234"/>
-        <updated>2026-05-16T03:30:36.901Z</updated>
-        <summary type="html"><![CDATA[Old University Library in Copenhagen by Herbert A. Franke]]></summary>
+        <title type="html"><![CDATA[Ghepardo]]></title>
+        <id>1x-3548637</id>
+        <link href="https://1x.com/photo/3548637"/>
+        <updated>2026-05-16T08:08:32.678Z</updated>
+        <summary type="html"><![CDATA[Ghepardo by Paolorossi]]></summary>
         <author>
-            <name>Herbert A. Franke</name>
+            <name>Paolorossi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工会此前称将大规模罢工 韩国三星电子会长李在镕致歉]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058896</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058896"/>
+        <updated>2026-05-16T07:22:32.000Z</updated>
+        <summary type="html"><![CDATA[韩国工会此前称将举行大规模罢工，韩国三星电子会长李在镕就公司与韩国工会的薪资纠纷向客户和公众致歉。
+路透社报道，李在镕星期六（5月16日）首次就这次纠纷发表公开讲话。他说：“由于公司内部问题，给世界各地的客户带来焦虑和担忧，我对此深表歉意。”
+本周薪资谈判破裂后，韩国劳工部长于星期六会见三星电子管理层，敦促公司积极参与对话，以解决纠纷。
+韩国政府官员说，应不惜一切代价避免三星发生罢工，并警告称罢工可能对经济增长、出口和金融市场构成重大风险。
+政府斡旋的谈判破裂，加剧人们对这家全球最大内存晶片制造商可能发生罢工的担忧。
+工会星期五（15日）说，即使公司提出无条件恢复薪酬谈判，他们仍将坚持下周举行罢工。
+三星电子劳资谈判近日宣告破裂，因对奖金分配和薪酬不满，拥有逾7万名会员的三星电子工会此前宣布，将于5月21日启动为期18天的全面罢工，并已向警方报备，计划在罢工首日下午1时于李在镕的首尔住宅前举行集会。
+2020年，李健熙就高管破坏工会活动的行为道歉，并承诺保障这家科技巨头的员工权益。三星集团的一些前任和现任高管曾接受调查或被定罪。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3500名纽约长岛铁路员工罢工 导致铁路停运]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058794</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058794"/>
+        <updated>2026-05-16T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[纽约长岛铁路有关的工会说，约3500名员工罢工，原因是双方未能达成工资协议，导致美国最繁忙的通勤铁路系统长岛铁路停运。
+路透社报道，国际卡车司机兄弟会（International Brotherhood of Teamsters）星期六（5月16日）发声明说，这是32年来的首次罢工，并由五个工会联合发起。声明称，工人们已经三年没有获得加薪。
+长岛铁路每天服务近30万名乘客，由纽约州大都会运输署运营。
+机车工程师和列车员兄弟会（Brotherhood of Locomotive Engineers and Trainmen）主席华莱士说：“我们希望长岛铁路尽快认真对待此事，避免给数十万纽约市民带来更多不必要的麻烦。他们知道什么时候去哪里找我们：就在街头。”
+今年1月，美国总统特朗普签署一项行政命令，任命第二个紧急委员会进行调解，以避免长岛铁路公司发生停工。此前，工会曾请求他介入此事。
+去年9月，特朗普曾首次任命一个委员会来平息这场劳资纠纷。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普第一季度进行逾3700笔交易 涵盖与政府往来大公司]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058578</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058578"/>
+        <updated>2026-05-16T06:14:38.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普最新的财务披露显示，他本人或投资顾问在今年第一季度进行超过3700笔交易，总额达数千万美元，涵盖多家与政府有业务往来的大型公司。
+彭博社报道，这些交易详列于星期四（5月14日）提交给美国政府道德办公室的逾100页文件中。由于文件以区间形式列出买卖金额，难以精确计算总值，但显示三个月内日均超过40笔交易。
+文件显示，特朗普在第一季度分别斥资100万美元（约128万新元）购入英伟达、甲骨文、微软、波音和好市多等公司的股票，其他交易还涵盖eBay、雅培、优步、AT&T和零售商Dollar Tree。
+此次交易规模超过特朗普此前披露的任何记录。去年第四季度，他共进行380笔交易，主要为市政债券投资。去年1月21日至8月期间，他曾披露690笔交易，总额至少达1亿零370万美元。
+特朗普在任期间出台的多项政策直接影响他所交易的上市公司，他本人也与多家企业高管保持密切接触。例如英伟达的晶片出口需获得美国政府批准。
+特朗普也对英特尔（Intel）进行过六笔交易，政府曾在去年8月达成协议，以近90亿美元收购英特尔10%的股份。
+不过，特朗普的言论并不总是利好持仓公司。例如他在北京宣布中国将购买200架波音飞机后，由于订单规模低于预期，波音股价反而下跌。 
+根据2012年通过的《股票法案》（STOCK Act），官员需在45天内申报证券交易，但特朗普的两次申报都超过期限，而法律规定的罚款仅为每次200美元，他已缴纳相关费用。
+此次披露再次引发人们对特朗普执政期间利益冲突的担忧。批评者长期指责他将公职与商业利益混为一谈。不同于前任总统，特朗普并未剥离资产，也未将资产交由独立受托人管理的信托基金中。他的庞大商业帝国由两名儿子打理，业务横跨多个与总统政策相关的领域。
+与此同时，他的女婿库什纳一方面为卡塔尔、沙特阿拉伯和阿联酋管理数十亿美元投资。另一方面，他又以“志愿特使”身份参与涉及伊朗战争及中东问题的事务。 
+民主党参议员沃伦对此指，特朗普在放宽对华晶片销售限制、推动英伟达股价上涨的同时收购英伟达股票，构成国家安全风险，并形容总统的腐败是国安灾难。伊利诺伊州民主党籍州长也批评特朗普为“史上最腐败总统”。
+不过，白宫驳斥相关利益冲突质疑，并称特朗普“始终以美国公众的最大利益为出发点”，强调不存在任何利益冲突。
+特朗普集团发言人此前称，总统资产由第三方金融机构独立管理，这些机构掌控所有投资决策，交易通过自动化程序执行，特朗普本人、家人及公司都不参与具体操作，也不会提前获知交易情况或提供意见。
+特朗普的长子埃里克也否认存在不当行为，并称所有资产都由大型金融机构以信托形式进行投资。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38岁男子在西澳大利亚遭鲨鱼袭击身亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058489</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058489"/>
+        <updated>2026-05-16T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[38岁男子在西澳大利亚遭鲨鱼袭击，最终不治身亡。
+法新社报道，西澳大利亚圣约翰救护机构一名发言人说，这起事件发生在星期六（5月16日）早上10时（新加坡时间早上8时），地点位于珀斯市附近的罗特内斯特岛附近海域。
+西澳大利亚州初级产业和区域发展部告诉法新社，这名男子是被一条四米长的大白鲨袭击。
+事发地点是一个热门旅游目的地，当局敦促公众在事发附近海域“格外小心”。
+这起袭击事件是两天内记录的四起鲨鱼袭击事件之一，促使当局关闭了市内数十个海滩。这也是这个市近期发生的第三起与鲨鱼相关的死亡事件。
+根据一个记录鲨鱼与人类遭遇事件的数据库显示，自1791年以来，澳大利亚已发生近1300起鲨鱼袭击事件，其中超过260起死亡事件。
+最近一起死亡事件是一名12岁男孩，他于今年1月在悉尼港遭到鲨鱼袭击后身亡。　　
+澳大利亚科学家认为，日益拥挤的水域和不断上升的海洋温度正在改变鲨鱼的迁徙模式，这可能是导致鲨鱼袭击事件增加的原因之一。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：伊斯兰国组织二号头目已被击毙]]></title>
+        <id>https://www.zaobao.com/news/world/story20260516-9058319</id>
+        <link href="https://www.zaobao.com/news/world/story20260516-9058319"/>
+        <updated>2026-05-16T04:44:09.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普说，“伊斯兰国组织”（ISIS）二号头目阿布·比拉尔·米努基已在美国和尼日利亚的联合行动中被击毙。
+路透社报道，特朗普星期五（5月15日）在社媒发文说：“今晚，在我的指示下，勇敢的美国军队和尼日利亚武装部队完美地执行了一项精心策划且极其复杂的任务，将世界上最活跃的恐怖分子从战场上彻底消灭。”
+他说：“阿布·比拉尔·米努基（Abu-Bilal al-Minuki）以为他可以藏身非洲，但他万万没想到，我们有线人随时掌握他的动向。”
+他也感谢尼日利亚政府在此次行动中的合作。
+此前，特朗普曾说，尼日利亚的基督徒正遭受迫害，但尼日利亚政府否认这一说法，因此尼日利亚也受到了特朗普的批评。
+去年圣诞节当天，在特朗普提出指控后，美国对尼日利亚西北部的所谓伊斯兰武装分子基地发动袭击。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -542,91 +629,6 @@ More in Common的调查显示，这一群体的“后悔情绪”正在上升。
 消息人士透露，美国本周突然取消派遣4000名陆军士兵到波兰的计划。 
 不过，斯图布说：“豪语和现实总有差距，美国不会退出北约，美国需要欧洲。”
 在维尔纽斯的同场商业论坛上，立陶宛总统瑙塞达说：“北约正处于关键时刻，我们必须保住这个组织，因为这是我所知道的世界最好的军事联盟，不只是二战以来，可能是14世纪以来最好。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗：特朗普访华后重申美日“牢不可破”的关系]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056555</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056555"/>
-        <updated>2026-05-15T13:11:26.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗说，她与美国总统特朗普通电话，重申美日“牢不可破”的盟国关系。
-路透社报道，特朗普在结束对中国为期两天的访问数小时后，在空军一号上接听电话。
-高市星期五（5月15日）在通话后告诉记者：“我们就中国相关问题交换意见，包括经济和安全问题……并重申在印太地区问题上保持密切沟通。”
-双方还讨论伊朗问题，高市说，她与特朗普在这些问题上的立场一致。
-有记者问他们是否讨论了台湾问题，高市并没有回答。
-她说，特朗普“详细地向我讲述（他访华的情况），但前提是我们的谈话内容保密”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄乌战争进入第五个年头 乌军开始扭转战情]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9055478</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9055478"/>
-        <updated>2026-05-15T13:06:26.000Z</updated>
-        <summary type="html"><![CDATA[（基辅综合电）俄乌战争进入第五个年头，乌克兰官员和军官本周称，乌军过去几个月在前线取得“创纪录”的战果，战局正开始转向对乌方有利。
-美国有线电视新闻网（CNN）星期四（5月14日）引述在前线作战的乌克兰军官说，前线的俄军士兵已出现疲态。
-乌克兰防长费多罗夫星期二（12日）说，俄军已无力继续发动进攻。“我们在3月和4月共消灭了3万5000名俄军。乌军正在消耗俄军兵力。”他形容这些战果“创纪录”。
-华盛顿智库战争研究所的分析显示，乌军上个月收复的领土超过俄罗斯所占领的面积。这是自乌克兰2024年8月进攻俄南库尔斯克（Kursk）以来，莫斯科首次出现净领土损失。
-乌克兰近期的战果，很大程度上归因于其无人机优势。乌军此前侧重于前线短程打击，以及深入俄境内的远程打击，但近期加强了中程打击，重点攻击俄军后勤系统，而这类打击正在发挥效用。 
-分析：俄军无法长期守住阵地
-
-战争研究所的俄罗斯专家哈沃德指出：“我们看到乌克兰发动的此类打击数量出现了显著增长。这正在影响俄军的后勤保障。”
-分析指，目前俄军试图渗透到乌克兰控制区，制造不断推进的假象。他们或许能在当前前线的无人区内升起俄罗斯国旗，但无法长期守住阵地。
-乌克兰军官邦达连科告诉CNN：“俄军不断向上级报告他们占领了多个村庄，但实际上他们根本不在那里。我们正在不断地把他们赶出去。我们持续进行的中程打击在这方面发挥了巨大作用。”
-这种策略在一些前线交战最激烈的地区最为明显，其中包括曾经具有重要战略意义的乌克兰交通枢纽波克罗夫斯克（Pokrovsk）。俄军去年12月终于攻占这座城市，但并无预期般进一步推进。
-CNN分析指，目前看来，乌克兰或许没有取得胜利，但损失远小于俄罗斯。
-俄军星期四对基辅发动大规模导弹和无人机袭击，造成至少24人死亡。乌克兰总统泽连斯基谴责莫斯科的“残暴恐怖行径”，并呼吁惩罚莫斯科。
-俄罗斯星期五（15日）称，乌克兰无人机袭击了中部城市梁赞（Ryazan）的炼油厂、工业设施和公寓楼，造成四人死亡。
-虽然交战持续，但俄乌周五各释放了205名战俘。这是本月早些时候由美国总统特朗普斡旋达成的三天停火协议的一部分。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗宣称再放行更多船只 暗示多国接受德黑兰对海峡掌控]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056527</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056527"/>
-        <updated>2026-05-15T12:56:09.000Z</updated>
-        <summary type="html"><![CDATA[伊朗国家电视台星期五（5月15日）报道，伊斯兰革命卫队海军正在允许更多船只通过霍尔木兹海峡，以此暗示许多国家已接受伊朗对海峡的控制权。
-一名电视记者在南部港市班达尔阿巴斯（Bandar Abbas）报道称：“在革命卫队海军的协调下，更多船只如今可通过霍尔木兹海峡。”
-这名记者说：“这显示许多国家已经接受伊朗和革命卫队海军为这个区域和霍尔木兹海峡所制定的新法律程序。”
-伊朗国家电视台在前一天也报道，革命卫队允许超过30艘船只通过霍尔木兹海峡。
-美伊战事爆发后，伊朗封锁海峡航道，勒紧全球能源供应，导致原油价格持续处于100美元以上，多国陷入能源供应紧缩，化肥和各种石油产品供应链被阻断，更连带打击多个工业领域供应链。 
-美伊自4月8日停火至今，美军对伊朗船只实施反向封锁，阻断德黑兰石油收入命脉，施加经济压力；伊朗则紧握关键航道筹码，坚称对海峡拥有主权，欲对来往船只征收“过路费”，双方至今谈判仍胶着。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本宫城县附近海域发生6.3级地震]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056505</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056505"/>
-        <updated>2026-05-15T12:47:49.000Z</updated>
-        <summary type="html"><![CDATA[据日本气象厅消息，日本宫城县（Miyagi Prefecture）附近海域发生6.3级地震。
-新华社引述日本气象厅说，地震发生于星期五（5月15日）20时22分（新加坡时间19时22分）左右，震中位于北纬38.9度、东经142.1度，震源深度约50千米，震级为6.3级。
-日本放送协会电视台播出的画面显示，当地晃动较为明显。
-日本气象厅说，无需担心发生海啸灾害。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[默茨：目前不建议德国年轻人赴美求学或工作]]></title>
-        <id>https://www.zaobao.com/news/world/story20260515-9056357</id>
-        <link href="https://www.zaobao.com/news/world/story20260515-9056357"/>
-        <updated>2026-05-15T12:33:21.000Z</updated>
-        <summary type="html"><![CDATA[德国总理默茨说，他目前不会建议德国年轻人到美国求学或工作，因为那里的社会氛围突然改变，即使受过最好教育的人也难在那里找到工作。 
-默茨的最新表态，再次显示德美长久以来紧密的关系正在冷却。
-默茨与美国总统特朗普上个月陷入争执，默茨在国内一场活动中称美国未拟好战略就贸然对伊朗开战，如今正被对手“羞辱”。特朗普勃然大怒，称默茨未做好领导人的工作，并在短时间内宣布从德国的美军基地撤走5000名人员。 
-默茨星期五（5月15日）在南部城市维尔茨堡出席德国天主教大会时说：“在这当下，我不会建议我们的孩子到美国求学和工作。”
-他说，美国“突然产生一股社会氛围”，“就算在那里接受最好教育的人找工作也面对极大困难”。
-跟多数中间路线的德国政治人物一样，默茨向来主张欧美维持紧密的跨大西洋关系，但在他主政的当下，德美关系显然日益紧绷。
-默茨在星期五的活动中说：“我一直非常欣赏美国，但我的欣赏现在并没有增加。”引起现场一阵哄堂大笑。
-他接着指出，就算在德美因美伊问题产生争执之前，由于特朗普发起的“让美国再次伟大”（MAGA）运动，美国和欧洲之间已出现文化“隔阂”。
-特朗普政府上台后一再揶揄欧洲文明正在走下坡，并积极与欧洲国家的极右政党结交。特朗普威胁要接管格陵兰岛，侵犯丹麦主权，并削减对乌克兰的援助，都让美国与欧洲盟友关系一而再受挫。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
