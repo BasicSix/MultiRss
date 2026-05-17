@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T03:47:29.101Z</updated>
+    <updated>2026-05-17T08:25:22.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday Pick: What are allergies — and how to get rid of them with Dr. Zachary Rubin | from TED Health]]></title>
+        <id>6a05e6613fd6979bfc058bf5</id>
+        <link href="https://audiocollective.ted.com/"/>
+        <updated>2026-05-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On today's "Sunday Pick" on TED Talks Daily, we bring you an episode from TED Podcast TEDHealth. Does eating local honey help reduce your allergies through microexposure to local pollen? How effective is at-home allergies test? And why do so many Olympic athletes have asthma? These are some of the questions raised in today’s conversation with host Shoshana Ungerleider and her guest, immunologist Dr. Zachary Rubin. From cat dander to pollen to peanuts, Dr. Rubin discusses how having minor to severe allergies can affect your health and what you can do to manage your allergies. 
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I love my bad days | Alexi Pappas]]></title>
         <id>6a01f04eb443364556f00f15</id>
