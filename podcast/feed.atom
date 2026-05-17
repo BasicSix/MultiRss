@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T19:10:06.048Z</updated>
+    <updated>2026-05-17T03:47:29.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1521,19 +1521,6 @@ Apple Store 下载👉🏻 apps.apple.com
         <summary type="html"><![CDATA[Every moment of movement is a chance to become more aware of yourself and the world around you, says Zen Buddhist nun Sister True Dedication. Guiding us through the art of "mindful walking," she shares three essential questions to ask yourself to awaken your strength, build resilience and discover your inner peace.
 
 This episode originally aired in 2023.
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I created OpenClaw, the breakthrough AI agent | Peter Steinberger]]></title>
-        <id>69e064cf501ebe6715dd4fa7</id>
-        <link href="http://go.ted.com/petersteinberger"/>
-        <updated>2026-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw creator Peter Steinberger takes us back to the transformative moment he let his AI agent loose on the internet, igniting one of the world's fastest-growing open-source projects. He makes a fascinating (and slightly unnerving) case that agents are a real shift, not just better versions of chatbots, and explores how they might reshape your ability to work, create and build. "The lobster is loose, and it's not going back into the tank," he says. (Followed by a brief Q&A with TED Chairman Chris Anderson)
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
