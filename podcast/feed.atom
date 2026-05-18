@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T19:14:04.724Z</updated>
+    <updated>2026-05-18T04:00:06.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1519,21 +1519,6 @@ Apple Store 下载👉🏻 apps.apple.com
         <link href="https://audiocollective.ted.com/"/>
         <updated>2026-04-19T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Did you know that cows emit methane when they burp? Livestock account for over 12% of the world’s greenhouse gas emissions, but farmers and scientists have discovered a superfood that might be the key to lower emissions—and raise healthier cows. In this episode, Ryan and Anjali investigate the mystery of Asparagopsis, a seaweed variety that removes methane from the guts of the animals who eat it. The catch? There are only nine licensed growers in the world. Ryan and Anjali are joined by three experts to talk about the science behind this amazing plant, the benefits we’re already seeing from the animals who eat it, and the next steps for scaling up its use by farmers around the world. 
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 questions to build resilience — and change the world | Sister True Dedication]]></title>
-        <id>69dc66ccf736e119c3a0b5d9</id>
-        <link href="https://go.ted.com/64BH"/>
-        <updated>2026-04-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every moment of movement is a chance to become more aware of yourself and the world around you, says Zen Buddhist nun Sister True Dedication. Guiding us through the art of "mindful walking," she shares three essential questions to ask yourself to awaken your strength, build resilience and discover your inner peace.
-
-This episode originally aired in 2023.
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

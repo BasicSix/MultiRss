@@ -2,198 +2,428 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T19:14:08.749Z</updated>
+    <updated>2026-05-18T04:00:06.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3585124</id>
-        <link href="https://1x.com/photo/3585124"/>
-        <updated>2026-05-17T19:14:04.295Z</updated>
-        <summary type="html"><![CDATA[Untitled by Ulrike Eisenmann]]></summary>
+        <id>1x-3586417</id>
+        <link href="https://1x.com/photo/3586417"/>
+        <updated>2026-05-18T04:00:05.434Z</updated>
+        <summary type="html"><![CDATA[Untitled by Dirk Koster]]></summary>
         <author>
-            <name>Ulrike Eisenmann</name>
+            <name>Dirk Koster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hungerburg Station - Innsbruck]]></title>
-        <id>1x-3585728</id>
-        <link href="https://1x.com/photo/3585728"/>
-        <updated>2026-05-17T19:14:04.280Z</updated>
-        <summary type="html"><![CDATA[Hungerburg Station - Innsbruck by Udrea Dan]]></summary>
+        <title type="html"><![CDATA[Alter Ego]]></title>
+        <id>1x-3586264</id>
+        <link href="https://1x.com/photo/3586264"/>
+        <updated>2026-05-18T04:00:05.421Z</updated>
+        <summary type="html"><![CDATA[Alter Ego by Yevhen Kostiuk]]></summary>
         <author>
-            <name>Udrea Dan</name>
+            <name>Yevhen Kostiuk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orbit of Light]]></title>
-        <id>1x-3583277</id>
-        <link href="https://1x.com/photo/3583277"/>
-        <updated>2026-05-17T19:14:04.264Z</updated>
-        <summary type="html"><![CDATA[Orbit of Light by YASUTOSHI HONJO]]></summary>
+        <title type="html"><![CDATA[Gentle Giant]]></title>
+        <id>1x-3586317</id>
+        <link href="https://1x.com/photo/3586317"/>
+        <updated>2026-05-18T04:00:05.418Z</updated>
+        <summary type="html"><![CDATA[Gentle Giant by Tessa Schack]]></summary>
         <author>
-            <name>YASUTOSHI HONJO</name>
+            <name>Tessa Schack</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boolean]]></title>
-        <id>1x-3585844</id>
-        <link href="https://1x.com/photo/3585844"/>
-        <updated>2026-05-17T19:14:04.257Z</updated>
-        <summary type="html"><![CDATA[Boolean by Joemaru Tomihisa]]></summary>
+        <title type="html"><![CDATA[white curve]]></title>
+        <id>1x-3585215</id>
+        <link href="https://1x.com/photo/3585215"/>
+        <updated>2026-05-18T04:00:05.402Z</updated>
+        <summary type="html"><![CDATA[white curve by fotomarion]]></summary>
         <author>
-            <name>Joemaru Tomihisa</name>
+            <name>fotomarion</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hummingbirds]]></title>
-        <id>1x-3573393</id>
-        <link href="https://1x.com/photo/3573393"/>
-        <updated>2026-05-17T19:14:04.254Z</updated>
-        <summary type="html"><![CDATA[hummingbirds by  Fengying Long]]></summary>
+        <title type="html"><![CDATA[Still while the world Rushes by]]></title>
+        <id>1x-3584998</id>
+        <link href="https://1x.com/photo/3584998"/>
+        <updated>2026-05-18T04:00:05.399Z</updated>
+        <summary type="html"><![CDATA[Still while the world Rushes by by Els Keurlinckx]]></summary>
         <author>
-            <name>Fengying Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rainforest Noble]]></title>
-        <id>1x-3583597</id>
-        <link href="https://1x.com/photo/3583597"/>
-        <updated>2026-05-17T19:14:04.244Z</updated>
-        <summary type="html"><![CDATA[Rainforest Noble by HuongHoang]]></summary>
-        <author>
-            <name>HuongHoang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Kids]]></title>
-        <id>1x-3571870</id>
-        <link href="https://1x.com/photo/3571870"/>
-        <updated>2026-05-17T19:14:04.237Z</updated>
-        <summary type="html"><![CDATA[Happy Kids by Angela Muliani Hartojo]]></summary>
-        <author>
-            <name>Angela Muliani Hartojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADAC]]></title>
-        <id>1x-3586066</id>
-        <link href="https://1x.com/photo/3586066"/>
-        <updated>2026-05-17T19:14:04.230Z</updated>
-        <summary type="html"><![CDATA[ADAC by Werner Birnbaum]]></summary>
-        <author>
-            <name>Werner Birnbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tribute to Audrey]]></title>
-        <id>1x-3573473</id>
-        <link href="https://1x.com/photo/3573473"/>
-        <updated>2026-05-17T19:14:04.165Z</updated>
-        <summary type="html"><![CDATA[A tribute to Audrey by Robin Yong]]></summary>
-        <author>
-            <name>Robin Yong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Benediction]]></title>
-        <id>1x-3585802</id>
-        <link href="https://1x.com/photo/3585802"/>
-        <updated>2026-05-17T19:14:04.157Z</updated>
-        <summary type="html"><![CDATA[Silent Benediction by Hiro Tanaka]]></summary>
-        <author>
-            <name>Hiro Tanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holding the Clock]]></title>
-        <id>1x-3574935</id>
-        <link href="https://1x.com/photo/3574935"/>
-        <updated>2026-05-17T19:14:04.148Z</updated>
-        <summary type="html"><![CDATA[Holding the Clock by Uryutalk]]></summary>
-        <author>
-            <name>Uryutalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spotted fritillary]]></title>
-        <id>1x-3583007</id>
-        <link href="https://1x.com/photo/3583007"/>
-        <updated>2026-05-17T19:14:04.144Z</updated>
-        <summary type="html"><![CDATA[spotted fritillary by Avital Hershkovitz]]></summary>
-        <author>
-            <name>Avital Hershkovitz</name>
+            <name>Els Keurlinckx</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3585697</id>
-        <link href="https://1x.com/photo/3585697"/>
-        <updated>2026-05-17T19:14:04.140Z</updated>
-        <summary type="html"><![CDATA[Untitled by I_ha__to]]></summary>
+        <id>1x-3586336</id>
+        <link href="https://1x.com/photo/3586336"/>
+        <updated>2026-05-18T04:00:05.394Z</updated>
+        <summary type="html"><![CDATA[Untitled by Barbora Biňovcová]]></summary>
         <author>
-            <name>I_ha__to</name>
+            <name>Barbora Biňovcová</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[restless]]></title>
-        <id>1x-3584238</id>
-        <link href="https://1x.com/photo/3584238"/>
-        <updated>2026-05-17T19:14:04.125Z</updated>
-        <summary type="html"><![CDATA[restless by Walter Bertolotti]]></summary>
+        <title type="html"><![CDATA[Crescent of Light]]></title>
+        <id>1x-3582360</id>
+        <link href="https://1x.com/photo/3582360"/>
+        <updated>2026-05-18T04:00:05.136Z</updated>
+        <summary type="html"><![CDATA[Crescent of Light by Nikola Glavan]]></summary>
         <author>
-            <name>Walter Bertolotti</name>
+            <name>Nikola Glavan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portrait of a Quiet Abyss]]></title>
-        <id>1x-3586003</id>
-        <link href="https://1x.com/photo/3586003"/>
-        <updated>2026-05-17T19:14:04.115Z</updated>
-        <summary type="html"><![CDATA[Portrait of a Quiet Abyss by Edogawa Sampo]]></summary>
+        <title type="html"><![CDATA[Elegance of a cheetah]]></title>
+        <id>1x-3586427</id>
+        <link href="https://1x.com/photo/3586427"/>
+        <updated>2026-05-18T04:00:05.133Z</updated>
+        <summary type="html"><![CDATA[Elegance of a cheetah by Marcello Galleano]]></summary>
         <author>
-            <name>Edogawa Sampo</name>
+            <name>Marcello Galleano</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leap of Instinct]]></title>
-        <id>1x-3586047</id>
-        <link href="https://1x.com/photo/3586047"/>
-        <updated>2026-05-17T19:14:04.106Z</updated>
-        <summary type="html"><![CDATA[Leap of Instinct by JUNKO TORIKAI]]></summary>
+        <title type="html"><![CDATA[Sand River]]></title>
+        <id>1x-3586270</id>
+        <link href="https://1x.com/photo/3586270"/>
+        <updated>2026-05-18T04:00:05.130Z</updated>
+        <summary type="html"><![CDATA[Sand River by Nancy Xu]]></summary>
         <author>
-            <name>JUNKO TORIKAI</name>
+            <name>Nancy Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dasanesh People at Dimi ceremony, Ethiopia]]></title>
-        <id>1x-3563917</id>
-        <link href="https://1x.com/photo/3563917"/>
-        <updated>2026-05-17T19:14:04.094Z</updated>
-        <summary type="html"><![CDATA[Dasanesh People at Dimi ceremony, Ethiopia by Francisco Mendoza Ruiz]]></summary>
+        <title type="html"><![CDATA[Marina]]></title>
+        <id>1x-3562540</id>
+        <link href="https://1x.com/photo/3562540"/>
+        <updated>2026-05-18T04:00:05.124Z</updated>
+        <summary type="html"><![CDATA[Marina by Zachar Rise]]></summary>
         <author>
-            <name>Francisco Mendoza Ruiz</name>
+            <name>Zachar Rise</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shy]]></title>
-        <id>1x-3585865</id>
-        <link href="https://1x.com/photo/3585865"/>
-        <updated>2026-05-17T19:14:04.082Z</updated>
-        <summary type="html"><![CDATA[shy by Michael Allmaier]]></summary>
+        <title type="html"><![CDATA[Uttakleiv Beach at Night]]></title>
+        <id>1x-3585179</id>
+        <link href="https://1x.com/photo/3585179"/>
+        <updated>2026-05-18T04:00:05.121Z</updated>
+        <summary type="html"><![CDATA[Uttakleiv Beach at Night by Yongnan Li （李永男）]]></summary>
         <author>
-            <name>Michael Allmaier</name>
+            <name>Yongnan Li （李永男）</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crispy Morning Cove]]></title>
-        <id>1x-3547710</id>
-        <link href="https://1x.com/photo/3547710"/>
-        <updated>2026-05-17T19:14:04.064Z</updated>
-        <summary type="html"><![CDATA[Crispy Morning Cove by Ben.C.L]]></summary>
+        <title type="html"><![CDATA[Gypsy children]]></title>
+        <id>1x-3560739</id>
+        <link href="https://1x.com/photo/3560739"/>
+        <updated>2026-05-18T04:00:05.118Z</updated>
+        <summary type="html"><![CDATA[Gypsy children by Trevor Cole]]></summary>
         <author>
-            <name>Ben.C.L</name>
+            <name>Trevor Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eastern bluebird]]></title>
+        <id>1x-3579289</id>
+        <link href="https://1x.com/photo/3579289"/>
+        <updated>2026-05-18T04:00:05.114Z</updated>
+        <summary type="html"><![CDATA[Eastern bluebird by Steven Haddix]]></summary>
+        <author>
+            <name>Steven Haddix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brothers]]></title>
+        <id>1x-3586276</id>
+        <link href="https://1x.com/photo/3586276"/>
+        <updated>2026-05-18T04:00:05.111Z</updated>
+        <summary type="html"><![CDATA[Brothers by nao_kash]]></summary>
+        <author>
+            <name>nao_kash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Leader]]></title>
+        <id>1x-3586308</id>
+        <link href="https://1x.com/photo/3586308"/>
+        <updated>2026-05-18T04:00:05.099Z</updated>
+        <summary type="html"><![CDATA[The Leader by Antonyus Bunjamin (Abe)]]></summary>
+        <author>
+            <name>Antonyus Bunjamin (Abe)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graal]]></title>
+        <id>1x-3486217</id>
+        <link href="https://1x.com/photo/3486217"/>
+        <updated>2026-05-18T04:00:05.096Z</updated>
+        <summary type="html"><![CDATA[Graal by Jorge Pimenta]]></summary>
+        <author>
+            <name>Jorge Pimenta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICONIC Shopping Mall]]></title>
+        <id>1x-3586249</id>
+        <link href="https://1x.com/photo/3586249"/>
+        <updated>2026-05-18T04:00:05.093Z</updated>
+        <summary type="html"><![CDATA[ICONIC Shopping Mall by Gilbert Claes]]></summary>
+        <author>
+            <name>Gilbert Claes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aligned]]></title>
+        <id>1x-3585470</id>
+        <link href="https://1x.com/photo/3585470"/>
+        <updated>2026-05-18T04:00:05.090Z</updated>
+        <summary type="html"><![CDATA[Aligned by konikonikei]]></summary>
+        <author>
+            <name>konikonikei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awakening]]></title>
+        <id>1x-3585301</id>
+        <link href="https://1x.com/photo/3585301"/>
+        <updated>2026-05-18T04:00:05.075Z</updated>
+        <summary type="html"><![CDATA[Awakening by Catherine Lu]]></summary>
+        <author>
+            <name>Catherine Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩企参与建设运营阿联酋核电站遇袭 无伤亡报告]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9065032</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9065032"/>
+        <updated>2026-05-18T03:50:10.000Z</updated>
+        <summary type="html"><![CDATA[阿联酋阿布扎比媒体办公室消息，韩国企业和机构参与建设和运营的阿联酋阿布扎比巴拉卡核电站，星期天（5月17日）遭到一架无人机袭击后起火。此次袭击未造成人员伤亡，也未对辐射水平造成影响。
+韩联社报道，据介绍，宰夫拉地区的巴拉卡核电站外围一台发电机遭到无人机袭击后起火，有关方采取应急措施。截至目前，辐射水平也未超出安全范围。阿联酋联邦核监管局（FANR）表示，遇袭核电站的核心系统均正常运行。
+巴拉卡核电站是阿联酋也是阿拉伯世界首座商用核电站，采用韩国电力公社（下称韩电）自主研制的新一代核电机组（APR1400）。从2009年至2024年4月，韩方向阿联酋出口的四台机组先后投运，装机总量5600兆瓦，可满足当地约四分之一的用电需求。
+据韩国外交部和韩电等消息，未接到在巴拉卡核电站工作的韩国职员伤亡报告。目前，来自韩电、韩国水电与核电公司以及合作公司职员停留当地。
+韩电负责人也证实，未接到人员伤亡报告，巴拉卡核电站也未受损。韩方参与管理和运营的核电站未遭到直接袭击，是核电站外围一台设备起火。据了解，核电站方面接到遇袭消息后暂停有关机组的运转。
+法新社报道，阿联酋国防部说，袭击巴拉卡核电站的无人机是“从西部边境方向进入阿联酋”的三架无人机之一。阿国防部正在调查袭击来源。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫：中国同意解决美国对稀土短缺担忧]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064794</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064794"/>
+        <updated>2026-05-18T03:10:18.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫星期天（5月17日）发布一份中美峰会概况说明书，介绍了美国总统特朗普和中国国家主席习近平在北京峰会期间达成的主要协议概况，称中国将解决美方因北京出口管制导致某些特种稀土短缺的担忧。
+中国去年4月开始实施稀土出口管制，以报复特朗普在去年4月2日解放日宣布的高额关税。尽管中美双方已在去年10月达成协议，允许稀土自由流通，但中国仍然严格限制部分稀土出口。
+北京对钇（yttrium）和钪（scandium）等特种稀土的控制最为严格，这些稀土用于国防、航空航天和晶片制造。。
+路透社报道，白宫在17日发布的峰会概况说明书中写道：“中国将回应美国对稀土和其他关键矿产——包括钇、钪、钕（neodymium）、铟（indium）——供应链短缺的担忧。”
+中国商务部于16日发布的中美经贸磋商初步成果答记者问并没有提及稀土。
+白宫峰会概况说明书指北京还将回应美国对中国稀土加工设备和技术出口限制的关切。
+中国掌控了全球90%以上的稀土精炼，并在过去数十年一直主导着稀土行业。中国的稀土专业技术和专有工艺受到《出口管制法》的严格保护，通常不不对外国公司开放。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波托马克河畔的尼禄，椭圆办公室里的川普 | 原文]]></title>
+        <id>https://t.me/wxbyg/7367</id>
+        <link href="https://t.me/wxbyg/7367"/>
+        <updated>2026-05-18T03:09:58.000Z</updated>
+        <summary type="html"><![CDATA[波托马克河畔的尼禄，椭圆办公室里的川普 | 原文
+Telegraph
+波托马克河畔的尼禄，椭圆办公室里的川普
+——那个脑袋又秃又硬、把半辈子都耗在共和党机器里的老牌操盘手斯蒂夫·施密特（Steve Schmidt）——当过小布什时代切尼的顾问，也做过施瓦辛格的竞选经理——今年在自己的播客里，忽然整出了一个相当毒的词： “波托马克河上的尼禄（Nero on the Potomac）”。 这名字妙就妙在，你甚至不需要解释。只要听见“波托马克河”，脑子里立刻就是华盛顿——波托马克河离白宫就隔着几步路；而一旦“尼禄”被塞进去，整幅画面便自动浮现：一个沉迷掌声、热衷金碧辉煌、喜欢把自己名字刻满帝国表面的统治者，正站在共和国废墟边缘，陶醉于自己的倒影。…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在刚果美国公民或有高风险接触 美疾控中心升级应对措施]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064559</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064559"/>
+        <updated>2026-05-18T02:43:02.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织宣布非洲国家刚果（金）和乌干达的伊波拉疫情构成国际关注的突发公共卫生事件后，美国疾病控制与预防中心升级应对措施。美国医疗健康新闻网站指在刚果的几名美国公民或有过高风险接触。
+彭博社报道，美国疾控中心（CDC）伊波拉疫情应对事件经理皮莱（Satish Pillai）在星期天（5月17日）的记者电话会中说，美国疾控中心计划向受影响国家增派人员，并将通过驻各国办事处提供包括实验室检测、接触者追踪与监测等技术支持。
+美国疾控中心还启动了紧急响应中心。
+此次伊波拉疫情由“本迪布焦型毒株”（Bundibugyo ebolavirus）引起，目前尚无获批的疫苗或治疗方法。皮莱说，美国面临的风险仍然很低，他也说，伊波拉感染者出现症状时还是可以传播病毒。
+另据路透社，美国医疗健康新闻网站STAT星期天报道，目前身在刚果（金）的一些美国公民，据信曾接触伊波拉病毒疑似病例，其中几个人被认为有过高风险接触。
+报道称，其中至少一人可能已出现症状。
+路透社未能立即核试STAT新闻的报道。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通人锻炼前额叶最强的方式，两个字（建议收藏） | 原文]]></title>
+        <id>https://t.me/wxbyg/7366</id>
+        <link href="https://t.me/wxbyg/7366"/>
+        <updated>2026-05-18T02:17:14.000Z</updated>
+        <summary type="html"><![CDATA[普通人锻炼前额叶最强的方式，两个字（建议收藏） | 原文
+Telegraph
+普通人锻炼前额叶最强的方式，两个字（建议收藏）
+从今天开始，每天找一个 200-500 字的文段看一看，看完后合上，用自己的话把文段内容说出来，不出一个月，你会发现自己的逻辑能力、应变能力、表达能力、抗压能力等等，都会有质的飞跃。 这个训练，叫做「复述」。 为什么它效果这么好？ 复述里藏着学习的三个过程： 选择、组织、整合 教育心理学家理查德·迈耶曾提出，真正的学习包含三个过程：选择、组织、整合[1]。 这三个过程完美地存在于「复述」中。当你复述时，你无法简单地复刻原文词汇。你必须先在脑中把信息拆解，这便是选择和组织；然后寻找已有的知识储备来重新解释它，这便是整合。…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挪威逮捕涉嫌间谍活动中国男子]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064335</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064335"/>
+        <updated>2026-05-18T01:47:58.000Z</updated>
+        <summary type="html"><![CDATA[挪威国内安全局说，一名中国男子在挪威北部因涉嫌间谍活动被捕。数周前，一名中国女子也因涉嫌窃取卫星数据被捕。
+挪威国内安全局（PST）发言人维乌姆星期天（5月17日）告诉法新社，男性嫌疑人15日被诺尔兰（Nordland）警察局逮捕。诺尔兰是挪威北部一个重要的核心行政郡。
+维乌姆说，男子涉嫌“在诺尔兰地区从事非法情报活动”，但他拒绝透露更多细节。
+挪威法院17日下令将男子还押四周候审。男子的律师告诉挪威通讯社，他的当事人否认犯罪。
+5月7日，挪威国内安全局宣布逮捕一名涉嫌窃取挪威卫星数据的中国女子。
+挪威国内安全局检察官布洛姆告诉法新社，他们怀疑在挪威注册的一家公司被用作掩护，协助中国国家行为者建一个接收站，下载挪威极地轨道卫星的数据。
+检察官说，这起案件还有其他嫌疑人。
+挪威情报部门经常把中国和俄罗斯列为挪威面临的主要间谍风险。在最新的威胁评估报告中，挪威国内安全局指中俄都对购买靠近挪威关键基础设施或军事设施的土地表现出兴趣。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一家书店就要消失，这不是再正常不过的事吗？ | 谷雨 | 原文]]></title>
+        <id>https://t.me/wxbyg/7365</id>
+        <link href="https://t.me/wxbyg/7365"/>
+        <updated>2026-05-18T01:33:28.000Z</updated>
+        <summary type="html"><![CDATA[一家书店就要消失，这不是再正常不过的事吗？ | 谷雨 | 原文
+Telegraph
+一家书店就要消失，这不是再正常不过的事吗？ | 谷雨
+今天，北京豆瓣书店正式闭店了。在一个一切都在加速的时代，这家小小的独立书店，拒绝教辅、拒绝咖啡、拒绝直播，也拒绝搬进购物中心，只卖人文社科的滞销书和二手书——这样还能熬过二十年，已经称得上是一个不小的意外。许多人喜欢它，许多人推崇它，但毋庸讳言，还有多的多的人对它，或者说一切书店都既不在意，也不关心，这无关对错，只是这才是生活的常态。 但我们依然愿意纪念它。如果说一本书代表着一种可能性，那么书店，就是可能性的集合。在过去的二十年，在一片狭小的空间内，对于许多的读书人和买书人，豆瓣书店的意义正在于此。“当…]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普特使首访格陵兰岛 参加经济论坛]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064196</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064196"/>
+        <updated>2026-05-18T01:14:30.000Z</updated>
+        <summary type="html"><![CDATA[格陵兰岛媒体报道，美国总统特朗普的格陵兰岛特使星期天（5月17日）抵格陵兰岛首府努克，进行为期数天的访问。
+特朗普去年12月任命路易斯安那州共和党籍州长兰德里（Jeff Landry）为格陵兰岛特使。这是兰德里接获任命后首次访问格陵兰岛，他将参加19日及20日在格陵兰首府努克（Nuuk）举行的一个经济论坛。
+由当地雇主组织格陵兰商会（Gronlands Erhverv）主办的“未来格陵兰”论坛，将汇聚投资者和政商界领袖，论坛旨在吸引投资格陵兰岛。
+《格陵兰岛日报》（Sermitsiaq）报道，兰德里与约10人一同抵达，分乘五辆汽车离开。
+格陵兰岛是北约成员国丹麦的自治领地。美国驻丹麦大使定星期一飞抵格陵兰岛。
+隶属于美国驻丹麦大使馆的驻努克领事馆向法新社发表声明说：“美国代表团将与广泛的格陵兰民众会面，倾听并学习，旨在扩大经济机遇，建立民间联系，增进美国与格陵兰岛之间的了解。”
+今年1月，特朗普收回他多次威胁要“夺取”格陵兰岛的言论，丹麦和格陵兰岛随后在华盛顿举行了首次会议。
+特朗普多次辩称，出于国家安全考虑，美国需要控制格陵兰岛，他声称如果美国不占领格陵兰岛，这个北极岛屿就会落入中国或俄罗斯之手。
+格陵兰岛自治政府总理尼尔森5月12日说，格陵兰岛与丹麦和美国之间的谈判虽有进展，但仍未达成任何协议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年5月推荐]]></title>
+        <id>/archives/2026nian-5yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
+        <updated>2026-05-18T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月18日 中国历史互动小站 ImageTrans图片翻译浏览器插件 翻译网页中图片的浏览器插件，支持选取屏幕区域翻译和全图翻译，替换图片中的文字为译文。可以完全在本地电脑上运行，不依赖云服务 5月14日 免费在线office编辑 一个浏览器端的Office套件，开源地]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因特朗普行政令 法德航运公司暂停往返古巴船次预定]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064089</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064089"/>
+        <updated>2026-05-18T00:37:50.000Z</updated>
+        <summary type="html"><![CDATA[法国集装箱航运巨头达飞集团说，鉴于美国5月1日发布的一项行政命令，已暂停所有往返古巴的船次预订。
+达飞集团（CMA CGM）在星期天（5月17日）发给路透社的电邮声明中说：“根据美国5月1日发布的行政命令，达飞集团决定暂停所有往返古巴的船次预订，直至另行通知。”
+声明还说，公司正在“密切关注事态发展”，并将根据相关规定调整运营。
+德国集装箱航运公司赫伯罗特（Hapag-Lloyd）也在同日宣布暂停古巴航运预定。赫伯罗特发言人通过电邮说：“我们做出这一决定，是由于美国总统5月1日签署的行政命令带来的合规风险。”
+美国总统特朗普5月1日签署行政命令，以古巴持续威胁美国国家安全和对外政策为由，扩大对古巴制裁范围。美国财政部和国务院7日在官网上公布针对古巴的新一轮制裁措施。美国财政部外国资产控制办公室发布公告，把来自古巴的多名个人和实体列入“特别指定国民清单”。美国务院也发布公告，将古巴企业管理集团公司、莫阿镍厂以及相关企业高管列入制裁名单。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古巴指责美国捏造虚假文件 为制裁和侵略找借口]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9064020</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9064020"/>
+        <updated>2026-05-18T00:03:20.000Z</updated>
+        <summary type="html"><![CDATA[古巴外交部长罗德里格斯指责美国政府捏造虚假文件，为收紧对古制裁以及可能的军事侵略寻找借口。
+罗德里格斯星期天（5月17日）在社交媒体发文说，美国政府“日复一日地编造虚假文件”，为它对古巴人民发动残酷的经济战和最终的军事侵略提供“正当性”。
+他批评部分美国媒体散布相关谣言，强调古巴不以战争威胁他国，坚持捍卫和平，同时会依据《联合国宪章》承认的合法自卫权，做好应对外来侵略的准备。
+路透社指罗德里格斯并未在贴文中明确提及有关无人机的指控。
+另据新华社报道，古巴外交部副部长德科西奥也在社交媒体上说，反古势力为军事侵略而编造的借口“愈发荒诞”。他强调，美国是侵略者，古巴将对侵略行为行使合法自卫权。
+当天早些时候，美国新闻网站Axios引述美国机密情报文件报道，古巴军方在俄罗斯和伊朗协助下采购了300多架军用无人机，并于近期开始讨论利用这些无人机袭击关塔那摩美军基地、美军舰船及佛罗里达州基韦斯特市的可能性。一名美国高级官员说，美国政府将古巴视为威胁，这些情报文件可能成为美国对古巴采取军事行动的借口。
+美方近期加大对古巴制裁，并多次威胁对古巴动武，包括声称将在美军结束对伊朗战事返回之际“接管古巴”。古巴方面回应，美方军事侵略威胁升至“危险且前所未有的程度”，但古巴不会屈服，将坚决捍卫国家主权和独立。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金正恩要求加强与韩国接壤边境一线部队]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9063982</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9063982"/>
+        <updated>2026-05-17T23:44:17.000Z</updated>
+        <summary type="html"><![CDATA[朝鲜领导人金正恩说，加强朝韩边境一线部队及其他重要部队，是“更彻底遏制战争”的关键。
+朝中社星期一（5月18日）报道，金正恩17日召开朝鲜人民军全军师旅指挥员会议，要求特别加强守卫南部边境的一线部队，把边界筑成坚不可摧的要塞。
+金正恩在会议上提出调整训练体系，扩大实战演练，以适应现代战争变化模式和朝鲜人民军发展趋势。
+金正恩说，随着朝鲜人民军军事技术装备快速现代化，要重新定义各方面作战概念，并积极推进将之运用于各部队战斗训练的计划工作。
+报道称，金正恩还强调了思想忠诚，以及对“头号敌人”保持警惕。朝鲜以“头号敌人”称韩国。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普警告伊朗时间所剩不多 媒体：美以领导人通话]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9063951</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9063951"/>
+        <updated>2026-05-17T23:29:52.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普发文警告伊朗，“时间所剩不多”，再不把握时机恐将“失去一切”。
+特朗普星期天（5月17日）在Truth social写道：“伊朗时间所剩不多了，他们最好快点达成协议，否则他们将失去一切！把握时机！”
+多家媒体报道，特朗普当天早些时候与以色列总理内坦亚胡就伊朗局势通电话，讨论重启对伊朗军事行动的可能性。
+美国新闻网站Axios星期天引述两名美国官员的话称，预计特朗普19日将在白宫战情室与高级国家安全顾问举行会议，讨论再次对伊朗动武的选项。
+同日，以色列公共广播公司报道，一名以色列高级官员透露，内坦亚胡与特朗普通话持续约半小时，主要讨论重启对伊朗军事打击的可能性。这名官员称，若美国恢复对伊朗军事行动，预计以美两国将联合发起空袭。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫公布中美贸易协议细节 中国同意买更多美农产品]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9063918</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9063918"/>
+        <updated>2026-05-17T23:08:48.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫公布了中美领导人上周在北京达成贸易协议的更多细节，中国同意截至2028年，每年从美国购买至少170亿美元（约217.5亿新元）的农产品。
+《纽约时报》报道，白宫星期天（5月17日）说，中国已同意在2026、2027、2028年，“每年至少购买170亿美元的美国农产品”，今年的购买金额将按比例计算。白宫称，这笔交易将是中国此前承诺购买美国大豆之外的额外采购量。
+美国政府还表示，中国已“批准初步购买”200架波音飞机，并已采取措施开放美国牛肉和鸡鸭肉的市场准入。然而，中美贸易谈判仍有很多不明朗之处，包括美国是否向中国提供了任何回报。
+美国贸易代表格里尔17日接受哥伦比亚广播公司（CBS）访问时坚称，美国政府已与中方“敲定”一项协议，中国将向波音公司购买200架飞机。
+格里尔说：“预计新的采购协议……农产品总采购量将实现两位数增长。我所说的总量是包括大豆、牛肉、谷物、乳制品等在内的所有农产品。”
+格里尔受访时，中美双方均未公布美国总统特朗普与中国国家主席习近平在北京达成贸易协议的全部细节。
+格里尔说，未来几天将公布更多关于中国部分采购的信息，包括发动机和农产品的采购。
+近日，特朗普将潜在的对台军售描述为与中国谈判的筹码。格里尔17日被问及特朗普的言论，他称以往美国总统也曾暂停对台军售。
+格里尔在美国广播公司（ABC）的《本周》节目中说：“对台军售是中方一直会提出的问题，所以总统正在考虑应对之策。”
+当被追问特朗普希望得到什么回报时，格里尔说，“最重要”是台湾海峡维持现状。他说：“总统对此立场非常明确，美国对台政策没有改变，不会改变。我们期待台海局势维持稳定，如果习近平主席要做出改变，那这显然需要纳入考量。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 让claude评价他老板Amodei😌]]></title>
+        <id>https://t.me/wxbyg/7363</id>
+        <link href="https://t.me/wxbyg/7363"/>
+        <updated>2026-05-17T22:05:11.000Z</updated>
+        <summary type="html"><![CDATA[让claude评价他老板Amodei😌]]></summary>
+        <author>
+            <name>微信搬运工 - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[符祝慧：这些年 看“新肴”深入日本民心]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9060428</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9060428"/>
+        <updated>2026-05-17T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[新加坡驻日本大使馆上周六（5月16日）首次对日本大众开放，400多名中学生与家长受邀做客。这天，除了介绍新加坡文化习俗外，也让日本人了解新加坡特色菜肴和饮食文化。
+一对日本父子站在一张写了“如何在新加坡点咖啡”的海报前，拿着手机搜索“Kopi”（马来语咖啡）是什么意思。
+这位父亲很惊讶地说：“在日本，咖啡种类不多，大致只有三种。没想到新加坡的咖啡能泡出那么多种，有Kopi O、Kopi C、Kopi peng、Kopi半烧……新加坡的咖啡文化太丰富了。”而后，他转身对孩子说：“我们去新加坡旅游前，一定要背好这些咖啡名称才行。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -454,110 +684,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美暗示2029年移交战时指挥权 韩方重申任内尽早收回]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062507</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062507"/>
-        <updated>2026-05-17T10:07:58.000Z</updated>
-        <summary type="html"><![CDATA[韩国国家安保室室长魏圣洛指出，韩美两国在战时作战指挥权移交问题上正保持沟通，双方在条件和目标时间上分歧不大，这项议题最终属于政治决策的范畴。
-韩联社报道，魏圣洛星期天（5月17日）在KBS广播电台节目中指出，关于美方向韩方移交战时作战指挥权的目标时间，双方意见基本一致，不存在所谓相差五至10年的情况。
-他表明，韩方将于今年下半年编制收回战时作战指挥权的路线图。根据相关规定，在“全面作战能力”（FOC）验证工作结束后，韩方可提出战时作战指挥权移交的具体时点建议。届时，韩美将对具体时点进行全面讨论。
-驻韩美军司令兼联合国军司令布伦森近期在美国国会听证会上暗示，韩美双方或以2029年第一季度为目标，推进战时作战指挥权移交。
-魏圣洛回应称，韩方一贯立场是“争取在（李在明）任内尽早收回战时作战指挥权”，预计相关议题今后将在韩美高层对话中持续讨论。
-至于“驻韩美军战略灵活性”的说法，魏圣洛称，驻韩美军既接受美国总统的指挥，也受韩国主权管辖，因此也受韩国影响。即便美方有意提高驻韩美军的灵活性，也必须在尊重韩方主权的范围内进行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英媒：美国游说阿联酋夺取伊朗关键岛屿 为战争发挥更大作用]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062255</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062255"/>
-        <updated>2026-05-17T09:37:29.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿讯）英国媒体报道，美国特朗普政府正在游说阿拉伯联合酋长国更深入地介入伊朗战争，甚至夺取伊朗位于波斯湾的一座岛屿。
-英国《每日电讯报》引述一位特朗普政府前高级安全官员说，特朗普幕僚建议阿联酋占领拉万岛（Lavan Island），告诉他们：“去拿下吧！……这样一来，就不是美国派出地面部队，而是阿联酋了。”
-拉万岛总面积约78平方公里，位于波斯湾北部航线关键节点，岛上建有伊朗四大原油出口码头之一。据报道，阿联酋曾在4月初对拉万岛发动秘密军事袭击。
-根据此前的报道，阿联酋正日益深入地参与当前这场已经持续了11周的中东冲突，与以色列的关系也日益密切。
-自美国和以色列在2月底开始打击伊朗以来，阿联酋一直是德黑兰报复行动的主要受害者，面对超过2800次导弹和无人机攻击。这迫使阿联酋重新评估自身防御能力，并思考与盟友的关系和在全球的地位。
-彭博社引述知情者说，战争初期，阿联酋曾试图说服包括沙特阿拉伯和卡塔尔在内的邻国，共同参与协调军事行动，以回应伊朗的空袭，但遭到拒绝。这引起阿联酋的不满，并最终在4月底作出退出沙特主导的石油输出国组织（OPEC）的重大决定。
-知情者称，阿联酋在没有其他波斯湾国家支持的情况下，于3月初开始对伊朗发动有限打击，并在4月再次采取行动，包括打击拉万岛。
-与此同时，阿联酋与以色列的关系变得更加密切，美国驻以色列大使赫卡比12日透露，以色列向阿联酋提供了“铁穹”防空系统，以应对伊朗的轰炸；以色列总理内坦亚胡也承认于3月秘密访问了阿联酋。
-英国国防和安全智库皇家联合军种研究所研究员厄兹切利克说，这场战争“加速了美以和阿联酋的结盟”。
-阿联酋官员说，美以对阿联酋的强力支持，与阿联酋波斯湾邻国表现出的不足形成鲜明对比。阿联酋对阿拉伯联盟和波斯湾合作委员会等地区组织的反应软弱感到不满。
-
-若战事重启 美计划改行动名称绕过国会限制
-
-另据美国全国广播公司（NBC）报道，如果美伊停火协议破裂，而特朗普总统决定重启大规模作战行动，美军考虑将与伊朗的战争更名为“铁锤行动”（Operation Sledgehammer）。
-这凸显了美国政府认真考虑重启这场战争的决心，并可能使特朗普能够辩称，此举重新启动了60天的战争授权时限。
-美国法律规定，总统必须在发动战争后48小时内通知国会；否则，部队必须在60天内撤出，或者必须获得国会的军事行动授权。
-在美伊两国于4月初达成停火协议以寻求外交谈判后，特朗普政府宣布对伊朗的“史诗怒火行动”结束。
-白宫官员说，任何针对伊朗的新军事行动都将以新的名称和行动方案进行，从政府的角度来看，这将实际上重新启动与国会的战争授权谈判进程。据美国官员透露，“铁锤行动”并非唯一考虑的名称。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一口气解雇约250名外交官 美国国务院“被系统性掏空”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062173</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062173"/>
-        <updated>2026-05-17T08:50:05.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿讯）国际冲突持续考验各国外交政策，美国特朗普政府却以消除冗余为由，在伊朗谈判陷入胶着的重要节点果断开除近250名外交官。一些前官员直言，美国国务院正被系统性地掏空。
-美国有线电视新闻网（CNN）报道，美国国务院本周发送一封简短的电邮，正式解雇近250名外交官。另有1000多名文职人员受到波及，部分单位的办公室全体员工遭解雇；国务院前官员说，这些办公室本可以就伊朗战争提供指导。
-这项裁员计划始于去年7月，国务院坚称此举是为了消除冗余。
-近10名前官员告诉CNN，这届政府很明显无法为职业外交官提供大使等晋升机会，人们在“升职或离职”制度下别无选择。
-美国外交官协会估计，去年约有2000名外交官离开国务院。
-与此同时，包括中东、乌克兰和俄罗斯在内的全球100多个美国大使职位，目前都没有获得参议院确认的人选，远远落后于中国等对手；结束伊朗战争和俄乌战争等敏感外交谈判，都由特朗普的商业伙伴和亲属主导，且往往缺乏具备地区专业知识的资深外交官团队。
-一些前外交官指出，综合来看，这些行为正使得国务院系统性地被掏空，经验丰富人员的流失，会对美国当前及未来数年投射实力、落实优先事项的能力产生深远影响。
-美国驻阿富汗前大使巴斯告诉CNN：“我认为，历史学家会把这一时期视为美国自酿的重大主动失误之一。” 
-国务院发言人皮戈特则辩称，所谓国务院正在被掏空的说法是错误的，裁员计划不影响国务院处理问题的能力。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩日领导人19日举行峰会 韩盼深化友谊互信]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062139</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062139"/>
-        <updated>2026-05-17T08:43:03.000Z</updated>
-        <summary type="html"><![CDATA[（首尔综合电）韩国总统李在明和日本首相高市早苗将于星期二（5月19日）在李在明的故乡庆尚北道安东市举行会谈。
-高市将于19至20日访问安东市。韩国总统府青瓦台首席发言人姜由桢星期天（17日）说，此次访问是对李在明今年1月访问高市故乡奈良县的回访，韩方将以国事访问的规格予以欢迎和接待，并期待此次会谈成为两国首脑进一步积累深厚互信和友谊的重要契机。
-姜由桢此前说，两国领导人将围绕韩日关系发展方向进行广泛讨论，并在经济、社会、国民安全等涉及民生的诸多领域加强务实合作。中东局势等地区及全球问题也将被列为议题。
-这将是李在明和高市第三次会晤。去年10月，李在明和高市在韩国庆州举行的亚太经济合作组织（APEC）领导人非正式会议期间首次会面。今年1月，李在明访日同高市举行会谈，两人同意加强经济安全合作。
-然而，此后地缘政治格局发生显著变化。2月底，美国和以色列联手打击伊朗导致石油价格飙升，韩日两国都因严重依赖中东石油进口而面临压力。
-今年1月，中日因台湾和出口管制问题而关系紧张，李在明试图避免直接卷入中日争端。但与此同时，韩日盟友美国则致力于稳定与中国的关系。
-在这些背景下，首尔和东京似乎越来越注重加强双边协调，同时应对围绕中美关系、经济安全和地区冲突点的不确定性。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷兰阿斯麦与印度塔塔电子签署半导体协议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062078</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062078"/>
-        <updated>2026-05-17T08:21:46.000Z</updated>
-        <summary type="html"><![CDATA[（海牙综合电）荷兰半导体巨头阿斯麦周六与印度塔塔电子签署协议，协助印度建设半导体工厂。
-在荷兰访问的印度总理莫迪星期六（5月16日）出席了签署仪式。阿斯麦（ASML）在声明中指出，将协助位于莫迪家乡、印度西部古吉拉特邦多莱拉半导体工厂的建设与产能提升。
-根据计划，印度塔塔电子（Tata Electronics）将在该项目中投资110亿美元（约141亿新元），工厂未来将生产用于人工智能、汽车工业及其他领域的半导体晶片。
-法新社报道，荷兰和印度刚签署了经济伙伴关系协定，在这之前，印度和欧盟也签署了自由贸易协定。作为全球领先的先进光刻设备供应商，阿斯麦认为印度半导体产业蕴含巨大潜力。
-莫迪则说，印度半导体产业的发展将为印度年轻人带来巨大契机，这将是印度未来持续大力投资的领域。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男乘客发狂咬伤空服员 澳航飞美航班中途迫降]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062020</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062020"/>
-        <updated>2026-05-17T08:15:55.000Z</updated>
-        <summary type="html"><![CDATA[澳洲昆达士航空（Qantas）一架从墨尔本飞往美国达拉斯的国际航班，因一名男乘客在机上咬伤空服人员，被迫改道大溪地的帕皮提。
-法新社报道，事件发生于星期五（5月15日）。涉事航班原定从墨尔本飞往达拉斯，但途中因一名乘客行为失控，被迫中途降落在法属波利尼西亚首府帕皮提（Papeete）。
-澳大利亚广播公司（ABC）等当地媒体称，这名男子在冲突过程中咬伤一名澳航员工，随后由其他乘客协助制服。
-飞机抵达帕皮提后，涉事男子由当地执法人员带离。澳航随后宣布，禁止他搭乘旗下所有航班。
-澳航发言人星期天（17日）发声明说：“乘客与机组人员的安全始终是我们的首要任务。对于航班上的滋扰或威胁行为，我们采取零容忍态度。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[红毯之上，特朗普怒瞪翻译 | 原文]]></title>
         <id>https://t.me/wxbyg/7359</id>
         <link href="https://t.me/wxbyg/7359"/>
@@ -568,54 +694,6 @@ Telegraph
 出品 | 外宣微记 欢迎转发朋友圈，转载全文请申请授权 5月15日，特朗普挥一挥衣袖走了，但留给中外吃瓜群众的谈资不会轻易散去。 宏大叙事暂时告一段落，不如把镜头拉近一点，聊聊红毯上那个略显尴尬、却颇具戏剧性的“翻译细节”。 事情源自英国《镜报》（The Mirror）美国版的一则报道： 特朗普红毯驻足，美方口译员踏上红毯，特朗普转头怒瞪（glares） 老实说，这种带着显微镜看秀的“抓马”小细节，确实非常符合《镜报》一贯的小报（tabloid）气质。但不得不承认，这次它确实捕捉到了一个极具戏剧张力的瞬间，也是值得翻译圈关注的瞬间。…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄媒称莫斯科州遭遇一年多来最大规模无人机袭击 致4死18伤]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9061598</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9061598"/>
-        <updated>2026-05-17T06:04:41.000Z</updated>
-        <summary type="html"><![CDATA[（莫斯科／基辅综合电）乌克兰连夜对俄罗斯莫斯科州及其周边地区发动大规模空袭，出动将近600架无人机，造成4死18伤。乌总统泽连斯基称，此次袭击是对莫斯科此前猛烈轰炸乌克兰的“完全正当”的报复。
-据塔斯社星期天（5月17日）报道，莫斯科州遭遇一年多来的最大规模无人机袭击。俄罗斯国防部说，俄防空系统在莫斯科等10多个地区击落了556架固定翼无人机。
-莫斯科市长索比亚宁当天在社交媒体发文称，过去24小时，莫斯科防空力量已击落120架乌克兰无人机，袭击造成12人受伤。
-莫斯科州长沃罗比约夫在社媒上发文说，一架无人机击中一栋民宅，造成一名妇女死亡，另一人受困在瓦砾堆下。他补充说，这次凌晨的袭击还夺走了两名男子的性命。
-印度驻莫斯科大使馆在一份声明中说，其中一名遇难者是居住在俄罗斯的印度公民。
-另一方面，乌克兰国家安全局星期天在即时通讯应用Telegram发文说，乌军袭击了莫斯科州的一座炼油厂和两座输油站。“对国防工业设施、军事基础设施和石油后勤站点的袭击削弱了敌人继续对乌克兰发动战争的能力。这些袭击表明，即使是戒备森严的莫斯科地区也并非安全无虞。”
-乌国家紧急情况局星期天说，16日晚至17日凌晨，俄军对第聂伯罗彼得罗夫斯克州发动空袭，造成至少八人受伤。此外，扎波罗热州与哈尔科夫州的军事行政长官同日称，过去一天俄军袭击当地分别造成八人和七人受伤。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落网外籍诈骗嫌犯激增 斯里兰卡忧成为网络犯罪新据点]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9061357</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9061357"/>
-        <updated>2026-05-17T04:17:28.000Z</updated>
-        <summary type="html"><![CDATA[随着柬埔寨和缅甸等热点地区展开大规模打击行动，斯里兰卡逮捕涉嫌诈骗的外国人数量激增，这令当局担忧斯里兰卡正迅速成为网络犯罪的枢纽。
-法新社报道，斯里兰卡官员说，一些被驱逐出东南亚国家的诈骗团伙只是转移到新据点。由于斯里兰卡宽松的签证政策且网络稳定高速，越来越多诈骗团伙将业务转移到斯里兰卡。
-警方发言人伍特勒说，自今年年初以来，警方已逮捕1000多名涉嫌参与网络犯罪的外国人，主要来自中国、越南和印度。这一数字远高于2024年全年的430人，去年则更少。
-上个月，斯里兰卡海关官员拦截九名中国公民，他们试图走私数百部二手手机和笔记本电脑，令人们怀疑这些设备可能被用于大规模欺诈行动。
-当地官员说，在斯里兰卡运作的诈骗网络以亚洲各地的受害者为目标，包括印度、越南和菲律宾，但人们越来越担心斯里兰卡人可能会成为下一个目标。
-当局还在调查外国犯罪集团是否参与了最近针对斯里兰卡国库的网络攻击。那次的攻击造成约250万美元的损失。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普宴会厅拨款提案遇阻 参议院：不符合预算规则]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9061189</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9061189"/>
-        <updated>2026-05-17T03:46:18.000Z</updated>
-        <summary type="html"><![CDATA[美国共和党一项旨在为总统特朗普计划中的宴会厅拨付联邦资金的提案，在美国参议院遭遇阻碍。 
-综合彭博社和路透社报道，美国参议院民主党人说，参议院立法程序官麦多诺星期六（5月16日）认定，这项支出不符合参议院预算规则。
-特朗普曾说，宴会厅的建设资金将由私人捐助者提供。不过，参议院共和党人正寻求10亿美元（约12.8亿新元）纳税人的钱用于特勤局的安全升级，其中包括这个宴会厅。
-参议院少数党领袖舒默在一份声明中说：“共和党试图让纳税人承担特朗普耗资上亿美元打造宴会厅的费用。参议院民主党进行了反击——并挫败他们的首次尝试。”
-参议院共和党领袖图恩的发言人拉斯则说，他们将对有关法案进行修改。
-据报道，美军计划在白宫新宴会厅下方，修建一座大型综合建筑，会配备防弹玻璃和防无人机等防护设施。 
-特朗普去年10月下令推平白宫东翼，建造用于举办招待会和国宴的巨大宴会厅。然而，这项工程在进行时，并未经过通常针对华盛顿建筑景观变更所要求的繁琐审查程序。 
-宴会厅项目堪称白宫百余年来最宏大的工程之一，且规模持续扩大，有关预算已从2亿美元（约2亿5600新元）翻倍至4亿美元。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -697,40 +775,6 @@ The jobs apocalypse: a (very) short history Mass unemployment induced by AI woul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国三星电子劳资周一重启谈判]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9061102</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9061102"/>
-        <updated>2026-05-17T02:37:46.000Z</updated>
-        <summary type="html"><![CDATA[三星电子劳资双方将于星期一（5月18日）上午10时启动第二轮事后调解。 
-此前，拥有逾7万名会员的三星电子工会宣布，将于5月21日启动为期18天的总罢工。这次调解能否达成协议从而化解矛盾、避免罢工，引发关注。
-韩联社报道，韩国总理金民锡星期天（17日）对三星电子与工会在罢工前重启对话表示欢迎。他同时警告称，政府将考虑采取一切可能的手段，包括紧急仲裁，以尽量减少罢工对韩国经济的潜在伤害。
-此次冲突升级的重要导火索，是韩国另一家存储晶片巨头SK海力士此前发放的大规模绩效奖金。公司劳资双方在2021年围绕计件工资问题发生矛盾后，于去年9月达成调整方案，决定将营业利润的10%作为奖金财源，并取消个人上限。
-在雇佣劳动部中央劳动委员会（下称委员会）的调解下，三星电子劳资于11日至13日凌晨进行马拉松式谈判，但未能就绩效奖金的支付标准缩小意见差距，导致谈判破裂。
-委员会星期四（14日）请求劳方于星期六重启谈判但遭拒，这次劳资双方接受调解请求，谈判相隔五天重启。
-三星电子会长李在镕星期六海外出差后回国，在抵达首尔金浦商务航空中心时，他呼吁劳方重返谈判桌。
-雇佣劳动部长官金荣训也于星期五和星期六分别会见劳方和资方，介绍政府立场，并协调意见。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[委内瑞拉马杜罗一亲信被引渡至美国]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9060974</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9060974"/>
-        <updated>2026-05-17T01:44:50.000Z</updated>
-        <summary type="html"><![CDATA[委内瑞拉移民局星期六（5月16日）说，已依据当地移民法律驱逐商人亚历克斯·萨博，以便其就涉嫌在美国实施的犯罪行为接受调查。
-法新社报道，被捕的萨博是一名委内瑞拉商人，也是前总统马杜罗的盟友。 
-据当时一名美国执法官员透露，萨博于今年2月在委内瑞拉被捕，抓捕行动由委内瑞拉当局与美国联邦调查局联合执行。萨博被捕和被驱逐至美国表明，在现任委内瑞拉总统罗德里格斯领导下，美委两国执法部门的合作已提升至新高度。
-54岁的萨博拥有委内瑞拉和哥伦比亚双重国籍，据信与委政府及马杜罗关系密切。
-美国司法部门于2019年7月以洗钱等罪名起诉萨博。2020年6月，萨博以委政府特使身份前往伊朗，经停非洲国家佛得角时被捕，2021年10月被引渡至美国。
-2023年12月，根据美委达成的一项协议，美方释放萨博。据哥伦比亚媒体今年2月报道，萨博在委内瑞拉被捕，将被引渡到美国。
-一名知情者声称，萨博可能向美国当局提供信息，以加强美方针对马杜罗的刑事指控。
-今年1月，美国通过军事行动抓捕马杜罗夫妇。据报道，马杜罗及妻子弗洛雷斯已在纽约联邦地区法院被起诉，包括毒品恐怖主义共谋、共谋走私可卡因等多项罪名。两人都否认相关指控。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[幸福！最快只要10分钟，就能喝上的热乎乎鲜浓好汤。 | 原文]]></title>
         <id>https://t.me/wxbyg/7352</id>
         <link href="https://t.me/wxbyg/7352"/>
@@ -796,71 +840,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国孩子正在经历肌肉力量危机 | 原文]]></title>
-        <id>https://t.me/wxbyg/7347</id>
-        <link href="https://t.me/wxbyg/7347"/>
-        <updated>2026-05-15T13:29:30.000Z</updated>
-        <summary type="html"><![CDATA[中国孩子正在经历肌肉力量危机 | 原文
-Telegraph
-中国孩子正在经历肌肉力量危机
-相比于90后和00后的小时候，现在的中国孩子运动兴趣班和装备选择更多了，饮食条件更好了，身高和体重也在增长，但是肌肉变得更弱了。 如果以立定跳远代表肌肉健康，那么中国儿童青少年的肌肉健康水平20年间持续降低，近10年更为严重。 这带来的问题是，肌肉弱的孩子，往往会成长为肌肉力量更差、不擅长运动也不相信自己能做好运动的成年人，在尝试锻炼时“一动就累、一练就废”，最终成为慢性疾病和跌倒风险更高、生活自主性更低的老年人。 肌肉健康包括肌肉的力量、爆发力和耐力。上图展示了肌肉力量的两种发展轨迹。绿线A为最佳模式…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？ | 原文]]></title>
-        <id>https://t.me/wxbyg/7346</id>
-        <link href="https://t.me/wxbyg/7346"/>
-        <updated>2026-05-15T10:24:43.000Z</updated>
-        <summary type="html"><![CDATA[被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？ | 原文
-Telegraph
-被健康人群推崇的低碳水高蛋白，《Nature》子刊却说会早衰甚至早si？？？这是怎么回事？别的研究怎么说？
-点击 蟠桃本草 关注并星标 每周收到权威本草科普与养护干货 与你共同坚守本草之道 图1 (取自nature.com) 这几年，减脂、控糖、抗衰，几乎共用了一套吃法：饭越吃越少，肉、蛋、奶越吃越多。 很多人把少吃主食、拉高蛋白质摄入，当成一种更自律、更高级的饮食方式。可Nature 旗下子刊《npj Metabolic Health and Disease》刊发的一项动物研究，偏偏给这股风潮泼了一盆冷水。 但是，不少三甲医院营养科给出的减重食谱，也常会采用低碳高蛋白的思路。为什么临床上常见的做法，和顶尖期…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子 | 原文]]></title>
-        <id>https://t.me/wxbyg/7345</id>
-        <link href="https://t.me/wxbyg/7345"/>
-        <updated>2026-05-15T10:22:27.000Z</updated>
-        <summary type="html"><![CDATA[只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子 | 原文
-Telegraph
-只是在天坛边上数麻雀，小伙儿就被当成万亿美元天团富公子
-这两天，美国“万亿天团”到访北京的消息，席卷整个中文网络；参观行程、国宴菜单，马斯克儿子挎虎头包、黄仁勋喝豆汁表情痛苦，无一不被津津乐道。 但咱们观鸟人，由一个奇怪的细节开始吃瓜：昨天，也就是美国代表团参观天坛的日子，怎么同时有美国人上传了在天坛的观鸟记录？难道来访代表团中有个鸟人，还有闲心摸鱼看鸟？ 一份来自天坛的观鸟清单 5月14日清晨7:11，一个名为“Seamus Fraser”的账号在eBird上传了一份北京天坛公园的观鸟清单： 天坛公园的观鸟记录 | eBird 珠颈斑鸠，2只；喜鹊，3只；麻雀，1、2、3……9只。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学 | 原文]]></title>
-        <id>https://t.me/wxbyg/7344</id>
-        <link href="https://t.me/wxbyg/7344"/>
-        <updated>2026-05-15T01:57:03.000Z</updated>
-        <summary type="html"><![CDATA[在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学 | 原文
-Telegraph
-在天坛，习近平向特朗普讲述中国人的宇宙观和处世哲学
-“今天参观的天坛和故宫同龄，寓意‘天圆地方’，展现出中国人的宇宙观和处世哲学。” 5月14日，中国国家主席习近平同来华进行国事访问的美国总统特朗普参观天坛。初夏的天坛，古柏含章，清风送爽。两国元首在祈年殿广场合影，拾级而上，步入祈年殿。]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸 | 原文]]></title>
-        <id>https://t.me/wxbyg/7343</id>
-        <link href="https://t.me/wxbyg/7343"/>
-        <updated>2026-05-15T00:13:50.000Z</updated>
-        <summary type="html"><![CDATA[A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸 | 原文
-Telegraph
-A也通货膨胀了：ChatGPT让美国大学成绩单变成废纸
-加州伯克利大学的研究员Igor Chirikov分析了超过美国五十万条成绩记录，得出结论：在写作和编程这类更容易借助AI完成的课程中，ChatGPT问世之后，A的比例大幅增加，而A-和B+则相应减少——这类课程的A大约多出了30%。 大学成绩，正在贬值。 成绩虚高的问题，在美国校园由来已久，不是什么新鲜事。但AI的到来，让这场通货膨胀进入了加速模式。 2005年，哈佛全校只有24%的成绩是A。到2020年，这个数字涨到了50%。到2024-25学年，已经超过60%。更离谱的是，66%的哈佛本科生拿到了A，84%的人拿到了A或A…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 396 期）：互联网通信的替代方案]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html"/>
@@ -889,16 +868,6 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
 所以，一切就很简单了。你只要找 Meshtastic 兼容设备，人手一个，就能组一个简单的通…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月推荐]]></title>
-        <id>/archives/2026nian-5yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
-        <updated>2026-05-14T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月14日 免费在线office编辑 一个浏览器端的Office套件，开源地址 Motrix Next 一个全功能下载器，Motrix的继任者，支持 HTTP、FTP、BT 种子及磁力链接等协议，GitHub 5月13日]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
@@ -998,16 +967,6 @@ LoRa 协议是专为远距离通信而发明的，只需很小的设备和一点
 人们很快意识到，如果大模型只会思考，不能执行代码，用处就不大。AI 的最大价值不是内容…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焦慮的世代救不了你家小孩：三種家長讀同一本書的三種結果]]></title>
-        <id>https://ducorn.com/anxious-generation-debunked</id>
-        <link href="https://ducorn.com/anxious-generation-debunked"/>
-        <updated>2026-04-18T15:51:18.000Z</updated>
-        <summary type="html"><![CDATA[國中前該不該給小孩手機？電話手錶還是智慧型？學校 2025 年禁手機後怎麼辦？《失控的焦慮世代》的四大建議對有餘裕家長是安慰、對累爆家長是審判、對補習文化家長是失焦。手機只解釋 0.4% 的青少年憂鬱變異。跨六位學者攤開育兒書的階級政治，給你三個數字找到自己家的判斷框架。]]></summary>
-        <author>
-            <name>讀角獸</name>
         </author>
     </entry>
 </feed>
