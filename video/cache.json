@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uqsL3RcBfn8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uqsL3RcBfn8",
+          "publishedOn": "2026-05-18T13:08:51.000Z",
+          "wordCount": null,
+          "title": "llama.cpp 最新版太强了！本地跑 “无审查模型” 速度暴涨！N卡/A卡/Intel 全支持｜零度解说",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6iONJKrFs1k",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2026-04-20T12:30:20.000Z",
           "wordCount": null,
           "title": "轻舟VPN不限流量！实测速度有多快？附免费激活码（限量领取）支持全平台！【非翻墙工具】| 零度解说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77dNa9uscTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77dNa9uscTM",
-          "publishedOn": "2026-04-18T12:15:01.000Z",
-          "wordCount": null,
-          "title": "Google 把 AI 搜索塞进 Windows！完全免费，比传统搜索强太多了（实测体验）| 零度解说",
           "imageUrl": null
         }
       ]
@@ -325,7 +325,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/X3EJfiOlt-A",
           "publishedOn": "2026-05-17T03:22:48.000Z",
-          "wordCount": 2154,
+          "wordCount": 2127,
           "title": "【AI剪辑】AI视频去水印画质修复，何须破费？免费真香 | Why Pay? Fix Video Quality & Remove Watermark Instantly for Free✨",
           "imageUrl": null
         },
@@ -345,7 +345,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MPOHxLbaDb4",
           "publishedOn": "2026-05-07T05:00:18.000Z",
-          "wordCount": 2075,
+          "wordCount": 2104,
           "title": "【免费AI剪辑】免费真香，新手2分钟搞定Kdenlive剪辑自动字幕 | Free Auto Subtitles in Kdenlive in 2 Mins✨",
           "imageUrl": null
         },
@@ -365,7 +365,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_eaxu_auPes",
           "publishedOn": "2026-05-02T23:40:19.000Z",
-          "wordCount": 2136,
+          "wordCount": 2218,
           "title": "【免费AI剪辑】弃用剪映！Kdenlive+Whisper 免费AI字幕 安装与配置 | Bye CapCut — Kdenlive + Whisper Just Saved My Sanity✨",
           "imageUrl": null
         },
@@ -385,7 +385,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XweTRQE45Qw",
           "publishedOn": "2026-04-23T12:10:03.000Z",
-          "wordCount": 2129,
+          "wordCount": 2122,
           "title": "【免费插件】2分钟吾辈白嫖豆包无水印图 | Get Doubao No-Watermark Images in 2 Minutes Free✨",
           "imageUrl": null
         },
@@ -395,7 +395,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rwkZxPJ9Whk",
           "publishedOn": "2026-04-17T05:15:06.000Z",
-          "wordCount": 2166,
+          "wordCount": 2157,
           "title": "【莫错扔】莫错扔AdSense PIN？10秒填油管PIN | Don't Trash It! Verify AdSense PIN in 10 Seconds✨",
           "imageUrl": null
         },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DozGE8aP0c8",
           "publishedOn": "2026-04-15T05:00:11.000Z",
-          "wordCount": 2133,
+          "wordCount": 2153,
           "title": "【iphone技巧】莫求他法！iPhone技巧之文件管理，效率翻倍真香 | Stop Installing Apps! Pro iPhone Files Hacks✨",
           "imageUrl": null
         },
@@ -465,7 +465,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1fyNa7WPzCY",
           "publishedOn": "2026-04-10T04:45:00.000Z",
-          "wordCount": 2208,
+          "wordCount": 2142,
           "title": "【自制插件】2分钟打造专属插件，新手亦可成器 | Create Custom Browser Plugin in 2 Mins✨",
           "imageUrl": null
         }
