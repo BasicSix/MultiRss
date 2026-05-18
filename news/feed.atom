@@ -2,198 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T04:00:06.845Z</updated>
+    <updated>2026-05-18T10:12:13.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[Racing the Thunder Tide ...]]></title>
+        <id>1x-3585163</id>
+        <link href="https://1x.com/photo/3585163"/>
+        <updated>2026-05-18T10:12:11.662Z</updated>
+        <summary type="html"><![CDATA[Racing the Thunder Tide ... by Yvette Depaepe]]></summary>
+        <author>
+            <name>Yvette Depaepe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parenthood]]></title>
+        <id>1x-3586530</id>
+        <link href="https://1x.com/photo/3586530"/>
+        <updated>2026-05-18T10:12:11.659Z</updated>
+        <summary type="html"><![CDATA[Parenthood by Andreea Selagea]]></summary>
+        <author>
+            <name>Andreea Selagea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Striped]]></title>
+        <id>1x-3585069</id>
+        <link href="https://1x.com/photo/3585069"/>
+        <updated>2026-05-18T10:12:11.657Z</updated>
+        <summary type="html"><![CDATA[Striped by Karin Kilb]]></summary>
+        <author>
+            <name>Karin Kilb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tiny Thank You]]></title>
+        <id>1x-3586438</id>
+        <link href="https://1x.com/photo/3586438"/>
+        <updated>2026-05-18T10:12:11.654Z</updated>
+        <summary type="html"><![CDATA[A Tiny Thank You by Mustafa Sahin]]></summary>
+        <author>
+            <name>Mustafa Sahin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban sunset]]></title>
+        <id>1x-3585940</id>
+        <link href="https://1x.com/photo/3585940"/>
+        <updated>2026-05-18T10:12:11.647Z</updated>
+        <summary type="html"><![CDATA[Urban sunset by Olexandr Shpyek]]></summary>
+        <author>
+            <name>Olexandr Shpyek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deep layer]]></title>
+        <id>1x-3585285</id>
+        <link href="https://1x.com/photo/3585285"/>
+        <updated>2026-05-18T10:12:11.640Z</updated>
+        <summary type="html"><![CDATA[deep layer by Kou Suga]]></summary>
+        <author>
+            <name>Kou Suga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunrays of morning]]></title>
+        <id>1x-3586375</id>
+        <link href="https://1x.com/photo/3586375"/>
+        <updated>2026-05-18T10:12:11.633Z</updated>
+        <summary type="html"><![CDATA[Sunrays of morning by Bor]]></summary>
+        <author>
+            <name>Bor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The climb to the attic]]></title>
+        <id>1x-3586175</id>
+        <link href="https://1x.com/photo/3586175"/>
+        <updated>2026-05-18T10:12:11.624Z</updated>
+        <summary type="html"><![CDATA[The climb to the attic by Jose C. Lobato]]></summary>
+        <author>
+            <name>Jose C. Lobato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early morning fisherman]]></title>
+        <id>1x-3586558</id>
+        <link href="https://1x.com/photo/3586558"/>
+        <updated>2026-05-18T10:12:11.618Z</updated>
+        <summary type="html"><![CDATA[Early morning fisherman by Tore Johansson]]></summary>
+        <author>
+            <name>Tore Johansson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Landing]]></title>
+        <id>1x-3586505</id>
+        <link href="https://1x.com/photo/3586505"/>
+        <updated>2026-05-18T10:12:11.613Z</updated>
+        <summary type="html"><![CDATA[Precision Landing by Lipinghu]]></summary>
+        <author>
+            <name>Lipinghu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue-tailed Damselfly]]></title>
+        <id>1x-3586518</id>
+        <link href="https://1x.com/photo/3586518"/>
+        <updated>2026-05-18T10:12:11.610Z</updated>
+        <summary type="html"><![CDATA[Blue-tailed Damselfly by Fabrizio Daminelli]]></summary>
+        <author>
+            <name>Fabrizio Daminelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowned in light]]></title>
+        <id>1x-3574428</id>
+        <link href="https://1x.com/photo/3574428"/>
+        <updated>2026-05-18T10:12:11.607Z</updated>
+        <summary type="html"><![CDATA[Crowned in light by Jie Jin]]></summary>
+        <author>
+            <name>Jie Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure hold]]></title>
+        <id>1x-3586576</id>
+        <link href="https://1x.com/photo/3586576"/>
+        <updated>2026-05-18T10:12:11.598Z</updated>
+        <summary type="html"><![CDATA[Secure hold by Tony Yu]]></summary>
+        <author>
+            <name>Tony Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The old Icelandic House Style]]></title>
+        <id>1x-3566492</id>
+        <link href="https://1x.com/photo/3566492"/>
+        <updated>2026-05-18T10:12:11.592Z</updated>
+        <summary type="html"><![CDATA[The old Icelandic House Style by Þorsteinn H. Ingibergsson]]></summary>
+        <author>
+            <name>Þorsteinn H. Ingibergsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young monks through a frame of leaves, Mandalay]]></title>
+        <id>1x-3586390</id>
+        <link href="https://1x.com/photo/3586390"/>
+        <updated>2026-05-18T10:12:11.407Z</updated>
+        <summary type="html"><![CDATA[Young monks through a frame of leaves, Mandalay by Giovanni Cavalli]]></summary>
+        <author>
+            <name>Giovanni Cavalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the old man and his work]]></title>
+        <id>1x-3585872</id>
+        <link href="https://1x.com/photo/3585872"/>
+        <updated>2026-05-18T10:12:11.403Z</updated>
+        <summary type="html"><![CDATA[the old man and his work by Holger Schmidtke]]></summary>
+        <author>
+            <name>Holger Schmidtke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sand Companionship]]></title>
+        <id>1x-3577854</id>
+        <link href="https://1x.com/photo/3577854"/>
+        <updated>2026-05-18T10:12:11.394Z</updated>
+        <summary type="html"><![CDATA[Sand Companionship by Ala Askool]]></summary>
+        <author>
+            <name>Ala Askool</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3586417</id>
-        <link href="https://1x.com/photo/3586417"/>
-        <updated>2026-05-18T04:00:05.434Z</updated>
-        <summary type="html"><![CDATA[Untitled by Dirk Koster]]></summary>
+        <id>1x-3255697</id>
+        <link href="https://1x.com/photo/3255697"/>
+        <updated>2026-05-18T10:12:11.382Z</updated>
+        <summary type="html"><![CDATA[Untitled by Yun Thwaits]]></summary>
         <author>
-            <name>Dirk Koster</name>
+            <name>Yun Thwaits</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alter Ego]]></title>
-        <id>1x-3586264</id>
-        <link href="https://1x.com/photo/3586264"/>
-        <updated>2026-05-18T04:00:05.421Z</updated>
-        <summary type="html"><![CDATA[Alter Ego by Yevhen Kostiuk]]></summary>
+        <title type="html"><![CDATA[Pharaoh Eagle Owl-Chick]]></title>
+        <id>1x-3577538</id>
+        <link href="https://1x.com/photo/3577538"/>
+        <updated>2026-05-18T10:12:11.373Z</updated>
+        <summary type="html"><![CDATA[Pharaoh Eagle Owl-Chick by Ahmed Elkahlawi]]></summary>
         <author>
-            <name>Yevhen Kostiuk</name>
+            <name>Ahmed Elkahlawi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gentle Giant]]></title>
-        <id>1x-3586317</id>
-        <link href="https://1x.com/photo/3586317"/>
-        <updated>2026-05-18T04:00:05.418Z</updated>
-        <summary type="html"><![CDATA[Gentle Giant by Tessa Schack]]></summary>
+        <title type="html"><![CDATA[加沙援助船队称遭以军拦截登船]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9067380</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9067380"/>
+        <updated>2026-05-18T09:37:32.000Z</updated>
+        <summary type="html"><![CDATA[从土耳其启航、驶往加沙地带的援助船队遭到以色列部队拦截，组织者说，其中一艘船在塞浦路斯以西被拦下。
+向加沙运送援助物资的“全球坚韧船队”（Global Sumud Flotilla）星期一（5月18日）在社媒平台X发文说，以色列军舰正在拦截这个船队，“以色列国防军在光天化日之下，登上我们的领头船只”。
+
+
+RED ALERT!
+Military vessels are currently intercepting our fleet and IOF forces are boarding the first of our boats in broad daylight.
+We demand safe passage for our legal, non-violent humanitarian mission. Governments must act now to stop these illegal acts or piracy meant to… pic.twitter.com/4RmPuswZNo
+— Global Sumud Flotilla (@gbsumudflotilla) May 18, 2026
+
+船队表明：“我们要求确保我们合法、非暴力的人道主义队伍安全通行。各国政府必须立即采取行动，制止这些为了维持以色列对加沙种族灭绝式围困的非法行为和海盗行径。将占领者的暴力正常化，是对我们所有人的威胁。”
+这支船队由约50艘船组成，当地时间星期四（14日）从土耳其西南部启航，旨在突破以色列封锁，向加沙运送援助物资。
+以色列外交部星期一早些时候说，会拦截这些船只，“绝不允许任何违反对加沙合法海上封锁的行为”。
+以色列外交部尚未回应拦截船队的消息。以色列当局否认加沙援助短缺，称当地物资充裕。
+在此之前，以军已多次拦截试图驶向加沙的国际援助船只，并扣留船上人员。]]></summary>
         <author>
-            <name>Tessa Schack</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[white curve]]></title>
-        <id>1x-3585215</id>
-        <link href="https://1x.com/photo/3585215"/>
-        <updated>2026-05-18T04:00:05.402Z</updated>
-        <summary type="html"><![CDATA[white curve by fotomarion]]></summary>
+        <title type="html"><![CDATA[邻国刚果暴发伊波拉疫情 乌干达推迟年度宗教活动]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9066892</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9066892"/>
+        <updated>2026-05-18T08:45:09.000Z</updated>
+        <summary type="html"><![CDATA[由于邻国刚果民主共和国（刚果（金））暴发伊波拉病毒疫情，乌干达推迟通常于6月初举行的年度宗教节日活动。
+彭博社报道，刚果（金）近日暴发伊波拉疫情，东北部已报告约350起疑似病例和91起死亡病例；乌干达也确认两起感染病例，以及一起死亡病例。
+乌干达总统穆塞维尼星期一（5月18日）在一份声明中宣布，鉴于这波疫情，当局决定推迟通常于6月3日举行的年度烈士节（Matyrs’ Day）活动。
+“乌干达每年都会接待数千名来自刚果（金）东部的朝圣者，但当地目前正暴发伊波拉疫情。为了保障所有人的生命安全，推迟这一重要活动势在必行。”
+穆塞维尼说，乌干达政府稍后会公布烈士节活动的时间安排。
+根据公开资料，1885年至1887年间，45名年龄在14至50岁的男子因自身信仰而被杀。其中22人于1920年被宣为真福，并于1964年封圣。
+乌干达每年6月3日的烈士节，正是为了纪念这些殉道者。]]></summary>
         <author>
-            <name>fotomarion</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Still while the world Rushes by]]></title>
-        <id>1x-3584998</id>
-        <link href="https://1x.com/photo/3584998"/>
-        <updated>2026-05-18T04:00:05.399Z</updated>
-        <summary type="html"><![CDATA[Still while the world Rushes by by Els Keurlinckx]]></summary>
+        <title type="html"><![CDATA[内坦亚胡：哈马斯主谋被铲除 加沙战事目标接近完成]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9066431</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9066431"/>
+        <updated>2026-05-18T08:23:29.000Z</updated>
+        <summary type="html"><![CDATA[（耶路撒冷综合电）以色列总理内坦亚胡说，以色列已几乎完成加沙战争的关键目标，即铲除所有策划2023年10月7日突袭的主谋。
+以军此前宣布，哈马斯武装分支指挥官哈达德（Ezzedine Al-Haddad）在上星期五（5月15日）的加沙空袭行动中身亡。
+内坦亚胡星期天（17日）在每周内阁会议上说：“我曾经承诺，参与大屠杀和挟持人质行动的每一名主谋都将被铲除，无一幸免，现在我们已非常接近完成这项任务。”
+哈马斯两年多前对以色列发动的突袭共造成1220多人丧生。以军和情报单位过后持续对哈马斯在加沙和区域内的高层政治领袖及武装指挥官展开追捕行动，暗杀了多名领导人，包括哈马斯前政治领袖哈尼亚（Ismail Haniyeh）和军事领导人辛瓦尔（Yahya Sinwar）；辛瓦尔被普遍认为是10月7日袭击主谋之一。
+内坦亚胡星期天也透露，以军已控制加沙地带六成区域，并正加强对哈马斯的控制，确保加沙不再对以色列构成威胁。
+以军星期天继续对加沙发动袭击，造成至少八人丧命。
+尽管以色列和哈马斯去年达成了加沙停火第一阶段协议，暴力事件仍在持续。加沙卫生部称，自停火开始以来，至少有870名巴勒斯坦人丧生。以军则说，同个时期有五名士兵在加沙阵亡。]]></summary>
         <author>
-            <name>Els Keurlinckx</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3586336</id>
-        <link href="https://1x.com/photo/3586336"/>
-        <updated>2026-05-18T04:00:05.394Z</updated>
-        <summary type="html"><![CDATA[Untitled by Barbora Biňovcová]]></summary>
+        <title type="html"><![CDATA[韩国《统一白皮书》首提韩朝“事实两国” 和平共存路线引发违宪争议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9066026</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9066026"/>
+        <updated>2026-05-18T07:48:43.000Z</updated>
+        <summary type="html"><![CDATA[韩国李在明政府上台后发布的首份《统一白皮书》，首次将韩国与朝鲜关系表述为“事实上存在的两个国家”，并提出以“和平共存”为核心的新对朝政策方向，引发韩国社会对对朝政策基调变化及是否违反宪法的争议。 
+韩国统一部星期一（5月18日）公开《2026统一白皮书》中指出，考虑到韩朝事实上以两个国家形式存在的现实，希望将韩朝关系发展为向往统一、和平共存的关系。 
+政府同时强调，将以半岛和平为基础，推动韩朝及国际社会共同繁荣的共同成长战略，并尊重朝鲜现有体制，不追求任何形式的吸收统一，也无意采取敌对行为。
+分析认为，这一表述实际上在一定程度上承认朝鲜长期主张的“两国体制”。尤其，韩国政府首次在被视为对朝政策蓝图的统一白皮书中明确使用“两个国家”概念，被视为李在明政府对韩朝关系定位的重大调整。
+不过，这也迅速引发违宪争议。韩国宪法第三条规定，韩国领土包括朝鲜半岛及其附属岛屿；第四条则规定，韩国以自由民主基本秩序为基础，制定并推进和平统一政策。
+历届韩国政府及宪法法院长期以来也一直将韩朝关系定义为在追求统一过程中形成的特殊关系，而非“国与国关系”。因此，有批评指出，政府提出“和平两国关系”，与宪法确立的统一原则存在明显冲突。
+对此，统一部强调，此举并不意味着放弃统一，而是继承《韩朝基本协议书》签署以来35年的和平共存路线，在现实基础上稳定管理韩朝关系。
+分析认为，在朝鲜已正式将韩国定义为“敌对国家”、韩朝官方沟通几近中断的背景下，韩国政府试图通过调整表述，为未来恢复对话保留空间。 
+此外，今年白皮书在具体对朝政策上也出现明显变化。关于《9·19韩朝军事协议》，去年的白皮书曾评价其因朝鲜持续违反协议而有名无实，今年则改为恢复《9·19军事协议》精神，缓和军事紧张、积累互信。 
+韩国政府还将停止散发对朝传单、停止及拆除对朝扩音器广播等措施，列为消除边境紧张因素的努力。
+对朝核问题的应对方式同样有所调整。去年的白皮书强调以遏制 （Deterrence）、劝阻（Dissuasion）与对话（Dialogue）为核心的“3D战略”；今年则提出交流、关系正常化、无核化一揽子方案，包括重启韩朝交流合作、支持美朝关系正常化，以及推进无核化进程。
+此外，白皮书还提出在韩朝关系发展与朝鲜半岛和平稳定协调下推进韩朝人权合作。
+韩国《文化日报》指出，相较于过去将朝鲜人权问题作为对朝施压工具，李在明政府更倾向于将它纳入关系管理与合作框架中处理。]]></summary>
         <author>
-            <name>Barbora Biňovcová</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crescent of Light]]></title>
-        <id>1x-3582360</id>
-        <link href="https://1x.com/photo/3582360"/>
-        <updated>2026-05-18T04:00:05.136Z</updated>
-        <summary type="html"><![CDATA[Crescent of Light by Nikola Glavan]]></summary>
+        <title type="html"><![CDATA[英国副首相：斯塔默很有韧劲 不会辞职]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9066299</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9066299"/>
+        <updated>2026-05-18T07:22:11.000Z</updated>
+        <summary type="html"><![CDATA[英国副首相拉米说，首相斯塔默致力于履行职责，不会辞职。
+拉米星期一（5月18日）告诉英国天空新闻（Sky News），斯塔默不会为辞职设定时间表。“我要说明一点，斯塔默仍然是我一生中所认识的最有韧劲的人。我昨天和他谈了两次。他性格坚强，经验丰富，不会（为辞职）设定时间表。”
+拉米还强调：“现在要做的是继续推进政府事务，这点我非常清楚。”
+执政工党在地方选举中惨败后，斯塔默的领导力面临严峻挑战。目前已有92名工党议员敦促他阐明何时下台。
+英国卫生部长斯特里廷上周辞职，并打算竞选工党党魁，取代斯塔默的位子。大曼彻斯特市长伯纳姆（Andy Burnham）也在寻求国会议席，以便能够向斯塔默发起挑战。
+面对日益沉重的压力，斯塔默始终拒绝辞职，坚称会应对任何领导权挑战。
+拉米对天空新闻表明：“目前不存在竞争。他（斯塔默）决心为英国人民谋福利，并在未来几个月加快步伐。还有很多工作要做。”]]></summary>
         <author>
-            <name>Nikola Glavan</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elegance of a cheetah]]></title>
-        <id>1x-3586427</id>
-        <link href="https://1x.com/photo/3586427"/>
-        <updated>2026-05-18T04:00:05.133Z</updated>
-        <summary type="html"><![CDATA[Elegance of a cheetah by Marcello Galleano]]></summary>
+        <title type="html"><![CDATA[美两军机飞行表演时相撞 四飞行员弹射逃生]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9066223</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9066223"/>
+        <updated>2026-05-18T07:20:50.000Z</updated>
+        <summary type="html"><![CDATA[美国爱达荷州芒廷霍姆空军基地星期天（5月17日）举行飞行表演时，两架军机在空中相撞并坠毁，四名飞行员弹射逃生。美国太平洋舰队海军航空兵发言人说，当天下午12时10分（山区夏令时），两架军机在距离基地两英里（约3.2公里）的空中相撞。现场可见坠机地点附近升起黑烟，四顶降落伞出现在空中。当地媒体报道，发生空中相撞的是美国海军两架E/A-18G型“咆哮者”舰载电子战机。事故原因正在调查中。（路透社）]]></summary>
         <author>
-            <name>Marcello Galleano</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sand River]]></title>
-        <id>1x-3586270</id>
-        <link href="https://1x.com/photo/3586270"/>
-        <updated>2026-05-18T04:00:05.130Z</updated>
-        <summary type="html"><![CDATA[Sand River by Nancy Xu]]></summary>
+        <title type="html"><![CDATA[为降低对华依赖 欧盟拟强制企业向其他供应商采购零部件]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9065789</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9065789"/>
+        <updated>2026-05-18T06:44:29.000Z</updated>
+        <summary type="html"><![CDATA[有消息指，欧盟在正制定计划，强制欧洲企业从至少三个不同的供应商采购关键零部件，以降低欧盟对中国的依赖。
+英国《金融时报》星期一（5月18日）引述两名知情欧盟官员说，这项新规将影响化工和工业机械等少数几个关键领域的企业，这些企业此前抱怨中国廉价进口产品激增。新措施旨在回应北京对关键技术的出口限制。
+新法将对从单一供应商采购的零部件设上限，预计约为30%至40%；其余零部件必须来自至少三个不同的供应商，而且供应商不能来自同一国家。
+知情官员透露，欧盟贸易事务专员谢夫乔维奇希望解决欧盟每天高达10亿欧元（约15亿新元）的贸易逆差，并保护企业免受中国“贸易武器化”的影响。去年北京对稀土磁体和其他零部件的出口实施管制，一些欧洲汽车生产线被迫停产。
+知情官员称，谢夫乔维奇计划对中国化工产品和机械设备征收惩罚性关税，以遏制令欧洲制造商蒙受重创的关税暴涨。
+一名欧盟委员会高级官员说：“我在许多领域正逐渐依赖中国出口。依赖是有代价的，因此我们必须加倍努力实现多元化。”
+他指中国在制造业进行巨额投资，国际货币基金组织（IMF）也指中国对特定优先产业提供高额补贴，这一切对欧盟的工业基础构成紧迫威胁。而中国政府称其产业政策规模被夸大，还指欧盟“在“公平竞争”的幌子下推行保护主义。
+欧盟官员说，这些计划仍处于早期阶段，但将于5月29日欧盟委员会专门讨论中国问题的会议上提出。如果委员们同意，详细提案可能会在6月底欧盟峰会上获欧盟领导人核准。
+另一名官员指出，这些计划不仅是针对中国，因为一些原材料或化学原料主要来自少数几个国家，例如氦气（helium）来自美国和卡塔尔，钴（cobalt）来自刚果和印度尼西亚。
+欧盟委员会没有立即回应《金融时报》的置评请求。]]></summary>
         <author>
-            <name>Nancy Xu</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marina]]></title>
-        <id>1x-3562540</id>
-        <link href="https://1x.com/photo/3562540"/>
-        <updated>2026-05-18T04:00:05.124Z</updated>
-        <summary type="html"><![CDATA[Marina by Zachar Rise]]></summary>
+        <title type="html"><![CDATA[重申人类创作不可取代 法国拟拒资助AI作品]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9062057</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9062057"/>
+        <updated>2026-05-18T06:29:18.000Z</updated>
+        <summary type="html"><![CDATA[面对人工智能对大银幕的强势入侵，法国文化部近日开出铁腕药方。
+新华社报道，法国文化部长卡特琳·佩加尔星期六（5月16日）在第79届戛纳电影节期间指出，国家电影和动画中心计划修改对创作项目的资助规则，以保护创作免受人工智能（AI）的冲击。
+佩加尔当日在戛纳出席活动并向电影从业者发表讲话，其间谈及AI给行业带来的挑战。她表明，国家电影和动画中心“将很快修改相关资助规则”，以确保遵循“支持人类创作”的原则。
+佩加尔强调，创作行为是人类的本质特征。她说，AI是一种工具，可以加快、简化、丰富电影制作过程；但是，一部作品是一种视角、意图和情感，任何算法都无法做到这点。
+佩加尔明确指出，国家电影和动画中心“今后不会资助没有作者的作品”。她同时强调，这并不意味着“受到资助的作品中禁止使用人工智能”，而是不会资助那些“用人工智能取代创作者的作品”。在配音领域，佩加尔同样表明：“只有人类的演绎才能获得支持。”
+法国国家电影和动画中心是法国文化部下属公共机构，核心职责是扶持电影、视听、电子游戏等产业的创作项目，资助相关领域创作者，同时负责监管电影和视听市场、保护和传播相关遗产，确保产业健康发展。
+第79届戛纳电影节于5月12日至23日在法国南部海滨城市戛纳举行。]]></summary>
         <author>
-            <name>Zachar Rise</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uttakleiv Beach at Night]]></title>
-        <id>1x-3585179</id>
-        <link href="https://1x.com/photo/3585179"/>
-        <updated>2026-05-18T04:00:05.121Z</updated>
-        <summary type="html"><![CDATA[Uttakleiv Beach at Night by Yongnan Li （李永男）]]></summary>
+        <title type="html"><![CDATA[李在明吁三星电子劳资双方相互妥协]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9065165</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9065165"/>
+        <updated>2026-05-18T05:13:08.000Z</updated>
+        <summary type="html"><![CDATA[韩国总统李在明星期一（5月18日）呼吁三星电子劳资双方凝聚智慧，摒弃单方面利益，相互妥协，寻求折中方案。
+韩联社报道，在三星电子劳资展开第二轮谈判当天，李在明在X平台贴文称，韩国奉行自由民主和资本主义市场经济，因此劳工和企业必须同样受尊重，劳动权与企业经营权也须同样受尊重。
+李在明说，劳动者付出劳力后，应当获得合理报酬，股东冒着风险和损失进行投资，应当从企业利润中获得红利。根据《宪法》规定，全体国民的基本权利应得到保障，但在不侵犯本质内容的范围内，可以为了公共福利等目的而加以限制。
+分析人士认为，李在明在三星电子劳资谈判之际释放的信息，意在以劳动权和经营权是同等权利为前提，呼吁劳资双方相互让步，他同时提到“限制国民基本权利”，明确指出政府有可能采取行使紧急调整权等相应措施，以应对罢工。]]></summary>
         <author>
-            <name>Yongnan Li （李永男）</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gypsy children]]></title>
-        <id>1x-3560739</id>
-        <link href="https://1x.com/photo/3560739"/>
-        <updated>2026-05-18T04:00:05.118Z</updated>
-        <summary type="html"><![CDATA[Gypsy children by Trevor Cole]]></summary>
+        <title type="html"><![CDATA[三星部分强制令获批 法院责令工会罢工不得影响生产量]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9065444</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9065444"/>
+        <updated>2026-05-18T05:00:42.000Z</updated>
+        <summary type="html"><![CDATA[韩国一家法院批准了三星电子提出的部分强制令申请，责令三星电子在韩工会确保罢工不会影响公司生产量。 
+综合路透社和彭博社报道，韩国法院发言人星期一（5月18日）通过电话说，法院裁决书还指出，工会行动不得导致这家全球最大存储晶片制造商生产所用材料质量下降。
+三星电子及其最大工会定18日恢复谈判，以设法避免工会从5月21日开始举行18天罢工。管理层和工会代表将就工资和补偿问题进行谈判。 
+此前，三星电子公布的营业利润大幅增长，这主要得益于人工智能（AI）驱动的半导体需求。
+韩国总理金民锡警告，此次罢工可能对经济造成严重破坏。
+金民锡17日向全国发表讲话，他说：“我们与全体国民一道，恳请三星电子管理层和工会在明天的调解中取得成果，这实际上是最后机会了。”
+金民锡估计，如果三星电子工厂持续停工，每罢工一天就会造成高达1万亿韩元（约8亿5200万新元）的损失。
+金民锡还首次说，如果三星电子劳资双方无法达成协议，政府可能会动用紧急权力来阻止罢工。
+三星集团及三星电子会长李在镕5月16日罕见为公司“内部问题”给世界各地客户带来焦虑和担忧道歉。 
+三星电子工会近期发起大规模罢工行动，要求公司在AI产业“超级周期”中获取的高额利润以奖金形式与员工共享。随着分配诉求持续上调，劳资矛盾迅速升温，在韩国社会引发广泛关注。
+三星电子是韩国“存储晶片双雄”之一。
+4月23日，拥有逾7万名会员的三星电子工会宣布，将在5月21日启动为期18天的总罢工，并已向警方报备，计划在罢工第一天下午1时于李在镕的首尔住宅前举行集会。]]></summary>
         <author>
-            <name>Trevor Cole</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eastern bluebird]]></title>
-        <id>1x-3579289</id>
-        <link href="https://1x.com/photo/3579289"/>
-        <updated>2026-05-18T04:00:05.114Z</updated>
-        <summary type="html"><![CDATA[Eastern bluebird by Steven Haddix]]></summary>
+        <title type="html"><![CDATA[伊朗媒体：也门胡塞武装击落美军无人机]]></title>
+        <id>https://www.zaobao.com/news/world/story20260518-9065274</id>
+        <link href="https://www.zaobao.com/news/world/story20260518-9065274"/>
+        <updated>2026-05-18T04:14:46.000Z</updated>
+        <summary type="html"><![CDATA[伊朗媒体星期一（5月18日）报道，也门胡塞武装17日在马里卜省击落一架美军MQ-9“死神”无人机。
+报道还附有被击落无人机残骸的相关照片以及无人机坠毁燃烧的视频。
+美方尚未证实有无人机在也门被击落。
+据美国媒体此前报道，一架MQ-9“死神”（MQ-9 Reaper）无人机造价约3000万美元（约3843万新元）。
+MQ-9无人机由美国通用原子能公司研发，是察打一体无人机，通常在1万2000米以上高空飞行，既能执行侦察监视任务，也可挂载导弹打击地面目标。]]></summary>
         <author>
-            <name>Steven Haddix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brothers]]></title>
-        <id>1x-3586276</id>
-        <link href="https://1x.com/photo/3586276"/>
-        <updated>2026-05-18T04:00:05.111Z</updated>
-        <summary type="html"><![CDATA[Brothers by nao_kash]]></summary>
-        <author>
-            <name>nao_kash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Leader]]></title>
-        <id>1x-3586308</id>
-        <link href="https://1x.com/photo/3586308"/>
-        <updated>2026-05-18T04:00:05.099Z</updated>
-        <summary type="html"><![CDATA[The Leader by Antonyus Bunjamin (Abe)]]></summary>
-        <author>
-            <name>Antonyus Bunjamin (Abe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graal]]></title>
-        <id>1x-3486217</id>
-        <link href="https://1x.com/photo/3486217"/>
-        <updated>2026-05-18T04:00:05.096Z</updated>
-        <summary type="html"><![CDATA[Graal by Jorge Pimenta]]></summary>
-        <author>
-            <name>Jorge Pimenta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICONIC Shopping Mall]]></title>
-        <id>1x-3586249</id>
-        <link href="https://1x.com/photo/3586249"/>
-        <updated>2026-05-18T04:00:05.093Z</updated>
-        <summary type="html"><![CDATA[ICONIC Shopping Mall by Gilbert Claes]]></summary>
-        <author>
-            <name>Gilbert Claes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligned]]></title>
-        <id>1x-3585470</id>
-        <link href="https://1x.com/photo/3585470"/>
-        <updated>2026-05-18T04:00:05.090Z</updated>
-        <summary type="html"><![CDATA[Aligned by konikonikei]]></summary>
-        <author>
-            <name>konikonikei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awakening]]></title>
-        <id>1x-3585301</id>
-        <link href="https://1x.com/photo/3585301"/>
-        <updated>2026-05-18T04:00:05.075Z</updated>
-        <summary type="html"><![CDATA[Awakening by Catherine Lu]]></summary>
-        <author>
-            <name>Catherine Lu</name>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -216,13 +402,13 @@
         <id>https://www.zaobao.com/news/world/story20260518-9064794</id>
         <link href="https://www.zaobao.com/news/world/story20260518-9064794"/>
         <updated>2026-05-18T03:10:18.000Z</updated>
-        <summary type="html"><![CDATA[美国白宫星期天（5月17日）发布一份中美峰会概况说明书，介绍了美国总统特朗普和中国国家主席习近平在北京峰会期间达成的主要协议概况，称中国将解决美方因北京出口管制导致某些特种稀土短缺的担忧。
-中国去年4月开始实施稀土出口管制，以报复特朗普在去年4月2日解放日宣布的高额关税。尽管中美双方已在去年10月达成协议，允许稀土自由流通，但中国仍然严格限制部分稀土出口。
-北京对钇（yttrium）和钪（scandium）等特种稀土的控制最为严格，这些稀土用于国防、航空航天和晶片制造。。
+        <summary type="html"><![CDATA[美国白宫星期天（5月17日）发布一份中美峰会概况说明书，介绍美国总统特朗普和中国国家主席习近平在北京峰会期间达成的主要协议概况，称中国将解决美方因北京出口管制导致某些特种稀土短缺的担忧。 
+中国去年4月开始实施稀土出口管制，以报复特朗普在去年4月2日解放日宣布的高额关税。尽管中美双方已在去年10月达成协议，允许稀土自由流通，但中国仍然严格限制部分稀土出口。 
+北京对钇（yttrium）和钪（scandium）等特种稀土的控制最为严格，这些稀土用于国防、航空航天和晶片制造。
 路透社报道，白宫在17日发布的峰会概况说明书中写道：“中国将回应美国对稀土和其他关键矿产——包括钇、钪、钕（neodymium）、铟（indium）——供应链短缺的担忧。”
 中国商务部于16日发布的中美经贸磋商初步成果答记者问并没有提及稀土。
-白宫峰会概况说明书指北京还将回应美国对中国稀土加工设备和技术出口限制的关切。
-中国掌控了全球90%以上的稀土精炼，并在过去数十年一直主导着稀土行业。中国的稀土专业技术和专有工艺受到《出口管制法》的严格保护，通常不不对外国公司开放。]]></summary>
+白宫峰会概况说明书指，北京还将回应美国对中国稀土加工设备和技术出口限制的关切。
+中国掌控全球90%以上的稀土精炼，并在过去数十年一直主导着稀土行业。中国的稀土专业技术和专有工艺受到《出口管制法》的严格保护，通常不对外国公司开放。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -241,11 +427,11 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在刚果美国公民或有高风险接触 美疾控中心升级应对措施]]></title>
+        <title type="html"><![CDATA[在刚果美国公民或有高风险接触 美疾控中心升级伊波拉疫情应对措施]]></title>
         <id>https://www.zaobao.com/news/world/story20260518-9064559</id>
         <link href="https://www.zaobao.com/news/world/story20260518-9064559"/>
         <updated>2026-05-18T02:43:02.000Z</updated>
-        <summary type="html"><![CDATA[世界卫生组织宣布非洲国家刚果（金）和乌干达的伊波拉疫情构成国际关注的突发公共卫生事件后，美国疾病控制与预防中心升级应对措施。美国医疗健康新闻网站指在刚果的几名美国公民或有过高风险接触。
+        <summary type="html"><![CDATA[世界卫生组织宣布非洲国家刚果（金）和乌干达的伊波拉疫情构成国际关注的突发公共卫生事件后，美国疾病控制与预防中心升级应对措施。美国医疗健康新闻网站指在刚果的几名美国公民或有过高风险接触。 
 彭博社报道，美国疾控中心（CDC）伊波拉疫情应对事件经理皮莱（Satish Pillai）在星期天（5月17日）的记者电话会中说，美国疾控中心计划向受影响国家增派人员，并将通过驻各国办事处提供包括实验室检测、接触者追踪与监测等技术支持。
 美国疾控中心还启动了紧急响应中心。
 此次伊波拉疫情由“本迪布焦型毒株”（Bundibugyo ebolavirus）引起，目前尚无获批的疫苗或治疗方法。皮莱说，美国面临的风险仍然很低，他也说，伊波拉感染者出现症状时还是可以传播病毒。
@@ -494,99 +680,6 @@ Telegraph
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美贸易代表：中方已开始便利美国进口]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9063508</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9063508"/>
-        <updated>2026-05-17T15:13:28.000Z</updated>
-        <summary type="html"><![CDATA[美国贸易代表格里尔说，我们看到中国已开始采取措施，便利从美国进口。
-路透社星期天（5月17日）引述哥伦比亚广播公司报道，格里尔说：“我们预计与中方达成新协议后，农产品总采购量将达到数百亿元（double-digit billions）。”
-格里尔补充称：“中国人知道我们将会有一定水平的关税来控制进口。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普与李在明通话 讨论中美峰会成果]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9063483</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9063483"/>
-        <updated>2026-05-17T14:39:42.000Z</updated>
-        <summary type="html"><![CDATA[韩国总统府青瓦台发表声明称，韩国总统李在明与美国总统特朗普星期天（5月17日）通电话，讨论了中美峰会的结果。
-据路透社报道，青瓦台指出，特朗普向李在明分享了他与中国国家主席习近平会晤的成果，内容涵盖中美关系、经济和贸易协议、朝鲜半岛事务以及中东局势。
-声明提及，李在明认为特朗普和习近平就朝鲜半岛事务进行了建设性会谈。
-特朗普则向李在明承诺，他将通过与韩国的密切合作，为朝鲜半岛的和平与稳定做出贡献。
-声明也指出，李在明向特朗普表示，稳定管理美中关系将有助于本地区和世界的和平与繁荣。同时，他还向特朗普表达了希望中东地区立即恢复和平与稳定的愿望。
-此外，两位领导人还讨论了去年签署的双边贸易协议的顺利实施情况。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关税与伊朗战争推高物价 特朗普流失拉美裔支持]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9063411</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9063411"/>
-        <updated>2026-05-17T14:20:10.000Z</updated>
-        <summary type="html"><![CDATA[美国中期选举临近，生活费与通胀压力正成为拉美裔选民最关切的议题之一。
-美国有线电视新闻网（CNN）公布的最新民调显示，七成受访者不满总统特朗普处理经济的表现，超过七成不认可他应对通胀和油价的方式；另有77%受访者认为，总统政策导致物价上涨。
-在纽约一家拉美裔超市外，60岁的多米尼加裔家庭健康助理鲁斯坦德（Esmeralda Roustand）拎着两瓶橙汁和一份青香蕉鸡肉午餐说，这些东西已花去近20美元（约25.6新元）。她说，如今食品、房租和交通成本持续上涨，自己既要维持在美国的生活，也要定期寄钱给多米尼加的家人，压力越来越大。
-鲁斯坦德的处境并非个例。虽然美国部分经济指标仍显示韧性，但许多拉美裔家庭感受到的压力，体现在越来越轻的购物袋、不断上涨的房租，以及被迫取消的外出和家庭活动上。
-美国进步中心高级研究员、前白宫经济顾问内格隆（Michael Negrón）指出，通胀对拉美裔社区影响更大，因为这类家庭收入中较高比例用于食品、能源和交通等基本开销。
-美劳工统计局数据显示，西班牙裔家庭近15%的预算用于食品，约8%用于能源，均高于全国平均水平。
-在曼哈顿上城一家肉铺和杂货店工作七年的罗萨里奥（José Rosario）说，顾客消费习惯已明显改变。过去100美元可装满一辆购物车，如今只够买两小袋东西；一年前每磅99美分的木瓜，现在涨至1.99美元，有顾客甚至要求切开零售，以便少买一点。
-内格隆认为，经济不满可能成为中期选举的重要变量。许多拉美裔选民曾支持特朗普，是希望他能降低生活费；但关税、大规模驱逐和伊朗战争等政策，被认为反而加剧了家庭对物价上涨的担忧。
-对鲁斯坦德这样的普通消费者来说，政治争论远不如每周购物时的压力来得直接。她说：“我觉得经济每天都在变糟，但你还是得继续买东西，因为人总要吃饭。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美媒：特朗普政府视古巴无人机部署为重大威胁]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9063188</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9063188"/>
-        <updated>2026-05-17T13:07:12.000Z</updated>
-        <summary type="html"><![CDATA[美国新闻网站Axios引述机密情报报道称，古巴已获得300多架军用无人机，并最近开始讨论利用这些无人机袭击美国关塔那摩湾基地、美国军舰以及可能位于哈瓦那以北90英里处的佛罗里达州基韦斯特的计划。
-一位美国高级官员星期天（5月17日）透露，有情报显示，特朗普政府将古巴视为一大威胁，这不仅是由于无人机战的发展，也因为伊朗军事顾问在哈瓦那的存在。这份情报甚至可能成为美国采取军事行动的借口。
-路透社未能立即核实这一报道。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国前卫长确认竞选工党党魁]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9063170</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9063170"/>
-        <updated>2026-05-17T13:02:58.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦综合电）日前辞职的英国卫生部长斯特里廷宣布，如果工党举行党首选举，他将参选。他是首位公开确认将竞选工党党魁的议员。
-斯特里廷（Wes Streeting）周六（5月16日）在一个亲工党政治组织主办的会议上说：“我们（工党）需要一场真正的竞选，让最优秀的候选人都参与其中，而我会参选。”
-他称，工党近期在地方选举的惨败是前所未有的，进步派人士越来越不相信工党能够迎接挑战，他重申工党需要的是思想的较量，而不是个人的较量。
-他还说，英国脱离欧盟是一个“灾难性的错误”，脱欧导致英国目前的财富、权势和掌控力比工业革命前的任何时期都逊色。他称，英国的未来属于欧洲，有朝一日应重新加入欧盟。
-工党在地方选举惨败后，斯塔默陷入执政危机。据英国广播公司（BBC）统计，目前已有超90名工党议员呼吁斯塔默辞职，但也有超过150名议员对他表示支持或认为目前不是举行党魁选举的适当时机。
-工党规定，在任议员必须获得至少20%的工党议员支持，才能启动挑战党魁的程序。
-斯特里廷表示不会立即发起党魁挑战，因为在大曼彻斯特市长伯纳姆（Andy Burnham）重返国会之前举行党魁选举，“不符合工党利益，也不符合国家利益”。他说，如果仓促举行党魁选举，新领导人可能缺乏足够合法性，从而延长不稳定和不确定性。
-斯特里廷再次呼吁斯塔默制定“适当的领导层交接时间表”，并允许内阁部长自由提名新的工党党魁和首相人选。
-伯纳姆告诉BBC，他正在寻求参加梅克菲尔德（Makerfield）选区的补选，以“拯救”工党。
-他表示，这次选举必须成为重振工党、使工党脱离困境的契机。外界普遍预期，如果伯纳姆在补选中获胜重返国会，他将试图挑战首相斯塔默的工党领袖职位。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对伊战争重创商业命脉 以色列首季经济萎缩3.3%超预期]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062879</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062879"/>
-        <updated>2026-05-17T12:35:41.000Z</updated>
-        <summary type="html"><![CDATA[受美以伊冲突升级影响，以色列经济第一季度出现明显收缩。
-彭博社报道，以色列中央统计局星期天（5月17日）公布的数据显示，经季节性调整后，第一季度国内生产总值（GDP）按年率计算萎缩3.3%，跌幅高于市场预期。
-这是自今年2月底美国与以色列对伊朗发动空袭后，首批反映冲突对经济影响的官方数据。
-在持续六周的冲突期间，以色列实施集会限制措施，学校停课一个月，并动员超过10万名预备役人员，导致商业与经济活动受扰。
-统计局数据显示，第一季度私人消费和公共消费分别下降4.7%和4.8%，商业部门GDP下降3.1%，人均GDP则减少4.5%。
-不过，本轮经济收缩程度仍低于2025年6月以伊12天冲突后的水平。当时，以色列许多企业一度全面停运，GDP在当季萎缩4.3%。
-目前，以色列央行和财政部均预计，今年经济增长率为3.8%，低于此前分别预测的5.2%和4.8%。两家机构指出，若要实现相关目标，经济必须在今年余下时间加快复苏，而这在很大程度上取决于伊朗、黎巴嫩与加沙停火协议能否维持。
-自2023年10月哈马斯袭击以色列并引发加沙战争以来，以色列长期处于接近持续冲突状态，截至2025年的两年间，相关冲突造成的经济损失已相当于年度GDP的8.6%。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《大理一年》：逃离北京的人，为什么最后都去了大理？ | 原文]]></title>
         <id>https://t.me/wxbyg/7360</id>
         <link href="https://t.me/wxbyg/7360"/>
@@ -597,90 +690,6 @@ Telegraph
 2009年，一首《去大理》火遍中国。 “是不是对生活不太满意，很久没有笑过又不知为何。” 那时候很多人把它当民谣。 后来才发现，它更像一份时代诊断书。 十几年后，“去大理”已经不只是去一个地方。 它变成一种动作： 离开。 离开格子间，离开通勤路，离开KPI，离开房贷，离开别人给你设计好的人生轨道。 《大理一年》写的，就是这种离开的故事。 但它真正厉害的地方在于：它没有把逃离写成童话。 因为很多人以为，大理是一种答案。 而作者告诉你，它只是一个问题的开始。 01 北京七年：狂飙时代后的城市病 这本书并不是中国人写的。…]]></summary>
         <author>
             <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美福特号航母返回母港 创越战后最长部署纪录]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062728</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062728"/>
-        <updated>2026-05-17T11:56:02.000Z</updated>
-        <summary type="html"><![CDATA[美国福特号航空母舰周六（5月16日）连同两艘护航驱逐舰，返回位于美国弗吉尼亚州的母港诺福克海军基地，数千名美军在海上执行任务近一年后，终于与家人团聚。美国战争部长赫格塞斯也亲自到场，欢迎军人们回国。
-福特号去年6月从母港前往地中海，10月被调至加勒比海，参与了抓捕时任委内瑞拉总统马杜罗的行动；美以伊冲突爆发后，这艘航母又部署到中东。美国军方说，福特号连续执行任务326天，创下了自越南战争后美国航母连续海上部署的最长时间纪录。
-航空母舰的设计部署时间最长为七个月。此次“超时”部署期间，福特号的洗衣房曾发生火灾，所幸没有造成水兵重伤或死亡。福特号也一度因厕所系统不断故障，不得不靠港维修。
-随着福特号回国，目前美国在中东还有林肯号与布什号两艘航母。（法新社）]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拟为衔接欧亚海底电缆征费 伊朗对霍尔木兹海峡的钳制从海上伸入海底]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062444</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062444"/>
-        <updated>2026-05-17T11:53:41.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿/伦敦综合讯）美国媒体报道，伊朗成功封锁霍尔木兹海峡海上航行后，如今再把目光转向海底铺设的电缆，准备向使用这些电缆的全球大型科技公司征收费用；拒绝付款则可能面对电缆被破坏的风险。
-美国有线电视新闻网（CNN）星期天（5月17日）报道，霍尔木兹海峡海底电缆是全球经济的一条隐秘动脉，承载着欧洲、亚洲和波斯湾之间庞大的互联网和金融流量。
-伊朗军方发言人上周曾在社交媒体上透露，将对互联网电缆征收费用。据当地媒体报道，这项收费计划要求谷歌、微软、Meta、亚马逊等科技公司遵守伊朗法律，同时规定海底电缆公司必须支付电缆通行许可费，并把维修和维护权授予伊朗企业。
-目前尚不清楚伊朗会如何迫使这些企业遵守付费规定。由于美国对伊朗实施了严格制裁，政府禁止科技企业向伊朗付款，企业也将伊朗的表态视为虚张声势。
-不过，伊朗媒体隐晦地威胁，企业如果拒绝付费，霍尔木兹海峡海底电缆可能受破坏。
-海底电缆是全球互通骨干 遭破坏恐引发跨洲数码灾难
-
-霍尔木兹海峡局势的这一最新发展，突显了这条关键水道除了能源出口之外还可在其他方面发挥关键作用，而伊朗正寻求把这种地理优势转化为长期的经济和战略筹码。
-彭博经济研究中东地区的负责人埃斯凡迪亚里认为，伊朗发出这些威胁主要出于战略考量，“目标是让全球经济付出沉重代价，使任何人都不敢再攻击伊朗”。
-海底电缆是全球互联互通的骨干，若受到攻击，受影响的远不止网速，还包括银行系统、军事通信、人工智能（AI）云基础设施、远程办公、在线游戏和流媒体服务等方方面面。
-研究员指出，考虑到伊朗相关的长期安全风险，大部分穿越霍尔木兹海峡的电缆集中在阿曼一侧，但还是有两条电缆途经伊朗领海。
-阿联酋哈布图尔研究中心高级研究员艾哈迈德说，任何针对霍尔木兹海峡海底电缆的袭击，都可能引发一场席卷多个大洲的数码灾难。伊朗波斯湾邻国的互联网连接可能会因此受到严重干扰，进而冲击关键的油气出口和银行业。
-在中东以外地区，印度恐因网络连接受阻导致庞大的外包产业面临数十亿美元损失。霍尔木兹海峡也是新加坡等亚洲数据中心，与欧洲一些海底光缆登陆站的重要数码通道，任何干扰都将拖慢欧亚之间的金融交易与跨境交易。此外，东非部分地区也可能面临断网。
-
-波斯湾各国紧急探讨建设新油管
-
-另一方面，波斯湾国家巴林、科威特、伊拉克、阿曼、卡塔尔、阿联酋与沙特阿拉伯正重新评估安全安排，包括紧急探讨建设新输油管道的可行性，以减少对霍尔木兹海峡的依赖。
-但《海峡时报》全球事务通讯员伊亚尔认为，建设新管道最多只能降低而无法彻底摆脱对海峡的依赖。
-伊亚尔在分析文章中指出，开辟新出口路线的成本非常高昂，且不太可能完全取代霍尔木兹海峡。更重要的是，除非与防空力量相结合，否则任何新管道仍可能受到伊朗空袭。
-文章说，霍尔木兹海峡作为战略资产的价值，无疑将在长期内逐渐降低，阿拉伯国家终将找到其他出口路线。但至少在接下来几年内，伊朗仍能借着挟持海峡向周边国家施加强大压力。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊互提“五条件” 停火与核谈判持续拉锯]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062753</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062753"/>
-        <updated>2026-05-17T11:43:22.000Z</updated>
-        <summary type="html"><![CDATA[美国与伊朗围绕停火与核问题的闭门博弈持续胶着。
-新华社引述伊朗法尔斯通讯社星期天（5月17日）报道，美国在回应伊朗方案时提出了五项条件，包括不向伊朗支付战争赔偿、要求将400公斤浓缩铀交给美国、仅允许伊朗保留一处核设施继续运行、拒绝解冻伊朗资产、所有战线停战都须以开展谈判为前提。
-报道称，即便美方提出的条件得到满足，美国和以色列方面的相关军事威胁仍可能继续存在。
-报道引述分析人士的观点称，美方方案并非着眼于从根本上解决争端，而是试图通过谈判实现其在军事行动中未能达成的目标。
-报道还称，伊朗方面也提出五项“建立互信”的前提条件，包括全面停止冲突（尤其是在黎巴嫩方向）、解除对伊朗制裁、解冻伊朗资产、赔偿战争损失，以及承认伊朗在霍尔木兹海峡相关事务中的主权。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋核电站遭无人机袭击起火]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062766</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062766"/>
-        <updated>2026-05-17T10:50:43.000Z</updated>
-        <summary type="html"><![CDATA[阿联酋首都阿布扎比称，无人机袭击导致巴拉卡核电站失火。
-阿布扎比媒体办公室星期天（5月17日）称，遇袭起火的是巴拉卡核电站外围一处发电机，目前火势已受控。
-据报道，事件未造成人员伤亡，辐射安全水平也未受影响。
-阿联酋联邦核监管局则证实，核电站关键系统运作正常。目前，应急柴油发电机正在为核电站3号机组供电，核电站辐射水平保持正常。
-同日晚些时候，国际原子能机构总干事格罗西对巴拉卡核电站遭无人机袭击表示严重关切。他说，任何威胁核安全的军事活动都是不可接受的。
-巴拉卡核电站是阿联酋首座核电站，2020年8月投入运营。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[称损失或超乎想象 韩政府拟采取所有可行手段应对三星罢工]]></title>
-        <id>https://www.zaobao.com/news/world/story20260517-9062653</id>
-        <link href="https://www.zaobao.com/news/world/story20260517-9062653"/>
-        <updated>2026-05-17T10:23:11.000Z</updated>
-        <summary type="html"><![CDATA[韩国国务总理金民锡星期天（5月17日）就三星电子工会的罢工计划发表谈话，强调若罢工对国民经济造成巨大损失，政府将采取一切可行手段，包括行使紧急调整权以保护国民经济。
-韩联社报道，三星电子劳资双方将于星期一（18日）上午10时（新加坡时间星期一早上9时）启动第二轮事后调解。鉴于劳方已宣布将于21日启动为期18天的总罢工，此次调解能否达成协议、化解矛盾、避免罢工，引发各界关注。
-金民锡由衷欢迎劳资双方重启谈判。
-金民锡强调，这是阻止罢工的最后机会，双方绝不能轻视肩负的重责。他指出，一旦罢工成为现实，损失将不仅限于个别企业，更将给出口、金融市场、众多合作企业的经营和雇佣，以及国内投资等整个经济造成严重负面影响，可能带来的经济损失将超乎想象。为此，他呼吁劳资双方积极寻求可避免罢工的方案。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
