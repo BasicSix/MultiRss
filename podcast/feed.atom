@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T15:40:01.075Z</updated>
+    <updated>2026-05-18T19:48:03.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1519,19 +1519,6 @@ Apple Store 下载👉🏻 apps.apple.com
         <link href="http://go.ted.com/randalllane"/>
         <updated>2026-04-20T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[As chief content officer of Forbes, Randall Lane oversees the magazine's signature list of billionaires, tracking the richest people on Earth. But he has noticed that this prompts the ultra-wealthy to stockpile their money instead of spending it on the public good. He debuts a new ranking — True Net Worth — that applauds billionaires for their philanthropy and rewards generosity. Guess who's in the top five?
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Pick: How a special seaweed is lowering methane emissions—one cow burp at a time | from Speed & Scale]]></title>
-        <id>69dc678daf4db69e0dd60d36</id>
-        <link href="https://audiocollective.ted.com/"/>
-        <updated>2026-04-19T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that cows emit methane when they burp? Livestock account for over 12% of the world’s greenhouse gas emissions, but farmers and scientists have discovered a superfood that might be the key to lower emissions—and raise healthier cows. In this episode, Ryan and Anjali investigate the mystery of Asparagopsis, a seaweed variety that removes methane from the guts of the animals who eat it. The catch? There are only nine licensed growers in the world. Ryan and Anjali are joined by three experts to talk about the science behind this amazing plant, the benefits we’re already seeing from the animals who eat it, and the next steps for scaling up its use by farmers around the world. 
 
 
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>

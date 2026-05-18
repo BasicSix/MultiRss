@@ -867,24 +867,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "69dc678daf4db69e0dd60d36",
-          "author": null,
-          "description": "Did you know that cows emit methane when they burp? Livestock account for over 12% of the world’s greenhouse gas emissions, but farmers and scientists have discovered a superfood that might be the key to lower emissions—and raise healthier cows. In this episode, Ryan and Anjali investigate the mystery of Asparagopsis, a seaweed variety that removes methane from the guts of the animals who eat it. The catch? There are only nine licensed growers in the world. Ryan and Anjali are joined by three experts to talk about the science behind this amazing plant, the benefits we’re already seeing from the animals who eat it, and the next steps for scaling up its use by farmers around the world. \n\n\n Hosted on Acast. See acast.com/privacy for more information.",
-          "link": "https://audiocollective.ted.com/",
-          "publishedOn": "2026-04-19T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Sunday Pick: How a special seaweed is lowering methane emissions—one cow burp at a time | from Speed & Scale",
-          "itunes": {
-            "duration": "27:22"
-          },
-          "enclosure": {
-            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69dc678daf4db69e0dd60d36/media.mp3",
-            "length": "26371824",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
