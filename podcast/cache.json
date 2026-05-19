@@ -347,6 +347,24 @@
       "siteUrl": "https://www.ted.com",
       "articles": [
         {
+          "id": "6a0c78eea173e3b4db24a105",
+          "author": null,
+          "description": "We are wired for connection, and yet many of us spend most of our lives avoiding it, says behavioral scientist Nicholas Epley. Drawing on decades of research into happiness, loneliness and well-being, he reveals why we consistently underestimate how receptive others are to connecting — and invites us to seize the small moments that lead to a more social life.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",
+          "link": "http://go.ted.com/nicholasepley",
+          "publishedOn": "2026-05-19T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The simple habit for a happier social life | Nicholas Epley",
+          "itunes": {
+            "duration": "16:18"
+          },
+          "enclosure": {
+            "url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a0c78eea173e3b4db24a105/media.mp3",
+            "length": "15753071",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6a0b2902fd0523152a189e65",
           "author": null,
           "description": "Welcome to Club Reality, where no matter what life throws at you, the music never stops. In this talk and performance, musician ELEW shares his path from jazz pianist to DJ — and the unexpected philosophy he finds in both.\n\n\n Hosted on Acast. See acast.com/privacy for more information.",

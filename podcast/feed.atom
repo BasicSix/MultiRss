@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T09:52:38.001Z</updated>
+    <updated>2026-05-19T15:32:15.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The simple habit for a happier social life | Nicholas Epley]]></title>
+        <id>6a0c78eea173e3b4db24a105</id>
+        <link href="http://go.ted.com/nicholasepley"/>
+        <updated>2026-05-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are wired for connection, and yet many of us spend most of our lives avoiding it, says behavioral scientist Nicholas Epley. Drawing on decades of research into happiness, loneliness and well-being, he reveals why we consistently underestimate how receptive others are to connecting — and invites us to seize the small moments that lead to a more social life.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life lessons from the DJ booth | ELEW]]></title>
         <id>6a0b2902fd0523152a189e65</id>
