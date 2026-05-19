@@ -2,198 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T15:33:01.095Z</updated>
+    <updated>2026-05-19T19:56:20.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[TM008]]></title>
-        <id>1x-3586860</id>
-        <link href="https://1x.com/photo/3586860"/>
-        <updated>2026-05-19T15:32:16.755Z</updated>
-        <summary type="html"><![CDATA[TM008 by Wisam Hassan]]></summary>
+        <title type="html"><![CDATA[Beach taxi]]></title>
+        <id>1x-3582538</id>
+        <link href="https://1x.com/photo/3582538"/>
+        <updated>2026-05-19T19:55:34.430Z</updated>
+        <summary type="html"><![CDATA[Beach taxi by Ugur Erkmen]]></summary>
         <author>
-            <name>Wisam Hassan</name>
+            <name>Ugur Erkmen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lion KING]]></title>
-        <id>1x-3587913</id>
-        <link href="https://1x.com/photo/3587913"/>
-        <updated>2026-05-19T15:32:16.752Z</updated>
-        <summary type="html"><![CDATA[Lion KING by wooorry]]></summary>
+        <title type="html"><![CDATA[Rats, beware!]]></title>
+        <id>1x-3588292</id>
+        <link href="https://1x.com/photo/3588292"/>
+        <updated>2026-05-19T19:55:34.426Z</updated>
+        <summary type="html"><![CDATA[Rats, beware! by Marius Cinteza]]></summary>
         <author>
-            <name>wooorry</name>
+            <name>Marius Cinteza</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Constanza]]></title>
-        <id>1x-3587852</id>
-        <link href="https://1x.com/photo/3587852"/>
-        <updated>2026-05-19T15:32:16.747Z</updated>
-        <summary type="html"><![CDATA[Constanza by Ana Iglesias]]></summary>
+        <title type="html"><![CDATA[Martin pescatore testa grigia]]></title>
+        <id>1x-3586537</id>
+        <link href="https://1x.com/photo/3586537"/>
+        <updated>2026-05-19T19:55:34.423Z</updated>
+        <summary type="html"><![CDATA[Martin pescatore testa grigia by Paolorossi]]></summary>
         <author>
-            <name>Ana Iglesias</name>
+            <name>Paolorossi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boxed]]></title>
-        <id>1x-3587705</id>
-        <link href="https://1x.com/photo/3587705"/>
-        <updated>2026-05-19T15:32:16.714Z</updated>
-        <summary type="html"><![CDATA[Boxed by Lauren Baines]]></summary>
+        <title type="html"><![CDATA[iSteller]]></title>
+        <id>1x-3588111</id>
+        <link href="https://1x.com/photo/3588111"/>
+        <updated>2026-05-19T19:55:34.420Z</updated>
+        <summary type="html"><![CDATA[iSteller by verdon]]></summary>
         <author>
-            <name>Lauren Baines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Depot, Museum Boijmans Van Beuningen]]></title>
-        <id>1x-3587442</id>
-        <link href="https://1x.com/photo/3587442"/>
-        <updated>2026-05-19T15:32:16.712Z</updated>
-        <summary type="html"><![CDATA[Depot, Museum Boijmans Van Beuningen by Milena Seita]]></summary>
-        <author>
-            <name>Milena Seita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edible Geometry]]></title>
-        <id>1x-3588196</id>
-        <link href="https://1x.com/photo/3588196"/>
-        <updated>2026-05-19T15:32:16.709Z</updated>
-        <summary type="html"><![CDATA[Edible Geometry by Isabela Avram]]></summary>
-        <author>
-            <name>Isabela Avram</name>
+            <name>verdon</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3584590</id>
-        <link href="https://1x.com/photo/3584590"/>
-        <updated>2026-05-19T15:32:16.706Z</updated>
-        <summary type="html"><![CDATA[Untitled by Joxe Inazio Kuesta Garmendia]]></summary>
+        <id>1x-3578444</id>
+        <link href="https://1x.com/photo/3578444"/>
+        <updated>2026-05-19T19:55:34.416Z</updated>
+        <summary type="html"><![CDATA[Untitled by Hazem Swidan]]></summary>
         <author>
-            <name>Joxe Inazio Kuesta Garmendia</name>
+            <name>Hazem Swidan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wonderingly]]></title>
-        <id>1x-3557620</id>
-        <link href="https://1x.com/photo/3557620"/>
-        <updated>2026-05-19T15:32:16.704Z</updated>
-        <summary type="html"><![CDATA[Wonderingly by Els Keurlinckx]]></summary>
+        <title type="html"><![CDATA[Beauty In Shroud]]></title>
+        <id>1x-3583195</id>
+        <link href="https://1x.com/photo/3583195"/>
+        <updated>2026-05-19T19:55:34.412Z</updated>
+        <summary type="html"><![CDATA[Beauty In Shroud by Ben.C.L]]></summary>
         <author>
-            <name>Els Keurlinckx</name>
+            <name>Ben.C.L</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smoking Mountains]]></title>
-        <id>1x-3586295</id>
-        <link href="https://1x.com/photo/3586295"/>
-        <updated>2026-05-19T15:32:16.700Z</updated>
-        <summary type="html"><![CDATA[Smoking Mountains by Catherine Lu]]></summary>
+        <title type="html"><![CDATA[Monolith]]></title>
+        <id>1x-3588397</id>
+        <link href="https://1x.com/photo/3588397"/>
+        <updated>2026-05-19T19:55:34.409Z</updated>
+        <summary type="html"><![CDATA[Monolith by Frank Bruynseraede]]></summary>
         <author>
-            <name>Catherine Lu</name>
+            <name>Frank Bruynseraede</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Theory of Floating]]></title>
-        <id>1x-3588782</id>
-        <link href="https://1x.com/photo/3588782"/>
-        <updated>2026-05-19T15:32:16.697Z</updated>
-        <summary type="html"><![CDATA[The Theory of Floating by Ash Camas]]></summary>
+        <title type="html"><![CDATA[Dalang 2]]></title>
+        <id>1x-3586939</id>
+        <link href="https://1x.com/photo/3586939"/>
+        <updated>2026-05-19T19:55:34.406Z</updated>
+        <summary type="html"><![CDATA[Dalang 2 by Angela Muliani Hartojo]]></summary>
         <author>
-            <name>Ash Camas</name>
+            <name>Angela Muliani Hartojo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Burning Through Water]]></title>
-        <id>1x-3587490</id>
-        <link href="https://1x.com/photo/3587490"/>
-        <updated>2026-05-19T15:32:16.693Z</updated>
-        <summary type="html"><![CDATA[Burning Through Water by Lydia Jacobs]]></summary>
+        <title type="html"><![CDATA[the sambar and the magpie]]></title>
+        <id>1x-3587083</id>
+        <link href="https://1x.com/photo/3587083"/>
+        <updated>2026-05-19T19:55:34.394Z</updated>
+        <summary type="html"><![CDATA[the sambar and the magpie by Walter Bertolotti]]></summary>
         <author>
-            <name>Lydia Jacobs</name>
+            <name>Walter Bertolotti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Black swan]]></title>
-        <id>1x-3586804</id>
-        <link href="https://1x.com/photo/3586804"/>
-        <updated>2026-05-19T15:32:16.682Z</updated>
-        <summary type="html"><![CDATA[Black swan by Gosia Przemek Sajnog]]></summary>
+        <title type="html"><![CDATA[On the Mark]]></title>
+        <id>1x-3588358</id>
+        <link href="https://1x.com/photo/3588358"/>
+        <updated>2026-05-19T19:55:34.389Z</updated>
+        <summary type="html"><![CDATA[On the Mark by Jaeseok Lim]]></summary>
         <author>
-            <name>Gosia Przemek Sajnog</name>
+            <name>Jaeseok Lim</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Abandoned Rationalist]]></title>
-        <id>1x-3582264</id>
-        <link href="https://1x.com/photo/3582264"/>
-        <updated>2026-05-19T15:32:16.679Z</updated>
-        <summary type="html"><![CDATA[The Abandoned Rationalist by Roberto Corinaldesi]]></summary>
+        <title type="html"><![CDATA[little monkey]]></title>
+        <id>1x-3588451</id>
+        <link href="https://1x.com/photo/3588451"/>
+        <updated>2026-05-19T19:55:34.385Z</updated>
+        <summary type="html"><![CDATA[little monkey by Jan Donckers]]></summary>
         <author>
-            <name>Roberto Corinaldesi</name>
+            <name>Jan Donckers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sing it out loud]]></title>
-        <id>1x-3515367</id>
-        <link href="https://1x.com/photo/3515367"/>
-        <updated>2026-05-19T15:32:16.676Z</updated>
-        <summary type="html"><![CDATA[Sing it out loud by David W Sussman]]></summary>
+        <title type="html"><![CDATA[2025_11]]></title>
+        <id>1x-3586354</id>
+        <link href="https://1x.com/photo/3586354"/>
+        <updated>2026-05-19T19:55:34.380Z</updated>
+        <summary type="html"><![CDATA[2025_11 by Rainer Neumann]]></summary>
         <author>
-            <name>David W Sussman</name>
+            <name>Rainer Neumann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracing the Veil]]></title>
-        <id>1x-3588154</id>
-        <link href="https://1x.com/photo/3588154"/>
-        <updated>2026-05-19T15:32:16.673Z</updated>
-        <summary type="html"><![CDATA[Tracing the Veil by Arata Tanaka]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>1x-3588226</id>
+        <link href="https://1x.com/photo/3588226"/>
+        <updated>2026-05-19T19:55:34.259Z</updated>
+        <summary type="html"><![CDATA[Untitled by KIMIO KOBAYASHI]]></summary>
         <author>
-            <name>Arata Tanaka</name>
+            <name>KIMIO KOBAYASHI</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[君はどうする？]]></title>
-        <id>1x-3586565</id>
-        <link href="https://1x.com/photo/3586565"/>
-        <updated>2026-05-19T15:32:16.670Z</updated>
-        <summary type="html"><![CDATA[君はどうする？ by 谷本　洋]]></summary>
+        <title type="html"><![CDATA[The piano room]]></title>
+        <id>1x-3588215</id>
+        <link href="https://1x.com/photo/3588215"/>
+        <updated>2026-05-19T19:55:34.241Z</updated>
+        <summary type="html"><![CDATA[The piano room by Jose C. Lobato]]></summary>
         <author>
-            <name>谷本 洋</name>
+            <name>Jose C. Lobato</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Congo & Nico]]></title>
-        <id>1x-3518941</id>
-        <link href="https://1x.com/photo/3518941"/>
-        <updated>2026-05-19T15:32:16.666Z</updated>
-        <summary type="html"><![CDATA[Congo & Nico by Rut Casanellas]]></summary>
+        <title type="html"><![CDATA[Linear Paradox]]></title>
+        <id>1x-3584719</id>
+        <link href="https://1x.com/photo/3584719"/>
+        <updated>2026-05-19T19:55:34.232Z</updated>
+        <summary type="html"><![CDATA[Linear Paradox by YinMun Lee]]></summary>
         <author>
-            <name>Rut Casanellas</name>
+            <name>YinMun Lee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Emperor (series) -The surrender]]></title>
-        <id>1x-3589161</id>
-        <link href="https://1x.com/photo/3589161"/>
-        <updated>2026-05-19T15:32:16.663Z</updated>
-        <summary type="html"><![CDATA[The Last Emperor (series) -The surrender by Roberto Corinaldesi]]></summary>
+        <title type="html"><![CDATA[Whisper Before Flight]]></title>
+        <id>1x-3585804</id>
+        <link href="https://1x.com/photo/3585804"/>
+        <updated>2026-05-19T19:55:34.054Z</updated>
+        <summary type="html"><![CDATA[Whisper Before Flight by Hiro Tanaka]]></summary>
         <author>
-            <name>Roberto Corinaldesi</name>
+            <name>Hiro Tanaka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Territorial Awareness]]></title>
-        <id>1x-3584753</id>
-        <link href="https://1x.com/photo/3584753"/>
-        <updated>2026-05-19T15:32:16.500Z</updated>
-        <summary type="html"><![CDATA[Territorial Awareness by Fauzan Maududdin]]></summary>
+        <title type="html"><![CDATA[Quiet Grace]]></title>
+        <id>1x-3588035</id>
+        <link href="https://1x.com/photo/3588035"/>
+        <updated>2026-05-19T19:55:34.039Z</updated>
+        <summary type="html"><![CDATA[Quiet Grace by Frank Ma]]></summary>
         <author>
-            <name>Fauzan Maududdin</name>
+            <name>Frank Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden har girl]]></title>
+        <id>1x-3584770</id>
+        <link href="https://1x.com/photo/3584770"/>
+        <updated>2026-05-19T19:55:34.030Z</updated>
+        <summary type="html"><![CDATA[Golden har girl by Abin Kumar Mukhopadhyay]]></summary>
+        <author>
+            <name>Abin Kumar Mukhopadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ceci ne sont pas des pipes]]></title>
+        <id>1x-3588180</id>
+        <link href="https://1x.com/photo/3588180"/>
+        <updated>2026-05-19T19:55:34.008Z</updated>
+        <summary type="html"><![CDATA[Ceci ne sont pas des pipes by Eden Antho]]></summary>
+        <author>
+            <name>Eden Antho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美环保组织：市面防晒霜仅两成既安全又有效]]></title>
+        <id>https://www.zaobao.com/news/world/story20260519-9073456</id>
+        <link href="https://www.zaobao.com/news/world/story20260519-9073456"/>
+        <updated>2026-05-19T15:48:08.000Z</updated>
+        <summary type="html"><![CDATA[随着夏季来临，不少消费者开始添购防晒用品，但美国非营利机构最新发布的年度指南显示，市面上只有约20%的防晒产品达到“安全且有效”的推荐标准。
+美国有线电视新闻网（CNN）报道，美国的环境工作组（Environmental Working Group，简称EWG）星期二（5月19日）发布《2026年防晒霜指南》，分析2784款防晒产品后发现，仅550款、约20%的产品同时符合其对安全性和防晒效果的评估标准。
+根据EWG的标准，获推荐产品必须同时提供足够的长波紫外线（UVA）和短波紫外线（UVB）防护。两类紫外线均会损伤皮肤，其中UVA与皮肤老化及DNA损伤有关，UVB则是造成晒伤的主要原因。考虑到吸入风险，喷雾式和粉末式防晒产品不纳入推荐名单。
+报告提醒消费者，无须盲目追求高SPF值产品。部分产品标榜SPF 100+，声称可阻挡99%的UVB射线，但EWG指出，价格较低的SPF 50+产品已可阻挡约98%的UVB射线，两者实际差异有限。
+EWG研究还发现，部分产品实际提供的UVA和UVB防护效果可能低于标签标示水平。
+在550款获推荐产品中，有497款属于矿物防晒产品，主要成分为氧化锌和二氧化钛。EWG指出，这类成分停留在皮肤表面反射和阻挡紫外线，不易被人体吸收，因此刺激性较低。近年来新配方和润色产品的推出，也大幅改善过去容易泛白的问题。
+相比之下，化学防晒产品通过吸收紫外线并转化为热能发挥作用。
+美国食品与药物管理局（FDA）2019年的研究发现，部分常见化学防晒成分在使用一天后即可进入人体血液，并在停用后持续存在数天。其中，水杨酸同酯（Homosalate）和氧苯酮（Oxybenzone）的浓度在两周后仍高于FDA要求进一步评估安全性的门槛。
+代表业界的美国个人护理产品委员会认为，质疑防晒产品安全性可能削弱公众使用意愿；EWG则指出，目前美国市场16种化学防晒过滤成分中，有12种仍缺乏足够安全数据。
+专家强调，防晒不应只依赖防晒霜。较完整的做法包括避免在上午10时至下午4时长时间曝晒、穿着防晒衣物、佩戴太阳眼镜和宽边帽，并正确使用防晒产品。美国皮肤病学会建议，成人每次应使用约30毫升防晒霜，并每两小时补涂一次。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -603,20 +622,6 @@ G7成员国的政府正在努力协调行动，以减少对中国关键矿物和
 这名官员补充说：“他们非常明确地希望将与波兰的关系恢复到非常好的水平。我认为，这些举动表明双方正回归到双边关系牢固的优良传统。”
 马扎尔承诺将在2035年前结束匈牙利对俄罗斯能源的依赖，能源问题也将被列入此次访问波兰的议程。
 匈牙利外长奥尔班、经济与能源部长卡皮塔尼、交通与投资部长维泰齐，以及防长鲁辛-森迪也将陪同马扎尔出访。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF警告中东冲突削弱英国经济增长前景]]></title>
-        <id>https://www.zaobao.com/news/world/story20260519-9071497</id>
-        <link href="https://www.zaobao.com/news/world/story20260519-9071497"/>
-        <updated>2026-05-19T07:01:01.000Z</updated>
-        <summary type="html"><![CDATA[国际货币基金组织（IMF）星期一（5月18日）发布的报告显示，中东局势正在削弱英国经济短期增长前景，预计今年英国经济增长率将降至1.0%。此外，能源价格上涨将暂时推高通胀率。
-新华社报道，IMF报告说，2025年，尽管面临贸易紧张局势以及全球金融环境趋紧等不利因素，英国经济仍实现1.4%的增长。但进入2026年，能源价格上涨导致消费支出减少、生产成本增加，同时金融环境趋紧且不确定性增加，预计英国经济增长率将降至1.0%。
-IMF警告，若中东地区冲突长期持续，能源和食品价格在较长时期内上涨，全球市场波动也将延续，从而打击信心、影响经济活动。如果能源价格冲击对通胀产生较大的第二轮影响，更严格的货币政策将导致信贷环境收紧、经济增长放缓。
-报告提到，与IMF4月发布的《世界经济展望报告》相比，英国2026年增长预期从0.8%上调至1.0%。这一调整是由于数据上的修正，以及英国经济第一季度表现强劲。
-英国国家统计局14日公布的数据显示，今年第一季度英国经济环比增长0.6%，去年第四季度增速被修正为环比增长0.2%。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
