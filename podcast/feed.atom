@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T19:55:34.945Z</updated>
+    <updated>2026-05-20T03:54:32.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
@@ -1524,19 +1524,6 @@ Apple Store 下载👉🏻 apps.apple.com
 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！]]></summary>
         <author>
             <name>硬地骇客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The problem with billionaires — and the debut of True Net Worth | Randall Lane]]></title>
-        <id>69e064b9de282b9272c81daa</id>
-        <link href="http://go.ted.com/randalllane"/>
-        <updated>2026-04-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As chief content officer of Forbes, Randall Lane oversees the magazine's signature list of billionaires, tracking the richest people on Earth. But he has noticed that this prompts the ultra-wealthy to stockpile their money instead of spending it on the public good. He debuts a new ranking — True Net Worth — that applauds billionaires for their philanthropy and rewards generosity. Guess who's in the top five?
-
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>
