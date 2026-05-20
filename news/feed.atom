@@ -2,210 +2,506 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T09:40:56.323Z</updated>
+    <updated>2026-05-20T15:31:21.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Bahnstadt 04]]></title>
-        <id>1x-3588286</id>
-        <link href="https://1x.com/photo/3588286"/>
-        <updated>2026-05-20T09:40:52.554Z</updated>
-        <summary type="html"><![CDATA[Bahnstadt 04 by Roland Weber]]></summary>
+        <title type="html"><![CDATA[Siblings]]></title>
+        <id>1x-3589250</id>
+        <link href="https://1x.com/photo/3589250"/>
+        <updated>2026-05-20T15:30:38.237Z</updated>
+        <summary type="html"><![CDATA[Siblings by Xiaohong Zhang]]></summary>
         <author>
-            <name>Roland Weber</name>
+            <name>Xiaohong Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nocturne in Black]]></title>
-        <id>1x-3588557</id>
-        <link href="https://1x.com/photo/3588557"/>
-        <updated>2026-05-20T09:40:52.549Z</updated>
-        <summary type="html"><![CDATA[Nocturne in Black by Edogawa Sampo]]></summary>
+        <title type="html"><![CDATA[Volcano Sunset]]></title>
+        <id>1x-3589245</id>
+        <link href="https://1x.com/photo/3589245"/>
+        <updated>2026-05-20T15:30:38.233Z</updated>
+        <summary type="html"><![CDATA[Volcano Sunset by Nancy Xu]]></summary>
         <author>
-            <name>Edogawa Sampo</name>
+            <name>Nancy Xu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Colibri cola canela / Amazilia Tzacati 7R57254]]></title>
-        <id>1x-3588553</id>
-        <link href="https://1x.com/photo/3588553"/>
-        <updated>2026-05-20T09:40:52.544Z</updated>
-        <summary type="html"><![CDATA[Colibri cola canela / Amazilia Tzacati 7R57254 by joanaduenas]]></summary>
+        <title type="html"><![CDATA[Diagonal Line]]></title>
+        <id>1x-3589186</id>
+        <link href="https://1x.com/photo/3589186"/>
+        <updated>2026-05-20T15:30:38.224Z</updated>
+        <summary type="html"><![CDATA[Diagonal Line by Masaki Yazaki]]></summary>
         <author>
-            <name>joanaduenas</name>
+            <name>Masaki Yazaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>1x-3589052</id>
-        <link href="https://1x.com/photo/3589052"/>
-        <updated>2026-05-20T09:40:52.538Z</updated>
-        <summary type="html"><![CDATA[Untitled by Wafa Mathiot Lahliti]]></summary>
+        <title type="html"><![CDATA[portrait in black and white]]></title>
+        <id>1x-3589031</id>
+        <link href="https://1x.com/photo/3589031"/>
+        <updated>2026-05-20T15:30:38.220Z</updated>
+        <summary type="html"><![CDATA[portrait in black and white by Łukasz Pietrzak]]></summary>
         <author>
-            <name>Wafa Mathiot Lahliti</name>
+            <name>Łukasz Pietrzak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Weight of Motion]]></title>
-        <id>1x-3587508</id>
-        <link href="https://1x.com/photo/3587508"/>
-        <updated>2026-05-20T09:40:52.530Z</updated>
-        <summary type="html"><![CDATA[The Weight of Motion by Weber Marius]]></summary>
+        <title type="html"><![CDATA[illuminated]]></title>
+        <id>1x-3589033</id>
+        <link href="https://1x.com/photo/3589033"/>
+        <updated>2026-05-20T15:30:38.216Z</updated>
+        <summary type="html"><![CDATA[illuminated by Andy Dauer]]></summary>
         <author>
-            <name>Weber Marius</name>
+            <name>Andy Dauer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blooming in Darkness]]></title>
-        <id>1x-3588701</id>
-        <link href="https://1x.com/photo/3588701"/>
-        <updated>2026-05-20T09:40:52.523Z</updated>
-        <summary type="html"><![CDATA[Blooming in Darkness by akky]]></summary>
+        <title type="html"><![CDATA[緊張]]></title>
+        <id>1x-3589398</id>
+        <link href="https://1x.com/photo/3589398"/>
+        <updated>2026-05-20T15:30:38.212Z</updated>
+        <summary type="html"><![CDATA[緊張 by Kurosaki Sangan / K3]]></summary>
         <author>
-            <name>akky</name>
+            <name>Kurosaki Sangan / K3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[snow, tram and pera]]></title>
-        <id>1x-3084488</id>
-        <link href="https://1x.com/photo/3084488"/>
-        <updated>2026-05-20T09:40:52.516Z</updated>
-        <summary type="html"><![CDATA[snow, tram and pera by Mehmet Uzut]]></summary>
+        <title type="html"><![CDATA[Milky Way above Patagonia]]></title>
+        <id>1x-3589249</id>
+        <link href="https://1x.com/photo/3589249"/>
+        <updated>2026-05-20T15:30:38.209Z</updated>
+        <summary type="html"><![CDATA[Milky Way above Patagonia by Kristel Dickau]]></summary>
         <author>
-            <name>Mehmet Uzut</name>
+            <name>Kristel Dickau</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How can I fly?]]></title>
-        <id>1x-3588776</id>
-        <link href="https://1x.com/photo/3588776"/>
-        <updated>2026-05-20T09:40:52.508Z</updated>
-        <summary type="html"><![CDATA[How can I fly? by chenyi wang]]></summary>
+        <title type="html"><![CDATA[TM005]]></title>
+        <id>1x-3586857</id>
+        <link href="https://1x.com/photo/3586857"/>
+        <updated>2026-05-20T15:30:38.206Z</updated>
+        <summary type="html"><![CDATA[TM005 by Wisam Hassan]]></summary>
         <author>
-            <name>chenyi wang</name>
+            <name>Wisam Hassan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Her]]></title>
-        <id>1x-3588850</id>
-        <link href="https://1x.com/photo/3588850"/>
-        <updated>2026-05-20T09:40:52.503Z</updated>
-        <summary type="html"><![CDATA[Her by Swen MUN]]></summary>
+        <title type="html"><![CDATA[Inclination]]></title>
+        <id>1x-3589267</id>
+        <link href="https://1x.com/photo/3589267"/>
+        <updated>2026-05-20T15:30:38.203Z</updated>
+        <summary type="html"><![CDATA[Inclination by Michel Groleau]]></summary>
         <author>
-            <name>Swen MUN</name>
+            <name>Michel Groleau</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laura]]></title>
-        <id>1x-3588354</id>
-        <link href="https://1x.com/photo/3588354"/>
-        <updated>2026-05-20T09:40:52.492Z</updated>
-        <summary type="html"><![CDATA[Laura by Martina Dimunová]]></summary>
+        <title type="html"><![CDATA[Within the Heritage]]></title>
+        <id>1x-3577855</id>
+        <link href="https://1x.com/photo/3577855"/>
+        <updated>2026-05-20T15:30:38.192Z</updated>
+        <summary type="html"><![CDATA[Within the Heritage by Ala Askool]]></summary>
         <author>
-            <name>Martina Dimunová</name>
+            <name>Ala Askool</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Light and shadow]]></title>
-        <id>1x-3588689</id>
-        <link href="https://1x.com/photo/3588689"/>
-        <updated>2026-05-20T09:40:52.473Z</updated>
-        <summary type="html"><![CDATA[Light and shadow by yingtao pan]]></summary>
+        <title type="html"><![CDATA[Project Double Exposure 114]]></title>
+        <id>1x-3589362</id>
+        <link href="https://1x.com/photo/3589362"/>
+        <updated>2026-05-20T15:30:38.188Z</updated>
+        <summary type="html"><![CDATA[Project Double Exposure 114 by Martin Agius]]></summary>
         <author>
-            <name>yingtao pan</name>
+            <name>Martin Agius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One day I, too, will be like them]]></title>
-        <id>1x-3588953</id>
-        <link href="https://1x.com/photo/3588953"/>
-        <updated>2026-05-20T09:40:52.462Z</updated>
-        <summary type="html"><![CDATA[One day I, too, will be like them by Barbara Nussel]]></summary>
+        <title type="html"><![CDATA[Connection in Isolation]]></title>
+        <id>1x-3589390</id>
+        <link href="https://1x.com/photo/3589390"/>
+        <updated>2026-05-20T15:30:38.184Z</updated>
+        <summary type="html"><![CDATA[Connection in Isolation by Nancy Mu]]></summary>
         <author>
-            <name>Barbara Nussel</name>
+            <name>Nancy Mu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sibling attack]]></title>
-        <id>1x-3588012</id>
-        <link href="https://1x.com/photo/3588012"/>
-        <updated>2026-05-20T09:40:52.455Z</updated>
-        <summary type="html"><![CDATA[Sibling attack by meix]]></summary>
+        <title type="html"><![CDATA[Call it today]]></title>
+        <id>1x-3589320</id>
+        <link href="https://1x.com/photo/3589320"/>
+        <updated>2026-05-20T15:30:38.179Z</updated>
+        <summary type="html"><![CDATA[Call it today by Bill X. Liu]]></summary>
         <author>
-            <name>meix</name>
+            <name>Bill X. Liu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fisk torkning]]></title>
-        <id>1x-3589061</id>
-        <link href="https://1x.com/photo/3589061"/>
-        <updated>2026-05-20T09:40:52.449Z</updated>
-        <summary type="html"><![CDATA[Fisk torkning by Clas Gustafson PRO]]></summary>
+        <title type="html"><![CDATA[Look Interesting]]></title>
+        <id>1x-3584757</id>
+        <link href="https://1x.com/photo/3584757"/>
+        <updated>2026-05-20T15:30:38.171Z</updated>
+        <summary type="html"><![CDATA[Look Interesting by Fauzan Maududdin]]></summary>
         <author>
-            <name>Clas Gustafson PRO</name>
+            <name>Fauzan Maududdin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geisha Goddess]]></title>
-        <id>1x-3573445</id>
-        <link href="https://1x.com/photo/3573445"/>
-        <updated>2026-05-20T09:40:52.438Z</updated>
-        <summary type="html"><![CDATA[Geisha Goddess by Robin Yong]]></summary>
+        <title type="html"><![CDATA[Fight in Mid-Air]]></title>
+        <id>1x-3587771</id>
+        <link href="https://1x.com/photo/3587771"/>
+        <updated>2026-05-20T15:30:38.168Z</updated>
+        <summary type="html"><![CDATA[Fight in Mid-Air by Hai Lin 雪原]]></summary>
         <author>
-            <name>Robin Yong</name>
+            <name>Hai Lin 雪原</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roseate Spoonbill]]></title>
-        <id>1x-3571341</id>
-        <link href="https://1x.com/photo/3571341"/>
-        <updated>2026-05-20T09:40:52.427Z</updated>
-        <summary type="html"><![CDATA[Roseate Spoonbill by Amy Marques]]></summary>
+        <title type="html"><![CDATA[The white blade]]></title>
+        <id>1x-3576953</id>
+        <link href="https://1x.com/photo/3576953"/>
+        <updated>2026-05-20T15:30:37.966Z</updated>
+        <summary type="html"><![CDATA[The white blade by Jie Jin]]></summary>
         <author>
-            <name>Amy Marques</name>
+            <name>Jie Jin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spy Game]]></title>
-        <id>1x-3581040</id>
-        <link href="https://1x.com/photo/3581040"/>
-        <updated>2026-05-20T09:40:52.419Z</updated>
-        <summary type="html"><![CDATA[Spy Game by Paschalis Bartzoudis]]></summary>
+        <title type="html"><![CDATA[Food Chain]]></title>
+        <id>1x-3588061</id>
+        <link href="https://1x.com/photo/3588061"/>
+        <updated>2026-05-20T15:30:37.962Z</updated>
+        <summary type="html"><![CDATA[Food Chain by Rob Li]]></summary>
         <author>
-            <name>Paschalis Bartzoudis</name>
+            <name>Rob Li</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F R E E L O V E]]></title>
-        <id>1x-3588813</id>
-        <link href="https://1x.com/photo/3588813"/>
-        <updated>2026-05-20T09:40:52.290Z</updated>
-        <summary type="html"><![CDATA[F R E E  L O V E by Ash Page]]></summary>
+        <title type="html"><![CDATA[Village Ceremony 2226]]></title>
+        <id>1x-3587824</id>
+        <link href="https://1x.com/photo/3587824"/>
+        <updated>2026-05-20T15:30:37.955Z</updated>
+        <summary type="html"><![CDATA[Village Ceremony 2226 by Jiahong Zeng]]></summary>
         <author>
-            <name>Ash Page</name>
+            <name>Jiahong Zeng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ran Himemiya]]></title>
-        <id>1x-3579024</id>
-        <link href="https://1x.com/photo/3579024"/>
-        <updated>2026-05-20T09:40:52.255Z</updated>
-        <summary type="html"><![CDATA[Ran Himemiya by KOIKI]]></summary>
+        <title type="html"><![CDATA[Between Storm and Light]]></title>
+        <id>1x-3589283</id>
+        <link href="https://1x.com/photo/3589283"/>
+        <updated>2026-05-20T15:30:37.947Z</updated>
+        <summary type="html"><![CDATA[Between Storm and Light by Lu Wang]]></summary>
         <author>
-            <name>KOIKI</name>
+            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗：若美以再次侵略 战事将扩大到中东地区之外]]></title>
+        <title type="html"><![CDATA[伊朗谈判代表：美国企图重启战争 逼迫伊朗投降]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9081116</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9081116"/>
+        <updated>2026-05-20T15:13:07.000Z</updated>
+        <summary type="html"><![CDATA[伊朗首席谈判代表加利巴夫星期三称，美国正试图重启战争，并希望伊朗投降。
+法新社报道，伊朗议会议长加利巴夫星期三（5月20日）在其官网上发布的一段音频中说：“敌人的公开和秘密行动表明，尽管面临经济和政治压力，它并未放弃军事目标，并正试图发动一场新的战争。”
+伊朗伊斯兰革命卫队星期三警告称，如果美国和以色列恢复对伊朗的袭击，战争将蔓延到中东以外地区，“我们毁灭性的打击将摧毁你们”。
+加利巴夫说，美国仍希望伊朗投降并顺从华盛顿的“过分要求”。为此，自4月13日起，美国持续对伊朗施加经济压力并维持海上封锁。
+他说：“我们必须加强准备，以有效且强有力的方式应对任何潜在袭击。无论在何种情况下，伊朗都绝不会屈服于恐吓。”
+与此同时，以色列陆军参谋长扎米尔星期三说，随着德黑兰和华盛顿相互发出战争威胁，以军已处于最高戒备状态。“此刻，以色列国防军已处于最高戒备状态，并为任何局势发展做好了准备。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星电子罢工危机最后时刻逆转 劳资达成暂定协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080964</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080964"/>
+        <updated>2026-05-20T14:50:25.000Z</updated>
+        <summary type="html"><![CDATA[在总罢工启动前不到一个半小时，在韩国雇佣劳动部长亲自出面协调下，三星电子劳资双方星期三（5月20日）深夜戏剧性达成奖金协商暂定协议，原本一触即发的大规模罢工危机暂时解除，也让外界对全球半导体供应链受冲击的担忧暂时降温。
+三星电子劳资双方当天下午4时起，在京畿地方雇佣劳动厅，在韩国雇佣劳动部长金荣训主持协调下展开长达六个多小时的马拉松式谈判，并最终达成暂定协议案。
+三星电子工会随后宣布，原定于21日至7月7日举行的总罢工计划将暂时保留，并将就2026年薪资协议暂定协议案面向工会成员举行赞成与反对投票。
+投票将于22日下午2时至27日上午10时进行，为期六天。若参加投票的工会成员中超过半数投下赞成票，暂定协议案将正式通过，三星电子总罢工危机也有望彻底解除。
+不过，若赞成票未能过半，协议案将被否决，三星电子成立以来第二次总罢工仍可能成为现实，劳资双方也不得不重新回到谈判桌前。分析认为，若协议被否决，现任工会领导层威信也可能受到冲击，工会内部矛盾恐进一步扩大。
+三星电子劳资双方围绕2026年薪资与绩效奖金谈判的核心方案之一，公司提出平均工资上调6.2%，并向员工发放公司股票及追加激励。其中，DX（Device eXperience，负责手机、家电等业务）部门员工也被纳入股票奖励范围，市场估算每人获配股票价值约600万韩元（约5120新元）左右。
+此前，三星电子劳资双方自18日起，在中央劳动委员会仲裁下进行了为期三天的第二轮事后调解，但围绕奖金财源标准、奖金上限是否废除、存储器事业部分配比例及制度明文化等问题，双方始终针锋相对。
+即便中央劳动委员会曾提出调解方案，劳方表示接受，但资方拒绝接受，谈判一度陷入破裂危机。直到20日上午举行的第三轮会议中，公司仍维持拒绝调解案的立场。
+此次谈判最大的争议焦点，是半导体部门绩效奖金的共同分配比例。由于存储器业务持续取得盈利，而晶圆代工、系统半导体等非存储器业务仍处于亏损状态，劳资双方始终未能在奖金如何向盈利与亏损事业部分配的问题上达成一致。
+工会主张，将半导体部门绩效奖金财源中的70%由全体员工平均分配，其余30%再按各事业部业绩差异化发放；公司则认为，奖金应更多向盈利事业部倾斜，向亏损部门支付高额奖金不符合其一贯坚持的绩效经营原则。据悉，公司曾提出“40%平均分配、60%按业绩分配”的折中方案，但遭到工会拒绝。
+若按照工会方案，亏损中的系统LSI及晶圆代工事业部员工，也将获得与大幅盈利的存储器事业部相近水平的奖金。最终，公司方面在亏损事业部奖金问题上作出一定让步，双方才得以达成妥协。
+达成协议后，亲自出席记者会的三星电子超企业工会委员长崔承浩说：“公司方面希望工会理解未来一年内针对亏损事业部的分配方式，双方最终达成了协议。”
+韩国社会此前高度担忧，作为全球DRAM市场占有率超过30%的核心供应商，三星电子一旦出现交货延迟，不仅可能面临违约赔偿，还可能冲击全球供应链稳定。多家外媒也警告，此次劳资冲突存在演变为全球供应链危机的风险。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋要求伊拉克停止敌对行动]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9081027</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9081027"/>
+        <updated>2026-05-20T14:41:23.000Z</updated>
+        <summary type="html"><![CDATA[阿联酋星期三要求伊拉克立即停止一切从伊拉克领土发起的敌对行动。
+新华社报道，阿联酋外交部星期三（5月20日）发表声明说，近日数架从伊拉克方向发射的无人机对阿联酋发动袭击，其中包括对巴拉卡核电站的袭击。
+声明中，呼吁伊拉克立即且无条件地停止一切从伊拉克境内发起的敌对行为，并指“有必要迅速、立即且负责任地应对这些威胁”。声明也对相关“恐怖袭击”行为予以谴责。
+阿联酋国防部星期二（19日）称，境内防空系统在过去48小时内成功拦截六架无人机，其中一架日前击中巴拉卡核电站外的一台发电机。
+袭击引发火灾，但未造成人员伤亡，也未影响辐射安全水平。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玻利维亚宣布驱逐哥伦比亚大使]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080906</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080906"/>
+        <updated>2026-05-20T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[玻利维亚外交部星期三发布声明说，鉴于主权问题和干涉内政，玻利维亚政府已要求哥伦比亚大使离境。
+路透社报道，玻利维亚外交部星期三（5月20日）说，这项决定符合国际法，并不意味着与哥伦比亚断绝外交关系。
+此前，哥伦比亚总统佩特罗于5月17日在社媒上发文，将玻利维亚最新骚乱描述为“人民起义”。
+玻利维亚的农民、工人和矿工近几周针对新任总统帕斯推行的经济政策举行示威。
+随着玻利维亚动荡局势不断扩大，引发国际社会日益担忧。目前，拉巴斯多家银行已关闭分行，道路封锁导致物资供应中断，工会、矿工和农村团体要求经济救济，部分人士甚至呼吁总统帕斯下台。
+美国常务副国务卿兰道星期二说，他已与帕斯总统通话，并警告称去年大选中的败选一方正试图将其赶下台。
+与此同时，欧盟及几个欧洲国家大使馆呼吁进行对话并和平示威。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国：全球粮食危机或在数月内爆发]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080819</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080819"/>
+        <updated>2026-05-20T13:56:34.000Z</updated>
+        <summary type="html"><![CDATA[联合国粮食及农业组织警告称，霍尔木兹海峡的封锁可能在未来几个月内“引发一场严重的全球粮食价格危机”。
+法新社报道，在美国和以色列对伊朗发动袭击之前，霍尔木兹海峡曾承载全球五分之一的石油运输量。美伊冲突促使德黑兰方面实际上关闭了霍尔木兹海峡，禁止油轮和货轮通行。
+战前，全球三分之一的化肥供应也需要经过霍尔木兹海峡。官员们警告称，农民在夏季种植季节可能面临化肥短缺。
+联合国粮农组织说，应更多关注替代陆路和海运路线，包括横跨阿拉伯半岛通往红海的路线。它还呼吁各国避免对能源和化肥实施出口限制，并将粮食援助排除在贸易限制之外。
+粮农组织首席经济学家托雷罗在星期三（5月20日）发布的一期播客中说，现在是时候“开始认真思考如何提高各国的吸纳能力，如何增强它们应对这一瓶颈的韧性”。
+这个机构在一份声明中指出，霍尔木兹海峡的封锁“并非暂时的航运中断”，而是“系统性农业食品冲击的开端”。
+它警告称，一场全面的全球粮食危机可能在6到12个月内爆发。“这场冲击正在分阶段展开：能源、化肥、种子、产量下降、大宗商品价格上涨，继而引发食品通胀。”
+粮农组织也指，自冲突爆发以来，其全球食品价格指数已连续三个月上涨。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲁比奥提议美国和古巴建立新关系]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080703</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080703"/>
+        <updated>2026-05-20T13:24:22.000Z</updated>
+        <summary type="html"><![CDATA[美国国务卿鲁比奥在向古巴人民发表的视频讲话中，提议建立美古新关系，并提出1亿美元（约1亿2800万新元）援助。
+路透社报道，鲁比奥星期三（5月20日）在古巴独立日当天通过国务院发布的视频讲话中说：“我们美国不仅愿意帮助你们缓解当前的危机，还愿与你们共同建设更美好的未来。”
+特朗普政府预计将于星期三宣布对古巴前总统卡斯特罗提起刑事指控。此举标志着华盛顿对古巴的施压行动将进一步升级。
+鲁比奥在用西班牙语发表的视频讲话中，将古巴当前的问题归咎于其领导层的贪婪和腐败。
+鲁比奥说：“你们没有电、没有燃料、没有食物的真正原因，是因为那些控制你们国家的人掠夺了数十亿美元，却未将任何资金用于帮助人民。”
+他说，美国正向古巴人民提供价值1亿美元的食品和药品，但这些物资必须由天主教会或其他值得信赖的慈善团体分发。
+古巴驻美国大使馆星期三作出回应称，鲁比奥在撒谎，并指责美国以残酷手段对待古巴。
+古巴驻美国大使馆在社媒上发文说：“美国国务卿在谈及古巴时反复、无耻地撒谎，试图为他对古巴人民施加的侵略行为辩解，这并非出于无知或无能……他非常清楚，这种残酷无情的侵略行为没有任何借口。”
+美国通过威胁对向古巴供应燃料的国家实施制裁，有效地对古巴实施了石油封锁，引发古巴一系列全国停电，并对其本已脆弱的经济造成打击。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：特朗普政府计划削减对北约的军事承诺]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080519</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080519"/>
+        <updated>2026-05-20T12:47:49.000Z</updated>
+        <summary type="html"><![CDATA[三名知情人士透露，特朗普政府计划本周告知北约盟友，美国将缩减“可供北约在重大危机时期调用的美军力量规模”。
+路透社报道，在被称为“北约部队模式”的框架下，北约成员国需确定一批在冲突中，例如成员国遭到军事打击时，或任何其他重大危机期间可动用的军事力量。
+知情人士称，美国计划于星期五（5月22日）在布鲁塞尔举行的北约相关会议上正式通报这一决定。
+知情人士也说，尽管这些“战时军事力量”的具体构成仍是严格保守的秘密，但五角大楼已决定“显著减少”美国在其中的承诺规模。
+美国总统特朗普已表明，他希望欧洲国家从美国手中接过欧洲大陆安全的主要责任。本周向盟友发出的信息，是这一政策正在实施的具体迹象。
+五角大楼政策主管科尔比曾公开说，即使欧洲盟友在常规部队方面发挥主导作用，美国仍将继续使用其核武器保护北约成员国。
+其中一名知情者补充说，调整北约部队模式已成为科尔比团队在7月土耳其举行北约领导人峰会前的一个关键优先事项。
+北约秘书长吕特在布鲁塞尔对记者说，他虽然不能透露美国即将发布的声明，但指此举“在意料之中”，因为北约正致力于“结束在防务上对单一盟友的过度依赖”。
+五角大楼没有立即回应置评请求。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝森特促盟友：更积极切断伊朗资金网络打击影子船队]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9078934</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9078934"/>
+        <updated>2026-05-20T12:31:08.000Z</updated>
+        <summary type="html"><![CDATA[（巴黎路透电）美国财长贝森特在七国集团财长会议上呼吁盟友更积极落实对伊朗的经济制裁，切断德黑兰的资金网络，采取行动力阻伊朗影子船队非法运输石油。
+七国集团（G7）财长星期二（5月19日）在巴黎举行第二天会议，探讨伊朗战争造成的经济冲击。成员国一致认同，确保霍尔木兹海峡恢复自由与安全的通行“至关重要”，以缓解全球能源、粮食和化肥供应紧绷的局面。
+对于美国未考量关闭海峡将引致的经济冲击，就与以色列联手打击伊朗，部分成员国表示不满。贝森特则在会上敦促盟友“倾全力与我们并肩”对付伊朗。他说，欧洲须更有力落实对伊朗的金融制裁：“把为伊朗服务的金融机构列入黑名单、揪出它的空壳公司、关闭它的银行分行，以及瓦解它的代理人。”
+至于亚洲和中东盟友，他说，除了设法“将伊朗的影子银行网络连根拔除”，也应阻止伊朗影子船队把被制裁的石油在海上转移，从而躲避西方制裁。
+贝森特也透露，由于敌对阵营不断应变创新、设立新的空壳公司，美国财政部也将改革制裁架构加以应对，更新制裁清单，去除已过时的信息，以协助金融机构更专注防范最复杂的恐怖主义融资和逃避制裁计划。
+美日归咎中国加剧全球贸易不平衡 促盟友制定机制自保
+
+七国财长星期二会后发表联合声明，一致认为须采取行动解决全球经济碎片化下的贸易不平衡问题。贝森特则警告欧洲盟友，须制定更多机制阻止廉价中国产品涌入，保护本国经济免受冲击。
+贝森特过后接受路透社访问时说，中国“猛踩加速器”扩大工业产能，生产更多产品，“因国内消费疲软削弱经济增长，将更多产品销售到国外”。
+日本财长片山皋月也指贸易不平衡问题主要是中国造成。她说：“所有成员国大致同意，以中国所采取的工业政策以及扭曲竞争的非市场行为来看，它显然并无意愿自行纠正这些不平衡问题。”
+片山也说，成员国领导人面对压力，或在下月于法国阿尔卑斯山小城埃维昂（Evian-les Bains）举行的峰会上，就此事达成共识并采取行动。
+不过，七国集团轮值主席法国财长莱斯屈尔指出，当前的不平衡状态，是由美国的过度消费、欧洲的投资不足与中国的过度生产一并相加所致，加剧了彼此之间的贸易摩擦，并导致金融市场剧烈波动。
+莱斯屈尔透露，七国财长也讨论了促进稀土和关键矿产供应多元化的策略，同意“深化及扩大成员国和志同道合伙伴之间的合作”。
+贝森特则说，成员国正着手推进建立一个关键矿产储备、制定矿产的定价和底价机制，防止中国以低价打击各国打造替代供应链的努力。
+七国财长的联合声明也一致谴责俄罗斯，并承诺继续坚定支持乌克兰。不过，美国再次将对俄罗斯石油制裁豁免期延长30天，理由是扶助“能源脆弱”的国家，这个决定引起成员国争议。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：中东战事或将英国家庭能源支出推高13%]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9080025</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9080025"/>
+        <updated>2026-05-20T12:20:26.000Z</updated>
+        <summary type="html"><![CDATA[英国能源咨询公司发布的一份预测报告说，中东战事导致的能源价格上涨可能使英国家庭年度能源支出上限提高13%。
+新华社报道，英国能源咨询公司“康沃尔洞察”星期二（5月19日）发布2026年7月至9月家庭能源价格上限预测报告。
+根据报告的最终预测结果，一个同时使用燃气和电力的英国家庭，全年的能源账单最高预计可达1850英镑（约3173新元），而此前这一预测值为1641英镑。
+报告指出，能源价格上涨的主要原因是中东战事发生后全球能源价格大幅攀升。尽管暂时停火一定程度上抑制了市场震荡，但目前价格仍居于高位。
+报告预计，即便战事立即结束，其对基础设施的破坏导致供应链中断仍将产生持续影响，今年秋季英国家庭能源费用上限很难回落到4月的水平。
+“康沃尔洞察”首席顾问劳里说，解决英国能源结构脆弱性问题的真正有效途径是提高可再生能源产量，虽然这需要大量投入，也并不能快速降低能源消费价格，但长期来看，这能够带来能源价格的持久稳定。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫新宴会厅细节曝光 特朗普称设“无人机港”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9079572</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9079572"/>
+        <updated>2026-05-20T11:12:19.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期二（5月19日）首次公开白宫新宴会厅的更多设计细节，称建筑屋顶将设无人机基地，地下则建有六层深军事设施，包括军医院与研究中心。
+特朗普在施工现场带领记者参观时说，新宴会厅面积约九万平方英尺（约8360平方米），可容纳1000人，规模远超现有白宫宴会厅空间。他提到，自己此前遭遇疑似暗杀企图，因此白宫需要更安全的大型活动场地。
+他说，新建筑采用类似掩体的设计，屋顶以“无法穿透的钢材”建造，并具备“防无人机”能力，未来还将成为“无人机港”，用于保护整个华盛顿。
+他也指出，宴会厅地下设施目前已有两层正在施工。工程造价已从最初估计的2亿美元（约2亿5000万新元）增至4亿美元，资金主要来自自己与私人捐助者，而且免税。
+不过，民主党与部分共和党反对国会在伊朗战争期间为白宫安全升级计划拨款10亿美元。此外，联邦法官今年4月裁定，工程须获国会批准才能继续施工。（彭博社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲁比奥批世卫未及时确认伊波拉疫情 延误美防疫部署]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9078269</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9078269"/>
+        <updated>2026-05-20T11:06:50.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿／日内瓦综合电）美国国务卿鲁比奥批评世界卫生组织反应迟缓，未能及时确认非洲致命的伊波拉疫情，导致美国防疫部署滞后。
+鲁比奥星期二（5月19日）说，虽然美国的疫情应对工作由美国疾病控制与预防中心与世卫组织共同协调，但世卫确认疫情“反应有些迟缓，令人遗憾”。一名不愿具名的美国国务院高级官员补充说，世卫组织花了10天才确认疫情，使美国原本可更早展开的应对工作被迫滞后。
+不过，美国国务院仍宣布，提供约1300万美元（约1712万新元）初步资金，用于支持刚果民主共和国（金）和乌干达多达50个伊波拉治疗中心。
+世卫组织驻刚果（金）代表安西亚则说，疫情历经数周才确认，部分原因是当地现有的检测方法主要针对较常见的扎伊尔型（Zaire）病毒；而这波疫情是由较罕见的本迪布焦型（Bundibugyo）病毒引发。她也指出，资金短缺严重影响世卫组织的防疫能力。
+美国总统特朗普去年重返白宫后，率先采取的举措之一便是启动程序退出世卫组织。美国向来是世卫组织的最大捐助国；随着美国停止供资，世卫也被迫大幅削减开支。 
+目前，刚果（金）已通报逾540起疑似病例和136起疑似死亡病例。不过，伦敦帝国理工学院与世卫组织研究人员联合进行的分析估计，实际病例可能介于400至800起；根据现有数据，也不能排除超过1000起的可能。
+5月19日，控制刚果（金）部分地区的M23武装组织成员，也在负责检测伊波拉疑似病例样本的实验室外站岗警戒。（路透社）
+            
+目前无获批疫苗 亚洲多国加强口岸监测
+
+世卫组织说，用于抗击疫情的六吨医疗物资预计星期二运抵刚果（金），但检测能力不足仍拖慢防疫进展。目前对本迪布焦型病毒的检测能力有限，每小时仅能完成约六次检测。
+据报，美国生物防御与传染病检测技术公司BioFire Defense正扩大产能。公司研发的BioFire全球发热特殊病原体检测板已获美国食品与药物管理局批准，可检测包括本迪布焦型在内的多种伊波拉病毒。
+由于现有大部分疫苗和抗体疗法主要针对扎伊尔型病毒研发，目前尚无获准用于预防或治疗本迪布焦型病毒的疫苗和特效疗法。
+全球组织流行病防范创新联盟（Coalition for Epidemic Preparedness Innovations，简称CEPI）指出，候选疫苗或还需数月研发，才能进入人体试验阶段。非洲疾病控制与预防中心则说，已有三款候选疫苗和数种潜在疗法列为优先评估对象，当局正在为加速生产人体试验所需药用级产品做好准备。 
+全球多国也加强边境防疫。巴林禁止来自刚果（金）、乌干达和南苏丹的旅客入境；美国务院则敦促公民避免前往上述国家。
+亚洲国家也陆续收紧防疫。韩国要求来自刚果（金）、乌干达和南苏丹的入境旅客主动申报健康状况；日本、香港、新加坡、越南、印度尼西亚、尼泊尔也宣布加强口岸监测或其他公共卫生防范措施。
+
+马来西亚加强边境监测 暂未发现病例
+
+马来西亚卫生部星期三（20日）发文告说，目前国内尚未发现伊波拉病例，但已加强国际入境口岸监测，促医疗机构做好准备识别、隔离和管理疑似病例。
+卫生部指出，正密切关注从乌干达和刚果（金）出发，经迪拜、多哈和新加坡等国际枢纽转机后入境马国的旅客。目前刚果和乌干达两国均无直接往返马国的航班。
+当局呼吁曾前往受影响国家的民众，如返国后21天内出现发烧、身体疼痛、呕吐或出血等症状，应立即求医。卫生部同时加强实验室检测能力，并与世卫组织、边境管制机构及航空公司协调监测和风险评估工作。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东危机拖累全球经济增长预测下调]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9079418</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9079418"/>
+        <updated>2026-05-20T10:57:47.000Z</updated>
+        <summary type="html"><![CDATA[（纽约新华电）基于中东危机拖慢增长步伐并导致通货膨胀升温，联合国将2026年的经济增长预测从今年1月的2.7%下调至2.5%。
+联合国星期二（5月19日）发布《2026年世界经济形势与展望》的年中更新报告指出，中东战事的冲击主要显现在能源市场，导致供应受限、价格飙升，以及运费和保险成本飞涨，冲击再经由各个供应链传递开来，推高全球的生产成本。
+报告指，虽然价格飙涨让能源业者大赚，但全球的家庭和商家都面临极大成本压力。
+当中，粮食价格是一大担忧。化肥供应中断、成本飙涨将导致收成减少，推高价格。
+报告也说，中东冲突导致2023年以来全球通胀持续放缓的趋势中断，发达经济体的通胀预计从去年的2.6%升至今年的2.9%，至于发展中经济体则可能从去年的4.2%升至今年的5.2%。
+虽然劳动力市场持稳、消费需求仍坚韧，由人工智能推动的贸易和投资继续支持全球经济活动，但这些利好因素不大可能完全弥补正扩散开来的逆风。高度依赖进口能源和粮食的发展中经济体将面对最大挑战。
+联合国说，中东危机对各国的冲击高度不均衡，打击最重的是西亚国家，由于基础设施遭受重创、石油生产、贸易和旅游业都陷入中断，经济增长预计从去年的3.6%下挫至1.4%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北约秘书长吕特：美国撤兵欧洲不影响北约防务]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9079823</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9079823"/>
+        <updated>2026-05-20T10:47:04.000Z</updated>
+        <summary type="html"><![CDATA[北约秘书长吕特说，美国决定从欧洲撤回5000名士兵不会影响北约的防务计划。
+综合法新社和路透社报道，吕特星期三（5月20日）说，美国在欧洲的驻军将“以结构化的方式”逐步减少，这不会影响北约的防务计划。
+他告诉记者：“关于这一宣布，即撤回4000至5000名士兵，这些属于轮换部队，不会对北约的防务计划产生影响。”
+彭博社日前引述消息人士报道，美国总统特朗普宣布计划从德国撤军5000人后，欧洲国家正在为美国撤出更多部队做准备。
+由于不满德国总理默茨对他与伊朗开战的批评，特朗普4月底宣称要从德国撤出5000名美军。
+知情人士透露，北约国家的高级外交官预测，特朗普会宣布更多撤军计划，例如从意大利撤军，以及废除一项在德国部署远程导弹的计划，这项计划可追溯至前届拜登政府。
+据报道，特朗普也可能让美国停止参与某些军事演习，并将原本部署在令他不满国家的部队，调往他认为更支持他的国家。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[激活大脑“隐形血液泵”？多咀嚼或有助延缓认知退化]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9077118</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9077118"/>
+        <updated>2026-05-20T10:43:39.000Z</updated>
+        <summary type="html"><![CDATA[除了帮助消化，咀嚼可能还有助于维持脑部健康。
+英国广播公司（BBC）报道，越来越多研究显示，充分咀嚼不仅能增加饱腹感、改善专注力和缓解压力，也可能与记忆力及认知功能有关。科学界目前正研究所谓“咬合—大脑轴”（bite-brain axis），探索牙齿健康、咀嚼能力与阿尔茨海默病等神经退化疾病之间的联系。
+一项涵盖欧洲14国、超过2万8500名50岁以上人士的大型调查发现，咀嚼能力较好、保留较多天然牙齿的人，在词汇记忆、语言流畅度和计算能力等认知测试中的表现普遍较佳。
+科学家认为，这可能与咀嚼系统和大脑海马体之间存在神经连接有关。海马体负责学习和记忆，也是阿尔茨海默病最早受影响的区域之一。部分研究发现，咀嚼较有硬度的食物时，脑部血流量会有所增加。
+有学者据此提出“血液帮浦”理论，认为咀嚼可能促进脑部供血，从而帮助维持认知功能，不过相关机制仍有待进一步证实。
+为了验证这种关联，瑞典研究团队正为缺牙患者植入人工牙根，并利用磁力共振扫描（MRI）持续追踪脑部变化，希望了解恢复咀嚼功能后，脑部结构和认知表现是否会出现改善。
+除了长期健康效应，咀嚼也可能在短时间内提高警觉性和专注力。综合多项研究的分析显示，咀嚼口香糖的人在部分认知测试中的表现略优于未咀嚼者。不过，研究人员指出，这类效果通常只能维持约15至20分钟。
+至于缓解压力方面，目前证据仍不完全一致。一些研究发现，咀嚼可降低焦虑及压力相关指标；另一些研究则未观察到明显效果。专家因此提醒，现阶段仍需更多研究验证咀嚼与心理健康之间的关系。
+不过，多数研究人员都认同，细嚼慢咽有助提升进食体验，让食物的口感、香气和风味得到更充分释放。至于每口食物究竟应咀嚼多少次，学界并无统一标准。专家建议，与其刻意计算次数，不如放慢进食速度，充分咀嚼后再吞咽。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫：伊波拉疫情全球风险低]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9079492</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9079492"/>
+        <updated>2026-05-20T10:06:05.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织星期三说，刚果（金）和乌干达出现的伊波拉疫情在国家和地区层面的风险偏高，但在全球层面的风险水平仍属偏低。
+综合路透社和法新社报道，世卫总干事谭德赛星期三（5月20日）说，目前伊波拉疫情的疑似死例增至139起，疑似病例为600起。由于在发现伊波拉疫情前，病毒已传播一段时间，预计疑似病例和死例数量仍将上升。
+世卫官员同天指出，这场伊波拉疫情很可能始于数月前，这给遏制疫情的努力带来了挑战。此外，最有希望的实验性疫苗，还须要六到九个月时间才能进入临床试验阶段。　
+谭德赛也说，世卫紧急委员会星期二在日内瓦召开会议，确认这次由较少见的本迪布焦型伊波拉病毒引发的伊波拉疫情属于国际关注的突发公共卫生事件，但尚未达到“大流行”级别。
+谭德赛强调，世卫评估认为，这次刚果（金）和乌干达出现的伊波拉疫情“在国家和区域层面的风险较高，在全球层面的风险较低”。
+他说，由于事态紧迫，他上周宣布，刚果（金）和乌干达出现的伊波拉疫情已构成国际关注的突发公共卫生事件。这是世卫总干事首次在未事先征询专家意见的情况下，采取这一举措。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列空袭黎巴嫩南部造成至少19人死亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20260520-9079345</id>
+        <link href="https://www.zaobao.com/news/world/story20260520-9079345"/>
+        <updated>2026-05-20T09:50:54.000Z</updated>
+        <summary type="html"><![CDATA[黎巴嫩公共卫生部说，以色列军方星期二对黎巴嫩南部多地发动多轮空袭，造成至少19人死亡，其中包括三名儿童，另有32人受伤。
+综合新华社和法新社报道，黎巴嫩公共卫生部星期三（5月20日）发布声明说，以军对黎巴嫩南部提尔地区代尔卡农纳赫尔镇（Deir Qanun al-Nahr）的空袭造成初步统计10人遇难，其中包括三名儿童和三名妇女，另有三人受伤。
+此外，以军在南部其他地区的空袭中，有九人遇难，另有29人受伤。
+声明说，以色列发动的空袭主要集中在南部提尔地区的各城镇、奈拜提耶市及周边地区。
+以色列军方此前曾对12个黎巴嫩城镇发布疏散警告，其中11个位于南部，一个位于东部贝卡地区。
+据黎巴嫩公共卫生部星期二（19日）公布的统计数据，自3月2日黎以战火重燃以来，以色列对黎巴嫩发动的袭击已造成3042人死亡、9301人受伤。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称很快结束冲突 伊朗威胁把战事扩大到中东之外]]></title>
         <id>https://www.zaobao.com/news/world/story20260520-9079084</id>
         <link href="https://www.zaobao.com/news/world/story20260520-9079084"/>
         <updated>2026-05-20T09:13:35.000Z</updated>
-        <summary type="html"><![CDATA[伊朗伊斯兰革命卫队星期三警告称，如果美国和以色列再次侵略伊朗，伊朗将把战事扩大到中东地区之外。
-法新社报道，伊朗伊斯兰革命卫队星期三（5月20日）发声明说，美国和以色列“没有从重大战略失败中吸取教训，再次扬言威胁伊朗”，此前伊朗没有动用全部力量与之对抗。如果对伊朗的侵略再次发生，地区战事将会蔓延到地区之外，伊朗将实施“毁灭性打击”。
-美国总统特朗普星期一（18日）说，原本计划星期二对伊朗发动重大打击，但在波斯湾阿拉伯盟友劝说下叫停行动。
-他称，阿拉伯盟友认为，美伊很有可能达成协议，但他也已指示美军做好准备，万一无法达成协议，就对伊朗展开大规模攻击。
-伊朗外长阿拉格齐则在社媒上发文称，“重返战争将带来更多意外”。]]></summary>
+        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美国总统特朗普周二说，美国很快就会结束与伊朗的战争，并确保伊朗不会获得核武器。美国副总统万斯称，美伊谈判进展良好，但如果无法达成协议，美国已准备好重启军事行动。伊朗警告，如果美国和以色列再次来袭，战事将扩大到中东以外地区。
+特朗普周二（5月19日）在白宫活动上告诉国会议员：“我们会非常迅速地结束这场战争。他们（伊朗）不会拥有核武器。希望我们能以一种非常体面的方式了结此事。”
+特朗普称，伊朗迫切希望达成协议，并已厌倦这场战事。他还说，为迫使伊朗达成协议，“我们可能不得不再给他们一记重击”。
+万斯同日在白宫记者会上说，美伊谈判已取得很大进展，这场冲突不会成为一场永无止境的战争。
+他说：“我们现在处于相当有利的位置——但同时也有B方案，即我们可以重启军事行动。我们已准备就绪。我们不希望走到那一步，但如有必要，总统愿意且有能力这么做。”
+万斯也强调，伊朗绝不能拥有核武器，这是美国的红线。
+伊朗伊斯兰革命卫队周三（20日）警告，如果美国和以色列恢复对伊朗的袭击，战争将蔓延到中东以外地区，“我们毁灭性的打击将摧毁你们”。
+美国财政部周二公布新一轮对伊朗制裁，进一步向德黑兰施压。被列入制裁名单有50多个实体，包括为伊朗货币兑换所、相关人员和幌子公司，以及19艘油轮和天然气运输船。
+其中，伊朗阿明兑换所（Amin Exchange）被指通过在阿联酋、土耳其与中国设立的幌子公司网络，为受制裁的伊朗银行与国有企业洗钱。
+公告说，美国希望通过铲除这些金融渠道，切断伊朗政权用于威胁地区稳定、支持恐怖主义组织，以及发展武器项目的资源。
+另一方面，美国参议院周二以50票赞成、47票反对的表决结果，推进一项旨在限制特朗普动武权力的法案，要求特朗普今后对伊朗采取的任何军事行动必须获得国会批准。
+这是自2月底美伊战争爆发以来，由共和党控制的国会两院首次推进约束特朗普对伊军事行动的立法。共和党参议员中有4人投赞成票、3人缺席。
+美国对伊朗动武的60天期限已于5月1日到期，但特朗普政府辩称，美伊4月8日达成停火协议后，60天期限随之停算。
+这项法案仍须通过参议院最终投票，之后预计将在众议院面临巨大阻力。即使法案能顺利过关，预计也会遭特朗普否决。
+尽管如此，此次投票凸显了共和党内部对战争可能旷日持久日益不安。路透与益普索最新民调显示，特朗普支持率已跌至35%，逼近重返白宫以来的最低点，这主要受共和党人支持率下滑影响。
+约79%的共和党人认为特朗普执政表现良好，低于本月早前的82%，以及他去年初上任时的91%。不认可特朗普表现的共和党人比率，也从他上任初期的5%增至21%。
+仅62%的共和党人认可特朗普处理伊朗局势的方式，47%认可他应对生活费危机的方式。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
@@ -341,240 +637,6 @@ G7成员国包括美国、英国、加拿大、法国、德国、意大利和日
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[专家：AI更多是在重塑岗位 非大规模取代职位]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9077316</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9077316"/>
-        <updated>2026-05-20T05:57:07.000Z</updated>
-        <summary type="html"><![CDATA[人工智能持续迭代，“AI将抢走人类饭碗”的担忧也不断升温，但多名业内人士指出，与其担心整份工作被取代，更值得关注的是岗位职责正在发生变化。
-当前人工智能（AI）对职场的影响并非简单地消灭职位，而是接手部分工作任务，并推动工作内容、职责分工及技能需求重新调整。 
-美国有线电视新闻网（CNN）报道，微软近日发布的一项涵盖10个国家、约2万名员工的调查指出，职场中的AI焦虑真实存在，从担心失业到害怕跟不上技术发展，都成为不少员工面对的新压力。
-不过，麦肯锡高级合伙人克里夫科维奇（Alexis Krivkovich）指出，根据麦肯锡研究，目前AI与机器人技术在理论上可自动化约57%的工作活动，但这些活动分散在不同岗位和职责之中，被完全自动化取代的职位仍属少数。
-数码服务与咨询公司Incedo联合创办人塞思（Nitin Seth）也指出，公司协助客户利用AI提升至少20%至25%的生产力，但并未出现相同比例的人力缩减，因为AI通常只负责部分工作内容，而非完整取代某一个岗位。
-不过，AI仍与部分裁员行动有关。职业转型机构Challenger, Gray & Christmas数据显示，AI已连续两个月成为美国企业裁员公告中最常提及的原因。今年以来，已有超过4万9000个被裁减职位明确与AI有关。
-多家科技企业近期也宣布精简人力。加密货币交易平台Coinbase称，AI让工程师能够在数天内完成过去需数周才能完成的工作，因此将裁减约14%员工；金融科技公司Block则称，AI提升效率后，公司能够以更小团队完成更多任务；网络基础设施公司Cloudflare也透露，内部AI使用量过去三个月增加逾600%，营运模式已出现显著变化。
-软件工程领域是AI应用最广泛的行业之一。根据谷歌研究部门和开发者论坛Stack Overflow调查，目前约84%至90%的科技从业人员已使用或计划使用AI辅助开发工作。
-业内人士指出，软件工程师的职责远不只是编写代码，还包括系统设计、代码审核、故障排除及产品规划等工作。
-Anthropic旗下Claude Code负责人切尔尼（Boris Cherny）认为，随着AI承担越来越多编码工作，工程师未来将更多负责设计、判断与决策，“软件工程师”这一角色本身也可能逐渐演变。
-拥有约10年经验的软件工程师斯里达兰（Sujata Sridharan）指出，AI普及后，职场更看重批判性思维、问题解决能力和判断代码质量等能力。如今工作的执行过程已变成“人与AI协作”的模式，而不再只是单纯编写代码。
-另一方面，企业也开始重新思考未来需要哪些人类技能。微软指出，许多企业尚未调整绩效评估与激励制度，以适应AI改变后的工作环境。
-普华永道（PwC）美国人工智能业务负责人普里斯特（Dan Priest）认为，未来出现部分岗位调整在所难免，但目前尚未看到大规模职业类别被整体取代的情况。
-随着AI能力持续提升，它正逐步承担更复杂的专业工作。例如，Anthropic近期推出面向金融行业的AI代理工具，可协助制作募资说明书及撰写信用备忘录等文件。
-猎头公司Kingsley Gate首席战略长拉马克里什南（Umesh Ramakrishnan）说：“自动化往往从基础工作开始，然后不断向上扩展。我不知道它最终会在哪里停止。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万斯：数千美军仅延迟派往波兰 并非取消部署]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9077439</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9077439"/>
-        <updated>2026-05-20T05:52:45.000Z</updated>
-        <summary type="html"><![CDATA[美国副总统万斯说，美国只是推迟向波兰部署数千名士兵，并非取消部署，而且“这对欧洲来说不是坏事”。
-美国上周宣布取消向波兰部署4000名士兵，令波兰措手不及，也引发美国国会议员的强烈批评，担心总统特朗普可能抛弃欧洲盟友。 
-综合路透社和彭博社报道，万斯星期二（5月19日）接受记者采访时淡化这一举措的影响。他强调：“我们并未将驻波兰部队规模削减4000人，只是推迟一支原定派往波兰的部队部署。”
-万斯表明，美国“并非要将每一名美军士兵都撤出欧洲”。
-“我们在讨论如何调整部分资源配置，从而最大限度地保障美国安全。我认为这对欧洲来说并非坏事。”
-他指出：“这不是削减兵力，而是此类情况下有时会发生的常规轮换延迟。”
-五角大楼发言人帕内尔同日证实“临时推迟”一说，并称这是由于派驻欧洲的旅级战斗部队（Brigade Combat Teams）从四个减少到三个所致。 
-五角大楼当天早些时候宣布这个消息。
-帕内尔在社媒平台X上说，这次旅级部队削减是针对美国驻欧部队态势进行的一项全面、多层次评估的结果。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[竭力拦截儿童性虐检索 民间机构联手硅谷引70万人回头]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9077189</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9077189"/>
-        <updated>2026-05-20T05:20:51.000Z</updated>
-        <summary type="html"><![CDATA[为了遏制线上儿童性虐犯罪的源头，硅谷大厂与民间机构联合发起跨国网络干预与心理阻断行动。
-据英国广播公司（BBC）报道，英国儿童保护慈善机构露西·费斯福基金会（Lucy Faithfull Foundation）说，过去两年，合作科技平台已向试图搜寻儿童性虐待材料（CSAM）的用户发出超过7000万条警示信息，并引导他们使用求助资源和行为干预服务。
-这项名为“拦截计划”（Project Intercept）的项目由基金会与谷歌、Meta、TikTok等科技巨头合作推动，目前覆盖131个国家和地区。
-项目不会单纯屏蔽相关内容，而是在用户搜索相关信息时发出警示，提醒浏览儿童性虐待材料属于违法行为，并提供“Stop It Now”平台的保密咨询及自助工具链接。
-基金会说，约70万人随后访问相关求助资源，平均每月约有2万8000人被引导至平台。访问者中，超过五分之四继续使用相关内容和工具。不过，基金会并未公布这些干预措施是否能长期改变行为的数据。
-伦敦经济学院数字儿童未来中心主任利文斯通（Sonia Livingstone）认为，与7000万次警示相比，70万人访问求助资源的比例仍然偏低，但她也指出，在主动寻求帮助的人群中，超过八成愿意进一步使用资源，显示有关机制对愿意改变行为的人具有一定效果。
-露西·费斯福基金会首席执行长丹尼斯（Deborah Denis）说，在有害行为发生时即时发出警示，有助于中断相关行为，并引导当事人寻求帮助。
-英国全国防止虐待儿童协会（NSPCC）说，这类干预措施有助于减少有害行为，但应配合更全面的措施，从源头阻止相关违法内容被制作和传播。
-互联网观察基金会（IWF）则呼吁科技企业进一步加强平台安全设计，减少儿童性虐待材料在网络上的传播空间。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劳资谈判破裂 三星电子工会周四起罢工18天]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9077140</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9077140"/>
-        <updated>2026-05-20T05:07:49.000Z</updated>
-        <summary type="html"><![CDATA[韩国晶片巨头三星电子与工会谈判破裂，工会宣布星期四（5月21日）全面罢工。 
-综合外电报道，三星电子公司与工会星期三（20日）就奖金发放上限标准等事宜，展开第三轮事后调解会议。双方未能达成协议，谈判最终破裂。
-工会发表声明说：“5月19日晚10时左右，工会同意了国家劳动关系委员会提出的调解方案；然而，（公司）管理层表示拒绝。因此，工会将按计划于明天依法发起全面罢工。”
-工会律师称，约5万零500名工人将停工18天。
-三星电子则说：“无论如何都不应罢工。”公司称，谈判失败是因为“接受工会的过分要求可能会危及公司管理的基本原则。”
-韩国总统府青瓦台对三星电子与工会谈判失败深表遗憾，同时敦促双方尽力达成协议。
-预计这次罢工的规模会远超2024年，那场罢工约有6000名员工参与。
-三星电子的晶片广泛应用于包括人工智能（AI）和电子产品在内的各个领域，这意味着此次罢工可能造成严重运营中断和经济损失。
-受AI热潮推动，三星电子股价过去一年飙升近400%，员工要求公司将部分利润作为奖金发放。
-工会曾提出多项要求，包括取消奖金上限为年薪50%的规定，并将年度营业利润的15%用于发放奖金。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国首尔地铁“让座神器”走红 匿名共享下车信息]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9076536</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9076536"/>
-        <updated>2026-05-20T04:25:56.000Z</updated>
-        <summary type="html"><![CDATA[针对早晚高峰期地铁“一位难求”的都市痛点，韩国首尔一名20多岁的上班族近日推出名为“我要下车了”（Cheo Naeryeoyo）的互助网页应用，让准备下车的乘客提前分享座位信息，帮助其他乘客寻找即将腾出的空位。
-《韩国先驱报》报道，这个应用上线不足两周，已吸引近3万7000人使用。
-使用者只需输入所搭乘的地铁线路、行驶方向、车厢编号及下车车站等信息，其他乘客便可提前到相关车厢等待空位。
-开发者文素贞（Moon So-jeong）说：“在拥挤的地铁上站了一个多小时后，我一直在想，如果我能知道我前面的人什么时候会离开，那该多好。”
-她补充说：“这不仅仅是一个寻找空座位的应用程序。我希望创建一个系统，让陌生人在互不相识的情况下互相帮助。”
-目前这款应用已覆盖首尔首都圈14条地铁线路，包括首尔地铁1至9号线，以及京义中央线、水仁盆唐线、新盆唐线和仁川1、2号线。随着用户增加，未来也可能扩展至首都圈以外地区。
-24岁的首尔大学生宋裕珍说：“很多时候，我注意到有人在等我的座位，想告诉他们我很快就要离开了，所以我喜欢这种匿名交流的方式。”
-应用尤其受到孕妇通勤族欢迎。首尔一名怀有五个月身孕的37岁上班族裴恩惠说：“人们常常没有意识到我怀孕了，因为肚子还不明显，所以有时坐在优先座位上的人不会让座。有一种方式让孕妇通勤者可以互相交流和帮助，感觉很好。”
-不过，外界也质疑服务能否长期维持，原因包括高度依赖用户自愿提供信息，以及存在上传错误或虚假信息的可能。
-对此，文素贞指出，未来计划引入奖励机制鼓励分享座位信息，并已设置举报系统，若同一信息被举报超过三次，将自动从列表中隐藏，以减少错误信息带来的影响。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：伊朗战争很快结束 德黑兰很渴望达成协议]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9076721</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9076721"/>
-        <updated>2026-05-20T03:47:45.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普告诉美国国会，与伊朗的战争“会很快结束”。
-美国《国会山报》报道，特朗普星期二（5月19日）在白宫与共和党和民主党议员共同参加年度国会野餐会时告诉在场国会议员和家属：“我们会很快结束这场（伊朗）战争。他们（德黑兰）非常渴望达成协议，他们已经厌倦了——问题本该在47年前就解决了。” 
-他也说，人们很快就会看到油价暴跌。
-特朗普政府4月中旬与伊朗当局的和平谈判破裂，至今未能达成协议，但特朗普仍释放乐观信号，声称战争很快结束、德黑兰无法拥有核武器。 
-他表明：“希望我们能以一种非常体面的方式解决此事。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国务卿鲁比奥：世卫组织对伊波拉疫情反应迟缓]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9076645</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9076645"/>
-        <updated>2026-05-20T03:40:26.000Z</updated>
-        <summary type="html"><![CDATA[非洲伊波拉疫情持续扩散，美国国务卿鲁比奥指责世界卫生组织在识别这次疫情方面略有延误。
-综合法新社和新华社报道，刚果（金）卫生部长坎巴星期二（5月19日）在首都金沙萨的记者会上说，新一轮伊波拉疫情暴发以来，共接到136起已死亡的疑似病例，另有543起疑似病例。
-坎巴称，目前报告的死亡病例都是推测与伊波拉病毒相关的病例，卫生部门正在调查核实。此外，现阶段伊波拉治疗中心收治的患者有69名。
-世界卫生组织当天早些时候说，对这次伊波拉疫情的传播规模和速度感到担忧。上周末，世卫组织宣布刚果（金）和邻国乌干达出现的伊波拉疫情构成国际关注的公共卫生紧急状况，但尚未达到大流行标准。 
-美国国务卿鲁比奥星期二被问及美国如何应对这次疫情时说：“主导工作显然会由美国疾控中心和世卫组织负责。遗憾的是，世卫组织在识别这次疫情方面，确实稍显迟缓。”
-美国国务院也宣布初步拨款约1300万美元（约1665万8200新元），在刚果（金）或乌干达资助多达50个伊波拉治疗中心。
-鲁比奥指责世卫组织反应迟缓后，美国国务院一名高级官员解释，世卫组织耗时10天才确认伊波拉疫情暴发。“我们现在已开展四天应对工作，但本可以提前14天开始。”
-这名官员也说：“世卫组织已多次失职。显然，大家都清楚世卫曾为中国共产党掩盖冠病疫情。”
-不过，世卫组织驳斥美方关于对中国过于宽容，或是允许中方隐瞒冠病疫情暴发的指控，强调须要与所有国家合作。
-美国总统特朗普去年1月底重返白宫后，首批举措之一便是启动美国退出世卫组织的程序。他也曾猛烈抨击世卫组织应对冠病疫情不力。 
-由于美国停止拨款，世卫组织被迫缩减规模。此前美国曾是世卫组织最大捐助国，在前届拜登政府时期每年拨款超过10亿美元。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌发布新智能眼镜正面单挑Meta]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9076271</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9076271"/>
-        <updated>2026-05-20T03:26:46.000Z</updated>
-        <summary type="html"><![CDATA[科技巨头谷歌星期二（5月19日）在年度大会上公布新款智能眼镜设计，重返十多年前曾尝试但未能成功打开市场的智能眼镜领域，并向目前占据领先地位的Meta发起挑战。 
-法新社报道，这款预计于2026年稍后上市的智能眼镜配备麦克风、摄像头和小型扬声器，可用于拨打电话、播放音乐、拍照以及与Gemini人工智能助手互动。
-谷歌尚未公布具体上市日期和售价。公司当天展示了两个系列产品，分别与美国眼镜品牌Warby Parker及韩国眼镜品牌Gentle Monster合作推出，技术开发则由三星负责。新产品同时兼容安卓和苹果手机。
-对谷歌来说，这次发布也意味着重返一个曾令公司受挫的市场。谷歌曾在2013年推出配备摄像头的Google Glass，但产品因隐私和监控争议引发广泛质疑，最终停止销售，被视为公司最受关注的失败产品之一。
-这一次，谷歌希望通过更贴近日常佩戴习惯的设计吸引消费者。新产品在外观上更接近普通眼镜，同时保留通话、拍照和人工智能互动等功能。
-不过，由于同样配备摄像头，新眼镜预计仍将面对与Google Glass时期类似的隐私争议。美国科技公司Meta旗下Ray-Ban智能眼镜推出后，也曾引发外界对于拍摄及个人隐私的讨论。
-目前Meta在智能眼镜市场处于领先地位。Meta与Ray-Ban合作推出的智能眼镜累计销量已超过700万副。
-除了此次发布的产品外，谷歌也透露正在开发配备显示屏的智能眼镜，类似Meta于2025年推出的新款产品。这款眼镜曾于2025年以原型机形式亮相，目前已进入更深入的开发者测试阶段，但谷歌未透露更多细节。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈判数月 欧盟内部就与美贸易协议文本达成共识]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9076497</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9076497"/>
-        <updated>2026-05-20T03:24:00.000Z</updated>
-        <summary type="html"><![CDATA[欧盟初步敲定与美国的贸易协议文本，即将就最终文本投票表决。此举扫清欧盟在美国总统特朗普规定的最后期限前落实协议的一大障碍。
-综合彭博社和路透社报道，经过数月谈判，欧盟议员和成员国星期三（5月20日）凌晨就与美国贸易协议的立法文本达成一致。
-欧洲议会和欧盟成员国预计会在6月中旬就协议的最终文本进行投票。
-欧洲人民党团负责美欧协议的首席贸易谈判代表佐夫科（Zeljana Zovko）说：“我很自豪地宣布，欧洲已避免跨大西洋贸易紧张局势的恶性升级，并得以保护欧洲企业、投资以及大西洋两岸数百万个就业岗位。”
-欧洲人民党团是欧洲议会的最大党团。该党说，这份协议预计为欧盟与美国贸易关系提供更稳定的框架，同时为进一步讨论未决问题留出余地，尤其是钢铝行业问题。
-欧盟与美国去年7月达成贸易协议框架。根据协议，欧盟将取消对美国工业品的关税；作为交换，美国对欧盟商品的关税上限设定为15%。 
-特朗普早前恫言，如果今年7月4日前未能落实协议，他会把对欧洲汽车的关税从15%提高到25%。他近来也就经济问题和伊朗战争对欧洲盟友大加指责，美欧紧张关系不断升级。 
-如今欧盟敲定协议文本，美欧贸易局势可能会有所缓和。
-欧盟轮值主席国塞浦路斯的商务部长达米阿诺斯（Michael Damianos）说：“维持稳定、可预测且平衡的跨大西洋伙伴关系符合双方利益。今天，欧盟兑现了承诺。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球长债同时崩盘，一场没上头条的危机 | 原文]]></title>
-        <id>https://t.me/wxbyg/7381</id>
-        <link href="https://t.me/wxbyg/7381"/>
-        <updated>2026-05-20T03:11:50.000Z</updated>
-        <summary type="html"><![CDATA[全球长债同时崩盘，一场没上头条的危机 | 原文
-Telegraph
-全球长债同时崩盘，一场没上头条的危机
-作者：小饼｜深潮 TechFlow 5 月 19 日盘中，美国 30 年期国债收益率冲上 5.177%，创下 2007 年 8 月以来的最高水平。 上一次 30 年期美债票息正式发行到 5%，也是 2007 年 8 月。两个月后，贝尔斯登旗下两支对冲基金倒闭，揭开了次贷危机的序幕。这不是说历史一定会押韵，但当全世界最大、最深、被誉为“无风险资产”的市场，把收益率拉回到金融海啸前夕的水平时，你最好搞清楚到底发生了什么。 更要命的是，这次不只是美国。 不是美国一家在涨，是全世界都在抛 如果只是美债收益率上行…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8名网贷设计者，揭秘大厂如何“吃”掉一个普通人 | 原文]]></title>
-        <id>https://t.me/wxbyg/7380</id>
-        <link href="https://t.me/wxbyg/7380"/>
-        <updated>2026-05-20T02:13:23.000Z</updated>
-        <summary type="html"><![CDATA[8名网贷设计者，揭秘大厂如何“吃”掉一个普通人 | 原文
-Telegraph
-8名网贷设计者，揭秘大厂如何“吃”掉一个普通人
-00后李明，是老同学眼中“别人家的孩子”。他在重点大学读着自己梦想的心理学专业，还计划念博士。每次和父母去亲戚家吃饭，亲戚们都会夸他优秀，妈妈嘴上客气地说“哪里哪里”，但他能感受到，妈妈一直为他骄傲。 然而，没人知道，他正背着16万的网贷——债主分别是度小满、美团借钱、某打车平台的滴水贷。 这样的故事在互联网上并不罕见。但我们要说的，并不是一个年轻人沉沦网贷的故事。 李明的手机里，“诱饵”无处不在。从“先用后付”到“默认白条或月付”，再到“优惠券引流”，各大App将网贷入口藏进日常场景里。背后巨头们早已…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国国会通过法案 2030年前拟增360亿欧元国防预算]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075819</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075819"/>
-        <updated>2026-05-20T02:06:41.000Z</updated>
-        <summary type="html"><![CDATA[法国国民议会通过一项法案，计划在2030年前累计增加360亿欧元（约535亿新元）国防预算。
-新华社报道，法国国会星期二（5月19日）通过这项法案，下一步将交由参议院审议表决。
-根据法国2023年颁布的七年预算安排，法国2024年至2030年的国防预算总额为4000亿欧元。
-新法案将这个数额提高到4360亿欧元。其中，2030年国防预算达763亿欧元，比原计划增加89亿欧元，预计届时相当于法国国内生产总值（GDP）的2.5%。
-国防部长沃特兰表明，新的法案旨在回应军队的呼声，以支持国防工业，并为未来战略挑战做准备。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英驻美大使馆副馆长离任 原因不明]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075766</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075766"/>
-        <updated>2026-05-20T01:33:28.000Z</updated>
-        <summary type="html"><![CDATA[英国外交部说，英国驻美国大使馆副馆长罗斯科已离任。
-路透社报道，英国外交部星期三（5月20日）早些时候公布这个消息，但未说明罗斯科（James Roscoe）离任的原因和相关细节。
-罗斯科2022年7月获任英国驻美国大使馆副馆长。原英国驻美大使曼德尔森（Peter Mandelson）去年9月因卷入已故性罪犯爱泼斯坦丑闻而被解职后，罗斯科曾担任英国驻美国临时代办。 
-英国去年12月任命特纳（Christian Turner）为新任驻美国大使。特纳今年2月正式履新。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五角大楼：美军驻欧旅级部队从四个减至三个]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075678</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075678"/>
-        <updated>2026-05-20T01:32:36.000Z</updated>
-        <summary type="html"><![CDATA[美国战争部宣布，将美军驻欧洲旅级部队数量从四个减至三个，规模恢复2021年的水平。
-法新社报道，美国战争部星期二（5月19日）发声明说：“已将派驻欧洲的旅级战斗部队（Brigade Combat Teams）总数从四个减少到三个。” 
-美国国会的报告显示，一个旅级战斗队由4000人至2700人组成。
-特朗普政府正在施压欧洲各国，要求欧洲盟友为自身防务承担更多责任。 
-路透社早些时候引述三名知情人士报道，特朗普政府计划星期五（22日）通知北约盟国，华盛顿会缩减在重大危机中可用于协助北约欧洲成员国的军事能力储备。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年5月推荐]]></title>
         <id>/archives/2026nian-5yue-tui-jian</id>
         <link href="https://haikuoshijie.cn/archives/2026nian-5yue-tui-jian"/>
@@ -582,285 +644,6 @@ Telegraph
         <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 5月20日 Lofi Radio 低保真音乐，有21个电台，被科学家认为是最适合专注工作学习的音乐，开源地址 CoCo聚合下载 5月19日 QuickRight 闪电右键 一个优雅的macOS 上的右键增强工具 otter music</]]></summary>
         <author>
             <name>小棉袄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国将接收治疗一美籍伊波拉患者]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075455</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075455"/>
-        <updated>2026-05-20T01:01:23.000Z</updated>
-        <summary type="html"><![CDATA[德国当局说，应美国请求，一名在刚果（金）感染伊波拉病毒的美国公民，将赴德国首都柏林接受治疗。
-新华社报道，德国卫生部星期二（5月19日）公布这个消息。当局说，这名美籍患者选择在德国接受治疗的原因，包括飞往德国的航程时间较短，以及德国拥有治疗伊波拉病患方面的经验。
-美方会安排专门用于运输高传染性患者的飞机，将这名患者转运至柏林夏里特医学院（Charité）接受治疗。
-德国卫生部也说，这名患者会入住特殊隔离病房，与医院日常运作完全独立，不会对公众安全构成额外风险。
-据德国电视一台报道，这名感染者是美籍医生，在刚果（金）一家医院工作期间感染伊波拉病毒。另六名密接人员也会被送往德国。
-刚果（金）和邻国乌干达近日暴发新一轮伊波拉疫情并持续扩散。刚果（金）星期二说，目前已接到131起可能死于伊波拉病毒的病例，以及513起疑似病例。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗南部霍尔木兹甘省发生4.7级地震]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075635</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075635"/>
-        <updated>2026-05-20T00:47:19.000Z</updated>
-        <summary type="html"><![CDATA[伊朗南部邻近波斯湾的霍尔木兹甘省发生4.7级地震。
-法新社报道，欧洲—地中海地震中心（EMSC）报告，伊朗霍尔木兹甘省星期三（5月20日）发生4.7级地震，震源深度14公里。
-伊朗法尔斯通讯社报道，霍尔木兹甘省格什姆（Qeshm）和霍尔木兹市（Hormoz），以及阿巴斯港（Bandar Abbas）的农村地区均有震感。
-法尔斯通讯社称，这次震中位于拉夫港（Bandar Laf）附近，震源深度20公里。
-霍尔木兹甘省南面濒临波斯湾和阿曼湾，占据石油运输要道霍尔木兹海峡的北岸战略要冲。阿巴斯港则是伊朗最大港口。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民调：特朗普支持率跌近重返白宫以来最低点]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075532</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075532"/>
-        <updated>2026-05-20T00:29:13.000Z</updated>
-        <summary type="html"><![CDATA[最新民调显示，受共和党人认可度下滑影响，美国总统特朗普的支持率快要跌至重返白宫以来的最低点。
-路透社与益普索星期一（5月18日）完成一项为期四天的民调。结果显示，35%的美国民众认可特朗普的工作表现，较本月早些时候下降一个百分点，且仅略高于4月创下的34%任内最低点。
-特朗普2025年1月开始本届总统任期时，支持率为47%。
-自特朗普政府2月底与以色列联手发动伊朗战争以来，美国民众持续受油价飙升冲击，特朗普的支持率因此遭受重创。 
-根据民调结果，62%的共和党人认可特朗普处理伊朗局势的方式，而28%不认可；相比之下，民主党人几乎一面倒持否定态度，三分之二的独立选民也不认同特朗普的做法。
-美国油价在中期选举临近之际猛涨约50%，引发特朗普共和党盟友的担忧。据报道，21%的共和党人不认可特朗普现在的表现；在他去年1月刚上任时，这个比率仅有5%。
-民调也显示，约79%的共和党人认为特朗普表现良好。这个数字同样低于本月早些时候的82%和特朗普上任初期的91%。
-在应对民众生活费压力方面，特朗普的表现令共和党人明显分化：46%认为他的表现不佳，而有47%则表示认可。
-共和党政治策略师霍夫曼（Jeanette Hoffman）指出，特朗普支持率的下滑可能预示着在11月中期选举前，共和党选民的热情正在减退，届时美国国会两院的控制权将面临争夺战。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[导师严格不是问题，冷漠、操控、敌意才是有毒特质｜对话心理学家 | 原文]]></title>
-        <id>https://t.me/wxbyg/7379</id>
-        <link href="https://t.me/wxbyg/7379"/>
-        <updated>2026-05-20T00:16:08.000Z</updated>
-        <summary type="html"><![CDATA[导师严格不是问题，冷漠、操控、敌意才是有毒特质｜对话心理学家 | 原文
-Telegraph
-导师严格不是问题，冷漠、操控、敌意才是有毒特质｜对话心理学家
-文｜《中国科学报》记者 孙滔 为什么有些人一再伤害他人，却依旧顺风顺水、一路走高？ 他们可能是导师、领导、伴侣，甚至是公众眼中的 “优秀者”：外表强势自信、富有魅力，背地里却擅长操控、说谎与情感绑架。他们令身边人陷入压抑与自我内耗，其行为却常常难以被清晰界定。 加拿大不列颠哥伦比亚大学心理学副教授、真相与信任实验室主任利安娜·坦恩·布林克（Leanne ten Brinke）将这类人定义为 “有毒的人”，并在新作《有毒的人》中系统剖析这一人格现象。 近日，利安娜接受《中国科学报》专访。谈及大众困惑的严师…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万斯：美伊谈判取得良好进展 若失败或重启战争]]></title>
-        <id>https://www.zaobao.com/news/world/story20260520-9075435</id>
-        <link href="https://www.zaobao.com/news/world/story20260520-9075435"/>
-        <updated>2026-05-19T23:46:04.000Z</updated>
-        <summary type="html"><![CDATA[美国副总统万斯说，伊朗谈判正在取得良好进展，但如果无法达成协议，美方已做好万全准备重启军事行动。
-法新社报道，万斯星期二（5月19日）在白宫简报会上说，当前美伊谈判取得许多良好进展，会继续努力，“最终要么达成协议，要么无法达成”。
-他强调：“我们目前处于相当有利的地位，但还有B方案，也就是可能重启军事行动。我们已做好万全准备，虽然不希望走上这条路，但如果有必要，总统（特朗普）愿意且有能力这么做。”
-美国总统特朗普早前说，他原本计划星期二对伊朗发动重大打击，但在波斯湾阿拉伯盟友劝说下暂缓袭击。
-万斯曾在4月率领美国代表团赴调解国巴基斯坦参与谈判，但未达成协议。他说，伊朗必须接受不能拥有核武器这个事实。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休斯顿华人店员遭铁锤猛烈敲头、高温热油浇身，惨死厨房内 | 原文]]></title>
-        <id>https://t.me/wxbyg/7378</id>
-        <link href="https://t.me/wxbyg/7378"/>
-        <updated>2026-05-19T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[休斯顿华人店员遭铁锤猛烈敲头、高温热油浇身，惨死厨房内 | 原文
-Telegraph
-休斯顿华人店员遭铁锤猛烈敲头、高温热油浇身，惨死厨房内
-休斯顿近日发生一起可怕的命案，最近更多细节披露。一名在KTV店工作的华人男员工，被发现惨死店内，尸首躺在厨房区域。被害人头部被铁锤猛烈袭击，身上还被泼热油，信用卡、手机都在热油中融化了。现场监控记录嫌疑人作案全过程，手段十分残忍。 据FOX、ABC等多家媒体报导，凶案发生在休斯顿中国城与香港城之间的小西贡（Little Saigon）一家名为好乐迪（Tropical Tea）KTV店内，具体地址位于10515 Bellaire Blvd的Alief购物中心内，现在店面处于永久停业的状态。 警方称，死者为54岁的陈春（Chun…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！Karpathy 加入 Anthropic | 原文]]></title>
-        <id>https://t.me/wxbyg/7377</id>
-        <link href="https://t.me/wxbyg/7377"/>
-        <updated>2026-05-19T17:26:55.000Z</updated>
-        <summary type="html"><![CDATA[突发！Karpathy 加入 Anthropic | 原文
-Telegraph
-突发！Karpathy 加入 Anthropic
-Karpathy 表示： 我加入了 Anthropic。 我认为在大型语言模型前沿的未来几年将尤其具有启发性。我非常兴奋能加入这里的团队，并重新投入到研发工作中。 我仍然对教育充满热情，并计划适时恢复这方面的工作。 这是继各路 CTO 们纷纷投身 A 厂之后，又一位重磅级大佬的加入。 -- 而如果你不知道 Karpathy 是谁，下面是他的介绍： Andrej Karpathy 是斯洛伐克裔加拿大－美国计算机科学家，深度学习领域最具影响力的研究者和教育者之一。 学术上，他本科在多伦多大学跟随 Geoffrey…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位博士生的求助：读博让我崩溃，该如何顺利毕业？ | 原文]]></title>
-        <id>https://t.me/wxbyg/7376</id>
-        <link href="https://t.me/wxbyg/7376"/>
-        <updated>2026-05-19T12:22:12.000Z</updated>
-        <summary type="html"><![CDATA[一位博士生的求助：读博让我崩溃，该如何顺利毕业？ | 原文
-Telegraph
-一位博士生的求助：读博让我崩溃，该如何顺利毕业？
-编译｜田瑞颖 “我连倒垃圾都无法专心。女朋友和朋友都说，我已经没法正常生活了。”这不是夸张，而是一位粒子物理学博士生的真实处境。 他目前在欧洲中部地区某高校读博士三年级，曾经满怀热情，梦想成为教授。在过去的几年里，他把自己逼得很紧，有时每天工作10到11个小时，每周工作5到6天。但倦怠日积月累，直到8个月前，他“终于崩溃了”。 日前，他给《自然》杂志写信求助，表示自己已经决定放弃学术理想、转向业界工作，但博士还有一年才能毕业，他不知道该从哪里找到继续下去的动力。他想问的是，“该如何缓解倦怠情绪，顺利拿到学位？”…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一部潮汕方言电影凭什么狂揽五亿票房 | 原文]]></title>
-        <id>https://t.me/wxbyg/7375</id>
-        <link href="https://t.me/wxbyg/7375"/>
-        <updated>2026-05-19T00:57:28.000Z</updated>
-        <summary type="html"><![CDATA[一部潮汕方言电影凭什么狂揽五亿票房 | 原文
-Telegraph
-一部潮汕方言电影凭什么狂揽五亿票房
-2026年的五一档，原本被视为资本与工业大片厮杀的修罗场，却被一部成本仅1400万、全素人出演的潮汕方言电影《给阿嬷的情书》撕开了一道巨大的口子。从首日排片仅3.6%，到单日票房逆跌破亿，再到如今总票房突破5亿大关、豆瓣评分飙升至9.1分，这部电影完成了一场堪称奇迹的逆袭。 在社交平台上，无数观众化身“自来水”。音乐剧演员@阿云嘎Musical 评价它：“全篇没有刻意催泪，像一封沉静绵长的家书，用最质朴的镜头写尽祖孙深情。”网友@请你吃垃圾 则感叹：“可能有些朋友还不知道9.1分是什么概念。”而女主李思潼更是被@娱乐圈外汉…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲顶级三文鱼产地被污染，深海大肥猪“嗑了药”似的狂游 | 原文]]></title>
-        <id>https://t.me/wxbyg/7374</id>
-        <link href="https://t.me/wxbyg/7374"/>
-        <updated>2026-05-18T17:06:31.000Z</updated>
-        <summary type="html"><![CDATA[欧洲顶级三文鱼产地被污染，深海大肥猪“嗑了药”似的狂游 | 原文
-Telegraph
-欧洲顶级三文鱼产地被污染，深海大肥猪“嗑了药”似的狂游
-伴随收获的喜悦，它们一路游进人类的世界。 文 | 刘瀚琳 出品 | Vista天下知识局 每到春天，大约80名渔民会聚集在韦特恩湖湖边，迎接收获的狂欢。 韦特恩湖是瑞典第二大湖。大多数时候，2000平方公里的湖面平静无风。对当地的专业渔民来说，这里是一片宝藏。 湖里住着全欧洲最好的鲑鱼和鳟鱼，以及其他30多种淡水鱼。每年春、秋季，专业渔民可以从这里累计捕捞大约600吨鱼。这些鱼被打捞上岸后，被输送向世界各地。海鲜爱好者常吃的三文鱼，而三文鱼其实也是鲑鱼的一种。 只不过最近，一项研究报告夺走了渔民的喜悦。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[退学博士要打十个 | 原文]]></title>
-        <id>https://t.me/wxbyg/7373</id>
-        <link href="https://t.me/wxbyg/7373"/>
-        <updated>2026-05-18T14:21:29.000Z</updated>
-        <summary type="html"><![CDATA[退学博士要打十个 | 原文
-Telegraph
-退学博士要打十个
-金庸笔下，很多男主角都是被迫背叛了师门，比如被迫和少林寺划清界限的萧峰；再比如被迫叛出华山派的令狐冲。 自从北航博士退学后，博主耿同学讲故事也变成了学术打假领域的男主角。 今年4月的一天，耿同学在微信群里，看到以前的师兄分享了一篇论文，并评论了一句话： 这篇论文数据有问题。 论文作者是同济大学的特聘教授，生命科学与技术学院院长王平。对耿同学来说，王平是一个有“前科”的人。曾经，饶毅教授质疑过王平导师裴钢的论文，那几篇论文里，王平也是作者之一。 于是，耿同学深入研究了一下这篇发表于《Nature》子刊的论…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年戛纳，台上大骂“Fuck AI” | 原文]]></title>
-        <id>https://t.me/wxbyg/7372</id>
-        <link href="https://t.me/wxbyg/7372"/>
-        <updated>2026-05-18T13:28:52.000Z</updated>
-        <summary type="html"><![CDATA[今年戛纳，台上大骂“Fuck AI” | 原文
-Telegraph
-今年戛纳，台上大骂“Fuck AI”
-这届戛纳对 AI 的态度，是一句脏话，外加一张支票。 如果说今年第 79 届戛纳国际电影节中最经典的一幕，不在红毯上女明星摇晃裙摆，而在开幕式前夕的德彪西厅里。 那天晚上刚放映完《潘神的迷宫》二十周年 4K 修复版，全场灯光亮起。大导演吉尔莫·德尔·托罗走到台前。这位拍出过《水形物语》、拿过奥斯卡最佳导演的墨西哥老哥，连个铺垫都没给，直接对着麦克风甩出一句，“Fuck AI.” 图源：Deadline 台下先是愣了一秒，随后爆发出笑声和掌声。而站在一旁的戛纳电影节艺术总监福茂，当场把这句话拔高到了官方立…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消失的“龙虾”热：OpenClaw 访问量腰斩，QClaw 暴跌99% | 原文]]></title>
-        <id>https://t.me/wxbyg/7371</id>
-        <link href="https://t.me/wxbyg/7371"/>
-        <updated>2026-05-18T12:27:26.000Z</updated>
-        <summary type="html"><![CDATA[消失的“龙虾”热：OpenClaw 访问量腰斩，QClaw 暴跌99% | 原文
-Telegraph
-消失的“龙虾”热：OpenClaw 访问量腰斩，QClaw 暴跌99%
-作者｜子墨 今年3 月，OpenClaw 在 AI 圈迅速走红，火到什么程度呢？ 3 月 3 日，OpenClaw 在 GitHub上总 Star 数突破25 万，成功超越React，成为 GitHub 史上增长最快的开源项目。要知道，这一数字是React 经历了 10 多年时间积累才达到的，而 OpenClaw 仅用不到60 天就完成了超越。据华鑫证券援引OpenRouter 数据显示，截至 3 月 15 日，OpenClaw 当月累计调用量已达到10.4T Tokens，成为全球Token 调用量最高的…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海交大学生樊某靠豆包伪造收据、瞒骗竞赛奖金，遭校方通报严肃处理 | 原文]]></title>
-        <id>https://t.me/wxbyg/7370</id>
-        <link href="https://t.me/wxbyg/7370"/>
-        <updated>2026-05-18T12:15:23.000Z</updated>
-        <summary type="html"><![CDATA[上海交大学生樊某靠豆包伪造收据、瞒骗竞赛奖金，遭校方通报严肃处理 | 原文
-Telegraph
-上海交大学生樊某靠豆包伪造收据、瞒骗竞赛奖金，遭校方通报严肃处理
-5月18日，上海交通大学国家电投智慧能源创新学院发布情况通报，全文如下： 近日，有同学反映我院一名学生在相关竞赛的奖金分配中存在不当行为。学校、学院高度重视，成立专项工作组启动核查工作，现将有关情况通报如下： 经核查，我院樊同学与他人合作参加首届全国“AI+能源”大学生科技创新竞赛并获奖，在竞赛奖金分配中存在伪造收款记录、瞒骗奖金金额等不诚信行为。 经研究决定，给予樊同学严重警告处分，调整出入党积极分子队伍，终止其“荣昶储才计划”学员资格，取消其校内转专业拟录取资格。其本人已主动退出相关暑期学校。 学校…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「沃什时代」美联储的猜疑困局(2) | 原文]]></title>
-        <id>https://t.me/wxbyg/7369</id>
-        <link href="https://t.me/wxbyg/7369"/>
-        <updated>2026-05-18T12:02:14.000Z</updated>
-        <summary type="html"><![CDATA[「沃什时代」美联储的猜疑困局(2) | 原文
-Telegraph
-「沃什时代」美联储的猜疑困局
-同样，点阵图的问题不在于点位不准确，是它制造了一个虚假的确定性锚点。市场参与者明知中位数预测经常是错的，但仍然把它当作美联储的承诺来交易，导致每次点阵图修正都引发不必要的波动。 沃什的思路恰恰相反。他要的不是更透明的区间，而是更少的沟通——废除点阵图、减少讲话、让美联储进入黑盒时代。 沃什假设如果不说话，市场就会自己理性地找到均衡。但问题是，市场不会因为美联储沉默就停止博弈，它只是会把参照系从点阵图换成别的什么东西——可能是截尾均值的微小波动，可能是某次闭门讲话泄露出来的只言片语。这些参照系比点阵图更不可靠，也更容易被误读。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「沃什时代」美联储的猜疑困局(1) | 原文]]></title>
-        <id>https://t.me/wxbyg/7368</id>
-        <link href="https://t.me/wxbyg/7368"/>
-        <updated>2026-05-18T12:02:13.000Z</updated>
-        <summary type="html"><![CDATA[「沃什时代」美联储的猜疑困局(1) | 原文
-Telegraph
-「沃什时代」美联储的猜疑困局
-2026年5月，华尔街被一个悖论困住了。美债收益率在飙，十年期破了4.5%，三十年期站上了5%。按照经典的贴现模型，这对科技股应该是沉重的压力。但纳斯达克没有崩，它在涨，一度创下历史新高。传统派说这是泡沫最后的疯狂，美联储会出手戳破它；数据派说通胀顽固，higher for longer是唯一出路；还有人跳出来说，锚早就换了，现在是人民币说了算。 每一种声音都逻辑完备，每一种判断都有数据撑腰，但它们指向的方向截然相反。该信谁？但我更想问的是另一个问题：为什么每次市场走到不可解释的地步，所有人都会不约而同…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波托马克河畔的尼禄，椭圆办公室里的川普 | 原文]]></title>
-        <id>https://t.me/wxbyg/7367</id>
-        <link href="https://t.me/wxbyg/7367"/>
-        <updated>2026-05-18T03:09:58.000Z</updated>
-        <summary type="html"><![CDATA[波托马克河畔的尼禄，椭圆办公室里的川普 | 原文
-Telegraph
-波托马克河畔的尼禄，椭圆办公室里的川普
-——那个脑袋又秃又硬、把半辈子都耗在共和党机器里的老牌操盘手斯蒂夫·施密特（Steve Schmidt）——当过小布什时代切尼的顾问，也做过施瓦辛格的竞选经理——今年在自己的播客里，忽然整出了一个相当毒的词： “波托马克河上的尼禄（Nero on the Potomac）”。 这名字妙就妙在，你甚至不需要解释。只要听见“波托马克河”，脑子里立刻就是华盛顿——波托马克河离白宫就隔着几步路；而一旦“尼禄”被塞进去，整幅画面便自动浮现：一个沉迷掌声、热衷金碧辉煌、喜欢把自己名字刻满帝国表面的统治者，正站在共和国废墟边缘，陶醉于自己的倒影。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通人锻炼前额叶最强的方式，两个字（建议收藏） | 原文]]></title>
-        <id>https://t.me/wxbyg/7366</id>
-        <link href="https://t.me/wxbyg/7366"/>
-        <updated>2026-05-18T02:17:14.000Z</updated>
-        <summary type="html"><![CDATA[普通人锻炼前额叶最强的方式，两个字（建议收藏） | 原文
-Telegraph
-普通人锻炼前额叶最强的方式，两个字（建议收藏）
-从今天开始，每天找一个 200-500 字的文段看一看，看完后合上，用自己的话把文段内容说出来，不出一个月，你会发现自己的逻辑能力、应变能力、表达能力、抗压能力等等，都会有质的飞跃。 这个训练，叫做「复述」。 为什么它效果这么好？ 复述里藏着学习的三个过程： 选择、组织、整合 教育心理学家理查德·迈耶曾提出，真正的学习包含三个过程：选择、组织、整合[1]。 这三个过程完美地存在于「复述」中。当你复述时，你无法简单地复刻原文词汇。你必须先在脑中把信息拆解，这便是选择和组织；然后寻找已有的知识储备来重新解释它，这便是整合。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家书店就要消失，这不是再正常不过的事吗？ | 谷雨 | 原文]]></title>
-        <id>https://t.me/wxbyg/7365</id>
-        <link href="https://t.me/wxbyg/7365"/>
-        <updated>2026-05-18T01:33:28.000Z</updated>
-        <summary type="html"><![CDATA[一家书店就要消失，这不是再正常不过的事吗？ | 谷雨 | 原文
-Telegraph
-一家书店就要消失，这不是再正常不过的事吗？ | 谷雨
-今天，北京豆瓣书店正式闭店了。在一个一切都在加速的时代，这家小小的独立书店，拒绝教辅、拒绝咖啡、拒绝直播，也拒绝搬进购物中心，只卖人文社科的滞销书和二手书——这样还能熬过二十年，已经称得上是一个不小的意外。许多人喜欢它，许多人推崇它，但毋庸讳言，还有多的多的人对它，或者说一切书店都既不在意，也不关心，这无关对错，只是这才是生活的常态。 但我们依然愿意纪念它。如果说一本书代表着一种可能性，那么书店，就是可能性的集合。在过去的二十年，在一片狭小的空间内，对于许多的读书人和买书人，豆瓣书店的意义正在于此。“当…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🖼 让claude评价他老板Amodei😌]]></title>
-        <id>https://t.me/wxbyg/7363</id>
-        <link href="https://t.me/wxbyg/7363"/>
-        <updated>2026-05-17T22:05:11.000Z</updated>
-        <summary type="html"><![CDATA[让claude评价他老板Amodei😌]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[横店短剧大撤退：停工、降薪，与被挤掉的饭碗 | 原文]]></title>
-        <id>https://t.me/wxbyg/7362</id>
-        <link href="https://t.me/wxbyg/7362"/>
-        <updated>2026-05-17T17:25:46.000Z</updated>
-        <summary type="html"><![CDATA[横店短剧大撤退：停工、降薪，与被挤掉的饭碗 | 原文
-Telegraph
-横店短剧大撤退：停工、降薪，与被挤掉的饭碗
-钱从何来呢？ 文｜杨小彤 编辑｜薇薇子 来源｜后浪研究所（ID：youth36kr） 封面来源｜《影后》剧照 横店冷清了 没活了。 复工一个多月，短剧导演李韵铭的通告单还是一片空白。倒是也有些项目找他，但都在压价，要求4天拍3部剧，每部30集，给导演的日薪却在1500-2000元左右。要求高了，价格却大幅降低，李韵铭担心工作难度加大，且工作时长不可控，一个没敢接，全推了。 直到3月初，一个曾经合作过的团队找到李韵铭，预算也吃紧，但看在是老家的项目，加上过往的交情，李韵铭主动把报价降了20%，拿下了这单。…]]></summary>
-        <author>
-            <name>微信搬运工 - Telegram Channel</name>
         </author>
     </entry>
     <entry>

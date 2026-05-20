@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basicsix.github.io/multirss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T09:40:53.462Z</updated>
+    <updated>2026-05-20T15:30:37.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://basicsix.github.io/multirss/index.html"/>
     <link rel="self" href="https://basicsix.github.io/multirss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google I/O “掀桌子”了！重磅发布 Gemini 3.5 Flash、Gemini Omni 模型！附最新免费用法｜零度解说]]></title>
+        <id>https://www.youtube.com/watch?v=rn--5FXObX4</id>
+        <link href="https://www.youtube.com/watch?v=rn--5FXObX4"/>
+        <updated>2026-05-20T12:46:34.000Z</updated>
+        <author>
+            <name>零度解说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【AI编程】何须苦敲代码？新手亦能10分钟搞定Claude Code进阶 | Master Claude Code Advanced Skills in 10Mins🚀]]></title>
         <id>https://www.youtube.com/watch?v=epnFp984ndU</id>
@@ -270,15 +279,6 @@
         <updated>2026-04-22T06:01:15.000Z</updated>
         <author>
             <name>七七行銷筆記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻舟VPN不限流量！实测速度有多快？附免费激活码（限量领取）支持全平台！【非翻墙工具】| 零度解说]]></title>
-        <id>https://www.youtube.com/watch?v=GGRBB716bP4</id>
-        <link href="https://www.youtube.com/watch?v=GGRBB716bP4"/>
-        <updated>2026-04-20T12:30:20.000Z</updated>
-        <author>
-            <name>零度解说</name>
         </author>
     </entry>
     <entry>
